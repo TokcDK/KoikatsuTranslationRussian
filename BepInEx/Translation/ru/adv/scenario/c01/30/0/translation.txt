@@ -1,0 +1,8 @@
+「ごめん、ちょっといいかな」=I'm sorry. Can I talk to you for a second?
+「えっ？　あら、あなたは確か転入生の。私になにかご用ですか？」=What?　Oh, you're the new student, I think. You wanted to see me?
+「うん。[P名前]っていうんだけど、もしよかったら少し話ができればと思って」=Yeah. My name is [P name], and I was wondering if I could talk to you for a minute.
+「あなたと……ですか？　ええ、よろしいですよ」=Are you and ...?　Yes, that's fine.
+「本当？　良かったぁ、断られなくて」=Really?　I'm glad you didn't say no.
+「ふふっ。女の子ばかりの学園へ転入されて、ご苦労も多いと思います。困り事があったらぜひ相談してください」=Hmm. I'm sure you're going to have a lot of trouble moving to an all-girls school. If you have any problems, please do not hesitate to ask for help.
+「ありがとう。その時はよろしくね。それじゃあ、えーっと……」=Thank you. Thank you. Well then, let's see...
+（優しそうな子だなぁ。どんな話をしてみよう）=(She seems like a kind girl. What should I talk to her about?

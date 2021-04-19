@@ -1,0 +1,16 @@
+「うぅん、顔が自然に緩んでくるな……すまん、少し浮かれているようだ」=Hmm, your face is naturally relaxed... Sorry, I'm a little carried away.
+「謝る事ないよ。[H名]のそういう顔見られるのは貴重だからね」=No need to apologize. Don't apologize. It's rare to see [H名] like that.
+「こら、からかう暇があるなら……手くらい繋いだらどうだ？　折角のデート……なのだぞ」=Hey, if you're going to make fun of me, why don't you at least ... hold my hand?　It's a date ...
+「フッ、自分から言った事だが、本当にずっと手を繋いでいたな」=Huh, I know I said it, but you really did hold hands the whole time.
+「あぁ、ごめん。その、離したくなくて……色々やり辛かったよね？」=Oh, I'm sorry. I mean, I didn't want to let go. It was ... hard to do, wasn't it?
+「そんな事は気にするな。面倒な事も含めて楽しむのが、付き合うという事だろう？」=Don't worry about it. Don't worry about it. It's part of being in a relationship, isn't it?
+「そうだね。そう言ってもらえると、すっごく嬉しいよ」=That's right. I'm so glad you said that.
+「ここまで来たら、最後の最後まで離すなよ？　ど、どうしてもという時もあると思うが……何とかしろ」=When you get to this point, don't let go until the very end, okay?　I know there are times when you have to, but you have to ... do something.
+「そ、それは……嬉しいような……やり過ぎなような……ははは」=Well, that's both ... flattering and ... overkill ... haha.
+「よし、最後まで手を繋いでいれたな。名残惜しいが……そろそろ離すか？」=Okay, we can hold hands until the end. Now that we've held hands until the end, shall we ... let go?
+「もう少しだけ、繋がっていたいな……」=I'd like to hold on a little longer...
+「フフッ、意見が合ったな。いいだろう……もう少しだけだぞ？」=We're on the same page. All right... just a little while longer, okay?
+「うん、俺も寂しいけど……ここまでかな」=Yeah, I'm gonna miss you too, but ... I think that's it.
+「あぁ……では離すぞ？　フッ、お互いの汗でびっしょりだな」=Yeah, I'll miss you too, but I think ... that's it.　Huh, we're both drenched in sweat.
+CHOICE:「もう少しだけ、繋がっていたいな……」="I'd like to stay connected for a little while longer...
+CHOICE:「うん、俺も寂しいけど……ここまでかな」="Yeah, I miss you too, but I think ... that's it.

@@ -1,0 +1,7 @@
+「あ～……ここでお別れか、まぁ仕方ないよな……」=Oh... so this is where we say goodbye. Well, I guess it's ...
+CHOICE:「俺の家に来ないか？」="Why don't you come to my house?
+CHOICE:「またすぐに会えるさ」="I'll see you soon.
+「寂しいなら俺の家に来ないか？」=If you're lonely, why don't you come over to my place?
+「え？　……ば、バカ！　別に寂しくなんかない、けど……来てもいいってなら、行こうかな、へへっ」=What?　... You idiot!　I don't miss you, but if you're willing to ... come, I'll come.
+「またすぐに会えるさ、そんな寂しそうな顔するなよ」=I'll see you soon. Don't look so sad.
+「そ、そんな顔してねぇし！　じ、じゃあまたな！」=No, I don't!　See you later!

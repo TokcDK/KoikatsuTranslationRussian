@@ -1,0 +1,7 @@
+「ここでお別れですね」=So this is where we say goodbye.
+CHOICE:「そうだ。よかったら俺の家に来ない？」="Yeah. Would you like to come over to my place?
+CHOICE:「うん。それじゃあね」="Yeah. See you then.
+「そうだ。よかったら俺の家に来ない？　もう少し話していたいんだ」=Yeah. You can come over to my place if you want.　I'd like to talk some more.
+「そう……ですね。ではお言葉に甘えるとします。実は私も、このままお別れは寂しいと思っていたので」=Yes... I'll take your word for it. Actually, I thought it would be sad to say goodbye too.
+「うん。それじゃあね。また学園で」=Yeah. See you later. See you at school.
+「ええ、また」=Yeah, see you.

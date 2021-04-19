@@ -1,0 +1,14 @@
+「あら、もうこんな時間になってるなんて。もうすぐ終了時刻よ。どうする？」=Oh, I can't believe it's already this late. It's almost the end of the day. What do we do now?
+「もっと[H名]と歌いたい！　延長希望！」=I want to sing more with [H名]!　I want an extension!
+「そうね、丁度ノってきたところだし。アナタがその気なら、私は付き合うわよ。延長の電話、入れておくわね」=Well, I'm just getting into it. Well, I'm just getting into it, and if you're up for it, I'm up for it. I'll put in a call for an extension.
+「ありがとう。ここからが本番だから、二人で歌いまくろう！」=Thank you. I'll call you for an extension. - Thank you. This is where it all starts. We're going to sing our hearts out!
+「うーん、延長代も馬鹿にならないし。今日は素直に帰ろうか」=Hmmm, the extra time is going to cost a fortune. I think I'll just go home for the night.
+「賛成ね。延長代を払うくらいなら、もう一度来た方がお得だもの」=I agree. I agree. It's better to come back again than to pay for an extra night.
+「だよね。また近いうちに来ればいいだし。それじゃあ、出よっか」=That's right. We'll just have to come back soon. Let's leave then.
+「だよね。また近いうちに来ればいいだし。次の曲を一緒に歌って終わりにしようか」=Right. We'll just come back soon. Let's sing the next song together and be done with it.
+「フフッ、デュエットで締めるのね。曲は私が選んでいいかしら？」=We'll end with a duet. Would you like me to choose the song?
+「もちろん！」=Yes!
+『果てしない空の下 どこかにきっとあるんだ♪』=Under the endless sky, somewhere there must be...
+（ふふ、楽しそうに歌ってるなぁ……俺も負けてられないぞ！）=(Hmm, you look like you're having fun singing... I can't lose, too!
+CHOICE:『延長を希望します！』="I'd like an extension!
+CHOICE:『今日は帰ろうか』="Let's go home for the day.

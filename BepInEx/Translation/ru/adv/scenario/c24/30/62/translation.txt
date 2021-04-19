@@ -1,0 +1,7 @@
+「本当はまだ一緒にいたいんですけど、あまり遅くまでいても迷惑ですよね？」=I really want to stay with you, but I don't want to bother you if I stay too late, do I?
+CHOICE:「そんなことないよ」="No, you won't.
+CHOICE:「家族も心配しちゃうよ」="My family will be worried about you.
+「そんなことないよ。[H]さえよければ、家に来ない？」=I don't think so. If you don't mind, why don't you come to my house?
+「あははっ、すごく言ってそう！」=Hahaha, you're saying a lot!
+「家族も心配しちゃうよ。また誘うから」=My family will be worried. I'll ask them out again.
+「気を遣ってくれてありがとうございます♡　では、また学園で会いましょうね♡」="Thank you for thinking of me ♡ Then I'll see you at school again ♡

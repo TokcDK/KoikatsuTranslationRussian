@@ -1,0 +1,14 @@
+「今日はいつもより緊張してないぞ！　ハハハ」=I'm not as nervous as usual today!　Ha-ha-ha.
+「うん。俺もリラックスしてるよ。それじゃ、行こうか」=Yeah. I'm relaxed, too. Okay, let's go.
+「なぁなぁ、私の今日の服……どうだ、いい感じだろ？」=Hey, hey, what do you think of my ... outfit today, huh?
+「……ああ、可愛いよ」=... Oh, it's cute.
+「お……おう、ありがとな。ってそんな本気の顔で答えるなよな！」=Oh ... thank you. Don't answer with a serious face like that!
+「思ったことを言っただけだよ」=I'm just saying what I think.
+「わ、わかったから、そんな真面目な顔するなよ。ああもう、顔が熱い～……」=I'm just saying what I think. - Okay, okay, don't look so serious. Oh my God, my face is so hot...
+「うん。今日も楽しかった！　毎日でもいいくらいだ」=Yeah. I had fun today too!　I could do this every day.
+「[H]、この後、俺の部屋にこない？　もう少し一緒にいたいんだ」=[H], do you want to come to my room after this?　I want to spend some more time with you.
+「え？　……良いよ！　ちょうど私もそう思ってたんだよね！」=What?　... is good!　I was just thinking the same thing!
+「俺も楽しかったよ。じゃあまた」=I had a good time, too. See you later.
+「オーケー！　またな！」=Okay!　See you later!
+CHOICE:「この後、俺の部屋にこない？」="Do you want to come to my room afterwards?
+CHOICE:「俺も楽しかったよ。じゃあまた」="I had fun, too. See you.

@@ -1,0 +1,9 @@
+「いつの間にか景色がオレンジに染まってる……もう、物語みたいなデートにも終わりが近づいてるのね」=Before I know it, the scenery is turning orange... Already, our storybook date is coming to an end.
+「それじゃあ締めくくりに、観覧車に乗ろうか」=So let's finish it off with a ride on the Ferris wheel.
+「デートの最後に観覧車……なんだかロマンチックな感じだわ」=A Ferris wheel at the end of a date... It's kind of romantic.
+「そうだね……日が落ちきる前に、今日は帰ろうか」=Yeah... Let's get out of here before the sun goes down.
+「ええ。[P名]君は遊び疲れちゃった？」=Yeah. Are you tired of playing?
+「うーん、さすがにちょっと疲れたかな。でも[H名]はまだ元気そうだね？」=Hmm, I'm a little tired indeed. But [name] still looks good, doesn't he?
+「そんなことないよ。ただ、ずっと[P名]君といてドキドキしてたから、それで元気な風に見えてるだけなのかも」=No, not at all. No, it's just that I've been with [P name] for a long time and I've been nervous, so maybe that's why I look healthy.
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

@@ -1,0 +1,17 @@
+「もうすぐ時間かあ、結構歌ったなあ」=It's almost time. We've sung a lot.
+「そうですね。延長、どうしましょう？」=That's right. How about an extension?
+「折角だししようか。歌い足りないや」=Let's do it. I haven't sung enough.
+「私もまだ物足りないので、いいですよ」=I'm not done yet, either.
+「じゃあ電話入れるね。ちょっとまってて」=I'll call you back. Wait here.
+「いや、キリもいいし帰ろっか」=No, we're almost done. Let's go home.
+「そうですね、わかりました」=Yeah, sure. Okay.
+「また[H名]の歌声が聞きたくなったら行こっかな」=I'll come back when I want to hear you sing.
+「は、恥ずかしいので、その時は[P名]さんも一緒に歌ってくださいね」=Well, I'm embarrassed, so you'll have to sing with me then.
+「うーん、延長はいいかな。この時間いっぱいまで歌ったら帰ろうか」=Hmmm, I don't think I'll need an extension. I'll sing until the end of the hour and then I'll go home.
+「わかりました。あと一曲くらいは歌えそうですね」=All right. I think I can sing at least one more song.
+「[H名]が入れていいよ。[H名]の素敵な歌声聞いてたいし」=[H名] can come in. I want to hear your beautiful voice.
+「そ、そう言われると恥ずかしいですけど……じゃあ、この曲を」=Well, I'm embarrassed to hear you say that, but ... let's try this song.
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+（ん～、元気がもらえるいい歌声だなぁ）=I'm embarrassed to say so, but I'll play this song.
+CHOICE:『もうちょっと歌おうよ』="Let's sing some more.
+CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.

@@ -1,0 +1,14 @@
+「大分混雑してきたな、もう少しこっちに寄っていいぞ」=It's getting pretty crowded in here. You can come a little closer.
+「ありがと、じゃあちゃっとだけ……って、おわっ！？」=Thanks, I'll just take a quick look at ... Oh, no!
+（うわ、色々当たっちゃってる……やばっ）=Wow, I'm getting hit with a lot of ... things.
+（でも、すごく気持ちいい……しばらく、このままでも…………はっ！　ナニを考えてるんだ、俺は！）=(But it feels so good ... that I can keep going like this for a while ... Ha!　What the hell am I thinking?
+「ご、ごめん。押されちゃって、今離れるから……」=I'm sorry, I'm sorry. I got pushed. I'm leaving now...
+「待て、離れるな。密着していた方が好都合だ」=Wait, don't leave. It's better if we stay close.
+「好都合って、どういう事？　……くぁっ、[H名]！？　ちょ、そこはっ……」=What do you mean, "more convenient"?　What do you mean it's convenient? ... Oh, [H名]!　No, not there...
+「んふっ、こんなになったモノを大きくして、誘っているのだろう？　仕方のない奴だ」=I'm not sure what you mean by that.　You can't help it.
+「ち、違うよ……誘ってなんてそんな……あぁっ、[H名]、本当にマズイって……」=No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+「ご、ごめん、押されちゃって！　すぐ離れるよ！」=I'm sorry, I got pushed!　I'll be out in a minute!
+（ふぅ……ちょうど、少し避けれるスペースができてよかった……）=I'll be out of your hair in a minute!" (...I'm just glad I had some space to avoid her...)
+（あのまま密着してたら、間違いなく勃起してたな……危ないところだった……）=(If I had stayed in close contact with her, I would have definitely gotten a boner... That was a close one...)
+CHOICE:『少し感触を味わってから離れる』="Savor the feeling a bit and then leave.
+CHOICE:『すぐさま離れる』="Leave immediately.

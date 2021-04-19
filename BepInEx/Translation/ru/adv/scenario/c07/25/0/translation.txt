@@ -1,0 +1,6 @@
+「あ、君、ちょっと話良いかな？」=Can I have a word with you?
+「お？　お前ってひょっとしてあの噂の男の子？」=Oh?　Are you by any chance the boy I've heard so much about?
+「俺は[P名前]。よろしくね。なんか聞いてた？」=I'm [P name]. Nice to meet you. Have you heard anything?
+「クラスの女子たち、お前の話でもちきりだよ」=All the girls in my class are talking about you.
+「俺の話って…ど、どんなのだった？」=What did they say about me?
+「少なくとも悪口じゃ～なかったよ。んで、話って何？」=At least it wasn't bad language. Well, what was it about?

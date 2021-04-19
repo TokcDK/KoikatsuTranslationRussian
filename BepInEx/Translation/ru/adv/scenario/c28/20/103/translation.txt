@@ -1,0 +1,15 @@
+「夕日が綺麗じゃのう。時間が経つのはあっというまじゃ」=The sunset is beautiful. Time flies.
+「まだ時間があるなら、もう少しだけここで一緒に過ごさない？」=If you still have time, why don't you stay here with us for a little while longer?
+「時間なら問題ない。わしもまだお主といたいと思っておったのじゃ……」=Time is no problem. I was hoping to spend some time with you, too...
+「よかった。それなら[H名]に見せたいものがあるんだ」=Good. In that case, I want to show [H名] something.
+「見せたいもの？　なんじゃ？」=Something you want to show me?　What is it?
+「いいから、俺に付いて来て」=Just follow me.
+「だね……これ以上暗くなる前に今日は帰ろうか」=Yeah... Let's get out of here before it gets any darker.
+「そうじゃな……なんだか名残惜しい気もするがのう……」=Well... I'm afraid I'm going to miss you...
+「俺もだよ……」=Me too...
+「今日は終わっちゃうけど、必ずまた一緒にこの公園に遊びに来よう」=We'll finish today, but we'll definitely come back to this park together.
+「……絶対に約束じゃぞ」=... promise you will.
+「うん。約束」=Yes. I promise.
+「それじゃあ、帰ろっか」=Well, let's go home.
+CHOICE:『もう少し一緒にここで過ごさない？』="Would you like to stay here with me a little longer?
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

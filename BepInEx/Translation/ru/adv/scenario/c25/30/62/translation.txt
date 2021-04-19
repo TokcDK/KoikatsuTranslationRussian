@@ -1,0 +1,7 @@
+「楽しかったね～。そろそろ解散かな～」="It was fun. I think it's time to break up.
+CHOICE:「よかったら、家に寄ってかない？」="Would you like to come by my house?
+CHOICE:「そうだね。それじゃあ、また」="Sure. See you later.
+「えっと、よかったら家に寄ってかない？」=Well, why don't you drop by my place?
+「ん～、じゃあもうちょっと話そうか～」=Hmm, let's talk some more.
+「そうだね。それじゃあ、また」=Yeah, sure. See you later.
+「お疲れだよ～、またね～」=I'm tired. I'll see you later.

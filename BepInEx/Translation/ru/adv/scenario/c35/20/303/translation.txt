@@ -1,0 +1,15 @@
+「あっ、もうこげな時間……思いきって声出しとったら、時間のことすっかり忘れとったよー」=Oh, it's already this time ... I was shouting so hard, I forgot all about the time...
+「俺もだよ。でも……何だかもう少し歌いたい気分だな。もし良かったら延長しない？」=Me too. "Me too, but ... I feel like singing some more. Would you like to extend the time?
+「うんっ！　えへへ、実は私もそうしたいって思っとったん。まだまだ君と盛り上がりたいん」=Yes!　Actually, I wanted to do that too. I want to have more fun with you.
+「うん、延長戦もばんばん盛り上げるよ！　それじゃ、受付に電話するね！」=Yeah, I'm sure we'll have a lot of fun in the extra session!　I'll call the receptionist then!
+「あ、本当だ、もう時間いっぱいだね。それじゃ……そろそろ出ようか」=I'll call the receptionist. Oh, that's right, we're running out of time. Let's go to ... and get out of here.
+「うん、なんか弾けたーって感じ！　これでまた明日からも頑張れそうなん！」=Yeah, I feel like I'm bursting!　I feel like I've been bounced! I'll be able to work harder tomorrow!
+「うん、たまにはこういうのも必要だよね！」=Yeah, we need something like this once in a while.
+「俺もだよ。残り時間的に歌えるのは……あと一曲くらいかな？　それ歌ったら出よっか」=Me too. I think I can only sing one more song at ... in the time remaining.　Shall we leave after that?
+「最後だし[H名]のかわいい歌声が聴きたいな」=Since it's the last song, I want to hear [H名] sing something cute.
+「えへへ、照れること言わんでよー、恥ずかしくなるやん♪　えっと……何かリクエストはあるとかいな？」=Heh, don't be shy, it makes me embarrassed... Do you have any requests?
+「じゃあ……この曲をお願い！」=Well... please play this song!
+「果てしない空の下　どこかにきっとあるんだ♪」=Somewhere under the endless sky, there must be...
+（やっぱ[H]の歌は聴いて元気がでるなぁ）=(H's songs are so energizing to listen to.)
+CHOICE:『良かったら延長しない？』="Would you like to extend the time?
+CHOICE:『そろそろ出ようか』="Let's get out of here.

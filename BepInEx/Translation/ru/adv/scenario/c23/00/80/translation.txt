@@ -1,0 +1,4 @@
+「あなたって火属性と水属性では、どちらが好み？」=What do you prefer, fire or water?
+「よくわからないけど、水属性にしとこうかな？」=I'm not sure, but I think I'll go with water.
+「なるほど、では今日はお味噌汁を頼もう」=Okay, I'll have the miso soup today.
+（……火属性だと何だったのかな？）=(... What was the fire attribute?)

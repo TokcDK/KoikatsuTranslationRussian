@@ -1,0 +1,14 @@
+「ねえ、私に愛称付けて～！」=Hey, give me a nickname!
+「急にどうしたの？」=What's going on?
+「友達がね、愛称を付け合ったらもっと仲良くなれるって言ってたの！」=My friend said we could get to know each other better if we had a nickname!
+「私はもう考えてあるから、あなたにも考えてほしいんだ～」=I've already thought of one, and I want you to think of one too.
+「確かに愛称があるのはいいかもね、よし考えてみるよ」=I've already thought about it and I want you to think about it too. - Sure, a nickname would be nice.
+「やったー。えへへ、どんなの付けてくれるか楽しみ～」=Yay. I'll think about it. - Yay, I can't wait to see what you come up with!
+「……よし、出来たよ。じゃあ、呼び合ってみようか」=I'll think about it. Now let's call each other.
+「うん！　えへへ……ねぇ、[Pあだ名]」=Yes!　... Hey, [Pあだ名]
+「ん……[Hあだ名]」=...[Hあだ名]
+「……ちょっとだけ恥ずかしいけど、すごく幸せな感じかも」=I'm a little embarrassed about ... but I feel really happy.
+「ねぇ……また呼んでみてもいいかな？」=Hey... do you mind if I try calling you again?
+「もちろん！　というか普段から呼んでくれてもいいんだよ」=Sure!　I mean, you can call me that on a regular basis if you want.
+「たまに呼ぶからこそ特別感があっていいんだ、って友達が言ってたから、時々でいいの」=My friend told me that it's better to call her once in a while to make her feel special, so sometimes is fine.
+「そ、そう？　んー、確かに一理あるかもしれないな……」=Oh, really?　Hmm, you might have a point...

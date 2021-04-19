@@ -1,0 +1,14 @@
+「そろそろ刻限が近づいてきましたね」=It's getting close to time.
+「[H名]、時間ある？　出来れば、延長したいんだけど……」=[H名], do you have time?　I'd like to extend my stay if I can...
+「はい。私も喉の調子が整ってきたところでしたから、よろしくお願いします」=Yes. I'm just starting to get my throat in order.
+「ありがとう！　じゃあ、延長の電話しちゃうね」=Thank you!　I'll call you for an extension.
+「そうだね、そろそろ帰る準備しようか」=Right, let's get ready to go home.
+「はい。とても楽しいお時間でした……あなたさえよろしければ、また連れてきてくださいますか？」=Yes. I had a great time... If it's all right with you, will you bring me back?
+「もちろん。また[H名]の綺麗な歌声を聞かせてほしいな……っと、会計済ましちゃおうか」=Of course. I'd like to hear [H名]'s beautiful voice again... Let's pay the bill, shall we?
+「最後に一曲歌ったら帰ろうか。[H名]が入れていいよ」=Let's sing one last song and then go home. Let's sing one last song and then we can go.
+「よろしいんですか？　ではお言葉に甘えてあの曲を……」=Are you sure?　Then I'll take you up on your offer and play that song at ...
+（お、『青空アドベンチャー』だ。初めの方に覚えた曲みたいだし、お気に入りなんだろうな）=(Oh, it's "Blue Sky Adventure". (Oh, it's "Blue Sky Adventure." Looks like she learned it at the beginning, so it must be her favorite.)
+『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+「いぇいぇい！」=Yay!
+CHOICE:『延長する』="I'll extend it.
+CHOICE:『延長しない』="I'll extend." CHOICE: "I won't extend.

@@ -1,0 +1,7 @@
+「Оｈ……ココでＢｙｅｂｙｅダネ」=Byebye here at ...
+「……この後、家にこれないかな？　まだ[H]といたいんだ」=I'm sorry, but that's all for today... Can you come home after this?　I still want to be with [H].
+「！……ウン、ワタシも♡　アノネ、本当は、トモダチの家、ｓｔａｙする言って来たカラ……ダカラ……イロイロ、大丈夫♡」="I still want to be with you. I want to be with you still." "Oh... here byebye!" "I want to be with you, too." "Anone, I really want to stay at my friend's house.
+「そうだね、話の続きはまた今度だね。ばいばい」=I'll see you next time for the rest of the story. Bye.
+「ＯＫ♡　風邪、気を付けてネ、マタ会うの、楽しみダカラ♡」=OK♡ Take care of your cold, I'm looking forward to meeting you.
+CHOICE:「……この後、家にこれないかな？」="... Can you come to my house after this?
+CHOICE:「そうだね、ばいばい」="Sure, bye.

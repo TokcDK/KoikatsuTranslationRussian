@@ -1,0 +1,15 @@
+「えへへ、何回デートの約束しても、やっぱり前の日は眠れんくなる……ちょっと恥ずいけど、お布団の中でにやけてしまうんよ」=No matter how many times we arrange a date, I still can't sleep the night before... It's a little embarrassing, but I always end up giggling in my futon.
+「あはは、彼女にそう思ってもらえるなんて嬉しいな。俺も[H名]のことを考えたら、夜、一人でにやけちゃったりするよ？」=I'm glad she feels that way. Haha, I'm glad she feels that way. I also giggle alone at night when I think about [H名].
+「うそっ！？　君のそんなお顔見てみたい！　ふふっ、デート中にもそういうお顔してくれんかなぁ？」=Oh my God!　I want to see your face like that!　I want to see your face like that! I wonder if you make that face on dates?
+「うーん、なかなかにやけてくれんねぇ。もっともっとイチャイチャせんといかんかいな？」=I want to see your face! I'll have to make out with you more often.
+「あはは、俺、さっきからずっとにやけっぱなしだよ？」=Haha, I've been smiling all day.
+「そうなん？　あんまり変わらんような気がするっちゃけど……あ、でも……言われてみれば、ちょっと頬が赤いかも♪」=Is that so?　I don't think I've changed much... But if you ask me, I think my cheeks are a little red.
+「う……指摘されると恥ずかしい……[H名]もさっきからずーっと頬が緩んでるよ？」=It's ... embarrassing to be pointed out that ...[H名]'s cheeks have been loose ever since.
+「はぅっ、そ、それはっ……自分でも気付いとうけん……言わんでいいと。君とおって笑顔以外のお顔とか……出来るわけないっちゃもん♪」=I'm sure you're aware of that... You don't have to tell me that. There's no way I can ... do anything other than smile with you.
+「今日は一日、いっぱいにこにこ出来て嬉しかったん！　君のお顔もじーっくり見られたし、本当に最高やったよ♪」=I was happy to be able to smile all day today!　It was really great to see your face so closely.
+「そうだ、この後なんだけど……もしも時間あったらさ、うちに来ない？」=Oh, by the way, after this ... if you have time, would you like to come to my house?
+「ええっ、いいん！？　ばり嬉しいっ！　やったらまだまだたくさん君のお顔見られるんやね！」=I'm so happy!　I'm so happy!　Then I'll be able to see a lot more of your face!
+「こちらこそありがとう。可愛い笑顔がたくさん見られて嬉しかったよ」=Thank you too. It was nice to see so many cute smiles.
+「わわっ、は、恥ずいよぉ……でも、うん、次回もまた……いっっぱい笑顔見せられるようにするけん！　これからもデート、たくさんしようね！」=I'm so embarrassed... But, yes, I'll try to ... show you lots of smiles again next time!　Let's have many more dates in the future!
+CHOICE:「そうだ、この後なんだけど……」="Oh, and after this: ...
+CHOICE:「こちらこそありがとう」="Thanks to you too.

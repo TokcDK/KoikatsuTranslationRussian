@@ -1,0 +1,15 @@
+「あらあら、もうすぐ時間ね。そろそろおいとましなきゃ」=Oh, my God, it's almost time. It's almost time. I have to leave now.
+「俺、もう少し歌いたいんだけど……ダメ？」=I'd like to sing some more ... can't I?
+「延長したいの？　いいわ、それじゃあフロントに電話をしないとね」=You want an extension?　Okay, well, I'll have to call the front desk.
+「ありがと！」=Thanks.
+「だね。帰る準備しないと」=Okay. I have to get ready to leave.
+「じゃ、ちょっとお片付けをしましょう。『立つ鳥跡を濁さず』の精神よ」=Okay, let's clean up a little. "Let's clean up a little bit, so we don't leave any loose ends.
+「だね。それじゃあ帰る仕度を……あっ、でももう少しだけ時間あるよ」=Right. Then get ready to leave... Oh, but there's still time.
+「せっかくだし、最後に[H名]が歌ったら？」=Since we're here, why don't [name] sing at the end?
+「あら？　私でいいのかしら？」=What?　Is that okay with you?
+「うん、[H名]の歌声が聞きたいんだ」=Yeah, I want to hear you sing.
+「ふふ、そういうことなら一生懸命歌うわね。えっと……うん、この曲にするわ」=Well, if that's the case, I'll sing as hard as I can. Let's see... Yeah, I'll sing this song.
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+（うん……何度聞いてもいい声だ）="I'd like to hear [H名] sing a little more.
+CHOICE:『もう少し歌いたいな』="I want to sing some more.
+CHOICE:『そうだね、帰る準備をしよう』="Yeah, let's get ready to go home.

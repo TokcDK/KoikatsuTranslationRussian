@@ -1,0 +1,13 @@
+「もう夕方ね……今日も、まぁ、悪くはなかったわ」=It's almost evening ... and today wasn't so bad.
+「ねえ、まだ時間はあるかな？」=Hey, is there still time?
+「あるけれど、どうしたの？」=Yes, but what's going on?
+「このまま二人で夜景を見ない？　いい場所を知ってるんだ」=I know a great place to watch the night sky.　I know a great place.
+「わかったわ。どうせ帰ってからやることもないのだし……付き合ってあげる」=All right. I know a great place. - Okay. I'll go with you ... since I don't have anything to do when I get home.
+「ありがとう。こっちだよ」=Thanks. It's this way.
+「そう言ってくれてありがとう。俺も[H名]さんとの思い出が増えて嬉しいよ」=Thank you for saying that. I'm glad you said that. I'm glad I have more memories of [H名].
+「そ、そんなにストレートに言われたら、照れるじゃないのよ……もう」=I'm so embarrassed when you say it so straightforwardly...
+「ふふっ、あっ、そうだ……ねぇ、手、繋がない？」=... Hey, do you want to hold my hand?
+「……まぁ、いいわよ。言っておくけれど、今日は特別よ？」=... Well, sure. I'll tell you what, today is special.
+「うん、ありがとう」=Yes, thank you.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『俺も楽しかった』="I had fun too.

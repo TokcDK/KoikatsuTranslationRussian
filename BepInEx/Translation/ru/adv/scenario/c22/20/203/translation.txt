@@ -1,0 +1,12 @@
+「ふぅ、今日はずいぶん遊んだなぁ。あっと言う間に夕方になっちゃった……」=We had a lot of fun today. Hmm, we had a lot of fun today. It was already evening before we knew it...
+「そうだね。一応、乗り物にもほとんど乗れたけど……」=Yes, you're right. Well, I did get to ride most of the rides...
+「最後にさ、あの観覧車にだけ乗っていかない？」=How about we just go on that Ferris wheel at the end?
+「あっ、いいね！　今からだったら、ちょうど綺麗な夜景が見れそう！」=Oh, that sounds great!　We can see the beautiful night view from there!
+「さっそく並びに行こう！」=Let's get in line!
+「暗くなったら乗れる物も限られるだろうし……遅くなる前に帰ろうか？」=There won't be many rides after dark. Shall we go home before ... gets too late?
+「そうだね。このくらいで帰る方が、次に来る時のことを楽しみに出来るからちょうどいいかも！」=Yes, I think so. I think it's best if we leave now so we can look forward to the next time we come back.
+「それじゃ今度来る時には、あらかじめ乗りたい物を考えてから来よう」=Let's think about what we want to ride before we come back next time.
+「うんっ！　デートの予習だね。そういうことが二人で出来るって……すごく嬉しい。えへへ、やっぱりもう楽しみだよ」=Yes!　That's a good way to prepare for a date. I'm so glad that we can do that together ... I'm already looking forward to it.
+「あはは、俺も。次のデートの予定を話をしながら帰ろっか」=Haha, me too. Let's go home and talk about our plans for the next date.
+CHOICE:『最後に観覧車だけ乗ってかない？』="Why don't we just go on the Ferris wheel at the end?
+CHOICE:『遅くなる前に帰ろうか』="Let's go home before it gets late.

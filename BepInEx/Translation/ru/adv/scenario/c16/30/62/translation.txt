@@ -1,0 +1,7 @@
+「そろそろお別れね。フフッ、楽しい時間はあっという間って実感させられるわ」=I guess we should say goodbye. CHOICE: "I guess I should say goodbye now." "Huh, it makes me realize how fast the good times fly.
+CHOICE:「時間があればもう少し俺の家で話さない？」="If you have time, why don't we talk some more at my place?
+CHOICE:「そうだね。また会えるの、楽しみにしてるよ」="Sure. I'm looking forward to seeing you again.
+「ホントだね。あーその、時間があればなんだけど……もう少し俺の家で話さない？」=That's true. Uh, well, if you have time, why don't we go to ... and talk some more at my place?
+「えぇ、彼氏さんからのお誘いなら断れないものね。じゃあ、行きましょっ」=Yes, I can't say no to an invitation from my boyfriend. Okay, let's go.
+「そうだね。また会えるの、楽しみにしてるよ」=Yeah, I guess so. I'm looking forward to seeing you again.
+「うん、私も楽しみにしてるわ。それじゃ、また」=Yeah, I'm looking forward to it, too. See you later.

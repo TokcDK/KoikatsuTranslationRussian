@@ -1,0 +1,6 @@
+「あの、今いいかな？」=Do you have a minute?
+「なに？……あっ、あなたは噂の子ね、確か名前は……」=What? ... Oh, you're the girl from the rumors, I think your name is ...
+「[P名前]って言うんだ。……って噂？」=My name is [P name]. Is ... a rumor?
+「ふふっ、大丈夫よ。悪い噂なんかじゃないから」=It's okay. It's not a bad rumor.
+「そっか……それならひと安心……かな？」=Well... that's a relief...?
+「心配性なのね。ところで……私に何か用があるんじゃないの？」=You're a worrier. By the way... do you want something from me?

@@ -1,0 +1,14 @@
+「カラオケに来るのは久しぶりだわ」=It's been a long time since I've been to karaoke.
+「そうなの？」=Is that so?
+「友達に誘われたら行くけど、自分からは誘わないもの」=I go when my friends invite me, but I never invite myself.
+「なるほどね」=I see.
+「早速、曲を入れましょう。あなたは歌は上手いの？」=Let's start with a song. Are you a good singer?
+「うーん……普通じゃないかな？　上手いとも言われたことはないけど。[H名]は上手いの？」=Hmmm..... average, I guess.　I've never been told I'm good. Are you good at [H名]?
+「……ふふっ」=... Hmm.
+「……どうだった？」=How did you like ...?
+「驚いたな。すごく上手いじゃないか」=I'm surprised. You're really good.
+「ありがと。実はちょっと自信あったのよね」=Thank you. I was actually a little confident.
+「[H名]がカラオケ好きだったとはね」=I didn't know [H名] liked karaoke.
+「さぁ、次はあなたの番よ。曲はもう入れた？」=Okay, now it's your turn. Have you got your song yet?
+「うう……今のを聞いた後だと歌いづらいな……」=Ugh... it's hard to sing after what I just heard...
+「大丈夫よ。ほら、頑張って」=It's okay. Go for it.

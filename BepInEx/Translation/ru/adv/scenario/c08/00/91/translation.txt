@@ -1,0 +1,3 @@
+「[Pあだ名]！　おっはよう！」=[Pあだ名]!　Good morning!
+「おはよう、[Hあだ名]」=Good morning, [Hあだ名].
+「えへへ、特別な感じがしていいね」=Yeah, it's nice to feel special.

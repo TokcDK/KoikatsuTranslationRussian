@@ -1,0 +1,7 @@
+なし=Нет
+ほそロング=Fine And Long
+おさげ=Twintails
+太い=Thick
+ふとロング=Thick And Long
+はねロング=Feathered Long
+ウェーブロング=Wavy Long

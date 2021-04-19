@@ -1,0 +1,7 @@
+「あのー、今いいかな。できれば君と話したいんだけど」=Hey, is this a good time? I'd like to talk to you if I could.
+「……ジー。どうして男がここにいるんだ？」=... Gee. Why is there a man here?
+「ああ、最近この学園に転入したんだ。俺は[P名前]って言うんだけど」=Yeah, I'm a recent transfer to the school. My name's [P name].
+「クンクン、クンクン。怪しいニオイが……」=I'm [P name]." - "Boom, boom, boom. I smell something fishy at ...
+「え？　俺、何かニオってる？」=What?　Am I smelling something?
+「いやいや。悪いニオイはしないね。あらためてよろしく！」=No, no, no. No, you don't smell anything bad. Nice to meet you!
+（ちょっと変わってる子かもな。どんな話をしよう……？）=(Maybe she's a little strange. What should we talk about at ...?

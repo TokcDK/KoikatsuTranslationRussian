@@ -1,0 +1,14 @@
+「あたしだけかな。なんだか、幸せな気分がするの」=Is it just me? I feel so happy.
+「いいや、俺もそうだよ……さ、行こうか」=No, I feel the same way... Come on, let's go.
+「お腹すいた。喫茶店で何か食べない？」=I'm hungry. Do you want to go to a coffee shop and get something to eat?
+「そうだね。もう昼だからね。そろそろ食事をとるとするか」=Yeah, sure. It's already noon. It's almost noon. Let's get something to eat.
+「うん！　あたし、スパゲッティーがいいなぁ。[P]は？」=Yes!　I think I want spaghetti. What about spaghetti?
+「偶然だなぁ。俺もちょうど、そう思ってたところなんだ」=What a coincidence. I was just thinking the same thing.
+「うそ！　なんだか気が合ってきたね、あたしたち」=No way!　We're starting to hit it off, aren't we?
+「ごちそうさま。とってもおいしかったね！　今日はいい日だったなぁ」=Thanks for the food. Thank you so much for the food.　It's been a good day.
+CHOICE:「よかったら、俺の家へ行く？」="Do you want to come over to my place?
+CHOICE:「俺も楽しかった。じゃあ、また」="I had fun, too. See you later.
+「そうだね。よかったら、俺の家へ行く？」=Yes, it was. Would you like to come over to my place?
+「ああ、いいね、それ！　じゃあ、早速行こ！」=Yeah, that sounds great!　Let's go!
+「そうだね。俺も楽しかった。じゃあ、また」=Yeah, sure. I had a good time, too. See you later.
+「うん。またね！　今日はどうもありがとう！」=Okay. See you later!　Thank you so much for today!

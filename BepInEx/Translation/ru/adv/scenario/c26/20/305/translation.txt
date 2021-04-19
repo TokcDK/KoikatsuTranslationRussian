@@ -1,0 +1,13 @@
+「遅かったね。……混んでた？」="You were kind of slow. ...Was it crowded?"
+「この階に男子トイレなくて、下まで行ってたよ」="They didn't have a men's bathroom on this floor, so I had to go downstairs."
+「やっぱりマイクで歌うと、少し音漏れするんだな。他の部屋からさ、歌声が聞こえてきたんだ」="I could still hear you singing from the other room. The walls must be really then around here."
+「……ここも、音漏れしてたら、恥ずかしい」="...Sorry you had to listen to that."
+「大丈夫大丈夫。心配しないでいいって」="It's fine, it's fine. Don't worry about it."
+「[H名]の歌声そこまで大きくないし、防音はそれなりできてるよ」="[H名]'s voice wasn't too loud, and it was mostly muffled."
+「でも……もしも……声が漏れたら……」="But... what if... they can hear us..."
+「あはは、気になっちゃうか。なら……」="Does it really matter?"
+「好きだーーー！」="I love youuuu!"
+「ど、どうしたの？　いきなり……」="W-what's wrong?"
+「こんな大声出したって、外には聞こえてない。君にだけにしか伝わらないってすごくない？」="I can barely hear you out here. Isn't that great that only the two of us can hear each other?"
+「ふふ……そのフレーズ、詩的、かも」="Hmm... that phrase sounded poetic."
+「……私も、好き。そんな風に言われると……胸が、キュンって、なるよ」="...I like it too. And when you said

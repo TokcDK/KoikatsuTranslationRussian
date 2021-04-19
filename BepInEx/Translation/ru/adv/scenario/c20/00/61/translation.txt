@@ -1,0 +1,14 @@
+「今日は、すっごく……楽しみにしていました……！」=I've been looking forward to ... so much today...!
+「それは嬉しいよ。じゃあ、さっそく行こうか！」=I'm glad to hear that. That's great. Let's get going!
+「あの……手を繋いでくれますか？」=Hey... can you hold my hand?
+「あぁ、もちろんだよ……なんだか照れるね」=Yes, of course... It's kind of embarrassing.
+「うふふ……私も照れますが、それよりも……幸せです」=I'm ... embarrassed too, but I'm more ... happy.
+「俺もだよ、[H]……あ、あそこに公園があるね。行ってみない？」=Me too, [H]... Oh, there's a park over there. Do you want to go there?
+「はい！　……あなたとなら、どこに行っても楽しいです」=Yes!　I'm happy wherever I go with ... you.
+「本当に、本当に楽しかったです……！　今日は、記念日にします！」=It was really, really fun...!　I'm making today our anniversary!
+「もう少し一緒にいたいな」=I want to spend more time with you.
+「えっ！？　……実は私も同じことを考えていました……うふふっ」=What?　... Actually, I was thinking the same thing... Mmm.
+「俺も楽しかったよ！　それじゃあ、またね！」=I had fun too!　I'll see you later!
+「はい！　また……絶対に、デートしましょうね！」=Yes!　Let's have another ... date, for sure!
+CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
+CHOICE:「俺も楽しかったよ！　それじゃあ、またね！」="I had fun too!　See you later!

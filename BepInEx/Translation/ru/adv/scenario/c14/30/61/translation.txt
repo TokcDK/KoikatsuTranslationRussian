@@ -1,0 +1,14 @@
+「よ～し！ 今日は遊ぶぞ！　[P]！　しっかりついて来いよ！」=All right! Let's play today!　[P]!　Follow me!
+「[H]がそんなに楽しそうで嬉しいよ。よし、俺も楽しも！」=I'm glad you're having so much fun. I'm glad you're having so much fun.
+「ははっ、[P]と出会ってから毎日が楽しいよ」=Ever since I met you, every day has been fun.
+「俺だってそうだよ」=So have I.
+「初めはパシリ辺りで使ってやろうと思ってたけどな」=At first I thought I'd use you as a pawn.
+「えぇ、そんなこと思ってたの！？」=Oh, you were thinking that?
+「でも、そんなことしてたらこの時間もなかっただろうから、しなくてよかったよ」=But I'm glad I didn't, because I wouldn't have had time to do that.
+「今日は本当にありがとな。その……ホント楽しかったよ。」=Thank you so much for today. That ... was really fun.
+CHOICE:「俺も楽しかったよ……もうちょっと一緒にいない？」="I had fun too... Can we hang out some more?
+CHOICE:「こちらこそありがとう。じゃあまた学園で！」="Thanks to you too. See you at school!
+「俺も楽しかったよ。……もうちょっと一緒にいない？」=I had fun, too. Why don't you ... stay with us a little longer?
+「お、おう私は別にいいけど……」=Oh, yeah, I don't mind...
+「こちらこそありがとう。じゃあまた学園で！」=Thank you, too. See you at school!
+「おう、じゃあな！遅刻すんなよ！」=See you at school! Don't be late!

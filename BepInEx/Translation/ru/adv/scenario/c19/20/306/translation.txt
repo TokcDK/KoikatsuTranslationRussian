@@ -1,0 +1,17 @@
+「っと。さて次、[H名]は何を歌う？」=I'll be back. Now, what will [H名] sing next?
+「私、もう知ってる歌はほとんど歌ってるの。あとはあなたがずっとマイク持っていていいよ」=I've already sung most of the songs I know. I've already sung most of the songs I know. You can hold the microphone the rest of the time.
+「あなたの歌に耳を傾けるの、好きだから」=I like to listen to you sing.
+「うーん……」=Hmm...
+「じゃあ、二人で歌える歌を歌おうよ」=Well, let's sing a song that we can both sing.
+「デュエット曲のこと？　私、あんまり知らないけど……」=You mean a duet?　I don't know much about that...
+「そうかな？　俺と[H名]とじゃないと歌えない歌があるじゃない」=You think so?　There's a song that only [H名] and I can sing together.
+「それって……た、確かにあの歌はそう、だね……」=That's ... Yeah, that's true. That song is ...
+「でしょ？　[H名]の歌声……聴かせてほしいな」=Right?　I'd like to hear [H名] sing ...
+「うん……あなにだけ、届けるから……優しくリードしてね？」=Yeah, I'll only ... give it to you, so please ... lead gently, okay?
+「流石に一人で歌い続けると喉が潰れちゃうし、[H名]が歌わないなら帰ろっか」=If [H名] doesn't want to sing, I'll just go home.
+「うん。今日はいっぱいあなたの歌を聴けて、幸せだった……」=Yes. I was so happy to hear you sing so much today...
+「ははは、嬉しいけど俺の歌なんて大したものじゃないでしょ」=Ha-ha, that's nice, but my song's not that great, is it?
+「大好きな人の歌だもの、そんなことないわ」=No, it's not. It's your favorite song.
+（そう言われると照れくさいな……）=(I'm embarrassed to hear you say that...)
+CHOICE:『二人で歌おう』="Let's sing together
+CHOICE:『帰ろうか』="Shall we go home?

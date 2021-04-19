@@ -1,0 +1,14 @@
+「ちょっと提案があるんだけど……」=I have a suggestion: ...
+「ふふ、また破廉恥なことですか？　貴方という人は、仕方のない人ですね」=I have a suggestion.　You're the kind of person who can't help it.
+「ち、違うよ！　俺もたまには純粋に仲良くなれることを考えるんだよ？」=No, I'm not!　I sometimes think about being genuinely friendly with you, don't you?
+「くすっ、失礼いたしました。私も貴方ともっと仲良くなりとうございます」=I'm sorry. I wish I could get to know you better.
+「それじゃあ、お互いに愛称で呼び合ってみようよ」=Let's call each other by our nicknames, then.
+「愛称、素晴らしいですね。では、どのような呼び方をいたしましょう」=Nicknames are great. What should we call each other?
+「えっと、俺のことは[Pあだ名]って呼んでみて」=Well, you can call me [Pあだ名].
+「……やはり破廉恥なことではありませんか」=... Isn't that a shameful thing to do?
+「お、お願いだよ……[H]に呼んでもらいたいんだ、いや、[Hあだ名]に」=Oh, please, I want you to call me ...[H], no, [Hあだ名].
+「それが私の愛称ですか？　では……[Pあだ名]」=That's my nickname?　Then ...[Pあだ名].
+「[H]にそんな風に呼んでもらえる日が来るなんて……ありがとう」=I never thought I'd see the day when [H] would call me that... Thank you.
+「殿方に対して理解が深まってきた私なら構いませんが、他の初心な子に強要しないでくださいね？」=It's fine if I'm getting to know you better, but please don't force it on other new girls, okay?
+「もちろんだよ。[H]だからお願いできるんだ」=Of course. Of course. [H] That's why I can ask.
+「もう、私の持ち上げ方をご存じなのですから……この愛称は、覚えておきますね」=Since you already know how to lift me up... I'll keep that nickname in mind.

@@ -1,0 +1,10 @@
+「のんびり公園デートも素敵ですね……あっという間に夕方です……」=A leisurely park date is also nice... It will be evening before you know it...
+「まだ時間って大丈夫かな？　ちょっと付き合ってほしいところがあってさ」=Is it still time?　I'd like you to accompany me for a while.
+「は、はい、大丈夫ですけど……もう暗くなりますよ？」=Yes, it's fine, but ... it's going to be dark soon.
+「大丈夫、暗くなってからが一番大事だから。一緒に見たいものがあるんだ」=Don't worry, after dark is the most important time. There's something I want to see with you.
+「暗くならないうちに今日は帰ろうか」=Let's get out of here before it gets dark.
+「そうしましょう。……あ、あの、また、ここでデート、しましょうね？」=Let's do that. Let's go to ... and, uh, we'll have another date here, okay?
+「うん、もちろん。暗くなって[H名]が転んだら危ないし、手を繋いで帰ろうか」=Yes, of course. Let's go home holding hands, in case [H名] falls when it gets dark.
+「は、はいっ。えへへ、最後までラブラブです……」=Yes, yes. Ehehe, I'm in love with you until the end...
+CHOICE:『もう少し時間ある？』="Do you have some more time?
+CHOICE:『暗くならないうちに帰ろうか』="Let's go home before it gets dark.

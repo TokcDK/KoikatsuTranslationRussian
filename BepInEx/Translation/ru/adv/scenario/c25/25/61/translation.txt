@@ -1,0 +1,14 @@
+「やほ～来たよ～」=Hi, I'm here!
+「やあ、じゃあ行こうか」=Hey, let's go.
+「あっ、すこしダルくなって来た～」=Oh, I'm getting a little tired.
+「えぇ、もう！？　どっかで休む？」=Oh, my God!　Do you want to rest somewhere?
+「ん～、そうだな～、おんぶして貰おうかな」=Hmm, yeah, maybe I'll get a piggyback ride.
+「えぇ、こんなところでおんぶ！？　ちょ、ちょっと勝手に背中に！？」=Oh, you're giving me a piggyback ride here?　You're on my back!
+「わぁ、キミって意外と背中大きいんだね～、と言うことで出発～♪」=Wow, you've got a big back, so let's go!
+「はぁ、ふぅ、疲れた～。でもいろいろ楽しかったよ～」=I'm so tired. I'm tired, but I had a lot of fun.
+「じゃあ俺の家で休んでいかない？」=Why don't we go to my place and rest?
+「[P]の家か～。まあ、まだ話したいとは思ってたよ～」=[P]'s house? Well, I was hoping to talk to you soon.
+「今日は楽しかったよ。じゃあまたね」=Today was fun. See you later.
+「うん、また誘ってもいいからね～」=Yeah, you can ask me out again.
+CHOICE:「じゃあ俺の家で休んでいかない？」="Well, why don't you go to my house to rest?
+CHOICE:「今日は楽しかったよ。じゃあまたね」="Today was fun. See you later.

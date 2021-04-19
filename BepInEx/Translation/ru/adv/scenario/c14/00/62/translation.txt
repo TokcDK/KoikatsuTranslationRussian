@@ -1,0 +1,7 @@
+「じゃ、私こっちだから……またな」="See you at school!" "Okay, I'll be over here... See you.
+「[H]……このあと、家に来ない？　もうちょっと一緒にいようよ……」="[H]... Do you want to come to my house afterwards?　Let's hang out some more ...
+「えっ……。別に大丈夫だけど……」=What? ... I'm fine with that...
+「うん、じゃあまた学園で！」=Yeah, I'll see you at school!
+「おう！」=Yeah!
+CHOICE:「……家にこない？」="Do you want to come to ...'s house?
+CHOICE:「うん、またね」="Yeah, see you later.

@@ -1,0 +1,15 @@
+「ねえ、[P名]君。もうちょっとだけメニューを見てもいい？」=Hey, [P name]. Hey, [P name], can I look at your menu for a second?
+「いいけど、どうしたの？　追加でなにか頼む？」=Sure. What's up?　Can I get you anything else?
+「ううん、そういうつもりじゃなくって。色んなメニューがあるなって思って」=No, I didn't mean it like that. I just thought there were so many things on the menu.
+「こういうのを見てると飽きないわ。お料理の解説とかコメントも凝ってるし。見てるだけでお腹が空いてきちゃう」=I never get tired of looking at these things. The explanations and comments on the dishes are very detailed. I'm getting hungry just looking at them.
+「確かにそうだね。単に『店長のおすすめ！』とか書いてあるだけより、惹かれるよね」=That's true. You're right. That's true. It's more appealing than just writing, "Manager's recommendation!
+「そうなの。それで私、こっちとこっち、どっちにしようか迷ってたんだけど……」=That's right. So I was wondering which one I should choose, this one or this one...
+「どっちにしたの？」=Which one did you choose?
+「それは来るまでのお楽しみ……ということで」=You'll have to wait until you get to ...
+「でも、ここは本当にメニューが豊富ね。ランチもスイーツも充実してるし」=But this place has a really large menu. They have a wide variety of lunches and sweets.
+「定番なのだけじゃなくて、創作料理っぽいものもあるよね」=Not only the standard ones, but also some creative ones.
+「それに盛り付けの写真もきれいで、お皿も可愛いくて…………あ、ほら見て」=And the pictures of the dishes are beautiful and the plates are cute... Oh, look.
+「向こうの席に運ばれた料理……。あれも美味しそう。どんな名前の料理なのかしらね？」=The food brought to the table over there ... I wonder what it's called. I wonder what it's called?
+「あっ……ごめんなさい、ちょっとはしたなかったかも。でもつい目移りしちゃって……」=Oh... I'm sorry, that was a little harsh. I'm sorry... that was a little harsh, but I just couldn't resist...
+「あははっ、じゃあ何度も通って、一緒にメニュー制覇しないとね」=Haha, well, we'll have to keep coming back and conquer the menu together.
+「うん。いっぱいつきあってね、[P名]君」=Yeah. Keep me company, [P name].

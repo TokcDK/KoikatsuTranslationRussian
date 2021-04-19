@@ -1,0 +1,6 @@
+「あれ、もう夕方になってる……」=Hey, it's already evening at ...
+「えー、マジ～？　一日が早すぎるよ～」=Oh, really?　The day is going by too fast.
+「そうだね。でも、今日は楽しかったね！」=That's right. But we had fun today, didn't we?
+「うん、そうだね！　こーやってゆったりとするのも、いいカンジだったよ～」=Yes, we did!　It was nice to be able to relax like this.
+「ねぇ、[P名]くん……また一緒に来ようね」=Hey, [P name]... let's come back together again.
+「あぁ、もちろんだよ！」=Yeah, of course!

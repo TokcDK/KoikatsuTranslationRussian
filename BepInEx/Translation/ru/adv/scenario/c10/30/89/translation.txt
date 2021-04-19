@@ -1,0 +1,16 @@
+「ねえ、ちょっと提案があるんだけどさ」=Hey, I have a suggestion.
+「なんだ？　新しい魔の契約か？　汝も順調に覇道を進んでいるからな」=What is it?　A new demon contract?　You are well on your way to dominance.
+「まぁ、ある意味契約かも。……ちょっと、愛称で呼んでほしいんだ」=Well, maybe a contract in a way... I want you to call me by my nickname.
+「ほう……汝もついに人の名を捨てる時が来たか！　良いぞ！　新たなる名を我が与えてやろう！」=Oh... the time has come for thee to abandon thy human name!　Good!　I'll give you a new name!
+「えーと、実はもう考えてて……[Pあだ名]って言うんだけど」=Well, I've already thought of one, and it's called ...[Pあだ名].
+「えっ！？　な、なんかちが……こほん、それは正統な名ではないぞ！」=What?　I've already thought of ...[Pあだ名].
+「それはわかってる。だけど、どうしても呼んでほしくてさ」=I know that. I know that, but I just wanted you to call me that.
+「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」=I know that, but I really want you to call me that... all right, but in exchange, you will give me a name!　Okay?
+「いいよ、じゃあ契約成立だ。俺が呼びかけるから、返事してほしいな」=Okay, then we have a deal. I'll call out to you, and you'll answer.
+「……[Hあだ名]」=...[Hあだ名]
+「な、なんだ……[Pあだ名]」=What's ...[Pあだ名]?
+「……う、うぅ……恥ずかしすぎるよぉ……」=I'm too embarrassed to call you ...
+「呼んでくれてありがとう。……よかったら、また呼んでくれると嬉しいなー、なんて」=Thank you for inviting me. Thank you for inviting me... I'd love it if you'd invite me back.
+「まだ我に恥辱を与える気でいるのか！？」=Are you still trying to humiliate me?
+「[Hあだ名]に呼んでもらえたのが嬉しくて……ダメかな？」=I'm so glad you called me [Hあだ名]... Is that bad?
+「あ、ぅ……嬉しい、のか……なら、考えないことも、ない……」=Oh, I'm ... glad you're ... glad I'm not ... thinking about it.

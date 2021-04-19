@@ -1,0 +1,14 @@
+「あのね、ちょっとお願いしたいんだけど……」=Hey, can you do me a favor? ...
+「どうしたの？」=What's wrong?
+「えっと、あなたの愛称を考えてきたから、聞いて欲しいな……って」=Well, I've been thinking of a nickname for you, and I want you to listen to it...
+「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=Oh, really?　Well, I've been thinking about it, and I've been thinking about calling you by your nickname.
+「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=I'm glad we have the same name. Can you tell me about it?　I'll call you that.
+「うん。えっと……じゃあ、言うね」=Yeah. Let's see... I'll tell you.
+「……[Pあだ名]」=...[Pあだ名]
+「[Hあだ名]」=[Hあだ名]
+「うふふ……そんないい愛称がもらえるなんて、嬉しい」=... I'm so glad you got that nickname.
+「あはは……おおげさだよ」=Ha-ha-ha... You're exaggerating.
+「ううん、大げさなんかじゃないよ……やっぱり私、あなたの恋人でよかった」=No, it's not an exaggeration... I'm glad I'm your lover.
+「ねえ、よかったら、また愛称で呼んでもいいかな？」=Hey, do you mind if I call you by your nickname again?
+「もちろん、いいよ」=Sure, sure.
+「ふふっ、嬉しい」=I'm glad.

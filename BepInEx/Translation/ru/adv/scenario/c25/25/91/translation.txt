@@ -1,0 +1,3 @@
+「[Pあだ名]、おはよ～」=[Pあだ名], good morning.
+「おはよう、[Hあだ名]。不意に呼ばれたから、ちょっと驚いたよ」=Good morning, [Hあだ名]. Good morning, [Hあだ名]. I was a little surprised when you called me.
+「ふふ～、驚かすつもりで使ったからね～」=I used it to surprise you.

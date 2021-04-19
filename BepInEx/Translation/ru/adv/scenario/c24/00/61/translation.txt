@@ -1,0 +1,16 @@
+「すみません、着ていく服で悩んでいたら遅れてしまいました……」=I'm sorry, I was wondering what to wear and I'm late...
+「大丈夫だよ！　遅れるって連絡もくれたのに、走ってきたの？　危ないよ」=It's okay!　You called me to tell me you were going to be late, but you came running?　It's dangerous.
+「うん、それならOKだね。それじゃ行こうか」=I'll be careful not to be late even if I walk slowly next time. Let's go then.
+「でも、最近[H]って丸くなったよね。前はデートの待ち合わせもすっごく早く来てさ……」=But you've become rounder lately, haven't you? You used to show up very early to meet me for dates...
+「もう、やめてください♡　あの頃の私はまだ、前の私を引きずっていましたから……」=Please don't do that. ♡ I was still dragging the old me with me back then...
+「私って、あなたと付き合うまでは自分に自信がなくて、毎日不安に怯えていて……妄想に引きこもるだけの人形みたいな子でした」=Before I started going out with you, I had no self-confidence and was scared of my insecurities every day... I was like a doll who only retreated into delusion.
+「そうだったんだね……」=So that's what you were...
+「でも、もうそんな私は過去の存在なんです……だって、あなたが救い出してくれましたから♡」=But that's all in the past now... Because you saved me, handsome.
+「今日のデートもとても楽しかったです♡　また連れていってくれますか？」=I really enjoyed our date today. ♡ Will you take me out again?
+「もちろん。あ、それと……」=Of course. Oh, and ...
+「もう少し一緒にいたいな」=I want to spend more time with you.
+「……はい♡　実は、母には友達の家に泊まってくると伝えてありますから、よろしければ、そのまま……♡」=... ♡ Actually, I've told my mother that I'll be staying at a friend's house, so if you don't mind, I'll just go straight to ... ♡.
+「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「はい♡　それではまた学園で会えるのを楽しみにしてます♡」=Yes ♡ I'm looking forward to seeing you again at school.
+CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
+CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.

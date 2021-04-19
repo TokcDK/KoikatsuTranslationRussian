@@ -1,0 +1,14 @@
+「ちょっとお願いがあるんだけどさ、愛称で呼び合ってみない？」=Do me a favor, why don't we call each other by our nicknames?
+「愛称ですか？　えっ、私なんかが付けちゃっていいんですか！？」=Nickname"?　What, I'm not allowed to call you that?
+「あ、ごめん。実はもう自分で考えてて……[Pあだ名]っていうんだけど」=Oh, I'm sorry. Actually, I've already thought of a nickname. It's ...[Pあだ名].
+「……あのー、それはちょっと違いません？」=... is not quite right, though, is it?
+「それはわかってるんだけど……どうしても呼んでほしいんだ！」=I know that, but ... I really want you to call me that!
+「……わ、わかりました……でも、不幸がうつっても知りませんからね？」=... Okay... but I don't want you to be unhappy, okay?
+「よく分からないけど、ありがとう。[H]の愛称も考えてきたんだ。だから呼び合おうよ」=I don't know, but thank you. I'm not sure, but thank you, I've been thinking of a nickname for [H]. So we'll call each other.
+「は、はい。では……[Pあだ名]」=Yes, yes. Okay...[Pあだ名].
+「[Hあだ名]」=[Hあだ名]
+「な、なんでしょうかこの気持ちは……不思議な感じです」=I don't know what I'm feeling. It's ... strange.
+「そうだね。でも俺はけっこう気に入ったな。[H]はどうかな？」=Yes, it is. But I like it a lot. What about [H]?
+「……その悪くはなかったと思います」=... I don't think it was that bad.
+「じゃあ、また呼んでくれる？」=So, will you call me again?
+「ま、またですか……そのたまになら、はい。……あなたが喜んでくれるのは嬉しいので」=Well, again? ... If its once in a while, yes... I'm glad you're happy.

@@ -1,0 +1,16 @@
+「せっかくのデートですから、今日一日有意義に過ごしましょう」=Since we have a date, let's make the most of it.
+「そうだね。[H]の意外な一面とか見られたら嬉しいな」=That's right. It would be nice to see a new side of you.
+「それは有意義なのですか？　単にあなたが楽しんでいるだけでは……」=Is that meaningful?　Just because you're having fun ...
+「はははは……かもね」=Ha-ha-ha... Maybe.
+「まったく……ほら、行きましょう」=Totally... Come on, let's go.
+「こうして手を繋いで歩くだけで、大きな幸せを感じます」=I feel so happy just walking hand in hand like this.
+「うん、俺も。[H]と付き合ってるんだなぁって実感するよ」=Yeah, me too. I feel like I'm dating [H].
+「でも、今日はデートだからもっといろいろ楽しまないとね！」=But it's a date, so we have to have more fun!
+「ええ。まずは――」=Yeah. First of all--
+「今日も楽しかったです。付き合っていただいてありがとうございます」=I had fun today. Thank you for hanging out with me.
+CHOICE:「よければもう少し一緒にいない？」="Would you like to stay with me a little longer?
+CHOICE:「こちらこそ。じゃあ、またね」="My pleasure. See you later.
+「よければもう少し一緒にいない？」=Would you like to spend a little more time with me, if you don't mind?
+「あ……そうですね。まだ一日を終わらせるには早い気がします」=Oh... sure. I feel like it's too early to end the day.
+「こちらこそ。じゃあ、またね」=No, thank you. I'll see you later.
+「はい。それではまた」=Okay. See you later.

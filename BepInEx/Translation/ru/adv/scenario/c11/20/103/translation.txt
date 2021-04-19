@@ -1,0 +1,12 @@
+「もう、こんな時間ね。ふふ、今日は一日一緒に居てくれてありがとう」=It's getting late, isn't it? Well, thank you for staying with me all day.
+「おっと、まだ帰るには早いよ。もうちょっとだけ付き合って欲しいんだけど、時間あるかな？」=Whoa, I'm not ready to leave yet. I'd like you to stay with me a little longer. Do you have time?
+「あらあら、もちろんよ。でも、翌日に差し支えるような時間まで遊ぶのはなしよ？」=Oh, yes, of course. But I don't want you to play until the next day, okay?
+「そんなに遅くならないよ」=It won't be that late.
+「そう、だったらいいわよ。ふふ、もう……一人になるのが寂しいのね。甘えん坊さんなんだから♪」=Well, okay then. Hmm, you must be lonely to be alone at ... You're a spoiled brat.
+（そういうわけじゃないんだけどなぁ……）=That's not what I meant...
+「お礼を言うのは俺の方だよ。あ、でも、まだデートは終わりじゃないよね？　お別れするまでがデートだし」=I'm the one who should be thanking you. But the date isn't over yet, is it?　It's a date until you say goodbye.
+「ええ、その通りね。しっかりあなたを最後まで引率しなきゃ」=Yes, you're right. I have to lead you to the end.
+「あれ、俺が引率される側なの……？」=Oh, I'm the one being led...?
+「当然でしょ？　あなたの面倒を見るために、今日は時間を作ったんだもの」=Why not?　I've made time today to take care of you.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『駅まで一緒に帰ろう』="Let's go back to the station together.

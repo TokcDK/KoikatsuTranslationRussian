@@ -1,0 +1,3 @@
+「[Pあだ名]、おはようですぞ」=[Pあだ名], good morning.
+「おはよう、[Hあだ名]」=Good morning, [Hあだ名].
+「ふふ、照れくさいけど、朝から仲睦まじい二人なんだなぁ」=Good morning, [Pあだ名]." "Hmm, I'm embarrassed, but you two are so friendly in the morning.

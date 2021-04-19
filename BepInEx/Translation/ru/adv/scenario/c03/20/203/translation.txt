@@ -1,0 +1,10 @@
+「あ……もう夕方……さすがにこれだけたくさん乗ると、すぐに時間も過ぎちゃうですね……」=(Well, I'm going to get annoyed again licking this character, but ...[H名] seems to be having fun, so what the heck.) "Oh... it's already evening... as expected, with so many people riding, time will pass quickly...
+「そうだね。それじゃ最後の締めくくりに……あの観覧車に乗らない？」=I'm sure you're right. Well then, why don't we finish off the day with a ride on ... that Ferris wheel?
+「あっ、乗りたいですーっ！　やっぱり遊園地といえば観覧車なのです！」=Oh, I want to ride it!　After all, amusement parks are all about the Ferris wheel!
+「そうだよね！　二人で落ち着いて話も出来るし……」=That's right!　It's a great way for the two of us to relax and talk...
+「はぅっ……そうでしたっ……それはますます乗らなきゃいけないのです！」=Huh... that's right... I'll have to ride it more and more!
+「まだ明るいうちに駅まで戻ろっか？　遅くなると混んじゃいそうだし……」=I'm not sure what to do.　It's going to be crowded later...
+「はいです！　名残惜しいですけど……この気持ちは次回来る時まで楽しみに取っておくです！」=Yes, sir!　It's a shame, but ... I'll save this feeling for next time!
+「それじゃあ、駅に向かおうか」=Let's head for the station then.
+CHOICE:『締めくくりに観覧車乗らない？』="Why don't we take the Ferris wheel to finish off?
+CHOICE:『明るいうちに帰ろうか』="Let's go home while it's still light.

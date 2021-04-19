@@ -1,0 +1,15 @@
+「あれ、もうこんな時間か。歌うのに夢中で気づかなかった……」=It's getting late. I was too busy singing to notice...
+「延長しない？　俺、もっと歌いたくてさ」=Can we extend it?　I want to sing more.
+「お、そうこなくっちゃな。私もまだまだイケルぜ！」=Oh, that's the spirit. I'm still going strong!
+「よしっ、じゃあ延長の電話を入れとくよ」=All right, I'll call for an extension.
+「そろそろ帰ろうか。ちょっと疲れてきて、延長する元気がないや」=Let's go home. I'm getting a little tired and don't have the energy for an extension.
+「情けないなー、まあ、あんまり無理させんのも悪いか」=That's pathetic. Well, I guess I shouldn't push myself too hard.
+「ははは、[H名]にはかなわないよ」=Ha-ha, you're no match for [H名].
+「延長する元気もないし、そろそろ帰ろうか」=I don't have the energy for an extension. I think I'll go home.
+「了解……んじゃ、この曲は次来たときに歌うとするか」=Okay... we'll sing this song next time you come.
+「ん？　歌いたい曲があるなら入れなよ。あと一曲くらいなら時間あるよ」=Hmm?　If you have a song you want to sing, put it in. I've got time for one more song.
+「そうか？　なら入れるとするぜ！」=Really?　I'll put it in, then!
+『果てしない空の下 どこかにきっとあるんだ～♪』=Under the endless sky, somewhere there must be...
+「いいぞ、[H名]～！」=All right, [H名]!
+CHOICE:『延長して、もっと歌う？』="Do you want to extend it and sing more?
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

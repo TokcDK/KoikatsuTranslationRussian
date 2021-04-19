@@ -1,0 +1,14 @@
+「たくさん歌ったのう！　そろそろ時間みたいじゃ」=That's a lot of singing!　I think it's time to go.
+「もう少し延長して歌ってかない？　まだ歌いたい歌とかあるし」=Why don't we sing a little longer?　I've got a few more songs I want to sing.
+「そうじゃのう。わしもまだ少し歌い足りないと思ってたのじゃ」=Oh, yes. I've been thinking that I need to sing a little more.
+「よしっ、それじゃあ延長するね」=All right, then, let's go for an extra song.
+「結構歌ったし、延長はせずに出ようか」=Well, we've sung enough. Let's get out of here without an extension.
+「うむ。カラオケというのはすっきりするもんじゃな！」=Yes. Karaoke is such a refreshing experience!
+「そうだね！　たまにはこうして大声で歌うのもいいよね」=Yes, it is!　It's nice to sing out loud like this once in a while.
+「それじゃあ帰る仕度を……あっ、でもあと一曲なら歌える時間あるよ」=Well, I'd better get ready to go home... But I've got time for one more song.
+「せっかくだし、何か歌ったら？」=Why don't you sing something, then?
+「そうか？　じゃあ……これを歌うのじゃ！」=Really?　Well then, sing this ... song!
+『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
+CHOICE:『もう少し延長して歌ってかない？』="Would you like to sing a little longer?
+CHOICE:『帰ろうか』="Shall we go home?

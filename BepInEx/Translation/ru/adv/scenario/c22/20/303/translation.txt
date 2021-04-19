@@ -1,0 +1,16 @@
+「はぁぁ、たくさん歌っちゃったねぇ！　あ、もうそろそろ時間だよ」=I love you!　It's almost time.
+「せっかくだからもう少し歌わない？　俺、[H名]の歌、聞きたいな」=It's time for a little more singing.　I want to hear [H名] sing.
+「うんっ、賛成！　私も君の歌、もっと聞きたい！」=Yes, I agree!　I want to hear more of your songs, too!
+「ありがとう。それじゃ延長するね」=Thank you. Thank you. I'll extend it.
+「十分歌ったし、今日はこれで終わりにしようか」=We've had enough singing. Let's call it a day.
+「りょーかい！　うーん、気持ちよかったぁ！」=All right!　That felt so good!
+「あはは、[H名]くらい歌えたら本当に気持ちいいだろうなぁ」=Haha, it would be really nice if you could sing like [H名].
+「最後に一曲、二人で一緒に歌って、それで終わりにしよっか」=We'll sing one last song together, and then we'll be done.
+「うん、そしたらちょうどいい時間になりそうだね。何にする？」=Yeah, that would be a good time. What do you want?
+「[H名]が好きな曲で大丈夫だよ」=Any song you like will do.
+「ならこの曲！」=Then this song!
+（何となく、何を入れたか想像つくな）=I know what you're thinking.
+『果てしない空の下　どこかにきっとあるんだ♪　目の前に広がる航路に地図重ねて♪』=Under the endless sky, somewhere there must be a map on the route that stretches out in front of us.
+（やっぱ聴き惚れちゃうなぁ、[H名]の歌声……）=(I can't help but fall in love with [H名]'s singing voice...)
+CHOICE:『せっかくだからもう少し歌わない？』="Since we're here, why don't we sing some more?
+CHOICE:『これで終わりにしようか』="Let's finish this.

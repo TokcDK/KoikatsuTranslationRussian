@@ -1,0 +1,7 @@
+「んっ……ここまでか。気を付けて……帰れよ？」="Yeah, I miss you too, but I think ... that's it." "Hmm... that's it. Have a safe ... trip home, okay?
+「えーっと、家に寄ってかない？　もう少し一緒にいたくて」=Well, do you want to come by the house?　I want to hang out with you some more.
+「あ、あぁ……いいぞ。丁度私も……暇だったしな……うん」=Oh, yeah, that's ... great. I've got some ... free time on my hands... Yeah.
+「うん、[H名]も気を付けてね」=Yeah, be careful with [H名].
+「そっけない奴だ……ンッ、何でもない。ではな」=You're a curt guy... Nothing to it. See you later.
+CHOICE:「家に寄ってかない？」="Do you want to come by the house?
+CHOICE:「[H名]も気を付けてね」="[H名], be careful.

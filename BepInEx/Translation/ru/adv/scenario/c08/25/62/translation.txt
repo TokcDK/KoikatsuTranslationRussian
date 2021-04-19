@@ -1,0 +1,7 @@
+「今日も私にいろいろ教えてくれてありがとね♪　じゃあ、そろそろ帰るね」=Thank you for teaching me so much today. I'll be home soon.
+「もしよかったら、今から家にこない？」=If you want, you can come to my house now.
+「うん、行く♪　もっと[P]君にいろいろと教えてほしいからね！」=Yeah, I'll be there. I want you to teach me more.
+「続きは、また学園でね」=I'll see you at school.
+「うん、楽しみにしてるね♪　それじゃまたね」=I'll see you at school. - Yeah, I'm looking forward to it.
+CHOICE:「もしよかったら、今から家にこない？」="If you want, why don't you come to my house now?
+CHOICE:「続きは、また学園でね」=See you at school.

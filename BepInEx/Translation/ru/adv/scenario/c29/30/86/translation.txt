@@ -1,0 +1,6 @@
+「今日は[H]のしたいことを……ってことだけど、なんで外に？」=You're going to ... do whatever [H] wants to do today, so why are you out here?
+「写真です。一緒に写真を撮りましょう」=It's a photo. Let's take a picture together.
+「うわ、見るからに本格的なカメラ。スマホじゃなくてそれで撮るんだ」=Wow, that's a serious camera you're looking at. You take pictures with that, not your phone.
+「そう。[P]さんと私の思い出を、フィルムに焼き付ける――素敵ではありませんか？」=Yes. Wouldn't it be nice to have the memories of you and me on film?
+「いいね。ずっと残り続ける思い出になるよ。操作は[H]に任せるね」=I like it. It will be a memory that will last forever. I'll leave you in charge.
+「任されました。いい写真をたくさん撮ります」=I'm in charge. I'll take lots of good pictures.

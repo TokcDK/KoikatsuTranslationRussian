@@ -1,0 +1,79 @@
+#set EXE Koikatu
+
+//
+// Global Text Strings that will be used ANYWHERE.
+// Only put something here if you're AWFULLY sure it can be used everywhere
+// with no change in meaning!
+//
+
+// Generic Accepts/etc.
+戻る=Назад
+決定=Принять
+キャンセル=Отмена
+
+はい=Да
+いいえ=Нет
+
+// Various Game Messages
+ゲームを終了しますか？=Выйти из игры?
+
+// Name/Date, used generally in character selections
+// Avoid adding Club/Personality to here, they get abbreviated/used in various other ways
+名前=Имя
+日付=Дата
+
+// Female Personalities and Clubs
+セクシー=Сексуальная
+お嬢様=Леди
+高飛車=Высокомерная
+後輩キャラ=Младшая
+ミステリアス=Загадочная
+電波=Чудачка
+大和撫子=Послушная
+ボーイッシュ=Пацанка
+純真無垢=Невинная
+単純=Простая
+邪気眼=Мистическая
+母性的=Заботливая
+姉御肌=Сестрица
+ギャル=Модница
+不良少女=Плохая
+野生的=Дикая
+意識高いクール=Уверенная
+ひねくれ=Ворчливая
+不幸少女=Невезучая
+文学少女=Умная
+モジモジ=Застенчивая
+正統派ヒロイン=Типичная школьница
+ミーハー=Позёрша
+オタク女子=Отаку
+ヤンデレ=Яндере
+ものぐさ=Ленивая
+無口=Тихая
+意地っ張り=Упрямая
+のじゃっ子=Старомодная
+素直クール=Откровенная
+// Patch 0727 (add13/14)
+気さく=Дружелюбная
+// Additional Personalities DLC (add15/16/17/18)
+勝ち気=Решительная
+誠実=Искренняя
+艶やか=Элегантная
+// Afterschool DLC Personalities (add20/25)
+帰国子女=Иностранка
+方言娘=Провинциалка
+Ｓッ気=Садистка
+無感情=Равнодушная
+// Emotion Creators Preorder DLC
+几帳面=Идеалистка
+
+// Club Types
+帰宅部=Клуб уходящих домой
+水泳部=Плавание
+漫研部=Манга-клуб
+チアリーディング部=Фан-клуб
+茶道部=Чаепитие
+陸上部=Легкая атлетика
+
+// Character Select Menu
+キャラクター選択=Выбор персонажа

@@ -1,0 +1,14 @@
+「今日も楽しみにしてたんだ。デートするたびに、新しい思い出が増えていくから」=I was really looking forward to it. Every date brings new memories.
+「よーし、それじゃあ、今日も新しい発見と素敵な思い出作りに出かけようか」=All right, then, let's go out and make some new discoveries and great memories today.
+「思ってたより、いっぱい買っちゃった……。やっぱり本屋さんに行くと、つい……」=I bought a lot more than I thought I would: ... I bought more ... than I thought I would, but when I go to a bookstore, I always end up buying ...
+「いいじゃないか。好きなものにお金を使うのは悪いことじゃないよ」=That's good. There's nothing wrong with spending money on things you like.
+「そうだね。ありがとう……[P]君……。ただ、私ばっかり楽しんでないかな……？」=That's right. Thank you ...[P]you ... It's just that I'm the one who's having all the fun, aren't I ...?
+「そんなことないよ！　君が楽しめてるなら俺もうれしいんだから。」=No, you're not!　If you're having fun, I'm happy too.
+「そ、そう？　よかった……。うん、私はすごく楽しいし……幸せ……かも」=Oh, really?　Good... Yeah, I'm having a lot of fun and I'm ... happy ...
+「今日はとても楽しかった。夕日と共に沈む一日が、ちょっと名残惜しいくらい」=I had a great time today. I can't wait for the sun to set and for the day to be over.
+CHOICE:「今日はまだ終わらないよ」="Today is not over yet.
+CHOICE:「大丈夫、明日があるさ」="Don't worry, there's always tomorrow.
+「今日はまだ終わらないよ」=This day is not over yet.
+「そうか、そうだよね！　まだまだこれから、だもんね」=Oh, yeah, that's right!　It's not over yet.
+「大丈夫、明日があるさ」=Don't worry, there's always tomorrow.
+「うん、これからも色々な体験を重ねていこうね」=Yes, we'll have many more experiences in the future.

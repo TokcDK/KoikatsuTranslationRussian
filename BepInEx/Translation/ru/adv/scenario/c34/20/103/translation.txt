@@ -1,0 +1,17 @@
+（夕方の音楽が鳴った途端、[H名]が目を閉じて、耳を澄ませたけど……海外の公園では、こんな音楽は鳴らないのかな？）=(As soon as the evening music sounded, [H名] closed his eyes and listened carefully... Don't they play music like this in foreign parks?
+「さっきのｍｅｌｏｄｙ、寂しい感じだったネ……ナンダカ、Ｃｉｎｄｅｒｅｌｌａミタイ……」=That melody you played earlier sounded so lonely... Nandaka, Cinderella Mitai ...
+（そっか。ぼちぼち、帰るのを意識し始める時間か……あまり連れまわしすぎても疲れさせちゃうかな……どうしよう）=(I see. It's time to start thinking about going home... If I take her around too much, I might tire her out... What should I do?
+「[H名]、まだ時間ある？　もし、疲れてなかったら、見せたいものがあるんだけど……」=(What should I do?) "[H名], do you still have time?　If you're not too tired, I'd like to show you something...
+「見せたいモノ？　ナニカナ、ナニカナ？　全然、疲れてないヨ♡　ア、疲れてるケド、今ので回復したカモ♡」=What do you want to show me?　What do you want to show me?　I'm not tired at all ♡ I'm tired, but now I'm recovered ♡.
+「あはは、それなら、見せないわけにはいかないね」=I'm not tired at all.
+「フフ♡　アナタが言わないカラ、ヒミツってコトカナ？　ワクワクするヨ♡」=I'm not going to tell you anything.　I'm so excited.
+「きっとそのワクワクを裏切らないで済むと思うよ。こっち、ついてきて」=I'm sure you won't have to betray your excitement. Come on, follow me.
+「大丈夫だよ、今日が最後じゃない。これからもたくさんデート出来るよ」=Don't worry, it won't be the last time. We'll have many more dates.
+「フフ♡　ソウダネ♡　アナタと全力イッパイ遊んで疲れたカラ、チョットｓｅｎｔｉｍｅｎｔａｌでゴメンネ！　デモ、もう大丈夫！」=I'm sorry that I'm a little sentimental, but I'm tired after having so much fun with you.　I'm sorry for being so sentimental.
+「よかった。こんなヘトヘトになるまで遊んだの、久しぶりだよね。駅まで送っていくよ」=I'm glad. I'm glad. It's been a long time since we played until we were this exhausted. I'll walk you to the station.
+「Ｔｈａｎｋｓ♡　またしようネ、公園デート♡」=Thanks ♡ Let's do it again, park date ♡
+「うん、近いからいつでも来れるしね」=Yeah, we're close enough that I can come back anytime.
+「次も楽しみにしてるカラネ♡　ソレジャ、駅にｌｅｔ’ｓ　ｇｏ♪」=I'm looking forward to the next one. Let's go to the station.
+「レッツゴー♪」=Let's go!
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『今日が最後じゃないよ』="Today won't be the last time.

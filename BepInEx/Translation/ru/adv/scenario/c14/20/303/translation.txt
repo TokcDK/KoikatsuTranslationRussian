@@ -1,0 +1,13 @@
+「お、もうこんな時間か。歌うのに夢中で気付かなかったぜ」=I was so absorbed in singing that I didn't notice. I was so absorbed in singing that I didn't notice.
+「もうちょっと延長しない？　もっと歌いたい気分だしさ」=I was so absorbed in singing I didn't notice.　I'm in the mood for more singing.
+「お、いいな。まだまだ盛り上がっていこうじゃねえか」=Oh, good. I'm in the mood for more. - Oh, great. Let's keep the party going.
+「じゃあ、さっそく延長の電話を入れるよ」=Well, I'll call in for an extension.
+「それじゃあ、もう帰る仕度をしようか」=Well, let's get you ready to go home.
+「そうだな。これだけ歌えりゃ満足だ。帰ろ帰ろ！」=Yeah, I guess so. I'm satisfied with this much singing. Come on, let's go!
+「もう少しだけ時間あるし、最後に一曲だけ歌って帰ろうか」=We've got a little more time. Let's sing one last song and go.
+「最後は私が入れていいか？　いいよな、よしっと」=Do you want me to sing the last one?　All right, all right.
+「それ、俺の確認取る必要なかったよね？　別にいいんだけどさ」=You didn't have to ask for my confirmation, did you?　I don't mind.
+『果てしない空の下 どこかにきっとあるんだ♪』=Under the endless sky, somewhere there must be...
+（ほんと、楽しそうに歌うなぁ……）=You're really enjoying this song...
+CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.

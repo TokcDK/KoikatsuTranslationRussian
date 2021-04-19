@@ -1,0 +1,13 @@
+「すっかり夕方だね……ちょっと交信に時間を使いすぎたかな……？」=It's already evening... Did I spend too much time communicating with you...?
+「ねえ、[H名]……まだ時間は大丈夫？」=Hey, [H名]... how much time do you have left?
+「地球時間のことを指して言っているのなら……まだ大丈夫だよ」=If you're referring to Earth time... is still good.
+「よかった。それなら、ちょっと付き合ってもらってもいい？　[H名]と一緒に見たいものがあるんだ」=Good. If that's the case, can I ask you to go out with me for a while?　There's something I want to see with [H名].
+「まあたしかに、今度は交信以外のことをしてもいいかもね」=Well, sure, maybe we can do something other than communicating this time.
+「[P名]くんも、“かれら”の声がはっきり聞こえたらいいんだけどな……」=It would be nice if [P name] could hear them clearly...
+「はは、そうだね。“かれら”との交信はなかなか上手くいかないけど……でも、こうやって手をつなげば」=Haha, yeah. "It's not easy to communicate with them, but ... if we hold hands like this...
+「あ……[P名]くんの手、温かいね……」=Oh...[P name], your hands are so warm...
+「[H名]とだったら、こうすれば交信できる気がするんだ」=I feel like I can communicate with [H名] like this.
+「えへへ……そうだね」=Heh... I guess so.
+「それじゃあ、帰ろうか。交信は続けながら……ね」=Well, let's go home. We'll keep communicating with ...
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『そうかも』="Maybe.

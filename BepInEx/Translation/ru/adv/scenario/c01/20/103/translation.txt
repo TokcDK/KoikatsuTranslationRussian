@@ -1,0 +1,15 @@
+「もうそろそろ日が暮れるね。[H名]、時間は大丈夫？」=It's almost sunset. [H名], are you sure about the time?
+「はい。まだ平気です。どうしましょうか」=Yes. Yes, I'm fine. What should I do?
+「よかった。ちょっと[H名]と行きたいところがあるんだ」=Good. I'd like to go somewhere with [H名].
+「行きたいところ、ですか？」=You have a place to go?
+「いいかな？」=Is that okay?
+「はい。では、あなたに導いてもらいます」=Yes. Then I'll let you lead the way.
+「うん、任せて」=Yeah, I got it.
+「あんまり長いこと[H名]をお借りすると、ご両親が心配するよね。今日は帰ろう。駅まで送るよ」=Your parents will be worried if you borrow [H名] for too long. Let's go home today. I'll take you to the station.
+「気遣っていただいて、ありがとうございます。あなたがそう言っていたことを両親に伝えておきますね」=Thank you for your concern. I'll let them know you said that.
+「うえぇっ！？　い、いや、大丈夫だよ」=What?　No, no, it's okay.
+「いえ、両親は二人ともあなたのことを勘違いしているところがありますので、このような嬉しいことはどんどん伝えます」=No, my parents are both wrong about you, so I'll be sure to tell them about this kind of happiness.
+「あはは……それじゃ、どうぞよろしくね」=I'll keep telling them how happy I am about this." "Hahaha... please do, then.
+「はい、任せてください」=Yes, I'll leave it to you.
+CHOICE:『行きたいところがあるんだ』="I have somewhere to go.
+CHOICE:『今日は帰ろう』="Let's go home today.

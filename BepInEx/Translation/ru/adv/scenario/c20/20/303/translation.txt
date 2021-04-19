@@ -1,0 +1,16 @@
+「ふぅ……少し休憩にしませんか？　……と思ったら、もうすぐ時間ですね」=I'm not ready ... yet. - Hmm... Why don't we take a break?　I thought it was ... but it's almost time.
+「延長しない？　俺、もう少し[H名]と一緒に歌いたいんだけど……」=Why don't we extend it?　I'd like to sing with [H名] some more...
+「わかりました……私も、まだ歌えるので……」=Okay... I can still sing, too...
+「決まりだね、じゃあ延長タイムに突入！」=That's it. Let's go for extra time!
+「時間がオーバーしないうちに帰ろうか」=Let's get out of here before we run out of time.
+「はい！　少し恥ずかしかったですけど……とっても楽しかったです！」=Yes!　I was a little embarrassed, but ... I had a lot of fun!
+「俺もだよ。[H名]の歌声も聞けたしね」=Me too. I even got to hear [H名] sing.
+「あと一曲歌ったら、今日は帰ろうか」=Let's sing one more song and then we'll go home.
+「はいっ。最後は何を歌うんですか？」=Yes. What are you going to sing at the end?
+「俺はできれば[H名]に歌ってほしいな。一番だけでもいいからさ、お願い！」=I'd like you to sing if possible. Even if it's just the first song, please!
+「[H名]の歌が聞きたいんだ」=I want to hear [H名] sing.
+「そ、そこまでお願いされると、断れないです……えっと、じゃあ……この曲を……」=Well, if you ask me that much, I can't refuse... Well... this song, then...
+『もしも今背中に羽が生えて大空自由に飛び回れたら♪』=If I could grow wings on my back and fly around freely in the sky...
+（やっぱ[H名]の歌声、好きだな……）=(I really like [H名]'s singing voice...)
+CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

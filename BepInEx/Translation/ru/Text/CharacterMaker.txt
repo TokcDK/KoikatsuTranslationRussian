@@ -1,0 +1,3109 @@
+﻿#set exe Koikatu
+#set level 2
+
+//
+// "Universal" Text
+// For everything too generic or used in multiple places.
+//
+
+// Used mostly in menu buttons
+全体=Основное
+変形まとめ=Весь выбор
+コピー=Копия
+
+// Used as both a Profile heading as well as a clothing type
+部活=Клуб
+
+// Used as a clothing outfit type as well as clothing, period
+体操着=Спортивная
+
+// Used in multiple right sidebar expression choices
+デフォルト=По умолчанию
+怒り=Гнев
+真剣=Серьезный
+つまらない=Скучающий
+落胆=Унылый
+ドヤ=Довольный
+笑顔=Счастливый
+嫌悪=Ненависть
+焦り=Возбужденный
+驚き=Удивленный
+
+// Used in Eye/Head Tracking right sidebar options
+カメラ=Камера
+上=Вверх
+左上=Вверх влево
+左=Влево
+左下=Вниз влево
+下=Вниз
+右下=Вниз вправо
+右=Вправо
+右上=Вверх вправо
+そらす=Отвернуться
+
+// Used in a handful of places, such as Face -> Overall
+なし=Пусто
+
+// Used in a handful of places, such as Face -> Eyebrows
+しない=Нет
+する=Да
+
+// Used in a handful of places, such as for expressions as well as pubic hair
+三角=Треугольник
+
+// Used for both Facepaint as well as Body Paint
+r:"^ペイント(０[０-９])の種類$"=r:"Покраска $1 тип"
+r:"^ペイント(０[０-９])の色$"=r:"Покраска $1 цвет"
+r:"^ペイント(０[０-９])回転$"=r:"Покраска $1 вращение"
+
+// Makeup Types (Both for Body and Face)
+ハート=Сердце
+水滴=Капли воды
+星Ａ=Звезда A
+星Ｂ=Звезда B
+三日月=Полумесяц
+キスマーク=Поцелуй
+クモ=Паук
+クモの巣=Паутина
+バラ=Роза
+陰陽=Инь и Янь
+禁止=Запрещено
+蝶=Бабочка
+肉球=Лапка
+ターゲット=Мишень
+ネイティブライン=Племенной узор
+正の字=Счетчик
+スラッシュ=Рассечение
+クロススラッシュ=Рассеч. накрест
+クロススラッシュ×５=Рассеч. накрест x5
+第三の目=Третий глаз
+ドクロ=Череп
+絆創膏=Лейкопластырь
+// Character Design Addon Pack Vol. 1 (add06)
+桜=Цветение вишни
+印=Печать
+// Character Design Addon Pack Vol. 2 (add08)
+バーコード=Штрих-код
+CAUTION=ВНИМАНИЕ
+DANGER=ОПАСНОСТЬ
+WARNING=ПРЕДУПРЕЖДЕНИЕ
+r:"^([０-９][０-９])+$"=r:"$1" // For the four numerical makeups. Also prevents Accessory slots from fucking up later.
+// Added by the Emotion Creators Preorder Bonus
+一本キズ=Длинный шрам
+十字キズ=Шрам накрест
+三本キズ=Тройной шрам
+
+// All Sliders Notice
+※ 各項目の変形に関するものをまとめたものとなります。=※ Вы можете настроить все ползунки параметров в этом списке.
+
+// Used for Profile -> H-Scene/Nature
+YES=Да
+NO=Нет
+
+// Used for Profile -> Name/Nickname Entry Boxes
+決定=Применить
+キャンセル=Отмена
+
+// Used in a few different spots
+ランダム=Случайно
+
+// Type List Slots
+r:"^タイプ([０-９0-9]+)$"=r:"Тип $1" // Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
+
+// Emotion Creators Preorder Bonus added the ability to stop hair/accessory physics, which is shared, so this label goes in the generics
+揺れないようにする=Disable Physics
+
+//
+// Clothing Selection Stuff
+//
+
+コーディネートタイプ=Стиль одежды
+学生服（校内）=Школьная
+学生服（下校）=На улице
+//Gym Uniform
+水着=Купальник
+//Club Activities
+私服=Повседневная
+お泊り=После сна
+
+//
+// Right Sidebar Label
+//
+
+確認操作パネル=Панель управления
+
+// Right Sidebar -> Clothing State Options
+
+服の状態=Состояние одежды
+自動=Авто
+着衣=Верхняя
+下着=Белье
+全裸=Обнаж.
+
+// Right Sidebar -> Shoe Type Options
+
+表示する靴のタイプ=Вид обуви
+内履き=Внутри
+外履き=На улице
+
+// Right Sidebar -> Show Accessory Options
+
+アクセサリの表示=Аксессуары
+メイン=Главный
+サブ=Доп.
+
+// Right Sidebar -> Eye/Mouth Pattern Labels
+眉のパターン=Брови
+目のパターン=Взгляд
+目の開き=Открытость глаз
+瞬きをしない=Не моргать
+口のパターン=Шаблон рта
+口の開き=Открыть рот
+
+// Right Sidebar -> Eyebrow Patterns
+困り=Волнение
+疑問L=Сомнение-Л
+疑問R=Сомнение-П
+思案L=Задумчивый-Л
+思案R=Задумчивый-П
+怒り2L=Сердитый-Л
+怒り2R=Сердитый-П
+不安=Озабоченный
+ウィンクL=Подмигивающий-Л
+ウィンクR=Подмигивающий-П
+
+// Right Sidebar -> Eye Patterns
+両目閉じ=Закрытые глаза
+笑顔　両目閉じ=Закрытые в улыбке
+微笑=Счастливый
+ウィンク左=Подмигнуть-Л
+ウィンク右=Подмигнуть-П
+切ない=Несчастный
+照れ=Застенчивый
+苦しい=Болезненый
+思案=Размышление
+悲しい=Грустный
+泣き=Рыдающий
+困る=Взволнованый
+ぐるぐる目１=Круг 1
+ぐるぐる目２=Круг 2
+ぐるぐる目３=Спираль
+瞳に星=Зрачок звезда
+瞳にハート=Зрачок сердце
+目がハート=Глаза сердце
+目に炎=Горящие глаза
+デフォルメウィンク=Мультяшно подмиг.
+縦一文字=Вертик. линия
+デフォルメつむり=Мультяшно закрытые
+横一文字=Гориз. линия
+デフォルメ泣き=Мультяшно плачущие
+
+// Right Sidebar -> Mouth Patterns
+嬉しい=Счаст. (шир.)
+嬉しいs=Счаст. (умер.)
+嬉しいss=Счаст. (незнач.)
+ドキドキ=Возбужд. (шир.)
+ドキドキs=Возбужд. (умер.)
+ドキドキss=Возбужд. (незнач.)
+怒り2=Гнев 2
+真剣1=Серьезный 1
+真剣2=Серьезный 2
+寂しい=Грустный
+不満=Недовольный
+呆れ=Шок
+驚きs=Удивл. (умер.)
+舌ペロ=Игриво
+舐め=Лизать
+咥え=Закрытый
+キス=Поцелуй
+舌出し口開け=Показать язык
+あ　小=Мал. А
+あ　大=Больш. А
+い　小=Мал. В
+い　大=Больш. В
+う　小=Мал. С
+う　大=Больш. С
+え　小=Мал. D
+え　大=Больш. D
+お　小=Мал. E
+お　大=Больш. E
+ん　小=Мал. F
+ん　大=Больш. F
+猫口　閉じ=Кошачий
+デフォルメニコ=Мультяш. улыбка
+
+// Right Sidebar -> Gaze Direction Options
+視線の向き=Движение глаз
+首の向き=Движение головы
+ポーズ=Поза
+
+// Right Sidebar -> Gaze Direction Selections
+視線の向き調整=Направление взгляда
+
+// Right Sidebar -> Head Direction Selections
+首の向き調整=Направление головы
+アニメ=Из анимации
+
+// Right Sidebar -> Pose Selections
+基本=Обычно
+揺れ=Прыгать
+r:"^立ち([０-９][０-９])+$"=r:"Поза $1" // Pose prepends a 0 for its first nine, so can't just do the + RegEx shortcut.
+r:"^座り([０-９])$"=r:"Сидя $1"
+r:"^寝([０-９])$"=r:"Лежа $1"
+r:"^特殊([０-９])$"=r:"Спец. $1"
+r:"^Ｈ([０-９])$"=r:"H-поза $1"
+r:"^男立ち([０-９])$"=r:"Муж. стоя $1"
+
+// Added by Emotion Creators Preorder DLC
+// Right Sidebar -> Hand Patterns
+左手のパターン=Л-рука шаблон
+右手のパターン=П-рука шаблон
+r:"^パターン([0-9][0-9])$"=r:"Шаблон $1"
+
+// Right Sidebar -> Light Direction Options
+ライトの向き調整=Направление света
+X=Х
+Y=Y
+ライトの向きを初期化=Сброс освещения
+
+// Right Sidebar -> Background Options
+
+背景の種類=Задний план
+画像=Скрин
+単色=Фон
+背景色=Цвет
+
+// Right Sidebar -> Frame Options
+
+撮影フレーム=Рамка фото
+前面フレームを表示=Передняя рамка
+背面フレームを表示=Задняя рамка
+
+//
+// Color Picker Menu
+//
+
+カラー=Цвет
+ピッカー=Палитра
+スライダー=Ползунок
+プリセット=Образцы
+見本=Результат
+透明度=Прозрач.
+色合い=Оттенок
+鮮やかさ=Насыщен.
+明るさ=Яркость
+赤=Крас.
+緑=Зел.
+青=Син.
+HSV=HSV
+RGB=RGB
+サンプル=Образец
+全削除=Удалить все
+左クリックで適用=Л-клик для применения
+左クリックで現在のカラーを登録します=Л-клик - копир. текущ. цвет
+左クリックで適応、右クリックで削除します=Л-клик - применить, П-клик - удалить
+
+//
+// Face Menu
+//
+
+耳=Уши
+顎=Челюсть
+頬=Щёки
+眉=Брови
+目元=Глаза
+目=Зрачки
+鼻=Нос
+口=Рот
+ホクロ=Родинки
+化粧(基本)=Макияж (базовый)
+// From Patch 12/21 on, this label got changed. Disappointed, thought it was something new...
+化粧=Макияж
+
+// Face -> General
+// Emotion Creators preorder bonus added some extra stuff here, marked with an ECB comment
+
+頭の種類=Тип лица // ECB
+頭の種類に合わせたデフォルトの顔に戻す=Лицо по умолчанию // ECB
+顔の全体横幅=Ширина лица
+顔の上部前後=Глубина лба
+顔の上部上下=Высота лба
+顔の上部サイズ=Размер лба
+顔の下部前後=Глубина челюсти
+顔の下部横幅=Ширина челюсти
+特殊表現の種類=Cпец. эффекты
+特殊表現の強さ=Усиление эффекта
+
+// Face -> General -> Face Overlay Types
+シワ=Морщины
+r:"^強調([０-９])$"=r:"Акцент $1"
+強調１=Акцент-1
+強調２=Акцент-2
+境界線=Граница
+目周りの影=Тень вокруг глаз
+
+// Face -> Ears
+耳のサイズ=Размер ушей
+r:"^耳の角度([A-Z])軸$"=r:"Ось наклона уха $1"
+耳の上部形状=Верх ушей
+耳の下部形状=Мочки ушей
+
+// Face -> Jaw
+顎の下部上下=Высота под подбород.
+顎の下部奥行=Глуб. ниж. челюсти
+顎の上下=Высота челюсти
+顎の幅=Шир. ниж. челюсти
+顎の前後=Глуб. ниж. челюсти
+顎先の上下=Подбород. верт.
+顎先の前後=Подбород. глуб.
+顎先の幅=Подбород. шир.
+
+// Face -> Cheeks
+頬骨の幅=Ширина скул
+頬骨の前後=Глубина скул
+頬の幅=Полнота щёк
+頬の前後=Глубина щёк
+頬の上下=Обвисание щёк
+頬のツヤの強さ=Блеск щёк
+
+// Face -> Eyebrows
+眉の上下=Высота бровей
+眉の横位置=Интервал бровей
+眉の角度=Угол наклона
+眉の内側形状=Внутренний изгиб
+眉の外側形状=Внешний изгиб
+眉の種類=Вид бровей
+眉の色=Цвет бровей
+眉を髪より手前に表示=Брови перед волосами
+眉の色を髪と陰毛に反映する=Скопир. цвет на волосы и лобок
+眉の色を髪の色に合わせる=Скопир. цвет волос
+眉の色を陰毛の色に合わせる=Скопир. цвет лобковых волос
+コンフィグ依存=Авто
+
+// Face -> Eyes
+r:"^上まぶたの形状([０-９])$"=r:"Форма верх. века $1"
+r:"^下まぶたの形状([０-９])$"=r:"Форма нижн. века $1"
+上まぶたの形状１=Верх. веко внутр.
+上まぶたの形状２=Верх. веко центр
+上まぶたの形状３=Верх. веко наруж.
+下まぶたの形状１=Ниж. веко внутр.
+下まぶたの形状２=Ниж. веко центр
+下まぶたの形状３=Ниж. веко наруж.
+目の上下=Высота глаз
+目の横位置=Интервал глаз
+目の前後=Глубина глаз
+目の縦幅=Размер по высоте
+目の横幅=Размер по ширине
+目頭の左右位置=Внутр. углы глаз
+目尻の上下位置=Внеш. углы глаз
+アイライン上の種類=Верх. ресницы
+アイライン下の種類=Нижн. ресницы
+アイラインの色=Цвет ресниц
+
+// Face -> Iris
+白目のグラデ種類=Тень склеры
+r:"^白目の色([①-⑨])$"=r:"Цвет склеры $1"
+ハイライト上の種類=Верхний блеск зрачка
+ハイライト上の色=Цвет блеска
+ハイライト下の種類=Нижний блеск зрачка
+ハイライトの下色=Цвет блеска // Older Versions
+ハイライト下の色=Цвет блеска // Newer Versions
+ハイライト上の上下位置=Высота верх. блеска
+ハイライト下の上下位置=Высота ниж. блеска
+瞳の左右位置=Интерв. между зрачк.
+瞳の上下位置=Двигать вертик.
+瞳の幅=Ширина зрачка
+瞳の高さ=Высота зрачка
+目を髪より手前に表示=Глаза спереди волос
+瞳の設定方法=Редактировать
+両目=Оба глаза
+左目=Левый глаз
+右目=Правый глаз
+瞳の種類=Вид зрачка
+r:"^瞳の色([①-⑨])$"=r:"Цвет глаз $1"
+瞳のグラデ種類=Градиент глаз
+瞳のグラデ合成方法=Усиление градиента
+瞳のグラデ上下調整=Двигать вертик.
+瞳のグラデサイズ=Размер градиента
+左目の設定を右目に反映=Применить для правого
+右目の設定を左目に反映=Применить для левого
+※ 現在の目のパターンではアイシャドウは表示されません。=※ Тени для век не отображаются в шаблоне текущего глаза.
+
+// Face -> Nose
+鼻先の高さ=Длина конч. носа
+鼻の上下=Высота конч. носа
+鼻筋の高さ=Переносица
+鼻の種類=Контур носа
+
+// Face -> Mouth
+口の上下=Высота рта
+口の横幅=Ширина рта
+口の前後=Глубина рта
+口の形状上=Глубина верх. губы
+口の形状下=Глубина нижн. губы
+口の形状口角=Углы рта
+リップラインの種類=Линия губ
+リップラインの色=Цвет линии губ
+唇のツヤの強さ=Блеск на губах
+八重歯を表示する=Вкл. клыки
+
+// Face -> Moles
+ホクロの種類=Вид родинки
+ホクロの色=Цвет родинки
+ホクロの左右位置=Двигать гориз.
+ホクロの上下位置=Двигать верт.
+ホクロの大きさ=Размер родинки
+ホクロ位置プリセット=Предуст. позиции родинки
+
+// Face -> Moles -> Mole Types
+r:"^そばかす([０-９])$"=r:"Веснушки $1"
+
+// Face -> Moles -> Mole Position Presets
+ホクロ配置=Размещ. родинки
+左の口元=Слева под губой
+右の口元=Справа под губой
+左の口上=Слева над губой
+右の口上=Справа над губой
+右の目元=Под правым глазом
+左の目元=Под левым глазом
+額中央=Между бровей
+そばかす=На носу
+
+// Face -> Makeup
+アイシャドウの種類=Тени для век
+アイシャドウの色=Цвет тени для век
+チークの種類=Румяна
+チークの色=Цвет румян
+リップの種類=Вид губ
+リップの色=Цвет губ
+// Facepaint 01 Type is currently BUGGED - Also used for Face Overlay, Illusion needs to fix
+r:"^フェイスペイント(０[０-９])の種類$"=r:"Косметика $1 тип"
+r:"^フェイスペイント(０[０-９])配置$"=r:"Косметика $1 позиция"
+r:"^ペイント(０[０-９])左右位置$"=r:"Окраска $1 гориз."
+r:"^ペイント(０[０-９])上下位置$"=r:"Окраска $1 верт."
+r:"^ペイント(０[０-９])大きさ$"=r:"Окраска $1 размер"
+r:"^ペイント(０[０-９])位置プリセット$"=r:"Окраска $1 предуст. полож."
+//Paint 01 Type
+//Paint 01 Color
+//Paint 01 Rotation
+//Paint 02 Type
+//Paint 02 Color
+//Paint 02 Rotation
+
+// Face -> Paint -> Position Presets
+左頬=Левая щека
+右頬=Правая щека
+おでこ=Лоб
+
+// Face -> Sliders
+最小=Минимум
+最大=Максимум
+顔全体の横幅=Ширина лица
+顎の先上下=Высота подбород.
+顎の先前後=Глубина подбород.
+顎の先幅=Ширина подбород.
+
+//
+// Body Menu
+//
+
+胸=Грудь
+上半身=Верх
+下半身=Низ
+腕=Руки
+脚=Ноги
+爪=Ногти
+陰毛=Лобок
+日焼け跡=Загар
+ペイント=Тату
+
+// Body -> Overall
+身長=Рост
+頭のサイズ=Размер головы
+骨格タイプ=Тип скелета // Emotion Creators Preorder Bonus
+肉感の種類=Тип тела
+肉感の強さ=Усиление тени
+肌の色=Цвет кожи
+肌の色(赤み部分)=Цвет кожи (румянец)
+肌のツヤの強さ=Блеск для кожи
+肌ラインを表示する=Отображение линий изображения
+
+// Body -> Overall -> Skin Types
+ムキムキ=Мускулистое
+ポッチャリ=Пухлое
+スレンダー=Худощавое
+
+// Body -> Chest
+胸のサイズ=Размер груди
+胸の上下位置=Высота груди
+胸の左右開き=Разворот грудей
+胸の左右位置=Интервал грудей
+胸の尖り=Глубина груди
+胸の形状=Округлость груди
+胸の柔らかさ=Мягкость груди
+胸の重さ=Вес груди
+乳輪の膨らみ=Глубина ареолы
+乳首の太さ=Толщина сосков
+乳首立ち=Глубина сосков
+乳輪の大きさ=Размер ареолы
+乳首の種類=Вид сосков
+乳首の色=Цвет сосков
+乳首のツヤ強さ=Блеск сосков
+
+// Body -> Upper Body
+首周りの幅=Ширина шеи
+首周りの奥=Толщина шеи
+胴体肩周りの幅=Подн./опус. плечи
+胴体肩周りの奥=Объём груд. клетки
+胴体上の幅=Ширина груд. клетки
+胴体上の奥=Размер груд. клетки
+胴体下の幅=Ширина рёбер
+胴体下の奥=Верх. часть живота
+
+// Body -> Lower Body
+ウエストの位置=Положение талии
+腹部=Полнота
+腰上の幅=Ширина талии
+腰上の奥=Полнота талии
+腰下の幅=Ширина бёдер
+腰下の奥=Полнота бёдер
+尻のサイズ=Размер ягодиц
+尻の角度=Форма ягодиц
+
+// Body -> Arms
+肩幅=Ширина плеч
+肩の奥=Толщина плеч
+上腕の幅=Шир. выше локтей
+上腕の奥=Толщ. выше локтей
+肘周りの幅=Шир. ниже локтей
+肘周りの奥=Толщ. ниже локтей
+前腕=Толщ. выше кисти
+
+// Body -> Legs
+太もも上の幅=Ширина верх. бёдер
+太もも上の奥=Толщина верх. бёдер
+太もも下の幅=Ширина низ. бёдер
+太もも下の奥=Толщина низ. бёдер
+膝下の幅=Ширина коленей
+膝下の奥=Толщина коленей
+ふくらはぎ=Голень
+足首の幅=Ширина лодыжек
+足首の奥=Толщина лодыжек
+
+// Body -> Nails
+爪の色=Цвет ногтей
+爪のツヤの強さ=Блеск ногтей
+
+// Body -> Pubic Hair
+陰毛の種類=Стиль волос
+陰毛の色=Цвет волос
+陰毛の色を髪と眉に反映する=Скопир. цвет на волосы и брови
+陰毛の色を眉の色に合わせる=Скопир. цвет бровей
+陰毛の色を髪の色に合わせる=Скопир. цвет волос
+
+// Body -> Pubic Hair -> Pubic Hair Types
+四角=Прямоугольный
+小三角=Мал. триугольник
+丸=Круг
+薄い=Редкий круг
+小盾=Малый щит
+大盾=Большой щит
+太縦長=Длинный и широкий
+細縦長=Длинный и узкий
+薄縦長=Длинный и редкий
+大縦長=Широкий и редкий
+横長=Широкий
+そり跡=Щетина
+
+// Body -> Suntan
+日焼け跡の種類=Вид загара
+日焼け跡の色=Цвет
+
+// Body -> Suntan Types
+// This only covers stuff not listed under the generic "Type" stuff
+// (Which is all tans up until Character Design Addon Pack Vol. 2 (add08))
+電子回路=Электронная схема
+ライン=Линии
+
+// Body -> Body Paint
+//Paint 01 Type
+//Paint 01 Color
+r:"^ペイント(０[０-９])の配置$"=r:"Окраска $1 позиция"
+r:"^ペイント(０[０-９])左右補正$"=r:"Окраска $1 гориз."
+r:"^ペイント(０[０-９])上下補正$"=r:"Окраска $1 верт."
+r:"^ペイント(０[０-９])サイズ補正$"=r:"Окраска $1 размер"
+//Paint 01 Rotation
+//Paint 02 Type
+//Paint 02 Color
+//Paint 02 Rotation
+
+// Body -> Body Paint -> Body Paint Misc. Labels
+r:"^ボディーペイント(０[０-９])の配置$"=r:"Рисунок $1 позиция"
+r:"^ボディーペイント(０[０-９])の種類$"=r:"Рисунок $1 выбор"
+
+// Body -> Body Paint -> Body Paint Location
+腹・股間=Выше лобка
+背中・うなじ=Между лопатками
+腰=Талия
+右脚裏=Зад правого бедра
+右ふくらはぎ=Зад правой голени
+左脚裏=Зад левого бедра
+左ふくらはぎ=Зад левой голени
+右脚=Перед правого бедра
+左脚=Перед левого бедра
+右スネ=Правая голень
+左スネ=Левая голень
+右足=Правая стопа
+左足=Левая стопа
+左尻=Левое бедро
+右尻=Правое бедро
+左肩=Левое плечо
+左腕=Ниже локтя левой руки
+右肩=Правое плечо
+右腕=Ниже локтя правой руки
+
+//
+// Hair Menu
+//
+
+後ろ髪=Задние
+前髪=Чёлка
+横髪=Боковые
+エクステ=Дополнит.
+その他=Другие
+
+// Hair -> General Hair Settings
+前髪・後ろ髪・横髪・エクステの色を統一する=Общий цвет для прически
+根本と毛先の色を個別に設定する=Настройка цвета корня и кончника волос
+アウトラインの色を個別に設定する=Настройка контура
+髪の色を眉と陰毛に反映する=Скопировать цвет на брови и лобок
+髪の色を眉の色に合わせる=Скопировать цвет бровей
+髪の色を陰毛の色に合わせる=Скопировать цвет лобковых волос
+アウトラインの色=Цвет контура
+
+// Hair -> Hair Accessory Options
+r:"^髪飾りの色([①-⑨])$"=r:"Цвет аксесс. для волос $1"
+髪飾りの色を初期に戻す=Установ. цвет аксесс. по умолч.
+
+// Hair -> Back Hair
+後ろ髪の種類=Тип волос сзади
+後ろ髪の基本の色=Цвет волос
+後ろ髪の根本の色=Цвет корней
+後ろ髪の毛先の色=Цвет кончиков
+後ろ髪のアウトラインの色=Цвет контура
+後ろ髪の装飾の色０１=Цвет аксессуара-1
+
+// Hair -> Back Hair -> Hair Types
+ロングヘア=Длинные волосы
+ロングサイドテール(左)=Длинный боков. хвост (Л)
+ロングサイドテール(右)=Длинный боков. хвост (П)
+リボンなしロングサイド(左)=Длин. боков. хвост без ленты (Л)
+リボンなしロングサイド(右)=Длин. боков. хвост без ленты (П)
+ボブヘア=Боб волосы
+お嬢様ロング=Длинная оплетка
+ツインテール=Двойной хвост
+アップツイン=Высокий Twintail
+ショート=Короткий
+カールボブ=Кудрявый Боб
+サイドテール（左)=Боковой хвост (Л)
+サイドテール(右)=Боковой хвост (П)
+ベリーショート=Очень короткий
+ツインおさげ=Низкий Twintail
+結わえロング=Связанный длинный
+リボンなし結わえロング=Связан. длин. без ленты
+ポニーテール=Конский хвост-1
+ポニーテイル=Конский хвост-2
+リボンなしポニーテール=Конский хвост без ленты
+サイドアップ(左)=Стороной вверх (Л)
+サイドアップ(右)=Стороной вверх (П)
+三つ編み=Обвитые
+外はねロング=Длинные, пернатые
+ベリーロング=Очень длинные
+細ツインテール=Тонкие косички
+ツーサイドアップ=Две стороной вверх
+ストレートミディアム=Прямые средние
+セミロング=Полу-длинные
+// Character Design Addon Pack Vol. 1 (add06)
+ボリュームポニーテール=Толстый хвост
+外はねショート=Короткые, сметенные
+// Character Design Addon Pack Vol. 2 (add08)
+ぱっつんロング=Прямой срез, длинные
+// Character Design Addon Pack Vol. 3 (add09)
+三つ編みお団子=Плетеная булочка
+// Character Design Addon Pack Vol. 4 (add10)
+ゆるふわボブ=Свободный пушистый Боб
+くせっ毛ショート=Короткий, завитый
+//Wavy Long
+// Patch 0501/0502 (add11)
+ふわポニー=Fluffy Ponytail
+お団子シングル=Single Bun
+ふわポニーロング=Fluffy Long Ponytail
+カールポニー=Curled Ponytail
+ショートツイン=Short Twintails
+ショートツインカール=Short Curled Twintails
+お団子ダブル=Double Bun
+ショートツインロール=Short Twin Drills
+ツインカール=Curled Twintails
+ふわツインウェーブ=Fluffy Wavy Twintails
+ツインロール=Twin Drills
+// Patch 0629 (add12)
+ツイン三つ編み=Twin Braids
+ミディアムダウン=Medium Down
+ツインロングおさげ=Long Twintails
+ハーフアップ=Half-Up
+// Patch 0727 (add13/14)
+三つ編み横おさげ(左)=Horizontal Braid (Left)
+三つ編み横おさげ(右)=Horizontal Braid (Right)
+ぱっつんボブ=Straight-Cut Bang Bob
+カジュアルオールバック=Casual, All Back
+ツーサイドアップショート=Twin Side-Up Short
+// Emotion Creators Preorder Bonus
+ストレートカール後ろ=Straight, Curled Back
+切りそろえショート(右)=Short, Tucked Back (R)
+切りそろえショート(左)=Short, Tucked Back (L)
+ひとつ結び=Single Knot
+シトリーバック=Sitri Back
+エアリーボブ=Airy Bob
+つんショート後ろ=Short, Spiky
+リーゼント=Ducktail
+横分けショート前=Horizontal Divided, Short
+坊主=Buddhist Priest Cut
+カーリーショート後ろ=Curly, Short Back
+ふわセミロング=Fluffy, Shoulder Length
+つんはねショート=Short, Upswept Spikes
+ローツインテール=Narrow Twintails
+
+// Hair -> Front Hair
+前髪の種類=Чёлка
+前髪の長さ=Длина чёлки
+前髪の基本の色=Цвет чёлки
+前髪の根本の色=Цвет корней
+前髪の毛先の色=Цвет кончиков
+前髪のアウトラインの色=Цвет контура
+前髪の装飾の色０１=Цвет аксесс. 01
+
+// Hair -> Front Hair -> Front Hair Types
+ストレート=Прямо
+横はねカール(左)=Swept-Out Curl (L)
+横はねカール(右)=Swept-Out Curl (R)
+姫カット(左)=Princess Cut (L)
+姫カット(右)=Princess Cut (R)
+お嬢様分け=Ojousama Parted
+くせストレート=Curled Straight
+M字バング=M-Shaped Bangs
+ショートヘア=Short Hair
+きのこヘア=Mushroom
+切りっぱなし=Untrimmed
+ウェーブロング=Wavy Long
+前下がりボブ(左)=Low Parted Bob (L)
+前下がりボブ(右)=Low Parted Bob (R)
+中分ヘア(左)=Even Split (L)
+中分ヘア(右)=Even Split (R)
+おかっぱ=Bobbed
+前おさげ=Twintail Bangs
+縦巻きロール=Drill Rolls
+横分けぱっつん(左)=Parted Trimmed Bangs (L)
+横分けぱっつん(右)=Parted Trimmed Bangs (R)
+片目隠し(左)=Covering Eye (L)
+片目隠し(右)=Covering Eye (R)
+横流しヘア(左)=Sideswept (L)
+横流しヘア（右)=Sideswept (R)
+アイドルカット(左)=Idol Cut (L)
+アイドルカット（右)=Idol Cut (R)
+でこだし=Forehead-Showing
+でこだしウェーブ=Wavy Forehead-Showing
+カーブきのこ=Curved Mushroom
+でこだし横流し(左)=Forehead-Showing Sideswept (L)
+でこだし横流し(右)=Forehead-Showing Sideswept (R)
+M字バングストレート(左)=M-Shaped Straight Bangs (L)
+M字バングストレート(右)=M-Shaped Straight Bangs (R)
+横分けヘア(左)=Sideswept Parted (L)
+横分けヘア(右)=Sideswept Parted (R)
+// Character Design Addon Pack Vol. 1 (add06)
+ハネぱっつん=Straight Bangs, Swept Up
+// Character Design Addon Pack Vol. 2 (add08)
+ぱっつんエアインテーク=Straight-Cut, Air Intake
+// Character Design Addon Pack Vol. 3 (add09)
+ナイトバング=Knight Bangs
+// Character Design Addon Pack Vol. 4 (add10)
+ゆるふわボブ前=Loose Fluffy Bobbed Bangs
+くせっ毛ショート前=Short, Curled Bangs
+中分けぱっつん=Medium Straight-Cut Bangs
+// Patch 0501/0502 (add11)
+ウェーブショート=Wavy Short
+アップバング=Upward Swept Bangs
+// Patch 0629 (add12)
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
+でこジャギー=Jagged Forehead
+ハネミディアム=Medium Bangs, Swept Up
+ふわカール=Fluffy Curled
+// Patch 0727 (add13/14)
+サイドカール=Side Curl
+//Wavy Long
+スパイキー前=Spiky Bangs
+中分けミディアム=Medium, Middle Parted
+// Emotion Creators Preorder Bonus
+ストレートカール前=Straight, Curled Bangs
+撫でつけ(右)=Smoothed Down (Right)
+撫でつけ(左)=Smoothed Down (Left)
+横ハネ=Horizontal Wings
+横長ぱっつん=Oblong Straight-Cut Bangs
+横長くせっ毛=Horizontal Frizzy Hair
+シトリーフロント=Sitri Front
+エアリーボブ前(左)=Airy Bob Bangs (Left)
+エアリーボブ前(右)=Airy Bob Bangs (Right)
+つんショート前=Short, Spiky Bangs
+カーリーショート前=Curly, Short Bangs
+ドッグイヤー=Dog-Eared
+アシンメトリー前=Asymmetrical Bangs
+中分けデコ出し=Divided, Forehead-Exposing
+ミディアムストレート=Medium Straight
+
+// Hair -> Side Hair
+横髪の種類=Боковые волосы
+横髪の基本の色=Цвет боковых волос
+横髪の根本の色=Цвет корней
+横髪の毛先の色=Цвет кончиков
+横髪のアウトラインの色=Цвет контура
+横髪の装飾の色０１=Цвет аксесс. 01
+
+// Hair -> Side Hair -> Side Hair Types
+ほそロング=Fine And Long
+おさげ=Twintails
+太い=Thick
+ふとロング=Thick And Long
+はねロング=Feathered Long
+
+// Hair -> Extensions
+エクステの種類=Вид хохолка
+付け毛の種類=Вид хохолка
+エクステの基本の色=Цвет хохолка
+エクステの根本の色=Цвет корня
+エクステの毛先の色=Цвет кончика
+エクステのアウトラインの色=Цвет контура
+
+// Hair -> Extensions -> Extension Types
+ちょび=Tiny
+くるくる=Curled
+ギザギザ=Jagged
+触覚(1本)=Ahoge (Single)
+触覚(2本)=Ahoge (Twin)
+はね毛=Featherlike
+長触覚=Long Ahoge
+// Emotion Creators Preorder Bonus
+外はね=Outer Wings
+
+// Hair -> Miscellaneous
+ツヤの種類=Виды глянца
+
+// Hair -> Miscellaneous -> Highlight Types
+髪のツヤ種類=Вид дополнения
+線ハイライト=Выделение линии
+丸ハイライト=Circle Highlight
+雷ハイライト=Lightning Bolt Highlight
+帯ハイライト=Band Highlight
+四角ハイライト=Square Highlight
+// Character Design Addon Pack Vol. 1 (add06)
+ぼかし帯ハイライト=Gradient Band Highlight
+ぼかし四角ハイライト=Gradient Square Highlight
+ぼかし線ハイライト=Gradient Line Highlight
+
+//
+// Clothing Menu
+//
+
+トップス=Верх
+ボトムス=Низ
+ブラ=Лифчик
+ショーツ=Трусы
+手袋=Перчатки
+パンスト=Колготки
+靴下=Носки
+靴(内履き)=Обувь (вн.)
+靴(外履き)=Обувь (ул.)
+
+// Clothing -> Shared Options
+柄の種類=Тип шаблона
+胴の種類=Тип тела
+襟の種類=Тип воротника
+r:"^服の色([①-⑨])$"=r:"Цвет ткани $1"
+r:"^服の柄([①-⑨])$"=r:"Узор ткани $1"
+r:"^柄([①-⑨])の大きさ\\(幅\\)$"=r:"Ширина узора $1"
+r:"^柄([①-⑨])の大きさ\\(高さ\\)$"=r:"Высота узора $1"
+r:"^柄([①-⑨])の色$"=r:"Цвет узора $1"
+
+// Clothing -> Shared Cloth Patterns
+ストライプ=Верт. полосы
+斜めストライプ=Наклон. полосы
+ボーダー=Гориз. полосы
+r:"^チェック([A-Z])$"=r:"Клетчатый $1"
+市松チェック=Шахматная доска
+ハーリキンチェック=Арлекин клетчатый
+千鳥格子=Зуб гончей
+//Heart
+水玉=В горошек
+花柄=Цветы
+r:"^星([A-Z])$"=r:"Звезды $1"
+イチゴ=Клубника
+//Skull
+ヒョウ=Леопард
+シマウマ=Полосы зебры
+麻の葉=Шестигранники
+青海波=Океанские волны
+唐草=Арабеска
+矢絣=Оперение стрелы
+鹿子=Замша
+亀甲花菱=Черепаший панцирь
+ノルデック=Скандинавский
+迷彩=Камуфляж
+網=Сетка
+編み込み=Сплетенный
+レンガ=Кирпич
+グラデーションボーダー=Градиент
+縦線=Верт. линии
+横線=Гориз. линии
+モザイク=Мозаика
+アーガイル=Аргил
+チマヨ=Chimayo
+ギンガムチェック=Клетчатый ситец
+変則ストライプ=Нерег. верт. полосы
+変則ボーダー=Нерег. гориз. полосы
+//Circle
+// Patch 0727 (add13/14)
+//Hibiscus
+// Emotion Creators Preorder Bonus
+r:"^斜めチェック([A-Z])$"=r:"Наклонный клетчатый $1"
+中華模様=Китайский узор
+
+// Clothing -> Misc. Options
+r:"^オプション([①-⑨])を表示$"=r:"Показать опцию $1"
+
+// Clothing -> Top Labels
+r:"^トップスの色(０[０-９])$"=r:"Верх $1 цвет"
+r:"^トップス柄の色(０[０-９])$"=r:"Верх узор $1 цвет"
+
+// Clothing -> Bottom Labels
+r:"^ボトムスの色(０[０-９])$"=r:"Низ $1 цвет"
+r:"^ボトムス柄の色(０[０-９])$"=r:"Низ узор $1 цвет"
+
+// Clothing -> Bra Labels
+r:"^ブラの色(０[０-９])$"=r:"Лифчик $1 цвет"
+r:"^ブラ柄の色(０[０-９])$"=r:"Лифчик узор $1 цвет"
+
+// Clothing -> Underwear Labels
+r:"^ショーツの色(０[０-９])$"=r:"Трусы $1 цвет"
+r:"^ショーツ柄の色(０[０-９])$"=r:"Трусы узор $1 цвет"
+
+// Clothing -> Glove Labels
+r:"^手袋の色(０[０-９])$"=r:"Перчатки $1 цвет"
+r:"^手袋柄の色(０[０-９])$"=r:"Перчатки узор $1 цвет"
+
+// Clothing -> Pantyhose Labels
+r:"^パンストの色(０[０-９])$"=r:"Колготки $1 цвет"
+r:"^パンスト柄の色(０[０-９])$"=r:"Колготки узор $1 цвет"
+
+// Clothing -> Legwear Labels
+r:"^靴下の色(０[０-９])$"=r:"Носки $1 цвет"
+r:"^靴下柄の色(０[０-９])$"=r:"Носки узор $1 цвет"
+
+// Clothing -> Shoe Labels
+r:"^内履きの色(０[０-９])$"=r:"Обувь внутри $1 цвет"
+r:"^内履き柄の色(０[０-９])$"=r:"Обувь внутри узор $1 цвет"
+r:"^外履きの色(０[０-９])$"=r:"Обувь улица $1 цвет"
+r:"^外履き柄の色(０[０-９])$"=r:"Обувь улица узор $1 цвет"
+
+// Clothing -> Tops
+トップスを初期の状態に戻す=Восстан. цвета по умолч.
+トップスの種類=Верхная одежда
+インナーの種類=Нижняя одежда
+アウターの種類=Внешний вид
+装飾の種類=Вид аксессуара
+装飾の色=Цвет аксессуара
+装飾の柄=Узор ткани
+服の柄①=Узор ткани-1
+服の柄②=Узор ткани-2
+服の柄③=Узор ткани-3
+装飾の柄の大きさ(幅)=Ширина
+装飾の柄の大きさ(高さ)=Высота
+装飾の柄の色=Цвет рисунка
+エンブレムの種類=Эмблема
+// Emotion Creators Preorder Bonus Allows for two Emblem slots now
+r:"^エンブレム(0[0-9])の種類$"="Эмблема $1 тип"
+// Used in some Emotion Creators Preorder Bonus Outfits
+袖の種類=Тип рукава
+// Cosmetic Hackery...
+TypeA=Тип A
+TypeB=Тип B
+TypeC=Тип C
+
+// Clothing -> Top -> Top Type
+セーラータイプ=Sailor Type
+ジャケットタイプ=Jacket Type
+Tシャツ(無地)=T-Shirt (Plain)
+r:"^Tシャツ\\(柄([A-Z])\\)$"=r:"T-Shirt (Design $1)"
+ジャージ(フィット)=Jersey (To Waist)
+ジャージ(スカート)=Jersey (Over Skirt)
+ジャージ前開き=Open Jersey
+チアトップス=Cheerleader Top
+テニスウェア=Tennis Top
+ランニングウェア=Running Top
+弓道衣=Archery Top
+弓道衣胸当てなし=Archery Top Without Breastplate
+着物=Kimono
+着物(柄あり)=Kimono (Patterned)
+小悪魔トップス=Devil Top
+悪魔ワンピース=Demonic One-Piece
+アイドルワンピ=Idol One-Piece
+ワンピース=One-Piece
+白衣=Doctor's Coat
+スーツ=Suit
+ノースリーブワンピース=Sleeveless One-Piece
+カーディガンキャミソール=Cardigan Camisole
+ジャケットタンクトップ=Jacket And Tank Top
+キャミソール=Camisole
+パーカー前開き=Open Parka
+半開きパーカー=Partially-Open Parka
+ネグリジェ=Négligée
+ベビードール=Babydoll
+バスタオル=Bath Towel
+バニースーツ=Bunny Suit
+Tシャツ無地(男)=Plain T-Shirt (Boys)
+ネクタイブレザー(男)=Necktie Blazer (Boys)
+学ラン(男)=Gakuran (Boys)
+学ランTシャツ(男)=Gakuran And T-Shirt (Boys)
+ワイシャツ(男)=Dress Shirt (Boys)
+ワイシャツベスト(男)=Vest And Dress Shirt (Boys)
+パジャマ(上)=Pajama Top
+サロペット=Overalls
+裸サロペット=Naked Overalls
+裸エプロン=Naked Apron
+ロングワイシャツ=Long Dress Shirt
+ショルダーレスブラウス=Blouse With Shoulder Lace
+// Sofmap Exclusive Preorder Bonus (add01)
+キュートナース服=Cute Nurse Outfit
+// Magical Girl Preorder Bonus (add02)
+魔法学園制服上着=Magic Academy Uniform Top
+// Early Preorder Bonus (add03)
+セクシーランジェリー（上）=Sexy Lingerie (Top)
+// Preorder Bonus (add04)
+軍服=Military Uniform
+// Maid Preorder Bonus (add05)
+メイド服=Maid Top
+// Character Design Addon Pack Vol. 1 (add06)
+鬼神の装束(上)=Demon God's Costume (Top)
+// Character Design Addon Pack Vol. 3 (add09)
+騎士のスーツ=Knight's Armor
+// Character Design Addon Pack Vol. 4 (add10)
+裸サスペンダー=Naked Suspenders
+// Patch 0629 (add12)
+フリルワンピース=Frilly One-Piece Dress
+ワンピース(花柄)=One-Piece Dress (Flower Pattern) // Older Versions
+ワンピース（花柄）=One-Piece Dress (Flower Pattern) // Newer Versions
+ワンピース（無地）=One-Piece Dress (Plain)
+// Patch 0727 (add13/14)
+ショートパレオ=Short Pareo
+ショートパレオ（単色）=Short Pareo (Single Color)
+シースルーパレオ=See-Through Pareo
+セクシーパレオ=Sexy Pareo
+// Patch 1026 (add19)
+ハロウィントップス=Halloween Top
+// Afterschool DLC (add20/25)
+ウェディングドレス=Wedding Dress
+タキシード(男)=Tuxedo (Boys)
+パフスリーブトップス=Puffy-Sleeved Top
+ボリュームネックパーカー=Turtleneck Parka
+// Afterschool Preorder DLC (add 21/22/23)
+和メイドトップス=Japanese Maid Top
+CAトップス=Cabin Attendant Top
+//Naked Apron // Because yes - they really just had to name two different items the exact same thing.
+// Patch 1221 (add24/25/26)
+クリスマストップス=Christmas Top
+// Emotion Creators Preorder Bonus
+セーラーシャツ(男)=Sailor Shirt (Boys)
+セーラーノースリーブ(男)=Sleeveless Sailor (Boys)
+ベースボールシャツ(男)=Baseball Jersey (Boys)
+和風制服=Japanese-Style Uniform
+和風制服(無地)=Japanese-Style Uniform (Plain)
+洋風制服（ベスト）=Western-Style Uniform (Vest)
+洋風制服（ジャケット）=Western-Style Uniform (Jacket)
+ニットセーター=Knitted Sweater
+//Gym Uniform
+スポーツウェア(女)=Sportswear (Girls)
+サッカーシャツ(男)=Soccer Jersey (Boys)
+コンシェルジュスーツ=Concierge Suit
+シトリートップス=Sitri Top
+セーラーワンピース=One-Piece Sailor Suit
+r:"^クラシカルメイド([A-Z])$"="Classical Maid $1"
+キュートブラウス=Cute Blouse
+フロントリボン=Front Ribbon
+チャイナドレス=China Dress
+// Koikatsu Darkness DLC (via Emotion Creators)
+亀甲縛り=Bondage Ropes
+
+// Clothing -> Top -> Innerwear Types
+ワイシャツ=Рубашка
+ワイシャツ襟開け=Dress Shirt (Opened Collar)
+ワイシャツベスト=Vest And Dress Shirt
+ワイシャツパーカー=Parka And Dress Shirt
+肩吊りワイシャツ=Shoulder-Hung Dress Shirt
+//Gym Clothing
+//Camisole
+ノースリーブシャツ=Sleeveless Dress Shirt
+// Character Design Addon Pack Vol. 1 (add06)
+巫女内衣=Shrine Maiden's Robe
+// Character Design Addon Pack Vol. 4 (add10)
+チューブトップシャツ=Tube Top
+
+// Clothing -> Top -> Outerwear Types
+r:"^ブレザー([A-Z])$"=r:"Клуб. пиджак $1"
+ブレザーA前開き=Blazer A (Opened)
+ブレザーC(ライン色固定)=Blazer C (Fixed Line Color)
+ブレザーC前開き=Blazer C (Opened)
+ブレザーC前開き(ライン色固定)=Blazer C (Opened) (Fixed Line Color)
+カーディガン=Cardigan
+//Open Jersey
+学ラン前開き=Gakuran (Opened)
+うさ耳パーカー=Rabbit-Ears Parka
+ポンチョコート=Poncho Coat
+エプロン=Apron
+// Character Design Addon Pack Vol. 1 (add06)
+陣羽織=Battle Surcoat
+// Character Design Addon Pack Vol. 4 (add10)
+サスペンダー=Suspenders
+// Emotion Creators Preorder Bonus
+//Doctor's Coat
+
+// Clothing -> Top -> Decoration Types
+リボン=Бант
+細リボン=Fine Ribbon
+ネクタイ=Necktie
+ルーズネクタイ短=Loose Necktie (Short)
+ルーズネクタイ長=Loose Necktie (Long)
+// Maid Preorder Bonus (add05)
+メイドスカート=Maid Skirt
+// Character Design Addon Pack Vol. 1 (add06)
+のど輪=Throat Guard
+
+// Clothing -> Top -> Emblem Types
+赤と青=Красный и синий
+C=C
+H=H
+r:"^年数([Ⅰ-Ⅹ])$"=r:"Год $1"
+北=Север
+北2=Север 2
+南=Юг
+南2=Юг 2
+西=Запад
+西2=Запад 2
+東=Восток
+東2=Восток 2
+鷹=Сокол
+獅子=Лев
+くま=Медведь
+鉄十字学園=Академия Железного Креста
+サイコうさぎ=Психо Кролик
+r:"^番号(0[0-9])$"=r:"Номер $1"
+// Character Design Addon Pack Vol. 1 (add06)
+桔梗の紋(白)=Китайский колок. (Белый)
+桔梗の紋(黒)=Китайский колок. (Черный)
+三つ巴(白)=Секс втроем (Белый)
+三つ巴(黒)=Секс втроем (Черный)
+// Character Design Addon Pack Vol. 2 (add08)
+CAUTION=ВНИМАНИЕ
+DANGER=ОПАСНОСТЬ
+// Emotion Creators Preorder Bonus
+r:"^背番号([0-9][0-9])$"="Номер на форме $1"
+一角獣=Единорог
+
+// Clothing -> Bottom
+ボトムスを初期の状態に戻す=Восстановить цвета по умолчанию
+ボトムスの種類=Нижняя одежда
+
+// Clothing -> Bottom -> Bottom Types
+ブルマ=Bloomers
+ショートジャージ=Short Jersey Shorts
+ハーフジャージ=Long Jersey Shorts
+スカートジャージ=Skirt And Long Jersey Shorts
+ショートパンツ=Short Pants
+ロングパンツ=Long Pants
+ゆったりロングパンツ=Comfortable Long Pants
+ホットパンツ=Hotpants
+カーゴパンツ=Cargo Pants
+r:"^プリーツスカート([A-Z])$"=r:"Pleated Skirt $1"
+r:"^ボックススカート([A-Z])$"=r:"Box Skirt $1"
+r:"^フレアスカート([A-Z])$"=r:"Flared Skirt $1"
+プリーツスカートロングA=Long Pleated Skirt A
+プリーツスカートミニ=Pleated Miniskirt
+テニススカート=Tennis Skirt
+チアスカート=Cheerleader Skirt
+ランニングショーツ=Running Shorts
+弓道袴=Archery Skirt
+小悪魔スカート=Devil Skirt
+トレパン=Sweatpants
+フリルタイトスカート=Frilly Tight Skirt
+セクシータイトスカート=Sexy Tight Skirt
+タイトスカート=Tight Skirt
+ミニタイトスカート=Tight Miniskirt
+パジャマ(下)=Pajama Pants
+キュロットスカート=Culotte Skirt
+ハーフパンツ=Half Pants
+キュートパンツ=Cute Pants
+// Magical Girl Preorder Bonus (add02)
+魔法学園制服スカート=Magic Academy Uniform Skirt
+// Early Preorder Bonus (add03)
+セクシーランジェリー（下）=Sexy Lingerie (Bottom)
+// Preorder Bonus (add04)
+軍服タイトスカート=Military Tight Skirt
+// Character Design Addon Pack Vol. 1 (add06)
+巫女スカート=Shrine Maiden Skirt
+r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
+// Character Design Addon Pack Vol. 3 (add09)
+騎士のスカート=Knight's Skirt
+// Patch 0727 (add13/14)
+パレオ=Pareo Skirt
+// Patch 1026 (add19)
+カボチャパンツ=Pumpkin Pants
+// Afterschool DLC (add20/25)
+フォーマルパンツ=Formal Pants
+フリルスカート=Frilly Skirt
+// Afterschool Preorder DLC (add 21/22/23)
+和メイドボトム=Japanese Maid Skirt
+CAタイトスカート=Cabin Attendant Tight Skirt
+// Patch 1221 (add24/25/26)
+クリスマススカート=Christmas Skirt
+// Emotion Creators Preorder Bonus
+サスペンダーズボン=Suspender Pants
+ベースボールズボン=Baseball Pants
+ロングフレアスカート=Long Flared Skirt
+バスケットパンツ=Basketball Shorts
+サッカーパンツ=Soccer Shorts
+コンシェルジュスカート=Concierge Skirt
+r:"^クラシカルメイドスカート([A-Z])$"=r:"Classical Maid Skirt $1"
+
+// Clothing -> Bra
+ブラを初期の状態に戻す=Восстановить цвета по умолчанию
+ブラの種類=Тип лифчика
+
+// Clothing -> Bra Types
+リボンブラ=Ленточный бюстгальтер
+レーストップブラ=Lace Top Bra
+三角ブラ=Triangle Bra
+ストラップレスブラ=Strapless Bra
+スポーツブラ=Sports Bra
+ハーフトップブラ=Half-Top Bra
+スクール水着=School Swimsuit
+競泳水着=Competition Swimsuit
+ビキニ水着=Bikini Swimsuit
+サラシ=Gauze Bindings
+タンクトップブラ=Tank Top Bra
+リボンレースブラ=Ribbon Lace Bra
+オープンレースブラ=Open Lace Bra
+レースビスチェ=Lace Bustier
+エンブレムシール(上)=Seashells (Top)
+レオタード=Leotard
+ハイレグレオタード=High-Leg Leotard
+// Character Design Addon Pack Vol. 2 (add08)
+メカスーツ=Mecha Suit
+// Character Design Addon Pack Vol. 4 (add10)
+全身タイツ=Full-Body Tights
+大人ワンピース=Adult One-Piece
+// Patch 0831 (add100)
+ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
+// Additional Personalities DLC (add15/16/17/18)
+ラインタンガ=Line Tanga
+マイクロモノキニ=Micro Monokini
+クロスホルター=Cross Halter
+// Emotion Creators Preorder Bonus
+アンダーシャツ（女）=Undershirt (Girls)
+キュートブラ=Cute Bra
+ハートリボンブラ=Heart Ribbon Bra
+フラワーレースブラ=Flower Lace Bra
+
+// Clothing -> Underwear
+ショーツを初期の状態に戻す=Восстановить цвета по умолчанию
+ショーツの種類=Трусы
+
+// Clothing -> Underwear -> Underwear Types
+リボンショーツ=Ленточное белье
+レーストップショーツ=Lace Topped Panties
+ハイレッグショーツ=Hi-Leg Panties
+ローライズショーツ=Lowrise Panties
+スポーツショーツ=Sports Panties
+スタンダードショーツ=Standard Panties
+くまパンツ=Bear Panties
+//Bikini Swimsuit
+ブーメランパンツ=Boomerang Panties
+ふんどし=Fundoshi
+ファンシーショーツ=Fancy Panties
+リボンレースーショーツ=Lace Ribbon Panties
+オープンレースショーツ=Open Lace Panties
+エレガントショーツ=Elegant Panties
+エンブレムシール(下)=Emblem Seal (Lower)
+// Patch 0831 (add100)
+ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
+// Afterschool DLC (add20/25)
+ウェディングショーツ=Wedding Panties
+// Emotion Creators Preorder Bonus
+キュートショーツ=Cute Panties
+ハートリボンショーツ=Heart Ribbon Panties
+フラワーレースショーツ=Flower Lace Panties
+
+// Clothing -> Gloves
+手袋を初期の状態に戻す=Восстановить цвета по умолчанию
+手袋の種類=Вид перчаток
+
+// Clothing -> Glove Types
+弓かけ=Archery Glove
+小悪魔手袋=Devil Gloves
+アイドル手袋=Idol Gloves
+指先絆創膏左手=Left Hand Fingertip Bandage
+指先絆創膏右手=Right Hand Fingertip Bandage
+//Gloves
+長手袋=Long Gloves
+// Magical Girl Preorder Bonus (add02)
+魔法学園制服の袖=Magic Academy Uniform Sleeves
+// Preorder Bonus (add04)
+将校の手袋=Commissioned Officer Gloves
+// Maid Preorder Bonus (add05)
+メイド服の袖=Maid Sleeves
+// Character Design Addon Pack Vol. 1 (add06)
+巫女武者手甲=Shrine Maiden Warrior Bracers
+鬼神の小手=Demon God's Gauntlets
+// Character Design Addon Pack Vol. 2 (add08)
+メカグローブ=Mecha Gloves
+// Character Design Addon Pack Vol. 3 (add09)
+騎士の手袋=Knight's Gloves
+// Character Design Addon Pack Vol. 4 (add10)
+メカハンド=Mecha Hands
+// Afterschool DLC (add20/25)
+ウェディングパフ=Wedding Sleeves
+ウェディングリボンポイント=Wedding Ribbon Gloves
+ウェディングショート=Short Wedding Gloves
+// Patch 1221 (add24/25/26)
+クリスマスミトン=Christmas Mittens
+// Emotion Creators Preorder Bonus
+ベルトグローブ=Belt Gloves
+ベルトグローブ(指ぬき)=Belt Gloves (Fingerless)
+ショートグローブ(指ぬき)=Short Gloves (Fingerless)
+肘サポーター=Elbowpads
+コンシェルジュスリーブ=Concierge Sleeves
+桔梗飾りのグローブ=Chinese Bellflower Gloves
+チャイナグローブ=China Gloves
+
+// Clothing -> Pantyhose
+パンストを初期の状態に戻す=Восстановить цвета по умолчанию
+パンストの種類=Вид колготок
+
+// Clothing -> Pantyhose Types
+r:"^パンスト([A-Z])$"=r:"Pantyhose $1"
+r:"^厚手パンスト([A-Z])$"=r:"Thick Pantyhose $1"
+スパッツ=Spats
+アンダースコート=Underskirt Panties
+ガーターベルト=Garter Belt
+網タイツ=Fishnet Tights
+レギンス=Leggings
+// Preorder Bonus (add04)
+将校のガーターベルト=Commissioned Officer Garter Belt
+// Afterschool DLC (add20/25)
+ウェディングガーター=Wedding Garters
+// Emotion Creators Preorder Bonus
+ベースボールストッキング=Baseball Stockings
+膝サポーター=Kneepads
+ロングスパッツ=Long Spats
+ガードル=Girdle
+キュートガーター=Cute Garters
+シンプルガーター=Simple Garters
+// Koikatsu Darkness DLC (via Emotion Creators)
+パンスト(破れ)=Pantyhose (Torn)
+
+// Clothing -> Legwear
+靴下を初期の状態に戻す=Восстановить цвета по умолчанию
+靴下の種類=Вид носков
+
+// Clothing -> Legwear Types
+ハイソックス=High Socks
+色分けハイソックス=Colored Cuff High Socks
+ルーズソックス=Loose Socks
+ニーソックス=Kneesocks
+アンクルソックス=Ankle Socks
+フットカバー=Foot Covers
+r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
+足袋=Tabi Socks
+小悪魔ニーソックス=Devil Kneesocks
+アイドルニーソックス=Idol Kneesocks
+シームニーソックス=Seamed Kneesocks
+フリルニーソックス=Frilly Kneesocks
+クルーソックス（折り返し）=Crew Socks (Cuffed)
+レッグウォーマー=Leg Warmers
+// Sofmap Exclusive Preorder Bonus (add01)
+網ニーソックス=Netted Kneesocks
+// Magical Girl Preorder Bonus (add02)
+魔法のニーソックス=Magical Kneesocks
+// Preorder Bonus (add04)
+将校のブーツ=Commissioned Officer Boots
+// Character Design Addon Pack Vol. 1 (add06)
+巫女ニーソックス=Shrine Maiden Kneesocks
+// Character Design Addon Pack Vol. 2 (add08)
+メカソックス=Mecha Socks
+// Character Design Addon Pack Vol. 3 (add09)
+騎士のソックス=Knight's Socks
+// Patch 1026 (add19)
+ハロウィンソックス=Halloween Socks
+// Afterschool DLC (add20/25)
+ウェディングソックス=Wedding Socks
+// Patch 1221 (add24/25/26)
+クリスマスソックス=Christmas Socks
+// Emotion Creators Preorder Bonus
+桔梗飾りのニーソックス=Chinese Bellflower Kneesocks
+キュートソックス=Cute Socks
+キュートハイソックス=Cute High Socks
+シースルーニーソ=See-Through Kneesocks
+チャイナソックス=China Socks
+
+// Clothing -> Shoes
+内履きを初期の状態に戻す=Восстановить цвета по умолчанию
+外履きを初期の状態に戻す=Восстановить цвета по умолчанию
+靴の種類=Вид обуви
+
+// Clothing -> Shoe Types
+ローファー=Мокасины
+上履き=Тапочки
+運動靴=Sneakers
+ランニングシューズ=Running Shoes
+チアブーツ=Cheerleader Boots
+小悪魔パンプス=Devil Pumps
+アイドルパンプス=Idol Pumps
+リボンパンプス=Ribbon Pumps
+サンダル=Sandals
+サイドリボンパンプス=Side-Ribbon Pumps
+パンプス=Pumps
+ビーチサンダル=Beach Sandals
+フラワーサンダル=Flower Sandals
+便所サンダル=Bathroom Sandals
+ベルトブーツ=Belt Boots
+リボンストラップサンダル=Ribbon-Strap Sandals
+草履=Zori
+ハイカットスニーカー=High-Cut Sneakers
+ダンスシューズ=Dance Shoes
+// Sofmap Exclusive Preorder Bonus (add01)
+キュートナースシューズ=Cute Nurse Shoes
+// Magical Girl Preorder Bonus (add02)
+魔法のブーツ=Magical Boots
+// Maid Preorder Bonus (add05)
+ラウンドパンプス=Round Pumps
+// Character Design Addon Pack Vol. 1 (add06)
+鬼神の脛当て=Demon God's Greaves
+// Character Design Addon Pack Vol. 3 (add09)
+騎士のブーツ=Knight's Boots
+// Character Design Addon Pack Vol. 4 (add10)
+メカブーツ=Mecha Boots
+// Patch 0629 (add12)
+ブロッサムサンダル=Blossom Sandals
+コルクサンダル=Cork Sandals
+// Patch 0727 (add13/14)
+シェルサンダル=Shell Sandals
+// Patch 1026 (add19)
+ハロウィンシューズ=Halloween Shoes
+// Afterschool DLC (add20/25)
+ウェディングシューズ=Wedding Shoes
+フォーマルシューズ=Formal Shoes
+レースアップブーツ=Lace-Up Boots
+// Afterschool Preorder DLC (add 21/22/23)
+ショートレースアップブーツ=Short Lace-Up Boots
+CAシューズ=Cabin Attendant Shoes
+// Patch 1221 (add24/25/26)
+クリスマスブーツ=Christmas Boots
+// Emotion Creators Preorder Bonus
+リングブーツ=Ring Boots
+ベースボールシューズ=Baseball Cleats
+バスケットシューズ=Basketball Shoes
+コンシェルジュブーツ=Concierge Boots
+タッセルローファー=Tassel Loafers
+メイドシューズ=Maid Shoes
+チャイナシューズ=China Shoes
+
+// Clothing -> Copy Menu
+コピー元のコーディネート=Откуда
+コピー先のコーディネート=Куда
+r:"^パーツ([A-Z])$"=r:"Часть $1"
+全選択=Все
+全解除=Ничего
+
+//
+// Accessory Menu
+//
+
+// Accessory Main Menu Options
+タイプや種類変更時に前回の親を引き継ぐ=Предыдущая позиция при смене аксессуара
+種類変更時に前回の色を引き継ぐ=Предыдущий цвет при смене аксессуара
+タイプ=Часть тела
+
+// Slot Lists
+// Illusion was extra fucking derpy and cannot into numbers - yes, there's various cases where they mixed fullwidth and halfwidth numbers
+r:"^スロット([０-９0-9][０-９0-9])$"=r:"Слот $1"
+入れ替え=Перенос
+
+// Slot Type Labels
+髪=Волосы
+頭=Голова
+顔=Лицо
+首=Шея
+胴=Тело
+手=Кисть
+股間周り=Вокруг промежности
+
+// Slot Menu Dialogue
+種類=Аксессуар
+親=Исходный
+親を初期設定に戻す=Позиция по умолч.
+左右の親を入れ替え=Поменять стороны
+r:"^カラー([①-⑨])$"="Цвет $1"
+アクセサリの色を初期に戻す=Восстан. цвет по умолч.
+r:"^調整(0[0-9])$"=r:"Регулир. $1"
+クリックで編集します=Изменить положение
+操作軸を表示する=Показ. ось управл.
+(                                )=(                             )
+移動=Дви\nгать
+回転=Кру-\nтить
+速度=Темп
+大きさ=Размер
+グループ=Группа
+※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。=※ Показ аксессуаров может регулироваться с помощью кнопок выше. Когда установлено значение «Доп», оно будет скрыто во время H-сцен.
+※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。=※ Аксессуары могут регулироваться с помощью кнопок выше. Когда установлено значение «Доп», оно будет скрыто во время H-сцен.
+"※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。"="※ You can use this to hide a whole group\n　 of accessories at once.\n　 The Sub group will be hidden during H-Scenes."
+
+// Fun Slot Adjustment Shit
+// You have no idea how tedious it was to type out the Non-RegEx version of this...
+r:"^スロット([0-9][0-9])の親を選択$"=r:"Слот $1 выбор исходного"
+r:"^スロット([0-9][0-9])の調整(0[0-9])$"=r:"Слот $1 регулировка $2"
+
+// Slot Colors
+r:"^スロット([0-9][0-9]) カラー([①-⑨])$"=r:"Слот $1 цвет $2" // And 80 lines withered away.
+
+// Accessory Movement Dialogue
+XYZの文字を左右ドラッグでも調整できます=Вы можете настроить оси X-Y-Z, перетаскивая влево и вправо
+移動量=Движение
+0.1=0.1
+1.0=1.0
+10.0=10.0
+r:"^位置 ([Ａ-Ｚ])$"=r:"$1 положение"
+回転量=Поворот
+5.0=5.0
+r:"^回転 ([Ａ-Ｚ])$"=r:"$1 поворот"
+拡縮量=Масштаб
+0.01=0.01
+r:"^拡縮 ([Ａ-Ｚ])$"=r:"$1 масштаб"
+値をコピー=Копир. значения
+値を貼り付け=Встав. значения
+全てリセット=Сбросить все
+
+// Accessory Parent List
+親を選択=Выбрать элемент
+---------------------- 髪 ----------------------=---------------------- Волосы ------------------------
+ポニー=Хвостик
+ツイン左=Слева
+ツイン右=Справа
+ヘアピン左=Шпилька левая
+ヘアピン右=Шпилька правая
+---------------------- 頭 ----------------------=---------------------- Голова ----------------------
+帽子=Шапка
+額=Лоб
+頭上=Впереди
+頭中心=Центр
+---------------------- 顔 ----------------------=---------------------- Лицо ----------------------
+イヤリング左=Серьга левая
+イヤリング右=Серьга правая
+眼鏡=Очки
+---------------------- 首 ----------------------=---------------------- Шея ------------------------
+胸上=Горло
+胸上中央=Центр
+---------------------- 胴 ----------------------=---------------------- Тело ------------------------
+左乳首=Сосок слева
+右乳首=Сосок справа
+背中中央=Назад центр
+背中左=Назад влево
+背中右=Назад вправо
+---------------------- 腰 ----------------------=---------------------- Талия ------------------------
+腰前=Живот
+腰後ろ=Сзади
+腰左=Слева
+腰右=Справа
+---------------------- 脚 ----------------------=---------------------- Ноги ------------------------
+左太もも=Левое бедро
+左ひざ=Левое колено
+左足首=Левая лодыжка
+かかと左=Левый каблук
+右太もも=Правое бедро
+右ひざ=Правое колено
+右足首=Правая лодыжка
+かかと右=Правый каблук
+---------------------- 腕 ----------------------=---------------------- Руки ------------------------
+左上腕=Предплечье
+左ひじ=Локоть
+左手首=Запястье
+右上腕=Предплечье
+右ひじ=Локоть
+右手首=Запястье
+---------------------- 手 ----------------------=---------------------- Лодони ----------------------
+左手=Левая рука
+左人差指=Указ. палец
+左中指=Сред. палец
+左薬指=Безым. палец
+右手=Правая рука
+右人差指=Указ. палец
+右中指=Сред. палец
+右薬指=Безым. палец
+--------------------- 股間 ---------------------=--------------------- Промежность ---------------------
+男根根本=Пенис
+女性器=Вагина
+尻穴=Анус
+
+//Accessory Dialogue Box Label List
+アクセサリ（髪）の種類=Аксессуары (волосы)
+アクセサリ（頭）の種類=Аксессуары (голова)
+アクセサリ（顔）の種類=Аксессуары (лицо)
+アクセサリ（首）の種類=Аксессуары (шея)
+アクセサリ（胴）の種類=Аксессуары (тело)
+アクセサリ（腰）の種類=Аксессуары (талия)
+アクセサリ（脚）の種類=Аксессуары (ноги)
+アクセサリ（腕）の種類=Аксессуары (руки)
+アクセサリ（手）の種類=Аксессуары (кисти)
+アクセサリ（股間）の種類=Аксессуары (промежн.)
+
+// Accessories -> Hair
+ヘアピン=Hairpin
+クロスヘアピン=Cross Hairpin
+髪留め=Barette
+安全ピン=Safety Pin
+星の髪飾り=Star Ornament
+星のバレッタ=Star Barette
+ハートの髪飾り=Heart Ornament
+ハートのバレッタ=Heart Barette
+蝶の髪飾り=Butterfly Ornament
+ドクロの髪飾り=Skull Ornament
+r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
+大きなリボン=Large Ribbon
+花=Flower
+ハイビスカス=Hibiscus
+花の髪飾り（揺れ）=Flower Ornament (Moves)
+牡丹の髪飾り=Tree Peony Ornament
+// Character Design Addon Pack Vol. 2 (add08)
+メカヘアー=Mecha Hair
+メカループ=Mecha Loop
+メカウィングリング=Mecha Winged Ring
+// Patch 0727 (add13/14)
+貝殻=Seashell
+ヒトデ=Starfish
+// Afterschool Preorder DLC (add 21/22/23)
+サクラの髪飾り=Cherry Blossom Ornament
+// Patch 1221 (add24/25/26)
+雪の結晶=Snowflake
+// Emotion Creators Preorder Bonus
+テントウムシ=Ladybug
+//Ribbon
+桔梗の髪飾り=Chinese Bellflower Ornaments
+ワッペン=Badge
+
+// Accessories -> Head
+//Ribbon
+ヘアバンド=Hairband
+結びヘアバンド=Knotted Hairband
+紐リボン=String Ribbon
+ヘッドホン=Headphones
+密着型ヘッドホン=Snug Headphones
+水泳キャップ=Swimming Cap
+サンバイザー=Sun Visor
+カラー帽子=Colored Hat
+麦わら帽子=Straw Hat
+野球ヘルメット=Baseball Helmet
+パーティーハット=Party Hat
+王冠=Crown
+悪魔の角=Devil Horns
+めんだこ=Flapjack Octopus
+カニ=Crab
+きのこ=Mushroom
+鉢巻=Headband
+うなぎ=Eel
+キツネ耳=Fox Ears
+猫のおもちゃ=Toy Cat
+あほ毛=Ahoge
+くるくるあほ毛=Curly Ahoge
+ギザギザあほ毛=Jagged Ahoge
+ちょびあほ毛=Tiny Ahoge
+ハートあほ毛=Heart Ahoge
+ベレー帽=Beret
+うさ耳バンド=Bunny Ears Hairband
+天使の輪=Angel Halo
+うさぎの着ぐるみ頭=Rabbit Costume Head
+いぬの着ぐるみ頭=Dog Costume Head
+三角巾=Bandanna
+// Sofmap Exclusive Preorder Bonus (add01)
+キュートナースキャップ=Cute Nurse Cap
+// Magical Girl Preorder Bonus (add02)
+魔法の帽子=Magical Hat
+// Early Preorder Bonus (add03)
+猫耳（右）=Cat Ear (Right)
+猫耳（左）=Cat Ear (Left)
+鈴付きリボン=Ribbon and Bell
+// Preorder Bonus (add04)
+将校の帽子=Commissioned Officer Hat
+// Maid Preorder Bonus (add05)
+メイドヘアバンド=Maid Hairband
+メイドカチューシャ=Maid Headband
+// Character Design Addon Pack Vol. 1 (add06)
+羊の角=Sheep Horns
+牛の角=Cow Horns
+一角=Unicorn Horn
+// Character Design Addon Pack Vol. 2 (add08)
+メカレシーバー=Mecha Receiver
+r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
+メカポッド=Mecha Pod
+メカシールド=Mecha Shield
+メカゴーグル=Mecha Goggles
+メカバイザー=Mecha Visor
+メカボール=Mecha Ball
+メカポール=Mecha Pole
+メカビームポール=Mecha Beam Pole
+メカデルタ=Mecha Delta
+メカボックス=Mecha Box
+メカサークル=Mecha Circle
+メカウィング=Mecha Wing
+メカブースター=Mecha Booster
+メカチューブ=Mecha Tube
+メカシザー=Mecha Scissors
+メカドリル=Mecha Drill
+艦艇の模型=War Fleet Model
+魚雷発射管の模型=Torpedo Tube Model
+2連装砲台の模型=Twin Gun Mount Model
+メカアンテナ=Mecha Antenna
+メカウイングⅡ=Mecha Wing Ⅱ
+メカバイザーⅡ=Mecha Visor Ⅱ
+// Character Design Addon Pack Vol. 3 (add09)
+ロイヤルクラウン=Royal Crown
+羽の髪飾り左用=Left Hair Feather
+羽の髪飾り右用=Right Hair Feather
+ナイトバイザー=Knight Visor
+鎧兜=Armored Helmet
+毛玉=Furball
+// Character Design Addon Pack Vol. 4 (add10)
+玉飾り=New Year Ornament
+// Patch 0629 (add12)
+つば広帽子=Wide-Brimmed Hat
+// Patch 1026 (add19)
+パンプキンクラウン=Pumpkin Crown
+ハロウィンゴースト=Halloween Ghost
+// Afterschool DLC (add20/25)
+ウェディングティアラ=Wedding Tiara
+ウェディングヴェール=Wedding Veil
+r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
+// Afterschool Preorder DLC (add 21/22/23)
+ヘッドドレス=Headdress
+CAキャップ=Cabin Attendant Cap
+// Patch 1221 (add24/25/26)
+サンタ帽子=Santa Hat
+// Emotion Creators Preorder Bonus
+猫耳=Cat Ears
+ニット帽子=Knitted Hat
+紐付きニット帽子=Knitted Hat (With Strings)
+猫型ニット帽子=Cat-Style Knitted Hat
+毛糸の毛玉=Ball Of Woollen Yarn
+シルクハット=Silk Hat
+キュートリボン=Cute Ribbon
+コンシェルジュハット=Concierge Hat
+セーラーハット=Sailor Hat
+メイドキャップ=Maid Cap
+メイドプリム=Maid Prim
+
+// Accessories -> Face
+スクエア=Square Glasses
+ウェリントン=Wellington Glasses
+スポーツ=Sports Glasses
+オーバル=Oval Glasses
+ラウンド=Round Glasses
+丸瓶底眼鏡=Thick Circle Glasses
+シューティンググラス=Shooting Glasses
+アンダーリム=Under Rim Glasses
+アンダーリム(細)=Under Rim Glasses (Narrow)
+フレームレス=Frame Lenses
+水泳ゴーグル=Swimming Goggles
+眼帯右用=Left Eyepatch
+眼帯左用=Right Eyepatch
+r:"^ハート([A-Z])$"=r:"Heart $1"
+スペード=Spade
+ダイア=Diamond
+クローバー=Club
+ムーン=Moon
+スター=Star
+ビッグスター=Big Star
+エンジェル=Cupid
+ソードスカル=Sword And Skull
+ハートインカム=Heart Headset
+プリーツマスク=Sickness Mask
+トースト=Toast
+ピエロの鼻=Clown Nose
+ガラスの鼻=Glass Nose
+//Third Eye
+ワンポイント=Starpoint Earring
+土星=Saturn Earring
+// Character Design Addon Pack Vol. 1 (add06)
+鬼神の額当て（右）=Demon God's Brow Guard (Right)
+鬼神の額当て（左）=Demon God's Brow Guard (Left)
+// Patch 0629 (add12)
+雫=Drop Earring
+// Afterschool DLC (add20/25)
+ウェディング雫=Wedding Earring
+// Emotion Creators Preorder Bonus
+ぼんぼりピアス=Paper Lamp Earring
+
+// Accessories -> Neck
+マフラー=Muffler
+ロングネクタイ=Long Necktie
+リボンチョーカー=Ribbon Choker
+小悪魔チョーカー=Devil Choker
+ホイッスル=Whistle
+聴診器=Stethoscope
+首枷=Metal Collar
+蝶ネクタイ=Bow Tie
+首掛けメガホン=Hanging Megaphone
+ハートペンダント=Heart Pendant
+リボンペンダント=Ribbon Pendant
+一粒ペンダント=Starpoint Pendant
+星のペンダント=Star Pendant
+土星のペンダント=Saturn Pendant
+// Early Preorder Bonus (add03)
+鈴付きチョーカー=Bell Choker
+// Preorder Bonus (add04)
+階級バッジ=Rank Badge
+// Character Design Addon Pack Vol. 1 (add06)
+鈴=Bell
+シデ=Shinto Paper Streamer
+鬼神のリボン=Demon God's Ribbon
+勾玉の首飾り=Magatama Amulet
+// Character Design Addon Pack Vol. 2 (add08)
+メカタイ=Mecha Tie
+// Character Design Addon Pack Vol. 3 (add09)
+ロイヤルリボン=Royal Ribbon
+// Patch 0629 (add12)
+3ポイント=Three-Jewel Necklace
+// Patch 1026 (add19)
+ハロウィンリボン=Halloween Ribbon
+// Afterschool DLC (add20/25)
+ウェディングチョーカー=Wedding Choker
+フォーマルリボン=Bow Tie
+//Slider // BADLY needs an override - this should be "Zipper"
+ネームプレート=Nameplate // I guess if your name is "Wedding Planner," it's accurate enough... and guess what, that's exactly what her name is on her Character Card.
+// Afterschool Preorder DLC (add 21/22/23)
+CAネッカチーフ=Cabin Attendant Neckerchief
+// Patch 1221 (add24/25/26)
+クリスマスリボン=Christmas Ribbon
+// Emotion Creators Preorder Bonus
+エトワールブローチ=Star Choker
+スカーフ=Scarf
+シンプルブローチ=Simple Choker
+ヴィンテージブローチ=Vintage Choker
+マント=Mantle
+シトリースカーフ=Sitri Scarf
+シトリータイ=Sitri Tie
+
+// Accessories -> Torso
+リュックサック=Backpack
+背負いボストン=Boston Bag
+背負いカバン=Leather Backpack
+ポスターリュックサック=Backpack With Posters
+小悪魔の翼左用=Left Devil Wing
+小悪魔の翼右用=Right Devil Wing
+悪魔の翼左用=Left Demon Wing
+悪魔の翼右用=Right Demon Wing
+乳首リング=Nipple Ring
+乳首リングジュエル=Jeweled Nipple Ring
+乳首クリップ=Nipple Clip
+乳首洗濯ばさみ=Nipple Clothespin
+乳首ローター=Nipple Rotor
+天使の翼左用=Left Angel Wing
+天使の翼右用=Right Angel Wing
+ギターケース=Guitar Case
+// Character Design Addon Pack Vol. 3 (add09)
+アーマープレート=Armor Plate
+
+// Accessories -> Hips
+腰巻カーディガン=Wrapped Cardigan
+エレガントリボン=Elegant Ribbon
+テールリボン=Tail Ribbon
+ウォレットチェーン=Wallet Chain
+刀の鞘=Sword Sheath
+小悪魔尻尾=Devil Tail
+悪魔尻尾=Demon Tail
+ウサギ尻尾=Rabbit Tail
+キツネ尻尾=Fox Tail
+エレキギター=Electric Guitar
+ベルト=Belt
+// Early Preorder Bonus (add03)
+猫尻尾=Cat Tail
+// Preorder Bonus (add04)
+将校のサーベル=Commissioned Officer Sabre
+// Character Design Addon Pack Vol. 1 (add06)
+鞘小太刀=Sheathed Short Sword
+白木拵え納刀=Sheathed Wooden Sword
+白木拵えの鞘=Wooden Sword Sheath
+2連鞘刀=Twin Sheathed Swords
+鬼神の腰当右用=Demon God's Hip Guard (Right)
+鬼神の腰当左用=Demon God's Hip Guard (Left)
+// Character Design Addon Pack Vol. 2 (add08)
+メカアンプ=Mecha Amplifier
+// Character Design Addon Pack Vol. 3 (add09)
+騎士の腰当右用=Knight's Right Hip Armor
+騎士の腰当左用=Knight's Left Hip Armor
+ロングソードの鞘=Longsword Sheath
+// Patch 0831 (add100)
+浮き輪=Swimming Ring
+浮き輪(ドーナツ)=Swimming Ring (Donut)
+浮き輪(猫)=Swimming Ring (Cat)
+サイドドレープ=Side Drapes
+// Afterschool DLC (add20/25)
+ウェディングバッスル=Wedding Bustle
+ウェディングリボン=Wedding Ribbon
+
+// Accessories -> Legs
+チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
+チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
+フリルガーターリング（左）=Frilly Garter Ribbon (Left)
+フリルガーターリング（右）=Frilly Garter Ribbon (Right)
+// Sofmap Exclusive Preorder Bonus (add01)
+注射ガーターリング（左）=Injection Ring Garter (Left)
+注射ガーターリング（右）=Injection Ring Garter (Right)
+// Character Design Addon Pack Vol. 4 (add10)
+メカフット（左）=Mecha Foot (Left)
+メカフット（右）=Mecha Foot (Right)
+
+// Accessories -> Arms
+r:"^ナイロンボストン([A-Z])$"=r:"Nylon Boston Bag $1"
+r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
+ハート腕時計=Heart Wristwatch
+ボールビーズ=Ball Bead Bracelet
+メタルバングル=Metal Bangle
+腕章「委員長」="Committee Chair" Armband
+腕章「実習」="Training" Armband
+腕章「風紀」="Public Morals" Armband
+リストバンド左用=Left Wristband
+リストバンド右用=Right Wristband
+拘束バンド左用=Left Restraint
+拘束バンド右用=Right Restraint
+カフス左用=Left Cuff
+カフス右用=Right Cuff
+// Character Design Addon Pack Vol. 1 (add06)
+くノ一肩当て右用=Kunoichi Shoulderpad (Right)
+くノ一肩当て左用=Kunoichi Shoulderpad (Left)
+巫女袖右用=Shrine Maiden Sleeve (Right)
+巫女袖左用=Shrine Maiden Sleeve (Left)
+鬼神の肩当て=Demon God's Shoulderpad
+// Character Design Addon Pack Vol. 2 (add08)
+メカショルダー=Mecha Shoulder
+//Mecha Armor 5
+//Mecha Armor 6
+メカ装甲６×３=Mecha Armor ６×３
+メカシールドⅡ=Mecha Shield Ⅱ
+メカブースターⅡ=Mecha Booster Ⅱ
+// Character Design Addon Pack Vol. 3 (add09)
+タングルショルダー右用=Tangle Shoulder (Right)
+タングルショルダー左用=Tangle Shoulder (Left)
+騎士の肩当て右用=Knight Shoulderpad (Right)
+騎士の肩当て左用=Knight Shoulderpad (Left)
+鎧肩当て右用=Armored Shoulderpad (Right)
+鎧肩当て左用=Armored Shoulderpad (Left)
+// Patch 0629 (add12)
+オーバル腕時計=Oval Wristwatch
+// Emotion Creators Preorder Bonus
+和風制服の袖（右）=Japanese-Style Uniform Sleeve (Right)
+和風制服の袖（左）=Japanese-Style Uniform Sleeve (Left)
+
+// Accessories -> Hands
+革カバン=Leather Bag
+指示棒=Guide Rod
+出席名簿=Attendance List
+刀=Sword
+竹刀=Bamboo Sword
+弓=Bow
+矢=Arrow
+弓袋=Bow Bag
+傘=Umbrella
+ポンポン左用=Left Pom-Pom
+ポンポン右用=Right Pom-Pom
+テニスボール=Tennis Ball
+テニスラケット=Tennis Racket
+小悪魔フォーク=Devil Pitchfork
+小悪魔フォーク(小)=Devil Pitchfork (Small)
+ステージマイク=Stage Microphone
+食べかけアイスバー=Half-Eaten Popsicle
+お金持ちの指輪=Diamond Ring
+アナルバイブ=Anal Vibrator
+電気マッサージ器=Vibrating Wand
+// Sofmap Exclusive Preorder Bonus (add01)
+注射器=Syringe
+// Magical Girl Preorder Bonus (add02)
+魔法のステッキ=Magical Wand
+// Character Design Addon Pack Vol. 1 (add06)
+小太刀=Short Sword
+白木拵え刀=Wooden Sword
+鬼神の金棒=Demon God's Iron Club
+// Character Design Addon Pack Vol. 3 (add09)
+ロングソード=Longsword
+バックラー=Shield
+ルーンソード=Runesword
+ルーンシールド=Rune Shield
+ウォーハンマー=Warhammer
+ハルバード=Halberd
+クレイモア=Claymore
+ダガー=Dagger
+ロングボウ=Longbow
+古式ライフル銃=Flintlock Rifle
+古式銃=Flintlock Pistol
+魔法の書=Grimoire
+騎士のレイピア=Knight's Rapier
+騎士のレイピア(鞘)=Knight's Rapier (Sheath)
+// Character Design Addon Pack Vol. 4 (add10)
+エンシェントロッド=Ancient Rod
+メカハンド握り右用=Mecha Right Fist
+メカハンド握り左用=Mecha Left Fist
+メカハンド開き右用=Mecha Right Open Hand
+メカハンド開き左用=Mecha Left Open Hand
+// Patch 1026 (add19)
+ハロウィンブルーム=Halloween Broom
+// Afterschool DLC (add20/25)
+結婚指輪（女）=Wedding Ring (Women)
+結婚指輪（男）=Wedding Ring (Men)
+婚約指輪=Engagement Ring
+ブライダルブーケ=Bridal Bouquet
+// Patch 1221 (add24/25/26)
+雪の結晶ステッキ=Snowflake Wand
+// Emotion Creators Preorder Bonus
+バット=Bat
+包丁=Kitchen Knife
+フライパン=Frying Pan
+芭蕉扇=Folding Fan
+
+// Accessories -> Crotch
+バイブ=Vibrating Dildo
+//Anal Vibrator
+
+// Accessories -> Transfer Menu
+コピー元を選択して下さい=Источник копирования
+コピー先を選択して下さい=Место назначения
+左右の親を切り替える=Изменить направление копир.
+スロットをコピー=Копировать слот
+r:"^調整([①-⑨])をコピー$"=r:"Настройка копир. $1"
+r:"^調整([①-⑨])を左右反転コピー$"=r:"Обрат. настр. $1 гориз. копия"
+r:"^調整([①-⑨])を上下反転コピー$"=r:"Обрат. настр. $1 верт. копия"
+調整①をコピー=Корректировка выбора-1
+調整①を左右反転コピー=Развернуть предмет на 180°
+調整①を上下反転コピー=Перевернуть предмет на 180°
+調整②をコピー=Корректировка выбора-2
+調整②を左右反転コピー=Развернуть предмет на 180°
+調整②を上下反転コピー=Перевернуть предмет на 180°
+
+//
+// Profile Menu
+//
+
+キャラ=Персонаж
+エッチ=Этти // Female Only
+質問=Анкета // Female Only
+個性=Черты // Female Only
+
+// Profile -> Character
+名前=Имя
+愛称=Псевдоним // Female only
+性格=Личность
+血液型=Группа крови
+誕生日=День рождения
+音声調整(低-高)=Тембр голоса
+日=D
+月=M
+A=А
+B=В
+O=O
+AB=AB
+
+// Profile -> Character -> Female Personality Types
+性格を選択=Выбор личности
+//Sexy
+//Ojousama
+//Snobby
+//Kouhai
+//Mysterious
+//Weirdo
+//Yamato Nadeshiko
+//Tomboy
+//Pure
+//Simple
+//Delusional
+//Motherly
+//Big Sisterly
+//Gyaru
+//Delinquent
+//Wild
+//Wannabe
+//Reluctant
+//Jinxed
+//Bookish
+//Timid
+//Typical Schoolgirl
+//Trendy
+//Otaku
+//Yandere
+//Lazy
+//Quiet
+//Stubborn
+//Old-Fashioned
+//Humble
+// Patch 0727 (add13/14)
+//Friendly
+// Additional Personalities DLC (add15/16/17/18)
+//Willful
+//Honest
+//Glamorous
+// Afterschool DLC (add20/25)
+//Returnee
+//Slangy
+//Sadistic
+//Emotionless
+// Emotion Creators Preorder DLC
+//Perfectionist
+
+// Profile -> Male Personality Types
+// Less personality types and more setting the male between two sets of opposite elements
+慎重=Осторожный
+積極的=Уверенный
+マイペース=Небрежный
+勤勉=Прилежный
+クール=Прохладный
+優しい=Ласковый
+
+// Profile -> Character -> Club Types
+// Female Only
+//Going Home Club
+//Swimming Club
+//Manga Club
+//Cheerleading Club
+//Tea Ceremony Club
+//Track & Field Club
+
+// Profile -> Character -> Name Box
+名前を入力して下さい=Введите имя
+姓=Фамилия
+名=Имя
+
+// Profile -> Character -> Nickname Box
+// Females Only
+愛称を入力して下さい=Введите псевдоним
+
+// Profile -> H-Scene
+// Females Only
+性感帯=Эрогенная зона
+キスを拒否しない？=Поцелуи
+激しい愛撫を拒否しない？=Грубые ласки
+アナルを拒否しない？=Анальный секс
+電マを拒否しない？=С вибратором
+ゴム付けなくてもOK？=Без презерватива
+
+// Profile -> H-Scene -> Erogenous Zone Types
+// Females Only
+//None
+唇=Губы
+//Chest
+股間=Промежность
+アナル=Анус
+尻=Ягодицы
+乳首=Соски
+
+// Profile -> Nature
+// Females Only
+動物は好き？=Любит животных
+食べるのは好き？=Любит поесть
+料理するのは好き？=Любит готовить
+運動する？=Любит спорт
+勉強する？=Любит учиться
+オシャレする？=Стильно одевается
+コーヒーはブラック？=Любит черный кофе
+からいのは平気？=Нравится острая пища
+甘いのは好き？=Любит сладости
+
+// Profile -> Traits
+// Females Only
+頻尿=Часто мочится
+チョロイ=Легкомысленная
+読書好き=Любит читать
+受け身=Пассивная
+怠惰=Ленивая
+運動好き=Любит спорт
+はらぺこ=Обжора
+ビッチ=Сука
+音楽好き=Любит музыку
+フレンドリー=Дружелюбная
+神出鬼没=Фантом
+真面目=Серьезная
+鈍感=Бесчувственная
+むっつり=Угрюмая
+活発=Активная
+綺麗好き=Опрятная
+一人好き=Одиночка
+// Character Design Addon Pack Vol. 4 (add10)
+女の子好き=Лесбиянка
+
+//
+// File Menu
+//
+
+キャラ読込み=Выбор карточки
+キャラ保存と削除=Сохр./удал. персонажа
+服読込み=Загрузить одежду
+服の保存と削除=Сохр./удал. одежду
+// This label gets applied over the one below it if F10 refreshed
+コンフィグ=Конфигурация
+表現方法=Настр. освещения
+
+// File Menu -> Load Character
+キャラ一覧=Карточки персонажей
+部活と性格=Клуб/Личн.
+//Name
+日付=Дата
+//Club Activities
+//Personality
+※ 読込みたい情報にチェックを入れてください=※ Выберите информацию, которую вы хотите загрузить
+//Face
+体=Тело
+//Hair
+キャラ情報=Личность
+コーディネートセット=Одежда
+読込み=Загрузить
+
+// File Menu -> Save/Delete Character
+削除=Удалить
+新規保存=Сохранить
+上書き保存=Перезаписать
+
+// File Menu -> Save/Delete Character -> Replace Image
+キャラ画像を変更しますか？=Вы хотите изменить изображение персонажа?
+変更して保存=Изменить и сохранить
+変更せず保存=Сохранить не изменяя
+保存をやめる=Отмена
+
+// File Menu -> Save Character -> Take Picture
+No Image=Нет изображения
+学生証画像=Удостоверение студента
+カード画像=Карточка
+学生証画像を撮影=На удостоверение студента
+カード画像を撮影=Изображение для карточки
+※学生証画像及びカード画像を撮影しないと保存できません。=※ Чтобы сохранить персонаж сделайте фотографии для карточек.
+"※ 学生証画像及びカード画像を撮影\n　 しないと保存できません。"="※ You can't save the card without\n　 a picture for the student card\n　 and the character card.
+撮影=Сделать фото
+保存=Сохранить 
+戻る=Назад
+
+// File Menu -> Load Clothing
+コーディネート一覧=Комплекты одежды
+服=Одежда
+アクセサリ=Аксессуар
+
+// File Menu -> Save Clothing -> Dialogue Box
+コーディネート名を入力して下さい=Пожалуйста, введите имя комплекта одежды
+
+// File Menu -> Lighting Options
+※ キャラクターごとの設定ではなく、ゲーム全体の設定\n　 となります。=※ Общая настройка для всей игры, а не для отдельного персонажа.
+"※ キャラクターごとの設定ではなく、ゲーム全体の設定\n　 となります。"="※ These settings are not set per-character,\n　 instead they affect the entire game."
+影の表現=Вид тени
+影の濃さ=Плотность тени
+アウトラインの濃さ=Плотность контура
+アウトラインの幅=Толщина контура
+
+// File Menu -> Lighting Options -> Shadow Types
+浅いなめらか影=Легкая гладкая тень
+浅いくっきり影=Легкая тёмная тень
+深いなめらか影=Темная гладкая тень
+深いくっきり影=Очень тёмная тень
+境界線のある影=Пограничная тень
+完全なめらか影=Полностью гладкая тень
+影なし=Без тени
+
+// Miscellaneous Messages
+スペースキーで戻ります=Нажмите пробел, чтобы вернуться
+本当に削除しますか？=Вы действительно хотите удалить это?
+本当に上書きしますか？=Перезаписать?
+キャラメイクを終了しますか？=Выйти из редактора?
+キャラ編集を終了しますか？=Завершить редактирование?
+
+// Maker called from Class Edit Menu
+学生証画像の撮影=Фото на карточку
+編集前に戻す=Восстановить настройки
+キャラを編集前に戻しますか？=Восстановить персонажа?
+反映せず終了=Не сохранять
+反映して終了=Сохранить
+
+//
+// Catch-Alls For In-Class Editing
+//
+
+// Story Characters
+
+// Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
+// Sorry, guys.
+
+リナ ロベール=Lina Robert
+:　リナ ロベール=:　Lina Robert
+:　リナ先生=:　Lina-sensei
+橋本 麗奈=Hashimoto Reina
+:　橋本 麗奈=:　Hashimoto Reina
+:　麗奈先生=:　Reina-sensei
+櫻井 野乃花=Sakurai Nonoka
+:　櫻井 野乃花=:　Sakurai Nonoka
+:　ののか先生=:　Nonoka-sensei
+姫川 舞=Himekawa Mai
+:　姫川 舞=:　Himekawa Mai
+:　舞=:　Mai
+柊 このみ=Hiiragi Konomi
+:　柊 このみ=:　Hiiragi Konomi
+:　このみ=:　Konomi
+結城 桜=Yuuki Sakura
+:　結城 桜=:　Yuuki Sakura
+:　さくら=:　Sakura
+水瀬 亜依=Minase Ai
+:　水瀬 亜依=:　Minase Ai
+:　あい=:　Ai
+
+// Personalities
+:　セクシー=:　Сексуальная
+セクシー=Сексуальная
+:　お嬢様=:　Леди
+お嬢様=Леди
+:　高飛車=:　Высокомерная
+高飛車=Высокомерная
+:　後輩キャラ=:　Младшая
+後輩キャラ=Младшая
+:　ミステリアス=:　Загадочная
+ミステリアス=Загадочная
+:　電波=:　Чудачка
+電波=Чудачка
+:　大和撫子=:　Послушная
+大和撫子=Послушная
+:　ボーイッシュ=:　Пацанка
+ボーイッシュ=Пацанка
+:　純真無垢=:　Невинная
+純真無垢=Невинная
+純粋無垢=Невинная
+:　単純=:　Простая
+単純=Простая
+:　邪気眼=:　Мистическая
+邪気眼=Мистическая
+:　母性的=:　Заботливая
+母性的=Заботливая
+:　姉御肌=:　Сестрица
+姉御肌=Сестрица
+:　ギャル=:　Модница
+ギャル=Модница
+:　不良少女=:　Плохая
+不良少女=Плохая
+:　野生的=:　Дикая
+野生的=Дикая
+:　意識高いクール=:　Уверенная
+意識高いクール=Уверенная
+:　ひねくれ=:　Ворчливая
+ひねくれ=Ворчливая
+:　不幸少女=:　Невезучая
+不幸少女=Невезучая
+:　文学少女=:　Умная
+文学少女=Умная
+:　モジモジ=:　Застенчивая
+モジモジ=Застенчивая
+:　正統派ヒロイン=:　Типичная школьница
+正統派ヒロイン=Типичная школьница
+:　ミーハー=:　Позёрша
+ミーハー=Позёрша
+:　オタク女子=:　Отаку
+オタク女子=Отаку
+:　ヤンデレ=:　Яндере
+ヤンデレ=Яндере
+:　ものぐさ=:　Ленивая
+ものぐさ=Ленивая
+:　無口=:　Тихая
+無口=Тихая
+:　意地っ張り=:　Упрямая
+意地っ張り=Упрямая
+:　のじゃっ子=:　Старомодная
+のじゃっ子=Старомодная
+:　素直クール=:　Откровенная
+素直クール=Откровенная
+// Patch 0727 (add13/14)
+:　気さく=:　Дружелюбная
+気さく=Дружелюбная
+// Additional Personalities DLC (add15/16/17/18)
+:　勝ち気=:　Решительная
+勝ち気=Решительная
+:　誠実=:　Искренняя
+誠実=Искренняя
+:　艶やか=:　Элегантная
+艶やか=Элегантная
+// Afterschool DLC Personalities (add20/25)
+:　帰国子女=:　Иностранка
+帰国子女=Иностранка
+:　方言娘=:　Провинциалка
+方言娘=Провинциалка 
+:　Ｓッ気=:　Садистка
+Ｓッ気=Садистка
+:　無感情=:　Равнодушная
+無感情=Равнодушная
+:　几帳面=:　Идеалистка
+几帳面=Идеалистка
+
+// Blood Types
+r:"^:　([Ａ-Ｚ]+)型$"=r:": Тип $1"
+
+// Birthdays
+r:"^:　([0-9]+)月([0-9]+)日$"=r:":　$1/$2"
+
+// Clubs
+帰宅部=Клуб уходящих домой
+:　帰宅部=:　Клуб уходящих домой
+水泳部=Плавание
+:　水泳部=:　Плавание
+漫研部=Манга-клуб
+:　漫研部=:　Манга-клуб
+チアリーディング部=Фан-клуб
+:　チアリーディング部=:　Фан-клуб
+茶道部=Чаепитие
+:　茶道部=:　Чаепитие
+陸上部=Легкая атлетика
+:　陸上部=:　Легкая атлетика
+
+-------------------------
+Option A=Вариант A
+カテゴリ０１=Категория 01
+スロット01の調整02=Система координат
+柄②の大きさ(高さ)=Высота
+調整02=Регулировка-2
+回転 Ｙ=Вращение Y
+調整01=Регулировка-1
+柄③の大きさ(幅)=Ширина
+スロット01の親を選択=Место для аксессуара
+服の色①=Цвет ткани-1
+回転 Ｘ=Вращение X
+ペイント０２回転=Вращение тату
+耳の角度Y軸=Поворот ушей
+耳の角度Z軸=Наклон ушей
+柄①の大きさ(幅)=Ширина
+柄①の大きさ(高さ)=Высота
+柄①の色=Цвет рисунка
+服の色②=Цвет ткани-2
+柄②の大きさ(幅)=Ширина
+柄②の色=Цвет рисунка
+服の色③=Цвет ткани-3
+柄③の大きさ(高さ)=Высота
+柄③の色=Цвет рисунка
+
+スロット01の調整01=Система координат
+位置 Ｘ=Позиция X
+位置 Ｙ=Положение Y
+位置 Ｚ=Позиция Z
+回転 Ｚ=Вращение Z
+拡縮 Ｘ=Масштабирование X
+拡縮 Ｙ=Масштаб Y
+拡縮 Ｚ=Масштабирование Z
+フェイスペイント０１配置=Позиция тату-1
+ペイント０１の色=Цвет тату-1
+性=Фамилия
+胸の上下角度=Поднять/опустить
+フェイスペイント０２の種類=Образцы
+ペイント０２左右位置=Двигать гориз.
+ペイント０２の色=Цвет тату-2
+プリーツスカートA=Плиссированная юбка A
+ジャケットタイプ=Куртка
+色分けハイソックス=Цветные высокие носки
+目の角度=Вращение глаз
+チェックA=Клетчатый A
+フェイスペイント０２配置=Позиция тату-2
+西=Запад
+ペイント０１大きさ=Размер тату
+ペイント０１左右補正=Двигать гориз.
+ペイント０２位置プリセット=Предустановки позиции тату-2
+ペイント０１の種類=Тату-1
+
+ボディーペイント０２の配置=Позиция тату-2
+オプション①を表示=Вариант отображения 1
+オプション②を表示=Вариант отображения 2
+ペイント０２サイズ補正=Размер тату
+ボディーペイント０１の種類=Образцы
+パーツA=Часть A
+※ プレイヤーの名前はゲーム開始時に指定します。=※ Имя игрока указано в начале игры.
+ここで指定した男の名前はゲームでは使用されません。=Это имя не используется в игре.
+プレイヤーの呼び方=Как связаться с игроком
+意識高いクールな女性=Сознательная и спокойная женщина
+ペイント０２の配置=Позиция тату-2
+ブレザーC=Blazer C
+ペイント０１の配置=Позиция тату-1
+ボディーペイント０１の配置=Позиция тату-1
+ペイント０１回転=Вращение тату
+横流しヘア(左)=Горизон. расходящ. волосы (слева)
+瞳の色②=Цвет глаз-2
+ペイント０２左右補正=Двигать гориз.
+注視点を表示する=Центровка камеры
+ペイント０１上下補正=Двигать вертик.
+白目の色①=Цвет склеры-1
+白目の色②=Цвет склеры-2
+瞳の色①=Цвет глаз-1
+ペイント０１左右位置=Двигать гориз.
+ペイント０１上下位置=Двигать вертик.
+ペイント０１位置プリセット=Предустановки позиции тату-1
+ペイント０２の種類=Тату-2
+ペイント０２上下位置=Двигать вертик.
+ペイント０２大きさ=Размер тату
+フェイスペイント０１の種類=Образцы
+ペイント０１サイズ補正=Размер тату
+ペイント０２上下補正=Двигать вертик.
+ボディーペイント０２の種類=Образцы
+髪飾りの色①=Цвет аксессуаров для волос-1
+髪飾りの色②=Цвет аксессуаров для волос-2
+髪飾りの色③=Цвет аксессуаров для волос-3
+パーツB=Часть B
+パーツC=Часть C
+BGMの音量=Фоновая музыка
+効果音の音量=Звуковые эффекты
+調整=регулировка
+座り=На коленях
+寝=Лёжа
+サーバーをチェックしています=Проверка сервера
+サーバーをチェックしています．=Проверка сервера.
+サーバーをチェックしています．．=Проверка сервера ..
+サーバーをチェックしています．．．=Проверка сервера ...
+サーバーをチェックしています．．．．=Проверка сервера ....
+サーバーをチェックしています．．．．．=Проверка сервера .....
+サーバーをチェックしています．．．．．．=Проверка сервера ......
+サーバーをチェックしています．．．．．．．=Проверка сервера .......
+サーバーをチェックしています．．．．．．．．=Проверка сервера ........
+サーバーをチェックしています．．．．．．．．．=Проверка сервера .........
+サーバーをチェックしています．．．．．．．．．．=Проверка сервера ..........
+サーバーへのアクセスに失敗しました。=Не удалось подключиться
+プレイヤーを選択して下さい=Выберите игрока
+名前：=Имя:
+誕生日：=Дата рождения:
+血液型：=Группа крови:
+愛称：=Кличка:
+性格：=Личность:
+ダウンロード=Скачать
+タイトル=Меню
+利用規約=Условия
+アップロードする=Загрузить
+既にアップ済みのキャラです。=Персонаж уже улучшен
+現在選択しているキャラに置き換えますか？=Персонаж уже загружен. Заменить?
+データを取得しています=Приобретение данных
+ゲームを終了しますか？=Выйти из игры?
+Ｏ型=Тип О
+本当にアップロードしますか？=Подтверждение загрузки
+そのデータは既にアップされています。=Персонаж уже загружен
+人気順に並べる=Самый популярный
+新しい順に並べる=Самые последние
+古い順に並べる=Самый старший
+総合=Все время
+週間=На этой неделе
+低い=Короткий
+普通=Нормальный
+高い=Высокий
+小さい=Маленькая
+大きい=Большая
+普通=Норма
+ロング=Длинный
+ツイン=Двойной
+アップロード=Загрузить
+ダウンロードする=Скачать
+キャッシュを有効にする=Включить кеширование
+(一度見たキャラ画像の表示が早くなります)=(Ранее загруженные карты загружаются быстрее)
+※１~４GBのハードディスクの空き容量が必要です=※ Требуется 1 ~ 4 ГБ свободного места на жестком диске
+キャッシュを削除=Удалить кеш
+本当にアップロードしますか?=Подтверждение загрузки
+既にアップ済みのキャラです。\r\n現在選択しているキャラに置き換えますか？=Персонаж уже загружен. \ R \ n Заменить его?
+ネットワークの接続に失敗しました=Не удалось подключиться к сети
+キャラデータを変更しました=Обновлены данные персонажа
+キャラデータをアップロードしました=Загруженные данные персонажа
+Reset=Сброс
+春野 千佳=Chika Haruno
+ちかりん=Chika Rin
+マフラー=Кашне
+※既存の版権に抵触する恐れのある記述はお控えください。\r\n　確認次第削除させていただく場合がございます。=* Воздержитесь от описания, которое противоречит авторским правам. Мы можем удалить его.
+※ プレイヤーの呼び方を「なし」にした場合はゲーム本編の
+　 設定に依存します。=※ Если в имени игрока указано «Нет», все зависит от настроек игры.
+====================//
+※読込みたい情報にチェックを入れてください=※ Пожалуйста, проверьте информацию, которую вы хотите прочитать.
+※アクセサリの表示をまとめて切り替える時のグループ分けです。サブに設定するとH開始時に非表示になります。=※ Показ аксессуаров может регулироваться с помощью кнопок выше. Когда установлено значение «Доп», оно будет скрыто во время H-сцен.
+※現在の目のパターンではアイシャドウは表示されません。=※ Тени для век не отображаются в шаблоне текущего глаза.
+※プレイヤーの呼び方を「なし」にした場合はゲーム本編の設定に依存します。=※ Если в имени игрока указано «Нет», все зависит от настроек игры.
+※保存はキャラカードへの保存です。キャラ編集の内容はシーン終了時の状態がそのまま反映されます。=※  Сохраняется на карточке перосонажа. Содержание редактирования отражается так же, как и во время конца сцены.
+※キャラクターごとの設定ではなく、ゲーム全体の設定となります。=※ Настройка всей игры, а не настройка каждого персонажа.
+※各項目の変形に関するものをまとめたものとなります。=※ Список ползунков
+※既存の版権に抵触する恐れのある記述はお控えください。確認次第削除させていただく場合がございます。=※ Воздержитесь воздержитесь от описания, которое противоречит авторским правам. Мы можем удалить его.
+
+=================//
+
+----------------------頭----------------------=---------------------- Голова ------------------------
+---------------------股間---------------------=--------------------- Пах ---------------------
+----------------------腕----------------------=---------------------- Рука ------------------------
+----------------------腰----------------------=---------------------- Талия ------------------------
+----------------------髪----------------------=---------------------- Волосы ------------------------
+----------------------脚----------------------=---------------------- Нога ------------------------
+----------------------胴----------------------=---------------------- Тело ------------------------
+----------------------首----------------------=---------------------- Шея ------------------------
+----------------------顔----------------------=---------------------- Лицо ------------------------
+----------------------手----------------------=---------------------- Руки ------------------------
+未使用データ=Неиспользуемые данные
+
+//=======================================
+
+そばかす１=Веснушки 1
+そばかす２=Веснушки 2
+
+トップスの色０１=Цвет ткани-1
+トップス柄の色０１=Цвет рисунка-1
+トップスの色０２=Цвет ткани-2
+トップス柄の色０２=Цвет рисунка-2
+トップスの色０３=Цвет ткани-3
+トップス柄の色０３=Цвет рисунка-3
+トップスの色０４=Цвет ткани-4
+トップス柄の色０４=Цвет рисунка-4
+外履きの色０１=Цвет обуви-1
+外履き柄の色０１=Цвет рисунка-1
+外履きの色０２=Цвет обуви-2
+外履き柄の色０２=Цвет рисунка-2
+外履きの色０３=Цвет обуви-3
+外履き柄の色０３=Цвет рисунка-3
+内履きの色０１=Цвет обуви-1
+内履き柄の色０１=Цвет рисунка-1
+内履きの色０２=Цвет обуви-2
+内履き柄の色０２=Цвет рисунка-2
+内履きの色０３=Цвет обуви-3
+内履き柄の色０３=Цвет рисунка-3
+靴下の色０１=Цвет ткани-1
+靴下柄の色０１=Цвет рисунка-1
+靴下の色０２=Цвет ткани-2
+靴下柄の色０２=Цвет рисунка-2
+靴下の色０３=Цвет ткани-3
+靴下柄の色０３=Цвет рисунка-3
+パンストの色０１=Цвет ткани-1
+パンスト柄の色０１=Цвет рисунка-1
+パンストの色０２=Цвет ткани-2
+パンスト柄の色０２=Цвет рисунка
+パンストの色０３=Цвет ткани-3
+パンスト柄の色０３=Цвет рисунка-3
+ショーツの色０１=Цвет ткани-1
+ショーツ柄の色０１=Цвет рисунка-1
+ショーツの色０２=Цвет ткани-2
+ショーツ柄の色０２=Цвет рисунка-2
+ショーツの色０３=Цвет ткани-3
+ショーツ柄の色０３=Цвет рисунка-3
+ボトムスの色０１=Цвет ткани-1
+ボトムスの色０２=Цвет ткани-2
+ボトムスの色０３=Цвет ткани-3
+ボトムス柄の色０１=Цвет рисунка-1
+ボトムス柄の色０２=Цвет рисунка-2
+ボトムス柄の色０３=Цвет рисунка-3
+ブラの色０１=Цвет ткани-1
+ブラ柄の色０１=Цвет рисунка-1
+ブラの色０２=Цвет ткани-2
+ブラ柄の色０２=Цвет рисунка-2
+ブラの色０３=Цвет ткани-3
+ブラ柄の色０３=Цвет рисунка-3
+手袋の色０１=Цвет ткани-1
+手袋柄の色０１=Цвет рисунка-1
+手袋の色０２=Цвет ткани-2
+手袋柄の色０２=Цвет рисунка-2
+手袋の色０３=Цвет ткани-3
+手袋柄の色０３=Цвет рисунка-3
+
+横髪の装飾の色０２=Цвет аксессуара-2
+
+後ろ髪の装飾の色０２=Цвет аксессуара-2
+スロット02の親を選択=Место для аксессуара
+スロット02の調整01=Система координат
+スロット02の調整02=Система координат
+スロット03の親を選択=Место для аксессуара
+スロット03の調整01=Система координат
+スロット03の調整02=Система координат
+スロット04の親を選択=Место для аксессуара
+スロット04の調整01=Система координат
+スロット04の調整02=Система координат
+スロット05の親を選択=Место для аксессуара
+スロット05の調整01=Система координат
+スロット05の調整02=Система координат
+スロット06の親を選択=Место для аксессуара
+スロット06の調整01=Система координат
+スロット06の調整02=Система координат
+スロット07の親を選択=Место для аксессуара
+スロット07の調整01=Система координат
+スロット07の調整02=Система координат
+スロット08の親を選択=Место для аксессуара
+スロット08の調整01=Система координат
+スロット08の調整02=Система координат
+スロット09の親を選択=Место для аксессуара
+スロット09の調整01=Система координат
+スロット09の調整02=Система координат
+スロット10の親を選択=Место для аксессуара
+スロット10の調整01=Система координат
+スロット10の調整02=Система координат
+スロット11の親を選択=Место для аксессуара
+スロット11の調整01=Система координат
+スロット11の調整02=Система координат
+スロット12の親を選択=Место для аксессуара
+スロット12の調整01=Система координат
+スロット12の調整02=Система координат
+スロット13の親を選択=Место для аксессуара
+スロット13の調整01=Система координат
+スロット13の調整02=Система координат
+スロット14の親を選択=Место для аксессуара
+スロット14の調整01=Система координат
+スロット14の調整02=Система координат
+スロット15の親を選択=Место для аксессуара
+スロット15の調整01=Система координат
+スロット15の調整02=Система координат
+スロット16の親を選択=Место для аксессуара
+スロット16の調整01=Система координат
+スロット16の調整02=Система координат
+スロット17の親を選択=Место для аксессуара
+スロット17の調整01=Система координат
+スロット17の調整02=Система координат
+スロット18の親を選択=Место для аксессуара
+スロット18の調整01=Система координат
+スロット18の調整02=Система координат
+スロット19の親を選択=Место для аксессуара
+スロット19の調整01=Система координат
+スロット19の調整02=Система координат
+スロット20の親を選択=Место для аксессуара
+スロット20の調整01=Система координат
+スロット20の調整02=Система координат
+パターン01=Шаблон 01
+パターン02=Шаблон 02
+パターン03=Шаблон 03
+パターン04=Шаблон 04
+パターン05=Шаблон 05
+パターン06=Шаблон 06
+パターン07=Шаблон 07
+パターン08=Шаблон 08
+パターン09=Шаблон 09
+パターン10=Шаблон 10
+パターン11=Шаблон 11
+パターン12=Шаблон 12
+パターン13=Шаблон 13
+パターン14=Шаблон 14
+パターン15=Шаблон 15
+パターン16=Шаблон 16
+パターン17=Шаблон 17
+パターン18=Шаблон 18
+パターン19=Шаблон 19
+パターン20=Шаблон 20
+パターン21=Шаблон 21
+パターン22=Шаблон 22
+パターン23=Шаблон 23
+パターン24=Шаблон 24
+パターン25=Шаблон 25
+カラー①=Цвет-1
+カラー②=Цвет-2
+カラー③=Цвет-3
+カラー④=Цвет-4
+スロット01 カラー①=Цвет-1
+スロット01 カラー②=Цвет-2
+スロット01 カラー③=Цвет-3
+スロット01 カラー④=Цвет-4
+スロット02 カラー①=Цвет-1
+スロット02 カラー②=Цвет-2
+スロット02 カラー③=Цвет-3
+スロット02 カラー④=Цвет-4
+スロット03 カラー①=Цвет-1
+スロット03 カラー②=Цвет-2
+スロット03 カラー③=Цвет-3
+スロット03 カラー④=Цвет-4
+スロット04 カラー①=Цвет-1
+スロット04 カラー②=Цвет-2
+スロット04 カラー③=Цвет-3
+スロット04 カラー④=Цвет-4
+スロット05 カラー①=Цвет-1
+スロット05 カラー②=Цвет-2
+スロット05 カラー③=Цвет-3
+スロット05 カラー④=Цвет-4
+スロット06 カラー①=Цвет-1
+スロット06 カラー②=Цвет-2
+スロット06 カラー③=Цвет-3
+スロット06 カラー④=Цвет-4
+スロット07 カラー①=Цвет-1
+スロット07 カラー②=Цвет-2
+スロット07 カラー③=Цвет-3
+スロット07 カラー④=Цвет-4
+スロット08 カラー①=Цвет-1
+スロット08 カラー②=Цвет-2
+スロット08 カラー③=Цвет-3
+スロット08 カラー④=Цвет-4
+スロット09 カラー①=Цвет-1
+スロット09 カラー②=Цвет-2
+スロット09 カラー③=Цвет-3
+スロット09 カラー④=Цвет-4
+スロット10 カラー①=Цвет-1
+スロット10 カラー②=Цвет-2
+スロット10 カラー③=Цвет-3
+スロット10 カラー④=Цвет-4
+スロット11 カラー①=Цвет-1
+スロット11 カラー②=Цвет-2
+スロット11 カラー③=Цвет-3
+スロット11 カラー④=Цвет-4
+スロット12 カラー①=Цвет-1
+スロット12 カラー②=Цвет-2
+スロット12 カラー③=Цвет-3
+スロット12 カラー④=Цвет-4
+スロット13 カラー①=Цвет-1
+スロット13 カラー②=Цвет-2
+スロット13 カラー③=Цвет-3
+スロット13 カラー④=Цвет-4
+スロット14 カラー①=Цвет-1
+スロット14 カラー②=Цвет-2
+スロット14 カラー③=Цвет-3
+スロット14 カラー④=Цвет-4
+スロット15 カラー①=Цвет-1
+スロット15 カラー②=Цвет-2
+スロット15 カラー③=Цвет-3
+スロット15 カラー④=Цвет-4
+スロット16 カラー①=Цвет-1
+スロット16 カラー②=Цвет-2
+スロット16 カラー③=Цвет-3
+スロット16 カラー④=Цвет-4
+スロット17 カラー①=Цвет-1
+スロット17 カラー②=Цвет-2
+スロット17 カラー③=Цвет-3
+スロット17 カラー④=Цвет-4
+スロット18 カラー①=Цвет-1
+スロット18 カラー②=Цвет-2
+スロット18 カラー③=Цвет-3
+スロット18 カラー④=Цвет-4
+スロット19 カラー①=Цвет-1
+スロット19 カラー②=Цвет-2
+スロット19 カラー③=Цвет-3
+スロット19 カラー④=Цвет-4
+スロット20 カラー①=Цвет-1
+スロット20 カラー②=Цвет-2
+スロット20 カラー③=Цвет-3
+スロット20 カラー④=Цвет-4
+
+
+
+立ち０１=Поза 01
+立ち０２=Поза 02
+立ち０３=Поза 03
+立ち０４=Поза 04
+立ち０５=Поза 05
+立ち０６=Поза 06
+立ち０７=Поза 07
+立ち０８=Поза 08
+立ち０９=Поза 09
+立ち１０=Поза 10
+立ち１１=Поза 11
+立ち１２=Поза 12
+立ち１３=Поза 13
+立ち１４=Поза 14
+立ち１５=Поза 15
+立ち１６=Поза 16
+立ち１７=Поза 17
+立ち１８=Поза 18
+立ち１９=Поза 19
+立ち２０=Поза 20
+立ち２１=Поза 21
+立ち２２=Поза 22
+立ち２３=Поза 23
+立ち２４=Поза 24
+立ち２５=Поза 25
+立ち２６=Поза 26
+立ち２７=Поза 27
+立ち２８=Поза 28
+立ち２９=Поза 29
+立ち３０=Поза 30
+立ち３１=Поза 31
+立ち３２=Поза 32
+立ち３３=Поза 33
+立ち３４=Поза 34
+立ち３５=Поза 35
+立ち３６=Поза 36
+立ち３７=Поза 37
+立ち３８=Поза 38
+立ち３９=Поза 39
+スロット０１=Слот 01
+スロット０2=Слот 02
+スロット０3=Слот 03
+スロット０4=Слот 04
+スロット０5=Слот 05
+スロット０6=Слот 06
+スロット０7=Слот 07
+スロット０8=Слот 08
+スロット０9=Слот 09
+スロット01=Слот 01
+スロット02=Слот 02
+スロット03=Слот 03
+スロット04=Слот 04
+スロット05=Слот 05
+スロット06=Слот 06
+スロット07=Слот 07
+スロット08=Слот 08
+スロット09=Слот 09
+スロット10=Слот 10
+スロット11=Слот 11
+スロット12=Слот 12
+スロット13=Слот 13
+スロット14=Слот 14
+スロット15=Слот 15
+スロット16=Слот 16
+スロット17=Слот 17
+スロット18=Слот 18
+スロット19=Слот 19
+スロット20=Слот 20
+タイプ１=Тип 1
+タイプ2=Тип 2
+タイプ２=Тип 2
+タイプ３=Тип 3
+タイプ４=Тип 4
+タイプ５=Тип 5
+タイプ６=Тип 6
+タイプ７=Тип 7
+タイプ８=Тип 8
+タイプ8=Тип 8
+タイプ９=Тип 9
+タイプ１０=Тип 10
+タイプ１１=Тип 11
+タイプ１２=Тип 12
+タイプ１３=Тип 13
+タイプ１４=Тип 14
+タイプ１５=Тип 15
+タイプ１６=Тип 16
+タイプ１７=Тип 17
+タイプ１８=Тип 18
+タイプ１９=Тип 19
+タイプ２０=Тип 20
+タイプ２１=Тип 21
+タイプ２２=Тип 22
+タイプ２３=Тип 23
+タイプ２４=Тип 24
+タイプ２５=Тип 25
+タイプ２６=Тип 26
+タイプ２７=Тип 27
+タイプ２８=Тип 28
+タイプ２９=Тип 29
+タイプ３０=Тип 30
+タイプ３１=Тип 31
+タイプ３２=Тип 32
+タイプ３３=Тип 33
+タイプ３４=Тип 34
+タイプ３５=Тип 35
+タイプ３６=Тип 36
+タイプ３７=Тип 37
+タイプ３８=Тип 38
+タイプ３９=Тип 39
+タイプ４０=Тип 40
+タイプ４１=Тип 41
+タイプ４２=Тип 42
+タイプ４３=Тип 43
+タイプ４４=Тип 44
+タイプ４５=Тип 45
+タイプ４６=Тип 46
+タイプ４７=Тип 47
+タイプ４８=Тип 48
+タイプ４９=Тип 49
+タイプ５０=Тип 50
+タイプ５１=Тип 51
+タイプ５２=Тип 52
+タイプ５３=Тип 53
+タイプ５４=Тип 54
+タイプ５５=Тип 55
+タイプ５６=Тип 56
+タイプ５７=Тип 57
+タイプ５８=Тип 58
+タイプ５９=Тип 59
+タイプ６０=Тип 60
+タイプ６１=Тип 61
+タイプ６２=Тип 62
+タイプ６３=Тип 63
+タイプ６４=Тип 64
+タイプ６５=Тип 65
+タイプ６６=Тип 66
+タイプ６７=Тип 67
+タイプ６８=Тип 68
+タイプ６９=Тип 69
+タイプ７０=Тип 70
+タイプ７１=Тип 71
+タイプ７２=Тип 72
+タイプ７３=Тип 73
+タイプ７４=Тип 74
+タイプ７５=Тип 75
+タイプ７６=Тип 76
+タイプ７７=Тип 77
+タイプ７８=Тип 78
+タイプ７９=Тип 79
+タイプ８０=Тип 80
+タイプ８１=Тип 81
+タイプ８２=Тип 82
+タイプ８３=Тип 83
+タイプ８４=Тип 84
+タイプ８５=Тип 85
+タイプ８６=Тип 86
+タイプ８７=Тип 87
+タイプ８８=Тип 88
+タイプ８９=Тип 89
+
+//------------------------------------------------
+
+１=1
+２=2
+３=3
+４=4
+５=5
+６=6
+７=7
+８=8
+９=9
+０１=01
+０２=02
+０３=03
+０４=04
+０５=05
+０６=06
+０７=07
+０８=08
+０９=09
+１０=10
+１１=11
+１２=12
+１３=13
+１４=14
+１５=15
+１６=16
+１７=17
+１８=18
+１９=19
+２０=20
+Ｈ１=H1
+Ｈ２=H2
+Ｈ３=H3
+Ｈ４=H4
+Ｈ５=H5
+男立ち５=Стоя 5
+男立ち４=Стоя 4
+男立ち３=Стоя 3
+男立ち２=Стоя 2
+男立ち１=Стоя 1
+特殊１=Спец. 1
+特殊２=Спец. 2
+特殊３=Спец. 3
+特殊４=Спец. 4
+特殊５=Спец. 5
+寝５=Лежа 5
+寝４=Лежа 4
+寝３=Лежа 3
+寝２=Лежа 2
+寝１=Лежа 1
+座り５=Сидя 5
+座り４=Сидя 4
+座り３=Сидя 3
+座り２=Сидя 2
+座り１=Сидя 1
+001 / 006=001/006
+001 / 010=001/010
+
+//======================================

@@ -1,0 +1,3 @@
+「おまえ、好き嫌いはあるのか？　それ、残すなら私が食べてやるぞ？」=What are your likes and dislikes?　If you leave that behind, I'll eat it for you.
+「うん、いらないから食べていいよ。[H名]の残してるそれと交換しよう」=You can eat it if you want. You don't need it, you can have it. I'll trade it for the one [H名] is leaving.
+「だ、ダメだっ！　これは最後の楽しみに取っておいてあるんだっ……絶対やらんからなっ！」=No, no, no!　I'm saving this one for last ... and I'm not gonna do it!

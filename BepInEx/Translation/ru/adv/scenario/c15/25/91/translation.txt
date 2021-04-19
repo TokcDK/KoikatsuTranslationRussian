@@ -1,0 +1,3 @@
+「[Pあだ名]！　おはようー！」=[Pあだ名]!　Good morning!
+「あ、おはよう[Hあだ名]」=Good morning, [Hあだ名].
+「朝の挨拶も何だか嬉しい気分になるな。いいぞこれー！」=It makes me feel good to greet people in the morning. I like this.

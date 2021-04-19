@@ -1,0 +1,14 @@
+「はぁ……たくさん遊びましたね」=(The usual modest [H名] is fine, but this kind of childishness is also possible...!
+「さすがに疲れちゃったね」=I'm really tired, aren't I?
+「そうだ、観覧車で休まない？」=Yeah, why don't we take a break on the Ferris wheel?
+「いいですね。ゆっくりとした時間を過ごしましょう」=That sounds great. Let's have a relaxing time.
+「あ、見て、けっこう空いてるよ」=Oh, look, it's pretty empty.
+「皆さん、帰る時間帯なのでしょうか。さっそく乗りましょう」=I wonder if it's time for everyone to go home. Let's get on.
+「はしゃぎすぎて明日に響いてもいけないし、今日はもう帰ろうか」=We don't want to get too excited and have a bad time tomorrow.
+「そうですね。遊びも大切ですが、やはり学生は勉強が資本ですから」=That's right. It's important to have fun, but students need to study.
+「うん、明日の課題もまだ残ってるし……」=Yeah, I still have tomorrow's assignment: ...
+「あら、それはいけませんね。でも……課題が残っているのに私と遊んでくれてありがとうございました」=Oh, that's not good. But thank you for playing with me even though I still have my ... assignment.
+「息抜きも必要だからね……って、俺が言うことじゃないか、あはは」=You need to take a break... is not what I'm talking about, haha.
+（楽しかったなぁ。また[H名]と遊園地に来よう）=(That was fun. I'll come back to the amusement park with [H名].
+CHOICE:『観覧車に誘う』="I'll take you on the Ferris wheel.
+CHOICE:『早めに帰る』="I'll be home early.

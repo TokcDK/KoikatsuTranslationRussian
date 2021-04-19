@@ -1,0 +1,15 @@
+「へへー、今日はすごく楽しいことが起こる予感がするぞ」=Heh, I have a feeling we're going to have a lot of fun today.
+「本当に？　楽しいことがたくさん起こればいいな。よし、行こうか」=Really?　I hope it's a lot of fun. All right, let's go.
+「ねーねー、手を繋いで歩いてるあたしたちって、ちゃんとカップルに見えるかな？」=Hey, do you think we look like a couple when we're walking hand in hand?
+「ちゃんと見えるよ、他のカップルと同じに」=We look like a couple, just like any other couple.
+「……他のカップルと同じー？　それじゃモノ足りないぞー」=... Like other couples?　That's not good enough.
+「モノ足りないって、じゃあどうする？」=Not good enough? What do you want?
+「うーん……もっとベタベタしよーよ！　キスして、ギューッと抱きしめてよ」=Hmmm..... Let's get even goofier!　Kiss me and hug me tightly.
+（[H]、どんどん積極的になっていくな）=You're getting more and more aggressive.
+「今日もいっぱい楽しいことがあったな！　キミとベタベタできたし……」=We've had so much fun today!　I've had a lot of fun today. I got to hang out with you...
+CHOICE:「もっと一緒にいたいな」="I want to spend more time with you.
+CHOICE:「楽しかったね。それじゃ、また」="That was fun. See you later.
+「もっと一緒にいたいな」=I want to spend more time with you.
+「あ、あたしも！　まだキミと離れたくないって思ってたんだぞ」=Oh, me too!　I didn't want to leave you yet.
+「楽しかったね。それじゃ、また」=That was fun. I'll see you later.
+「うん！　またデートで楽しいことしような♪　じゃーねー」=Okay.　Let's go on another date and do something fun.

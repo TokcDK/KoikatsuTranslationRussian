@@ -1,0 +1,15 @@
+「んーっ、一日中遊んだわね。今日も、その……楽しかったわ」=Hmmm, we've been playing all day. We've been playing all day. It's been ... fun.
+「えっと、まだ時間あるかな？　もう少しここで、ゆっくりしてたいんだけど」=Well, do you think we still have time?　I'd like to stay here and relax.
+「だ、大丈夫よ。今日は遅くなるかもって伝えてあるし……」=No, it's okay. I told them I might be late today...
+「そっか。それはちょうどよかった。最後に[H名]と見たいものがあるんだ」=I see. That's good to know. There's something I want to see with [H名] last.
+「私と見たいもの？」=You want to see something with me?
+「うん。ちょっと付いて来て」=Yeah. Come with me.
+「俺も楽しかった。でも、デートはまだ終わりじゃないよ？」=I had fun. But the date's not over yet, okay?
+「ほら、手。二人が別れるまでが、デートだからね」=Come on, hands. It's a date until you two break up.
+「ぷっ、何それ？　子どもの遠足じゃないんだから」=Pfft! What is that?　It's not a kid's field trip.
+「うっ、確かに今の言い方はヒドかったな……もっとスマートに決めたかったんだけど」=Ugh, that was a terrible thing to say... I was hoping for a smarter decision.
+「変に意識するからそうなるのよ。それより、別れるまでがデートなんでしょ？」=That's what happens when you're too self-conscious. It's a date until you break up, isn't it?
+「……ちゃんと、エスコートしてよね」=... I want you to escort me properly.
+「うん、任せて」=Yeah, I got it.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『俺も楽しかった』="I had fun too.

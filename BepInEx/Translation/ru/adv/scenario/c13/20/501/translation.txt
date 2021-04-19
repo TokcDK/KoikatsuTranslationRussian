@@ -1,0 +1,5 @@
+「あれ、[P名]くん！　ずいぶん早いんだね！　まだ時間前だよ？」=Hey, [P name]!　You're up so early!　It's not even time yet.
+「そっちこそ」=You too.
+「あは、お互い楽しみで仕方なくて、早く来ちゃったんだね～！」=Oh, we were both so excited that we came early!
+「ははっ、バレちゃったね」=Haha, I see.
+（さて、今日はどこに行こうかな）=Now, where should we go today?

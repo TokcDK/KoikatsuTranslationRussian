@@ -1,0 +1,13 @@
+「あれっ？　いつの間にか夕日が……そろそろ帰らないとなー」=Huh?　Before I knew it, the sun was setting... I've got to get home.
+「その前に[H名]、最後に観覧車に乗っていかない？」=Before that, [name], do you want to go on the Ferris wheel one last time?
+「おお、それ、いいなー。よし、それじゃあ急いで観覧車まで行くぞー」=Oh, that sounds great. All right, then, let's hurry up and get to the Ferris wheel.
+「そんなに急がなくても。それに多分、日が沈んでからの方が夜景が見えて綺麗だと思うよ」=No need to be so hasty. Besides, I think the night view is more beautiful after the sun goes down.
+「ん、そっかー。それなら、ゆっくりキミと話しながら行くかー」=Oh, I see. Then I'll go with you slowly.
+「うん、そうしようよ」=Yeah, let's do that.
+「うん、そうだね。暗くなる前に帰ろうか」=Yeah, let's do that. Let's go home before it gets dark.
+「そうだなー……でも、もっと遊んでいきたかったぞ」=Yeah... but I wanted to hang out with you more.
+「[H名]……」=[H名]...
+「また絶対、二人でこようね」=Let's do it again, just the two of us.
+「うん！　絶対だからな！」=Yeah!　I promise!
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

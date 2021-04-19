@@ -1,0 +1,4 @@
+「……」=...
+「やけに静かになったな、[H]」=You're awfully quiet, [H].
+「ああ……少しは真面目にやらないと、本当に怒られちゃうからな」=Yeah... take it a little more seriously, or you'll get really pissed.
+「うん。でさ、机の下で足がその、俺の足に乗ってるのは、なぜかな？」=Yeah. So, why are your feet on my feet under the desk?

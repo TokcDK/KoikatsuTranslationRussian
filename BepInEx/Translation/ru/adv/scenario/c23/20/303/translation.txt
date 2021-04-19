@@ -1,0 +1,15 @@
+「結構歌ったね。……おっ、そろそろ時間ですぞ」=You sang a lot... Oh, it's time to go.
+「延長しない？　ちょっと歌い足りなくて」=Can we extend it?　We're running a little low on songs.
+「賛成ですぞ！　まだまだアニソンを歌い足りませぬ」=I agree!　We still have a lot of anime songs to sing.
+「そうこなくっちゃ。じゃあ、延長の連絡するよ」=That's what I'm talking about. I'll call you for an extension.
+「そろそろ帰ろうか」=Let's get out of here.
+「ええ。こんなに好きな歌を思いっきり歌えたのは、久しぶりでした……また来たいものだね」=Yes. It's been a long time since I've been able to sing the songs I love so much with all my heart... I hope I can come back again.
+「だね。また二人で歌いに来よう」=Yes, I do. We should come back and sing together.
+「もうそんなに過ぎてたのか。それじゃあ、最後に一曲歌ったら今日は帰ろうか」=I can't believe it's already been that long. Well then, let's sing one last song and go home.
+「はい、[H名]が入れなよ」=Yes, let [H名] in.
+「いいのかい？　それじゃあ、お言葉に甘えて……じゃあ、この曲で締めだぁ」=Are you sure?　Well, I'll take your word for it... Let's close with this song.
+「いえー！」=No!
+『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
+CHOICE:『延長しようよ』="Let's extend it.
+CHOICE:『そろそろ帰ろう』="Let's go home now.

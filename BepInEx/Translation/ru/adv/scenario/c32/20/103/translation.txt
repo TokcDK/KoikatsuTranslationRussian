@@ -1,0 +1,12 @@
+「ふぅ、今日はいっぱい遊びましたね。もう夕方になってしまいました」=I'm not sure what to say. It's already late in the evening.
+「ねえ、まだ時間あるかな。もう少しここでゆっくりしない？」=Hey, do we still have time? Why don't we stay here a little longer?
+「そんなに公園が気に入ったのですか？　わかります」=Do you like the park so much?　I understand.
+「ん、公園じゃなく、一緒にいる人のおかげかなーって」=No, it's not the park. It's the people I'm with.
+「……それ、私も思っていました」=... That's what I was thinking, too.
+「そう？　よかった！　じゃあ、一緒に見たいものがあるんだ。ついてきて」=You did?　That's good!　Well, there's something I want to see with you. Come with me.
+「だね。じゃあ、デートの締めくくりをしよう」=Okay. Then we'll finish our date.
+「締めくくり？　何をするんですか？」=Wrap up?　What are we going to do?
+「手をつないで、一緒に駅まで戻ることだよ。さあ、行こう！」=We'll hold hands and walk back to the station together. Come on, let's go!
+「……照れますね。でも、いいデートだったって、心から思います」=... It's embarrassing. But I really think it was a good date.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『帰ろうか』="Shall we go home?

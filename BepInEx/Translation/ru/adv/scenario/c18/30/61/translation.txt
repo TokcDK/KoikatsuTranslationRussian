@@ -1,0 +1,14 @@
+「今日はいっぱい楽しみましょうね！」=Let's have lots of fun today!
+「張り切ってるなあ……。怪我とかには気をつけようね」=You're really excited... Be careful not to get hurt or anything.
+「[P]さんに寄り添っていられるだけで幸せです……」=I'm just happy to be able to cuddle with you...
+「俺も幸せだよ。……だけど危ないから、もう少しだけ離れた方が」=I'm happy too. I'm happy too... But it's dangerous, so you should stay away from me a little bit more.
+「イヤです。大丈夫です、転ぶなら[P]さんが怪我しないように上手に転びますから」=I don't want to. Don't worry, if I'm going to fall, I'll do it well so that you don't get hurt.
+「やれやれ……。好きなだけくっついてられるように、どこかお店に入るからさ」=Oh dear... I'll go into a store somewhere so we can stick together as long as we want.
+「むー……。なら、ちょっとだけ我慢します」=Mmm... Then I'll be patient for a bit.
+「今日もとても幸せな一日でした。あはは、そう思うと名残惜しいですね」=Today was another very happy day for me. I've had a very happy day and I'm going to miss it when I think about it.
+CHOICE:「じゃあ、もう少し一緒にいようよ」="Then let's stay together a little longer.
+CHOICE:「次はもっと幸せな一日にしようね」="Let's make the next day even happier.
+「じゃあ、もう少し一緒にいようよ」=Well, let's spend some more time together.
+「いいんですか？嬉しいです。是非そうしましょう」=Are you sure? I'm glad. Let's do that.
+「次はもっと幸せな一日にしようね」=Let's make the next day even happier.
+「そうですね。今から楽しみです。それじゃあ、また」=Yes, we will. I'm looking forward to it. See you later.

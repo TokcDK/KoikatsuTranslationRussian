@@ -1,0 +1,15 @@
+「人の数も大分減ってきたな。私達はどうする？」=The number of people has dwindled considerably. What about us?
+「じゃあ、最後に観覧車に乗ろうよ」=Well, let's go on the Ferris wheel for the last time.
+「観覧車か。最後にしては、また退屈そうなものを選んだな」=The Ferris wheel. A Ferris wheel, another boring choice for the last time.
+「うっ、確かに激しい動きとかはないけど。デートの最後だし、ゆっくり夜景観賞がいいかなって」=Ugh, it's true that it's not too strenuous. It's the end of the date, so I thought it would be nice to take it easy and enjoy the night view.
+「ぁっ……そうだな。すまん、おまえが色々考えてくれているのに、退屈そうなんて言って」=I'm sorry. I'm sorry, I didn't mean to sound boring when you've put so much thought into it.
+「いやいや、気にしないで。俺は[H名]と一緒に観覧車に乗れれば、それで満足だからさ」=No, no, don't worry about it. No, no, don't worry about it. As long as I get to ride the Ferris wheel with [H名], I'll be happy.
+「それじゃ、行こうか。人も少なくなって来てるし、並ばなないで乗れるんじゃないかな」=Let's go, then. It's getting less crowded, so I think we can get on without waiting in line.
+「でも、このまますぐ帰っちゃうのも勿体ないし、お土産を見てからにしようか？」=But it would be a shame to leave right now. Let's look at the souvenirs first.
+「おっ、いいアイディアだな。お互いに一つずつプレゼントを選ぶなんてどうだ？」=Oh, that's a good idea. How about we pick out one gift for each other?
+「おおぉ！　それいいね！　[H名]こそナイスアイディアだよ！」=Oh!　I like that idea!　That's a good idea!
+「ただ眺めていても冷やかしにしかならないからな。フフッ、おまえがどんなものを選ぶか、楽しみにさせてもらうぞ」=[H名] is a good idea! I'll look forward to seeing what you choose.
+「うぐっ、一気にハードルが上がった気がするけど……わかった、任せてよ！」=I'll be interested to see what you choose." "Ugh, I feel like the bar has been raised all the way to ... but okay, I'll leave it to you!
+CHOICE:『じゃあ、最後に観覧車に乗ろうよ』="Well, let's take a ride on the Ferris wheel at the end.
+CHOICE:『俺達もそろそろ帰ろうか』="We should probably head home, too.
+「うぐっ、一気にハードルが上がった気がするけど……わかった、任せてよ！」=I'll be interested to see what you choose." "Ugh, I feel like the bar has been raised all the way to ... but okay, I'll leave it to you!

@@ -1,0 +1,7 @@
+「……そろそろ、時間じゃな。名残惜しいが……」=... it's time to go. I'm sorry to see you go...
+CHOICE:「俺も、今日は離れたくない」="I don't want to leave today, either.
+CHOICE:「時間だから、仕方ないよ」="It's time to go.
+「……俺も、今日は[H]と離れたくない。だからその、家に来ないか？」=... I don't want to leave [H] today either. So, why don't you come over to my house?
+「……家に……よいのか？　ふふっ、ではお言葉に甘えるとするかのう」」=... home?　Well, I'll take your word for it.
+「時間だからね……仕方ないよ」=It's time to go... I don't have a choice.
+「うむ、そうじゃな……また一緒に出掛けようぞ！」=Yeah, well... let's go out together again!

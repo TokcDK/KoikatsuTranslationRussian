@@ -1,0 +1,17 @@
+「あら、そろそろ終了の時間ね」=Oh, it's almost time to finish.
+「え？　うわ、本当だ」=What?　Oh, my God.
+「延長して、もう少し歌わない？　もっと[H名]さんの歌が聴きたいな」=Can we extend it and sing some more?　I'd like to hear [H名] sing more.
+「……仕方ないわね。さぁ！　そうと決まれば、早速次の曲を入れるわよ」=... I don't blame you. Come on!　Now that that's settled, let's get on with the next song.
+「ははは、ノリノリだね」=Ha-ha, you're on a roll.
+「それじゃあ、そろそろ出る仕度をしよっか」=Well, I'd better get ready to go.
+「いいわよ。忘れ物をしないようにね？」=All right. Just make sure you don't forget anything, okay?
+「大丈夫。さぁ、行こうか」=Okay. Come on, let's go.
+「あっ、でもあと一曲くらいなら歌える時間あるよ」=Oh, but there's still time for one more song.
+「せっかくだし、時間いっぱいまで歌ってから出ようか」=Why don't we sing till the end of the night and then get out of here?
+「そうね……最後は私がいれてもいいかしら？」=Yeah... Do you mind if I join in at the end?
+「もちろん！　合いの手は任せてよ！」=Sure!　I'll give you the cue.
+「別にいらないわ。よし、この曲を入れて……っと」=No, thank you. All right, let's put this song on ...
+『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+（うーん……思わず合いの手をいれたくなるくらい、ノリノリだな）=(... is so infectious that I can't help but want to sing along.
+CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『そろそろ出ようか』="Let's get out of here.

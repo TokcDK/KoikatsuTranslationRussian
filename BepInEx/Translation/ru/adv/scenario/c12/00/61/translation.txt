@@ -1,0 +1,14 @@
+「よーし！　今日はいくらでも付き合うぞ！　まずはどうする？」=All right!　I'll go out with you as much as I can today!　What do we do first?
+「一応色々考えてきたんだ。付いてきてくれるかな？」=I've got a lot on my mind. Will you follow me?
+「えへへ、なんか今日は頼もしいな。リードされてるって感じがする」=You're being very supportive today. I feel like I'm being led.
+「いっつも頼ってばっかりだったからね。たまには良いとこ見せないと」=I've been relying on you all the time. I've been relying on you all the time, so I need to show you something good.
+「うんうん、十分見せてもらってるよ。おかげでさっきから顔にやけっぱなし……へへ」=Yeah, yeah, you've shown me enough. Thanks to you, I've had a big smile on my face ever since...
+「[H]のその顔好きなんだ。今日はもっとゆるゆるにしてみせるよ」=I like your face. I'm going to make it even looser today.
+「ゆるゆるって……ふふっ、大口叩いて後で後悔するなよー」=Loose? ... Hmmm, don't talk too big and regret it later.
+「ふぁ～、ほんとにゆるゆるにされたぁ……うぅ、ちょっと休憩。これじゃ身がもたない～」=I'm going to make you more loose today... I'm going to take a break. This is not enough to sustain yourself.
+「じゃあちょっと休憩だね。あそこのベンチでいい？　それとも家いく？」=I'm going to take a break. Can I sit on the bench over there?　Or should we go home?
+「もぅ、ずるい聞き方だなぁ……おまえの好きな方でいいよ、んふっ」=Oh, that's not fair... You can do whatever you want.
+「大丈夫？　今日はもう帰った方がよさそうだね」=Are you okay?　I think I'd better go home now.
+「う、うん……そうだな。また誘ってくれよ。今日は楽しかった。ありがとな」=Yeah, yeah... Yeah. You should ask me out again. It was fun today. Thanks.
+CHOICE:「じゃあちょっと休憩だね。あそこのベンチでいい？　それとも家いく？」="Let's take a break. Can I sit on that bench over there?　Or do you want to go home?
+CHOICE:「大丈夫？　今日はもう帰った方がよさそうだね」="Are you okay?　I think I'd better go home now.

@@ -1,0 +1,14 @@
+「日が沈み始めちゃったな」=The sun's starting to set.
+「どうして楽しい時間ほど、すぐに過ぎてしまうんでしょう……」=Why is it that the more fun we have, the more quickly it passes? ...
+「[H名]、まだ時間あるかな？　一緒に見たいものがあるんだけど」=[H名], do you still have time?　I'd like to see something with you.
+「えっと、大丈夫ですよ。これからどこかにいきますか？」=Um, no problem. Do you want to go somewhere now?
+「いや、外じゃなくて公園の中だよ。ちょっと付いて来てくれる？」=No, we're not going outside, we're going in the park. Would you like to follow me?
+「えへへ、はい」=Yeah, sure.
+「確かにね……もう少し遊んでたいけど、日が暮れきる前に今日は帰ろうか」=Sure... I'd love to play some more, but let's go home before the sun goes down.
+「……はい。また一緒に行きましょうね」=... Yes. I'll go with you again.
+「今度来たときも今日くらい晴れてるといいね」=I hope the next time we come back it will be as sunny as today.
+「私と一緒に来る以上、晴れてる保障はできませんよ？」=You can't guarantee sunshine when you come with me, can you?
+「雨が降ったら、雨の中でゆっくり二人だけの公園を楽しもうよ」=If it rains, let's enjoy our private park in the rain.
+「ふふっ、そういう風に考えてくれるの、すごく嬉しいです」=I'm so glad you think that way.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『俺も楽しかった』="I had fun too.

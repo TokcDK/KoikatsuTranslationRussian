@@ -1,0 +1,15 @@
+「デートって、繰り返す度に楽しくなっちゃうです。お相手があなただから……ですかね？」=Dating gets more fun every time you do it. Is it because I'm with you...?
+「あはは、そう言ってもらえると嬉しいな。俺も[H]とデートする度に楽しくなってるよ」=I'm glad to hear you say that. I'm glad to hear that. I'm having fun every time I go on a date with [H].
+「本当ですか！？　えへへ、だったら今日も今までで一番楽しいデートになるですね！」=Really?　Then today will be the most fun date ever!
+「いつも行く場所でも、デートだとすごく特別な感じがするですね！」=Even the places we go to all the time seem more special on a date.
+「そうだね。新鮮な気分になる」=I guess so. It feels fresh.
+「ですです！　こーやって色々な所に特別な場所が増えていくわけですね。ふふっ、二人の軌跡みたいでうれしーです！」=Yes!　This is how special places increase in various places. It's like we're on a path together. I'm so happy!
+「俺と[H]の軌跡か……あはは、何だかいいね、そういうの」=It's like a trail for me and [H]... Haha, that's kind of nice.
+「はわっ、な、名前を入れられると途端に恥ずかしくなるです……でも……本当にいいですね、そういうの♪」=I'm so embarrassed when you put my name in ... but ... it's really nice, that kind of thing.
+「やっぱり今日も今までで一番のデートだったです！　本当にありがとうなのです！」=I'm not sure what to say.　Thank you so much!
+「もし良かったらこの後、うちに来ない？」=If you want, you can come over to my place afterwards.
+「え？　よろしいのですか？　やったぁ！　私もまだまだ一緒にいたかったですよっ！」=What?　You don't mind?　Yes!　I wish I could have stayed with you longer!
+「こちらこそありがとう。またよろしくね」=Thank you, too. Thank you too.
+「はいです！　またいつでも誘ってもらえると嬉しいのですよ！」=Yes, sir!　I hope you'll invite me again anytime!
+CHOICE:「もし良かったらこの後……」="If you want, we can meet later at ...
+CHOICE:「こちらこそありがとう」="Thanks to you too.

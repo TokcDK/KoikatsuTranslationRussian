@@ -1,0 +1,11 @@
+「だいぶ見て回ったわね……園内がすっかりオレンジ色に染まっているわ」=You've seen a lot of the ... park, it's all turned orange.
+「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=If we still have time, why don't we go on the Ferris wheel one last time?
+「ええ、大丈夫よ。もう少し待てば、観覧車から綺麗な夜景が見れそうね」=Yes, we can. If we wait a little longer, we can see the beautiful night view from the Ferris wheel.
+「だね。楽しみだ」=Yes. I'm looking forward to it.
+「暗くなる前に今日は帰ろうか」=Shall we go home before it gets dark?
+「そうね。楽しい時間はあっという間だわ」=Yeah. The good times will fly by.
+「だねぇ……」=Hey...
+「また連れてきてね？　約束よ」=Will you bring me back?　I promise.
+「うん」=Yes.
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

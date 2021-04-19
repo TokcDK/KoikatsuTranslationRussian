@@ -1,0 +1,17 @@
+「あなたはいつも紅茶を注文するの？」=Do you always order tea?
+「半分ずつくらいの割合かな。その時の気分次第って感じ」=Half and half, I guess. It depends on my mood.
+「そうなのね。アイスティーを注文していたからてっきり紅茶派かと思ったわ」=I see. I thought you were a tea drinker when you ordered iced tea.
+「[H名]はコーヒーを頼んでいたけど、いつもそうなの？」=You were ordering coffee. Do you always do that?
+「ええ、私はコーヒー派だから」=Yes, I'm a coffee drinker.
+「そうなんだ。でも確かに[H名]って、純喫茶の窓際でコーヒー５杯ぐらいおかわりしてそうなイメージかも」=Yeah, I'm a coffee drinker. Yes, I'm a coffee drinker. - I see. But you look like you could be sitting by the window of a coffee shop, refilling five cups of coffee.
+「ふふふっ、どんなイメージよ」=Hmm, what kind of image?
+「飲むときはブラック？　それとも砂糖かミルクを入れるの？」=Do you drink your coffee black or with sugar or milk?　Do you drink it black or with sugar or milk?
+「いつもブラックで飲むわね」=I always drink it black.
+「[H名]は大人っぽいな」=You're very mature.
+「ふふ、イメージ通りだったかしら？」=Hmm. Is that what you think it is?
+「うん、ますますイメージが固まった」=Yeah, I'm getting the picture.
+「砂糖とミルクを入れて飲むわね」=I drink it with sugar and milk.
+「へぇ、意外だな。ブラックで飲んでいるイメージだったよ」=Wow, that's surprising. I thought you drank it black.
+「実は苦手なの。子供っぽいわよね」=Actually, I don't like it. It's so childish.
+「そんなことないよ。俺なんかコーヒーにも紅茶にも砂糖とミルクを入れるから」=No, it's not. I put sugar and milk in my coffee and tea.
+「ふふふっ、あなたは完全にイメージ通りだわ。意外性無いわね」=You're exactly as I imagined you would be. That's not surprising.

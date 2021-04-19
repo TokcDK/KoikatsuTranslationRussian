@@ -1,0 +1,7 @@
+「あ……もうこんな時間……君と話していると、あっと言う間に時間が過ぎちゃう……寂しいな」=Oh... it's already so late... Time flies when I'm talking to you... I miss you.
+CHOICE:「俺も寂しい」="I'll miss you too.
+CHOICE:「今度、会えるのが楽しみ」="I'm looking forward to seeing you again.
+「俺も寂しいよ。もし良かったら、今日はこのままうちに来ない？」=I'm lonely too. If you want, why don't you come over to my place today?
+「え？　いいの！？　ふふっ、嬉しい！　まだまだたくさんお話したいもんね！」=What?　Really?　I'm so happy!　We have so much to talk about!
+「また会えること、楽しみにしてるよ」=I'm looking forward to seeing you again.
+「そうだね！　それじゃ、またね！」=Yes, I will!　I'll see you later!

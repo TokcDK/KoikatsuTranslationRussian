@@ -1,0 +1,14 @@
+「ちょっとお願いがあるんだけど……いいかな？」=I'd like to ask you a favor, if you don't mind.
+「うん、どうしたの？」=Yeah, what's wrong?
+「突然だけど、俺のことを愛称で呼んでほしいんだ！」=I know it's sudden, but I want you to call me by my nickname!
+「なぁんだ、そんなことか！　いいよー！　そうだ、せっかくだし、愛称、付け合いっこしようよー！」=Oh, no, you don't!　All right!　Yeah, let's call each other by our nicknames!
+「ありがとう。でも二人の愛称はもう考えてるんだ。俺のは[Pあだ名]っていうんだけど」=Thank you. Thanks, but I've already thought of nicknames for both of us. I'm going to call mine [Pあだ名].
+「……あれ？　なにか違うような？」=...?　What's different about it?
+「その……普通じゃないかもだけど、どうしても呼んでほしいんだ」=It's ... not normal, but I really want you to call me that.
+「そっかぁ。うん、私に任せてよー！」=I see. Yeah, I'll take care of it!
+「じゃあ早速～……[Pあだ名]♪」=Let's get started...[Pあだ名]
+「……ありがとう……[Hあだ名]」=... Thank you ...[Hあだ名]
+「ど、どうしたの！？　何か変だった？」=What's wrong?　Is something wrong?
+「いや変じゃないよ。ただ思ってたより威力があって……よかったら、また呼んでくれないかな？」=No, it's not weird. It's just that it's more powerful than I thought it would be... Can you call me again if you want?
+「うん、全然いいよ。……[Pあだ名]♪」=No, not at all...[Pあだ名]
+「本当に、ありがとう……」=Thank you so much...

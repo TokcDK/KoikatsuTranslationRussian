@@ -1,0 +1,13 @@
+「もうこんな時間か……」=It's getting late...
+「あっ、本当だ！　どうする？ この後」=Oh, my God!　What do you want to do? Later.
+「延長しよう。[H名]の歌声を聴いてたいからさ」=Let's extend it. I want to hear [H名] sing.
+「えへへ、それじゃ、まだまだ歌っちゃうよぉ」=Yeah, well, I'm gonna sing some more.
+「今日はこれぐらいにしとこうか」=I think that's enough for today.
+「うん。また来ようね♪」=Yeah. I'll be back.
+「最後に一曲歌ったら、今日は帰ろうか」=One last song and then we'll be on our way.
+「はい、[H名]が入れていいよ」=Okay, [H名] can come in.
+「う～ん……それじゃあ、この曲を歌うね」=... Then we'll sing this song.
+「よし、合いの手は任せて！」=Okay, I'll do the chorus.
+「Ｙｅａｈ、Ｙｅａｈ！」=Yeah, yeah!
+CHOICE:『延長しよう』="Let's extend it.
+CHOICE:『終わりにしよっか』="Shall we end it?

@@ -1,0 +1,7 @@
+「えっと、今いいかな。出来れば君と話したいんだけど」=Hey, is this a good time? I'd like to talk to you if I could.
+「お、来たね。噂の転入生クン」=Oh, there he is. The new kid on the block.
+「俺は[P名前]って言うんだ。よろしく」=My name's [P name]. Nice to meet you.
+「はいはいよろしく。てか、なんか固くない？　緊張してる？」=Nice to meet you. You seem a little stiff.　Are you nervous?
+「いや、まぁ……ちょっとね」=No, I'm just nervous about ...
+「はぁ、そんなんでこれから大丈夫なの？　ま、何かあったら話くらい聞いてあげるけどさ」=Are you going to be okay like that?　Well, I'll listen to you if you need anything.
+「ありがとう。そうだな……じゃあ早速なんだけど」=Thank you. Well... let me get right to it.

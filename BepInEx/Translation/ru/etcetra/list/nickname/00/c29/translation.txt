@@ -1,0 +1,6 @@
+
+SPECIAL:先輩=Сенпай
+SPECIAL:お兄ちゃん=Братик
+SPECIAL:先生=Сенсей
+SPECIAL:ダーリン=Дорогой
+SPECIAL:ご主人様=Господин

@@ -1,0 +1,14 @@
+「ふふ～！　音を紡ぐのは愉快だっ！」=Hmmm!　It's a pleasure to weave sounds!
+「[H名]、まだ歌い足りないんじゃない？」=Haven't you sung enough?
+「うん！　まだまだ歌いたい！」=Yes!　I want to sing more!
+「オッケー。それじゃ延長するね」=Okay. Okay, I'll extend it.
+「でも、そろそろ時間だから、この辺で帰ろうか」=But it's time to go home, so let's go home.
+「うむ、残念だが仕方がないの……絶対に、また来ような！」=Well, that's too bad, because ... we'll definitely have to come back!
+「ああ、そうだね！　絶対来よう！」=Oh, yes, yes!　I'll definitely be back!
+「でも、そろそろ時間だから、この辺で帰らないとね」=But it's almost time to go home.
+「そ、そうだったのか？　既に一曲入れてしまったのだが……」=Oh, really?　I've already put one song on ...
+「一曲くらいなら、まだ大丈夫だよ。それ歌ったら帰ろうか」=I've already put one song on . - One song is okay. Let's sing it and then go home.
+『果てしない空の下 どこかにきっとあるんだ～♪』=Under the endless sky, somewhere there must be...
+「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
+CHOICE:『まだ歌い足りないんじゃない？』="Don't you think you've sung enough?
+CHOICE:『でも、そろそろ時間だね』="But it's time to go, isn't it?

@@ -1,0 +1,14 @@
+「楽しみに待ってたよ。準備は万端ですぞ」=I've been looking forward to it. I'm ready for you.
+「そうか、うれしいな。それじゃさっそく行こう！」=Well, I'm glad. Well, that's great. Let's get started!
+「ゲームで憧れたシチュエーションが、ワタシにできるとは思わなかったなぁ」=I never thought I'd be in the situation I'd be in in the game.
+「そうか。良かった」=Oh, well. Good.
+「あなたとこう手をつなぐのは、なんだか温かい気持ちになるよ」=Holding hands with you like this makes me feel all warm and fuzzy.
+「照れるなあ。今日はアニメのお店にでも行く？」=That's embarrassing. Do you want to go to an anime store today?
+「今日は遠慮するんだなぁ。外の空気を思う存分楽しむんだなぁ、それダッシュだぁあ」=No, not today. Just enjoy the fresh air, that's all.
+「えへ、へ。かなり走ったね。楽しかったよ」=Heh, heh. That was a lot of running. It was fun.
+CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
+CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+「もう少し一緒にいたいな」=I want to spend more time with you.
+「そ、そっかぁ、ワタシも同じこと思ってたよ」=Oh, I see. I was thinking the same thing.
+「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「それでは、また。ノシ」=See you later. Bye.

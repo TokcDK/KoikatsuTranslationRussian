@@ -1,0 +1,8 @@
+「それじゃあ、こっちから質問していい？」=So, can I ask you a question?
+「ん、とりあえず言ってみろ。私がわかる範囲なら、教えてやる」=No, just tell me. I'll tell you what I know.
+「えーっと、[H名]のスリーサイズは？」=Uh, what's [H名]'s measurements?
+「……教えてやってもいいが、真面目にやるつもりがないなら私は帰るぞ？」=I can tell you ... but if you're not going to take it seriously, I'm leaving.
+「ご、ごめん！　真面目にやります！　……でも、今の答えだけは……聞きたいかも……」=Sorry, sorry!　I'll take it seriously!　... But I think I might just want to hear ... the answer now...
+「ふぅ、結構捗ったね……最初はホント……ごめんね」=Hmm, you've made a lot of ... progress. I'm really ... sorry about that at first.
+「まったく、本当に帰ってやろうかと思ったぞ？　次はないからな、気を付けろよ」=I really thought I was going to have to leave, you know?　There won't be a next time, so be careful.
+「ハッ！　了解であります！　[H名]殿！」=Ha!　Yes, sir!　[H名] sir!

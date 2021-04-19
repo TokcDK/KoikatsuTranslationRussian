@@ -1,0 +1,14 @@
+「[P]くん♪　わたしね、デートがすごく楽しみだったんだ～。いっぱい楽しも？」=I was really looking forward to our date, P-kun. Do you want to have a lot of fun?
+「そうだね。俺も楽しみにしてたよ。それじゃあ、行こうか」=Yeah, I was looking forward to it too. I was looking forward to it too. So let's go.
+「この空の向こうに、わたしたちの仲間がいるんだよね」=You know our friends are just over the sky, right?
+「そうだね」=Yes, we did.
+「わたしね、あなたといると、いつもより強く言葉が聞こえる気がするの」=You know, when I'm with you, I feel like I can hear the words more strongly than usual.
+「だから、こうやってふたりでデートするの大好き！」=That's why I love these dates with you!
+（[H]が楽しそうにしているのを見ていると、こっちまで嬉しくなるな）=It makes me happy to see you so happy.
+「この宇宙の本、買ってくれてありがとう……それでね、出来れば、その……」=Thank you for buying this book about the universe ... and I'd love to, you know...
+CHOICE:「よかったら、家で一緒に読む？」="Would you like to read with me at home?
+CHOICE:「ごめん。今日は都合が悪いんだ」="I'm sorry. I'm not available today.
+「よかったら、家で一緒に読もうか」=I'd be happy to read it with you at home.
+「いいの！？　うん、行く行く！　えへへ……あなたには言わなくてもわかるんだね」=You don't mind?　Yeah, I'm in!　... You don't have to tell me.
+「ごめん……今日は都合が悪くて、だめなんだ。だから、ここでお別れ」=Sorry... I can't make it today. So I'll leave you here.
+「……そう、なの？　そういう日もあるよね……それじゃ、ばいばい」=I'm sorry ... I can't make it today.　I'm sorry ... I can't make it today, so I'm leaving you here.

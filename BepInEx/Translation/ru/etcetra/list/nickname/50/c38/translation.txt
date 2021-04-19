@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 by Text Dump v1.4.1
+//
+SPECIAL:先輩=Сенпай
+SPECIAL:お兄ちゃん=Братик
+SPECIAL:先生=Сенсей
+SPECIAL:ダーリン=Дорогой
+SPECIAL:ご主人様=Господин

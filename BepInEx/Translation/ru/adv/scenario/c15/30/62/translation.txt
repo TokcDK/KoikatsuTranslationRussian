@@ -1,0 +1,2 @@
+CHOICE:「……時間あるなら、家に来ない？」="... If you have time, why don't you come to my house?
+CHOICE:「そうだね。また今度」="Yeah, sure. Another time.

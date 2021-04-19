@@ -1,0 +1,13 @@
+「カラオケなんて久しぶりだよぉ」=I haven't done karaoke in ages.
+「[H名]はカラオケとかは、あまり行かないのか？」=You don't go to karaoke much, do you?
+「前は友達と来てたけど、最近は行けてなくて……」=I used to come here with my friends, but I haven't been in a while...
+「だから今日はいっぱい歌うんだぁ♪」=That's why I'm going to sing a lot today.
+「だったら[H名]が先に曲入れていいよ」=Then you can start the song first.
+「えぇ！　いいの！？　悪いよぉ」=What?　Really?　I'm sorry.
+「ふふっ。別に遠慮しなくてもいいよ。さぁ選んで」=Hmm. You don't have to be shy. Pick one.
+「ありがとう、[P名]君！　じゃあどれにしようかなぁ」=Thank you, [P name]!　Now, which one should I choose?
+（そういえば[H名]ってどんな曲、歌うんだろう？）=(Speaking of which, what song does [H名] sing?
+「それじゃあ……これにしよ！」=Well, let's go with ...
+「よし、[H名]！　がんばれ」=Okay, [H名]!　Good luck.
+「うん！　頑張るよ！」=Yeah!　I'll do my best!
+（元気よく歌っていて可愛いな……今日は来て良かった……）=(She's singing so cheerfully. She's so cute... I'm glad I came today...)

@@ -1,0 +1,15 @@
+「あはっ、今日は一日中遊んじゃったね～」=Haha, we've been playing all day today!
+「……あの、まだ時間あるかな？　最後に[H名]と行きたいところがあるんだ」=... Um, do we still have time?　I want to go somewhere with [H名] last.
+「えっ、なになに？　どこ行くの～？」=What? What?　Where are we going?
+「それは……秘密」=It's a ... secret.
+「気になるじゃん、それ～。ま、[P名]くんと一緒なら、アタシはどこでもいいけど♪」=That's curious, isn't it? Well, I don't care where I go as long as it's with [P name].
+「うん、いっぱい遊び倒したね。遅くなる前にそろそろ帰ろうか」=I don't care where I go as long as I'm with [P name]. Let's go home before it gets too late.
+「まあ、本音を言うと、まだ[H名]と居足りないんだけど……」=Well, to tell you the truth, I'm still missing [H名]...
+「ふふっ、でもそれを言ったら切りがなくない？」=Well, to tell you the truth, I haven't spent enough time with [H名] on ." "Hmm, but isn't that the end of the story?
+「そうなんだよね。それこそずっと居るってなると……」=That's right. That's exactly what I'm saying...
+「もう夫婦っしょ♪」=We're married now.
+「[H名]と……夫婦」=[H名] and ... are husband and wife.
+「あは、想像しちゃった？　じゃあ～、予行演習でラブラブして帰ろっか♪」=Oh, you're imagining it?　Then let's go home and make love for rehearsal.
+「うん！」=Yes!
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

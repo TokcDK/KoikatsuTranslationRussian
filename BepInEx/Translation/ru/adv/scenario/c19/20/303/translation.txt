@@ -1,0 +1,14 @@
+「……ふう、いやぁ、ちょっと熱い曲を入れ過ぎちゃったかな」=... Well, I guess I put in a little too much hot music.
+「ふふっ。[P名]君、ずいぶん熱唱してたけど喉は大丈夫？」=Hmmm. [P name], you sang so hard, is your throat okay?
+「全然大丈夫だよ。むしろ歌い足りないから時間延長してもいい？」=I'm totally fine. Can I extend the time?
+「うん、もちろん。私にもっと熱い曲を聞かせてほしいな」=Yes, of course. Yes, of course. I'd like to hear more of your passionate songs.
+「さすがにちょっと気合を入れすぎたかも……」=I think I'm a little overenthusiastic...
+「それじゃあ、もうすぐ時間だし仕度をして出よっか。また、あなたの歌を聴ける日を楽しみにしてるね」=Well, it's almost time, so let's get ready and leave. I'm looking forward to hearing you sing again.
+「さすがに疲れてきたかも……」=I think I'm getting tired...
+「ふふ、たくさん気持ちを込めて歌ってたもんね。それじゃあ、延長せずにお店を出る？」=Hmm, you sang with a lot of feeling. Well, you sang with a lot of feeling.
+「そうする。あっ、でももう少し時間あるし、最後に[H名]が歌ったら？」=Yes, I will. Oh, but there's still time. Why don't you sing last?
+「私が？　えっと……じゃあ、この曲を入れようかな」=Me?　Let's see... I'll put this song on.
+『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+（歌ってる[H名]の姿って、なんか、こう……惹かれるものがあるんだよなぁ）=(There's something about the sight of [H名] singing that attracts me to ...)
+CHOICE:『大丈夫。歌い足りないから延長していい？』="Don't worry. CHOICE: "Don't worry, I'm not singing enough, can I extend the song?
+CHOICE:『ちょっと疲れたかも……』="I think I'm a little tired...

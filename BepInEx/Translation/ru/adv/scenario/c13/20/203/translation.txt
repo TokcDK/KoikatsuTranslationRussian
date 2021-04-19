@@ -1,0 +1,12 @@
+「もう、けっこう遊んだカンジ？　空がオレンジ色になっちゃった」=The sky has turned orange.　The sky has turned orange.
+「そうだね……ねぇ、[H名]。最後に観覧車に乗っていかない？」=Well... [name]. Hey, [name], do you want to go on the Ferris wheel at the end?
+「あっ、いいね！　いこいこ！」=Oh, that sounds great!　Come on!
+「……観覧車の中で、綺麗な夜景が見れるといいね」=... I hope we get to see a beautiful night view on the Ferris wheel.
+「そうだね。ふふ、[P名]くんと見る夜景楽しみだな～♪」=Yes, it would. I'm looking forward to seeing the night view with [P name].
+「そうだね……さてと、そろそろ帰ろうか？」=Yeah, I'm looking forward to seeing the night view with [P name]." "Well... shall we go home now?
+「ん～、まだまだ遊んでたいけど……」=Hmmm, I'd like to hang out more, but ...
+「……また、一緒に遊園地に来てくる？」=... Do you want to come back to the amusement park with me?
+「もちろん！」=Yes!
+「それなら、次のときに、いっぱい遊んじゃおっかな♪」=Maybe we'll have more fun next time.
+CHOICE:『最後に観覧車に乗っていかない？』="Why don't we go on the Ferris wheel at the end?
+CHOICE:『そろそろ帰ろうか？』="Shall we go home now?

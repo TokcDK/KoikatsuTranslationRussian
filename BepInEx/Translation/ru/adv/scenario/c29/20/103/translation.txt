@@ -1,0 +1,10 @@
+「今日も一日、とても素敵な時間を過ごせました。ありがとうございます」=(I can't imagine an iguana avoiding me at all. Thank you very much.
+「こちらこそ。それでさ[H名]、あと少しだけ時間あるかな？」=Thank you too. So, [H名], do you have a few more minutes?
+「ええ、大丈夫です。あまり遅くならなければ」=Yes, I can. If it's not too late.
+「よかった。最後に[H名]と一緒に見たいものがあるんだ。ついてきて」=Good. There is one last thing I want to see with [H名]. Come with me.
+「俺もだよ。でももうちょっとだけ一緒にいられるけどね」=Me too. I can stay with you for a little while longer, though.
+「はい。お別れする瞬間まではデートですよね」=Yes. Until the moment we say goodbye, it's a date, right?
+「そういうこと。だから――はい」=That's what I meant. So... yes.
+「ええ、手を繋いでいきましょう」=Yes, let's hold hands.
+CHOICE:『あと少しだけ時間ある？』="Do you have a few more minutes?
+CHOICE:『俺も楽しかったよ』="I had fun, too.

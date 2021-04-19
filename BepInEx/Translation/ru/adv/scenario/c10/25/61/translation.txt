@@ -1,0 +1,15 @@
+「また、汝と共に散策できるとはな……」=I never thought I'd walk with you again...
+「とりあえず、ぶらぶら歩こうか」=Let's go for a stroll.
+「少し歩き疲れたな、魔力が足りないかもしれない」=I'm a little tired. I'm not sure I have enough magic.
+「大丈夫？　少し休もうか？」=Are you okay?　Do you want to take a break?
+「ああ……そ、そうだ！　お、おんぶという行為をしてくれないか？」=Oh, yeah... Oh, yeah!　Would you do me a favor and give me a piggyback ride?
+「お、おんぶ！？ なんでまた？」=Oh, piggyback? Why again?
+「えっと　汝の背中にギューッとしたいなって……ダメ？」=Well, I wanted to give you a piggyback ride... No?
+「や、やる！　やりたい！　やらせてください！」=Yes, I do!　I want to!　Let me do it!
+「ふぅ……お別れかあ。さ、寂しいな、汝はどうなのだ？」=Hmmm... goodbye. Well, I'll miss you. What about you?
+「俺も、寂しいよ。もう少し一緒にいたい」=I'm sad, too. I miss you too. I want to be with you more.
+「我もだ……汝ともっとイチャイチャしたい」=I miss you, too... I want to make out with you more.
+「寂しいけど……またこれるよ、一緒に。次はもっと楽しくなるはず……ううん、今日以上に楽しませるよ！」=I miss you... We can come back, together. We'll have more fun next time... No, we'll have even more fun than today!
+「そ、そうか……わかった。次もよろしく頼む」=I'm going to miss you, but we can come back ... together and have more fun next time. I'll see you next time.
+CHOICE:「俺も、寂しいよ。もう少し一緒にいたい」="I miss you too. I miss you too. I want to spend more time with you.
+CHOICE:「寂しいけど、またこれるよ」="I'll miss you too, but I'll be back.

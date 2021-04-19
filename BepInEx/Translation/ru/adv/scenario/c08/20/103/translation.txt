@@ -1,0 +1,10 @@
+「あ～、もう夕方だぁ。まだまだ遊んでたいのに～……」=Oh, it's already evening. I still want to play...
+「俺もまだ遊びたいんだ。時間、大丈夫？」=I want to play too. Are you okay with the time?
+「うんっ、全然平気だよ」=Yeah, I'm fine.
+「よかった。実は[H名]と一緒に行きたい場所があるんだ」=Good. Actually, there's a place I want to go with [H名].
+「どこどこ？　楽しみ～！」=Where is it?　I'm excited!
+「そろそろ遅いし、駅まで送るよ」=It's getting late. I'll walk you to the station.
+「ん……そうだね。それじゃ、駅まで手つないで行こ♪」=I'll walk you to the station... That's right. I'll walk you to the station.
+「いいね、それ」=I like that.
+CHOICE:『俺もまだ遊んでたい』="I want to play too.
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

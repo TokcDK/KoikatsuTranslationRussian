@@ -1,0 +1,7 @@
+「あっ、もう分かれ道だね。私はこっち側だから……」="Don't worry, there's always tomorrow." "Oh, we're at a fork in the road. I'm on this side...
+CHOICE:「……もっと、そばに居たいな」="I wish I could be around ... more.
+CHOICE:「それじゃ、また学園で」="I'll see you at school.
+「……もっと、そばに居たいな。君さえよければだけど、家に来ない？」=... I wish I could be there more. If it's okay with you, would you like to come to my house?
+「[P]君……うん、私も……あなたのそばに居たい。それじゃ、よろしくね」=[P]onsider ... yes, I'd like to be ... near you, too. I'll see you soon.
+「それじゃ、また学園で」=I'll see you at school.
+「うん、学園でもよろしくね。例の本、明日持ってくるから」=Yeah, I'll see you at school. I'll bring the book tomorrow.

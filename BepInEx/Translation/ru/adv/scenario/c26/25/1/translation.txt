@@ -1,0 +1,3 @@
+「……私と？　何故？」="...With me? Why?"
+「……そう。別に少しくらいなら、構わないけど」="...Sure, I don't mind. A change of pace is always nice."
+「ありがとう、それじゃ……」="Thank you..."

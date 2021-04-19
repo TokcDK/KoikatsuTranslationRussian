@@ -1,0 +1,16 @@
+「ふぃー、空がすっかりオレンジに……楽しい時間はあっという間なんだなぁ」=Whew, the sky is all orange now... The good times fly by so fast.
+「まだ時間あるかな？」=Do we still have time?
+「あるけど、どうかしたのかい？」=Yes, but what's wrong?
+「よかった。もう少し付き合って欲しいんだ」=Good. I need a little more time with you.
+「あっ……ワタシに乱暴するつもりかい？　エロ同人みたいに！　エロ同人みたいに！！」=Oh... are you going to rough me up?　Like a porno doujin!　Like an erotic doujin!
+「いいから……ちょっと付いて来てよ」=Just follow me to ...
+「だねぇ。それじゃあ、そろそろ帰ろうか」=That's right. Well, I guess we better get going.
+「むぅ……わかってないんだなぁ」=Mmm... You don't get it, do you?
+「えいっ……」=Hey...
+「うわ！？　ど、どうしたの？　突然」=Oh, my God!　What's wrong?　All of a sudden.
+「こういう時、アニメでは手を繋いで帰るものですぞ？」=In anime, they hold hands when they leave.
+「……別にアニメ限定ではないと思うけど、確かにそうだね」=... I don't think it's exclusive to anime, but it's true.
+「手を繋いで帰ろうか」=Shall we go home hand in hand?
+「えへ、へ……ラブラブで幸せ～」=Heh, heh... so lovey-dovey and happy~
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『俺も楽しかった』="I had fun too.

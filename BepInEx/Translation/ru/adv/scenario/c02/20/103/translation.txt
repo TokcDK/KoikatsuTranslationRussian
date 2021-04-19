@@ -1,0 +1,13 @@
+「ふぅ、もうこんな時間ですわね。今日一日たっぷり楽しむことができましたわ」=Well, it's getting late. I've had a lot of fun today.
+「あのさ、もう少し時間ある？　ちょっとだけ連れていきたい場所があるんだけど」=Hey, do you have some more time?　I'd like to take you somewhere for a while.
+「おほほほ、よほど自信があるようですわね。よくってよ……わたくしを本当に喜ばせることが出来るかどうか、見極めて差し上げますわ」=I'd like to take you to a few places." "Oh, you're so sure of yourself. Come on... I'll see if you can make me really happy.
+「オッケー。そう言われると少し緊張するけど、でも頑張って喜ばせてみせるよ」=Okay. I'm a little nervous when you say that, but I'll do my best to please you.
+「オホホホホ、楽しみですわ！　ではしっかりわたくしをエスコートなさい」=I'm looking forward to it!　Then escort me well.
+「わかったよ。じゃあ、行こう──」=All right. Okay, let's go.
+「俺も楽しかった。でもデートはもうちょっとだけ続くよ」=I had a good time, too. But the date will last a little longer.
+「ええ、わたくしの背中を見送り、寂しさのあまり一句読むまでがデートですわ」=Yes, it's a date until you see me off and read me a phrase in loneliness.
+「う、うん……一句読みはしないと思うけど、きっと別れる時は名残惜しいだろうね」=Well, I don't think I'll read ... every word, but I'm sure I'll miss you when we part.
+「でしょう？　おーっほっほっほ！　では最後までしっかりわたくしをエスコートなさい！」=Right?　Right?　Then you will escort me to the end!
+「わかってるよ。さあ、行こう」=I know, I know. Come on, let's go.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『俺も楽しかった』="I had fun too.

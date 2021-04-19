@@ -1,0 +1,17 @@
+「うむうむ、汝と有意義な時を過ごせたぞ！」=Mm-hmm, I've had a good time with you!
+「はは、ありがとう。でも、せっかくならもう少しだけ、一緒に有意義な時間を過ごさない？」=Haha, thanks. Thank you, but I think we should spend a little more quality time together.
+「ん？　公園内はもうほとんど見たであろう？　他に見るものでもあるのか？」=Hmm?　You've seen most of the park, haven't you?　Is there anything else you want to see?
+「うん、えっと……一度見た場所でも、時間によって違う景色になる。それはさながら妖精の悪戯のように」=Yes, let's see... Even if you've seen a place once, the scenery changes with time. It's like a fairy prank.
+「お、おぉぉ！　なるほど、それは汝の言う通りだ。ここは試しに汝の戯言に付き合ってやろう！」=Oh, oh, oh!　I'm sure you're right. I'll give you a chance to try it out and see what you think!
+「う、うん！　まかせて！」=Oh, yes!　I got it!
+「俺もだよ。一緒に居れてよかった」=I'm with you. It's good to be with you.
+「うーん、座標と時間を固定して、我と汝の存在をそこへ……」=Hmm, I'm going to fix the coordinates and time and put you and me there: ...
+「んん？　どうかした？」=Hmm?　What's wrong?
+「ふっ、今日が幸福過ぎた故……このまま汝と共にこの時を止めようと思ってな」=Hmm, I've been so happy today that I thought I'd ... stop the clock with you.
+「ふふ……嬉しいこと言ってくれるな。……だがしかし！」=That's ... very nice of you to say... But!
+「少し先の未来では、今よりももっと素敵な俺と[H名]の時間が待っている」=A little further into the future, there will be a better time for me and [H名] than now.
+「それなのに[H名]はそこへ行くのをやめて、この時間に留まるというのか？」=And you're telling me that [name] is going to stop going there and stay in this time?
+「おぉ、なるほど！　確かにその通りだな。ふふ、では時間を止めるのはやめにするぞ」=Oh, I see!　You're absolutely right. I'll stop stopping time then.
+「ふふ…じゃあ、駅へ向かおうか」=Hmm... let's head for the station then.
+CHOICE:『もう少し一緒にいれない？』="Can't we stay together a little longer?
+CHOICE:『今日はもう帰ろう』="Let's go home for today.

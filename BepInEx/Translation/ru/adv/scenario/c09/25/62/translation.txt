@@ -1,0 +1,7 @@
+「ああ、あたし家が向こうだから、もうそろそろ……」=Yeah, I'm on the other side of the country, so I'm gonna go to ...
+「……よかったら、ウチに寄ってく？」=I'm going to ... if you want to come by my place.
+「あんたの家に？　もちろんいいわよ。あたしも、ちょうどそう思ってたところだったし」=At your place?　Of course you can. I was just thinking about that.
+「そっか。それじゃあ、ばいばい」=Okay. Okay, bye.
+「うん。また学園で会おうね！　バイバイ！」=Bye. I'll see you at school!　Bye!
+CHOICE:「……よかったら、ウチに寄ってく？」="... would you like to come by my place?
+CHOICE:「それじゃあ、ばいばい」="Bye, bye.

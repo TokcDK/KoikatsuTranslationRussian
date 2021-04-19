@@ -1,0 +1,9 @@
+「あっ。今いい？　ちょっと話をしたいんだけど」=Oh. Is this a good time?　I'd like to have a word with you.
+「あら？　あなたは……確か転入生の。別に構いませんよ」=What?　You're ... a new student, I believe. That's fine.
+「ありがとう。俺、[P名前]っていうんだ。もしかしたら、どこかで名前を聞いてるかもしれないけど」=Thank you. My name is [P name]. Maybe you've heard my name somewhere.
+「ええと……そう言えば耳にしたことがあったかもしれません」=Uh... I think I might have heard of you.
+「でも、珍しいですね。女子だけの学園に、男子が入ってくるというのも」=But that's unusual. But it's unusual for a boy to come into a girls-only school.
+「ま、まあね。そのあたりはいろいろと事情があって……」=Well, yeah. There are various reasons for that...
+「そう……。それで、話というのは？」=Yes... So, what's the story?
+「っと、そうだったそうだった。えーっと……」=Oh, that's right, that's right. Let's see...
+（ちょっと素っ気ない感じだけど、話はしてくれるみたいだ。どんな話題が良いかな？）=(He's a bit blunt, but he's willing to talk. What would be a good topic?

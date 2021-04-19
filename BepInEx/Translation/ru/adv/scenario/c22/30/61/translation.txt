@@ -1,0 +1,15 @@
+「君とのデートって、回数を重ねる度に楽しくなってる気がするよー」=I feel like dating you is getting more fun every time we go out.
+「あはは、そうだね。お互いのことをよく知れば知るほど楽しくなってるかも」=Haha, I guess so. The more we get to know each other, the more fun we have.
+「そうそう！　だからこれから、ずーっと、無限に楽しくなっちゃうね！　それじゃ、今日はよろしくお願いします！」=Yes, yes!　So from now on, it's going to be infinite fun!　Well then, I'll look forward to working with you today!
+「好きな人の隣を歩けるって……こんなに幸せなんだね。私、君に出会えて、色んな幸せを知ったかも」=I'm so happy to be able to walk next to the person I love. I think I've learned a lot of things about happiness since I met you.
+「俺だって同じなんだ。[H]のおかげで色々学んだよ」=It's the same for me. I've learned a lot thanks to you.
+「例えばどんなこと？」=Like what?
+「好きな人と見つめ合うのが、こんなに落ち着くこととか……好きな人と触れ合うのが、こんなにドキドキすることとか……」=Like, how calming it is to look at someone you love, or how exciting it is to touch someone you love...
+「わ、わぁ、恥ずかしいよぅ……でも……私もそう。君と二人でいると、いっぱい新しいこと覚えちゃう。大人になってるって感じがするよー」=Wow, wow, I'm so embarrassed... But ... so am I. When I'm with you, I learn so many new things. I feel like I'm growing up.
+「今日のデートも素敵な思い出になりました！　本当にありがとう！」=Today's date was also a wonderful memory!　Thank you so much!
+CHOICE:「もし良かったらこの後……」="If you want, we can meet later at ...
+CHOICE:「こちらこそありがとう」="Thanks to you too.
+「もし良かったらこの後、うちに来ない？」=If you want, you can come over to my place afterwards.
+「あ……うんっ！　本当は私、離れがたかったんだ……誘ってくれて嬉しい！」=... Yes!　I really wanted to stay away from you... I'm glad you asked me out!
+「こちらこそありがとう。またよろしくね」=Thank you, too. Thank you too.
+「うん、約束だよ！　今の私にとって、君とのデートは生きがいなのです。ふふーっ」=Yes, I promise!　For me now, dating you is a way of life. Phew!

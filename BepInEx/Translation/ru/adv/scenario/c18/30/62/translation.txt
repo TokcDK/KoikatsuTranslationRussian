@@ -1,0 +1,7 @@
+「寂しいですけど、ここで今日はさようならですね……」="I'm sad, but I guess this is where we say goodbye for today...
+CHOICE:「よかったら、この後家に来ない？」="Would you like to come to my house afterwards?
+CHOICE:「そうだね……。また今度話そうよ」="Sure... Let's talk some other time.
+「よかったら、この後家に来ない？」=Do you want to come to my house afterwards?
+「お邪魔してもいいんですか？　ありがとうございます、そうしたいです」=Do you mind if I come over later?　Thank you. I'd like that.
+「そうだね……。また今度話そうよ」=Yeah... Let's talk some other time.
+「はい。それじゃあ、さようならです」=Okay. Okay, bye.

@@ -1,0 +1,14 @@
+「もう夕暮れですね。遊園地という名の通り、時間を忘れて遊び尽くしてしまいました」=It's already dusk. It's already dusk, and as the name of the park suggests, we've lost track of time.
+「だね。そろそろ帰る人が多くなってきたみたいだけど……」=Yes, it is. It looks like a lot of people are starting to leave...
+「まだ時間大丈夫だよね？　よかったら観覧車に乗っていかない？」=There's still time, right?　Would you like to go on the Ferris wheel?
+「はい、私もそう思っておりました」=Yes, that's what I was thinking.
+「もうそろそろしたら、綺麗な夜景が見える時間になりそうだね」=It's almost time for a beautiful night view.
+「素敵ですね。では、参りましょうか」=That sounds wonderful. Well, shall we go?
+（あんまり[H名]を連れまわすのもよくないかな）=(I don't think it's a good idea to take [H名] around too much.
+「一日中遊び通しで疲れたでしょ。暗くなる前に帰ろうか」=You must be tired after playing all day. Let's go home before it gets dark.
+「ふふ、今宵はよく眠れそうですね。本日も素敵な思い出を作っていただき、誠にありがとうございました」=Hmm, I think I'll sleep well tonight. Thank you very much for the wonderful memories you made today.
+「こちらこそ。でも、駅に帰るまでがデートだから、ギリギリまでいっぱい話してもいいかな？」=Thank you, too. But since it's a date until we get back to the station, can we talk until the last minute?
+「もちろんでございます。今日乗った乗り物や入った建物のこと、いただいた料理のこと、貴方とお話したいことがたくさんございます」=Of course. There are so many things I want to talk about with you, about the rides we took today, the buildings we entered, the food we ate.
+「また話題が尽きないやつだね、これ」=There's so much to talk about, isn't there?
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

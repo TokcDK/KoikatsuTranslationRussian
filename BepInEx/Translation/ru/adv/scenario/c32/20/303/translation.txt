@@ -1,0 +1,17 @@
+「っと、もうこんな時間だ。盛り上がりすぎて、気が付かなかったよ」=It's getting late. I was so excited, I didn't even notice.
+「そうですね。これからどうしましょう？」=Yes, it is. What should we do now?
+「延長していいかな？　俺、まだ歌い足りなくてさ」=Can we extend it?　I haven't sung enough.
+「私なら構いませんよ。まだ『今日歌うべき曲リスト』、全部消化してしませんし」=I don't mind. I haven't even finished my list of songs to sing today.
+「そ、そんなもの、作ってたんだね……じゃあ、今から延長するって連絡入れるよ」=I didn't know you made such a thing... Well, I'll let you know I'm extending it now.
+「そろそろ出よっか」=Let's get out of here.
+「わかりました。とても楽しい時間でしたね……また来たいです」=Okay. I had a great time... I want to come back.
+「そう、それはよかった！」=Yeah, that's great!
+「延長はしなくていいかな。このまま時間まで歌って帰ろうか」=I don't think I'll need an extension. Shall we just sing until the end of the night and go home?
+「ええ。時間までというと……あと一曲といったところでしょうか」=Yes. Yes, until the hour is up... One more song?
+「せっかくだし、[H名]が歌いなよ。ほら」=Since you're here, why don't you sing, [H名]? Come on.
+「私がですか？　では――最後ですので、気合を入れて歌います」=I'll sing?　Then I'll sing it with all my might.
+「いや、そんな身構えなくても……」=No, don't be so defensive...
+「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=If I could grow wings on my back and fly around freely in the sky...
+（……まあ、カワイイからいっか）=...
+CHOICE:『延長していい？』="Can I have an extension?
+CHOICE:『そろそろ出ようか』="Let's get out of here.

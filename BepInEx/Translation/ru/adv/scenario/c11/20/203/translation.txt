@@ -1,0 +1,11 @@
+「……もう辺りがオレンジね。一日が早いわ～」=... It's already orange around here. The day is fast approaching.
+「ねえ、急いで帰らなくていいなら、ラストに観覧車に乗っていかない？」=Hey, if you don't want to rush home, why don't we go on the Ferris wheel last?
+「あらあら、観覧車に乗りたいの？」=Oh, you want to ride the Ferris wheel?
+「うん。二人で一緒に……綺麗な夜景を見たいんだ」=Yeah. Yeah, I want to see the beautiful night view of ... with you.
+「うふふ、素敵ね。それじゃあ、ゆっくり歩いていきましょうか。着くころにはちょうどいい時間になってるはずよ」=Mmmm, that's nice. Well then, let's walk slowly. By the time we get there, it should be a good time.
+「そろそろ暗くなっちゃうから、今回はここまでにしておこうか」=It's going to be dark soon, so let's stop here for now.
+「そうね。あんまり遅いと、あなたがおねむになっちゃうものね」=Yes. It's going to be dark soon.
+「そんなに早く眠くならないって」=I'm not going to fall asleep that fast.
+「ふふふ、冗談よ。でも、遅くなって明日に響くといけないから、今日は帰りましょうか」=I'm just kidding. I'm just kidding, but I don't want to be late and have to deal with the consequences tomorrow, so let's go home.
+CHOICE:『最後に観覧車に乗りたい』="I want to ride the Ferris wheel one last time.
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

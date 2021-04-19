@@ -1,0 +1,13 @@
+「いっぱい回ったね、もうこんな時間だ」=You've been around a lot. It's getting late.
+「どうします？ 時間を考えるとアトラクションに乗るなら最後になりそうですけど」=What should we do? What should we do? Considering the time, I think we'll be the last to ride the attraction.
+「そうだな……観覧車でも乗っていかない？」=Well, why don't we go to ... and ride the Ferris wheel?
+「いいですね、ロマンチックですっ」=That sounds nice and romantic.
+「でも……宙吊りなので、ちょっと怖いんですよね……」=But it's a little scary because you're suspended in the ... air.
+「うん？　何か言った？」=Yeah?　What did you say?
+「いえ、何も！」=No, I didn't!
+「うーん、暗くなる前に今日は帰ろっか」=Well, let's go home before it gets dark.
+「はいっ。あ、帰りにお土産をみたいです」=Okay. I'd like to pick up some souvenirs on the way home.
+「いいね。なにか今日の思い出になるものでも買いに行こっか」=Good idea. Let's go buy something to remember the day by.
+「なにがいいでしょう……今から迷っちゃいます」=What would you like to buy? ... I'm so confused.
+CHOICE:『そうだな……観覧車でも乗っていかない？』="Well, why don't we go on the ... Ferris wheel?
+CHOICE:『暗くなる前に帰ろっか』="Let's go home before it gets dark.

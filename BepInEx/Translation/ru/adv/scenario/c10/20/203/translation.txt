@@ -1,0 +1,10 @@
+「はぁ～、思わず力を使いすぎてしまった……遊園地、恐るべし……」=Huh, I used too much energy... Amusement parks can be scary...
+「ねぇ、最後に観覧車に乗らない？」=Hey, do you want to go on the Ferris wheel at the end?
+「観覧車なら座って休めるし、二人きりになれるからゆっくりできると思うよ」=We can sit on the wheel and rest, and it'll be just the two of us.
+「なるほどな。では、フィナーレを飾りいくとしよう！」=I see. Well, let's have the finale!
+「はは、俺も少し疲れたよ。さすがに一日で遊びつくすのは無理だったね」=I'm a little tired too. I'm a little tired too. I didn't have enough time to have fun in one day.
+「むぅ、我をここまで消耗させてなお、すべてを攻略できぬとはな……」=Mmm, you've worn me out so much that I still can't conquer everything...
+「まぁ、こういう場所は何度も来て楽しむものだから。また一緒に来よう」=Well, this kind of place is meant to be enjoyed over and over again. I'll come back with you.
+「うむ！　次はもっと巡ってみせる！」=Mmm!　Next time, I'll visit more!
+CHOICE:『最後に観覧車に乗ろう』="Finally, let's ride the Ferris wheel.
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

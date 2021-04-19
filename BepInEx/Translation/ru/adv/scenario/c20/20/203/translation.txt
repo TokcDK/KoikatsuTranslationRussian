@@ -1,0 +1,10 @@
+「なんだか、今日は童心に帰れた気がしました……えへへ……」=I feel like I've gone back to my childhood today... Hehehe...
+「俺もだよ。はしゃいでたから時間が過ぎるのが早くて……もう夕方なんだな……」=Me too. I was so excited that time went by so fast... It's already evening...
+「あのさ、最後に観覧車に乗っていかない？」=Hey, do you want to go on the Ferris wheel one last time?
+「わぁ、いいですね観覧車！　まさにデートって感じです」=Wow, I love the Ferris wheel.　That sounds like a date.
+「暗くならないうちに帰ろうか」=Let's go home before it gets dark.
+「そう、ですね……あ、あの今日は、二人で遊園地に来れてよかったです」=Yeah... Well, I'm glad we could come to the amusement park together today.
+「はぁ……いっぱい遊んだのに、帰るとなると少し、名残惜しいです」=Huh... We had a lot of fun, but I'm a little sad to leave.
+「そうだね。でも、また一緒に来れるから大丈夫だよ」=That's true. But I'm sure we can come back together again.
+CHOICE:『観覧車に誘う』="I'll take you on the Ferris wheel.
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

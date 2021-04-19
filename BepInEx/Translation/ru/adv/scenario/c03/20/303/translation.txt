@@ -1,0 +1,15 @@
+ブー、ブー、ブー……=Boo, boo, boo...
+「あっ、もう時間ギリギリなのですっ！　スマホのアラームが鳴ってしまったですよー」=It's almost time!　The alarm on my phone went off.
+「きちんとセットしてくれてたんだ。ありがとう。えーっとそれじゃ……」=My phone's alarm went off..." "You set it correctly. Thank you. Let's see...
+「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=Why don't we extend it a little longer?　I want to hear more of [H名]'s singing.
+「はいですーっ！　私ももっともっとあなたのお歌聞きたいですよ！」=Yes, yes!　I want to hear more of your songs, too!
+「うん、まだまだ盛り上がっていこう！」=Yes, I want to hear more of you!
+「そろそろ帰り支度を始めよっか。遅れないようにしなきゃ」=Let's start getting ready to go home. Let's get ready to go home. We don't want to be late.
+「はいです。いっぱい歌えて、すごく気持ち良かったですよー！」=Yes, sir. It felt so good to sing so much!
+「あと一曲だけ歌って帰ろうか。最後だし、[H名]が入れていいよ」=Let's sing just one more song and go home. Since it's the last song, [H名] can join us.
+「わーい！　それじゃあですね……最後はこの曲にするですよー！」=Yay!　Well then... we'll end with this song!
+「よし、俺は[H名]を盛り上げるよ！」=Okay, I'll get [H名] going.
+『小さな手の平掴める物は～♪　きっと限られているけど～♪』=There's only so much I can hold in my little palm...
+「いえーい！」=Yeah!
+CHOICE:『もう少し延長しない？』="Can we stay a little longer?
+CHOICE:『帰り支度しよう』="Let's get ready to go home.

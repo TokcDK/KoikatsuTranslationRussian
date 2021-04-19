@@ -1,0 +1,14 @@
+「えへっ、デートだぁ♪」=A date!
+「はしゃいでる[H]を見てたら俺も嬉しくなるよ。けど、転ばないように注意してね？」=It makes me happy to see you so excited. But be careful not to fall, okay?
+「いつもこんな気持ちだったらいいのになぁ」=I wish I could feel like this all the time.
+「いつもそんなにふわふわしてたら、いずれ空に浮いちゃうかもしれないぞ？」=If you're always so flustered, you might end up floating in the sky.
+「ええっ！　ずっとふわふわしてたら浮いちゃうの？　それって素敵なことだよ♪」=What?　If I'm so fluffy all the time, will I float away?　That would be wonderful!
+「あはは、確かに素敵だけど、実際はいくらふわふわしても浮かないよ！」=Haha, it's nice, but no matter how fluffy you are, you won't actually float!
+「そうなんだ……けど、本当に浮いちゃったら、デートなんて出来ないよねぇ！」=Yeah, that's true... But if you really float, you can't go on a date!
+「デートの終わりは、いつも寂しくなるね」=I always get sad at the end of a date.
+CHOICE:「……良かったら、俺の家に来ない？」="... would you like to come over to my house?
+CHOICE:「またすぐ学園で会えるよ」="I'll see you at school soon.
+「……良かったら、俺の家でデートの続きをしないか？」=I always get sad at the end of a date... How about we continue our date at my place?
+「ええっ、本当に？　私もこのままバイバイしたくなかったの……」=Oh, really?　I didn't want to say goodbye to you, either...
+「そうだな。でもまたすぐ学園で会えるよ」=Yeah, I know. But I'll see you at school soon.
+「そうだね。また学園で、バイバイ！」=Yeah, right. See you at school. Bye!

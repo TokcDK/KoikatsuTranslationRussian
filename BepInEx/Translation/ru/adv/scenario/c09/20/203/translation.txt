@@ -1,0 +1,14 @@
+「ねぇ、次は何に……って、もう夕方！？　全然気づかなかったわ……」=Hey, what's next for ... it's already evening!　I didn't even notice ...
+「あのさ、まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=Hey, if we still have time, why don't we go on the Ferris wheel for the last time?
+「そうね、やっぱりシメは大事よね。早く行きましょうよ。そこまで勝負する？」=Yes, it's important to have a good time. Let's go early. Do you want to go that far?
+「いや、急がないほうが……」=No, we'd better not rush...
+「のろのろ行けば、乗る頃には日が沈んできれいな夜景が見えると思うんだ」=If we take our time, by the time we get on the train, the sun will have set and we'll have a nice view of the night sky.
+「そ、そうね……その方がロマンチックね……」=Yeah, well... that's more romantic...
+「それじゃあ、暗くなってしまう前に帰ろうか」=So let's get home before it gets too dark.
+「そ、そうね……」=Yeah, I guess so...
+（やっぱり、ちょっと残念そうだな……）=(You look a little disappointed...)
+「また今度、一緒に来たらいいんだし。乗れなかったのも、次のお楽しみってことで」=We can come back together another time. If we don't make it, we'll have fun next time.
+「そうね、次にとっておかないと……また、連れてきてよね？」=Well, we'll have to save it for next time... You'll bring me back, right?
+「ああ」=Yeah.
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

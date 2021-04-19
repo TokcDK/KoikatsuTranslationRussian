@@ -1,0 +1,7 @@
+「あっ、もうこんな時間……残念ですが、今日はここまでですね」=Oh, it's so late ... but I'm afraid that's it for today.
+「……この後、家にこれないかな？　まだ[H]といたいんだ」=I'm sorry, but that's all for today... Can you come home after this?　I still want to be with [H].
+「え！？　……はい、大丈夫です！　私も、まだ一緒にいたかったので、嬉しいです！」=What?　... Yes, that's fine!　I'm so glad I could still be with you!
+「そうだね、また会おうね。それじゃ、ばいばい」=I'm so glad I could still be with you!" "Yeah, I'll see you soon. Bye bye then.
+「はい、それではまた」=Okay, I'll see you later.
+CHOICE:「この後、家にこれないかな？」="Can you come to my house after this?
+CHOICE:「そうだね、ばいばい」="Sure, bye.

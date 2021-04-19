@@ -1,0 +1,7 @@
+「おっと、もうこんなところか。あはは、話に夢中になってると早いな」="Oops, we're almost there. Haha, you're early when you're absorbed in a conversation.
+CHOICE:「よければ家でもう少し話さない？」="Can we talk some more at home if you want?
+CHOICE:「それじゃまた」=See you then.
+「そうだね。その……よければ家でもう少し話さない？」=That's right. We can talk some more at home if you want to go to that ...
+「ん？　あぁ、いいよ。あたしも、もう少し一緒にいたいって思ってたし」=Hmm?　Yeah, sure. I've been wanting to hang out with you for a while.
+「うん。それじゃまた。気を付けて帰ってね」=Yeah. Okay, I'll see you later. Have a safe trip home.
+「はいはい。じゃ、そっちこそ気を付けて帰れよー」=Okay, okay. Have a safe trip home.

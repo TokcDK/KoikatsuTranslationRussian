@@ -1,0 +1,15 @@
+「ん……そろそろ、終了時間みたいだぞ」=... Looks like it's time to go.
+「えっ、もうそんな時間？　なんだかもっと歌いたい気分だなぁ。ねえ、[H名]がよければ、もう少し延長しない？」=What, is it that time already?　I feel like I want to sing more. Hey, if it's okay with [H名], can we stay a little longer?
+「うん、そうだなー。あたしももっと歌いたいぞ！」=Yeah, I guess so. I want to sing some more too!
+「よかった。じゃあ、延長の連絡をするよ」=Good. Okay, I'll call you for an extension.
+「そっか。じゃあ、帰る準備をしないと」=Okay. Well, I'd better get ready to go home.
+「そうだな！　またキミとカラオケに来たいぞ！」=Yeah, right!　I want to come back to karaoke with you.
+「うん、俺もだよ。絶対にまた来ようね」=Yeah, me too. I'll definitely come back.
+「そっか。じゃあ帰る仕度を……あっ、でもあと一曲くらいなら歌える時間あるよ」=Okay. I'm going to get ready to go home... But I have time to sing one more song.
+「せっかくだし、もう一曲歌ってから帰ろうよ」=Since we're here, let's sing one more song before we go home.
+「そうだな！　じゃあ、デュエットで歌うぞー！」=Yeah, right!　Then we'll sing a duet!
+「おー！」=Oh!
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+（やっぱり二人で歌うのは楽しいな）=(It's still fun to sing together.)
+CHOICE:『延長して歌おうよ！』="Let's sing an extra song!
+CHOICE:『カラオケを終了して帰る』="Let's finish karaoke and go home.

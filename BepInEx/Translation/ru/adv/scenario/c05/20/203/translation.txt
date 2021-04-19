@@ -1,0 +1,12 @@
+「次はなにに乗ろう……って、あれっ？　もうこんな時間なんだ……えへへ、はしゃぎすぎちゃったね」=What should we ride next ...?　It's already this late... Hehe, I got too excited.
+「[H名]。もし時間が大丈夫なら、最後に観覧車に乗っていこうかなって思うんだけど……どうかな？」=[H名]. If time permits, I'd like to take a ride on the Ferris wheel for the last time... What do you think?
+「えっ……観覧車？　本当にっ？」=What, the ... Ferris wheel?　Really?
+「わたしも、[P名]くんが嫌じゃなかったら絶対乗ろうと思ってたんだ……」=I was thinking of going on it too, if you don't mind...
+「よかった。それなら、早速行こうか」=Good. Then let's get going.
+「今日は[H名]のいつもとは違う部分が見れて楽しかったよ」=It was fun to see a different side of [H名] today.
+「さて、遅くなる前に帰ろうか。あ、売店とかあるけど……なにか買っていく？」=Well, let's go home before it gets too late. There is a store at ... Do you want to buy something?
+「うんっ。いつもはね、“かれら”の元へ持っていけるかわからないから、あんまり物を欲しいと思わないけど……」=Yes. Usually, I don't want to buy things because I don't know if I'll be able to bring them back to them, but ...
+「[P名]くんとの思い出が強く残るように、なにかお揃いのものがほしいな」=I'd like to get something matching so that my memories of [P name] will be strong.
+「了解。それじゃあ、できるだけ宇宙に持っていけそうなものにしないとね」=Okay. Then we have to make it something that we can take with us into space as much as possible.
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.

@@ -1,0 +1,7 @@
+「ねえ、ちょっといいかな」=Hey, can I talk to you for a second?
+「あんた、例の転校生ね！　な、何？　あたしに用でもあるの？」=You're that new student!　What's up?　What do you want from me?
+「出来れば君と話したいんだけど……」=I'd like to talk to you if I could...
+「え、えぇ、いいわよ。あんたの話し相手になってあげる」=Yeah, yeah, sure. I'd be happy to talk to you.
+「ほんとに？　いやあ、助かるよ～。相手が女子だとなかなか話しかけづらくてさ」=Really?　That would be great! It's hard to talk to a girl when she's a girl.
+「まあ、最初の頃はそんなものよ。ところで、あんたの名前、聞いてもいい？」=Well, that's how it is in the beginning. By the way, can I ask you your name?
+「あ、名乗るが遅くてごめんね。俺は、[P名前]っていうんだ、よろしく。それで、話なんだけど……」=I'm sorry it took me so long to tell you my name. My name is [P name], nice to meet you. So, I'm talking about ...

@@ -1,0 +1,5 @@
+「キャッチボールをやってみよう」=Let's play catch.
+「えぇ、ワタシが投げるからね。それっ」=Yeah, I'll throw. There.
+「よし、取った。投げるよ、それっ、あっ」=Okay, I got it. I'll throw it. That's it.
+(ボールがあらぬ方向へ）=(Ball goes in the wrong direction.)
+「あぁ、ボールがログアウト～。もう一回やってみようなんだなぁ！」=Oh, the ball's logged out. Let's try this again!

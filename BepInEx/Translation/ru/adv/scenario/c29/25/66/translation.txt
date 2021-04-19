@@ -1,0 +1,5 @@
+「そうだ。もしよければゲームセンターに寄っていかない？　この近くにあるんだ」=Yes, I am. If you don't mind, would you like to stop by the arcade?　It's just around the corner.
+「ゲームセンター……馴染みがない場所ですね。楽しいですか？」=I'm not familiar with the ... arcade. Is it fun?
+「うん。きっときみが気にいるゲームもあると思うよ」=Yes. Yes, I'm sure there are games you'll like.
+「…………なるほど。少しでしたら構いませんよ」=... I see. I'll give you a few.
+「やった。じゃあ行こうか」=Okay. Let's go.

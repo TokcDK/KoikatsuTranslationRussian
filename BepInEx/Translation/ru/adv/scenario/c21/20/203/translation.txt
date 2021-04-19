@@ -1,0 +1,13 @@
+「もう日が暮れてきちゃった。遊園地の一日って、どうしてこんなに早いんだろうね～」=It's already getting dark. "It's already getting dark. I wonder why a day at the amusement park goes by so fast~
+「わかるわかる。ほんと一瞬だよね」=I know, I know. I understand. It's just a moment.
+（さて……この後はどうしようかな？）=(Well... what should we do now?)
+「あのさ、最後に観覧車に乗っていかない？」=Hey, do you want to go on the Ferris wheel one last time?
+「あはっ、私も同じこと考えてた♡　昼間はすごい列だったけど、今は空いてるし、乗ろうよ♪」=Haha, I was thinking the same thing. ♡ There was a huge line during the day, but now it's empty, let's ride!
+「よしっ、それじゃあ行こうか」=All right, let's go then.
+「乗ってないアトラクションがあるけど、今日は暗くなる前に帰ろうか」=There are some attractions we haven't ridden yet, but let's go home before it gets dark.
+「そう？　私はまだ大丈夫だけど……でも、そうだね。次の楽しみに取っておこうかな♪」=Yeah?　I'm still okay with it... But yeah, I guess so. I think I'll save it for next time.
+「うん、次に来るのが楽しみになるもんね」=Yeah, it'll be fun to come back next time.
+「じゃあ、次はいつにする？　今度のお休み？」=So, when do you want to go again?　Next vacation?
+「えっと……お互いの予定とお財布に相談かな」=Well... I guess we'll have to consult our schedules and wallets.
+CHOICE:『観覧車に誘う』="I'll take you on the Ferris wheel.
+CHOICE:『暗くなる前に帰る』="I'll be home before dark.

@@ -1,0 +1,6 @@
+「ねぇ、今いいかな？」=Hey, is this a good time?
+「ん～？　私に何か～？」=I'm sorry.　What do you want from me?
+「暇そうにしてるなって思って。俺は[P名前]って言うんだ」=I thought you looked bored. My name's [P name].
+「そっか～って知ってるけどね。ひとりだけの男子、目立ってるもんね～」=I know that. I know, but you're the only boy who stands out.
+「そ、そうかな……それで何か話でもしたいなって」=Yeah, I see... So I wanted to talk to you about something.
+「何かって言われても困るんですけど～、簡単な質問ぐらいなら答えるよ～」=I'm not sure what you mean, but I can answer a few simple questions.

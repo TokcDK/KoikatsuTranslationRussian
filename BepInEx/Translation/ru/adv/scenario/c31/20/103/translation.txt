@@ -1,0 +1,16 @@
+「うーん、日が落ちてきたな。どうする？　もう帰るか？」=Hmm, the sun is going down. What should we do?　Should we go home now?
+「もうちょっとだけいようよ。ここって夜景の名所だから、[H名]と一緒に見ていきたいんだ」=Let's stay a little longer. This place is famous for its night view and I want to see it with [H名].
+「ほう、上手い誘い文句を考えたな。そこまで言われたら断るわけにもいくまい」=I want to see it with [H名]. Well, you've come up with a good invitation. If you say so much, how can I refuse?
+「よかった。断られたどうしようかと思ったよ」=Good. I was afraid you'd say no.
+「フフッ、その時はいつもみたいに泣いて懇願したらどうだ？　私の足に縋り付いてな」=Why don't you cry and beg like you always do then?　Cling to my legs.
+「いつもって、そこまでした事はないと思うけど……ないよね？」=Always? I don't think I've ever done that before. You're not ... are you?
+「と、とにかく行こうか！　夜景スポットに案内するよ」=Let's go anyway!　I'll take you to the nightlife.
+「あんまり暗くなる前に、帰った方がいいよね？　駅まで送っていくよ」=I'll take you to a night spot. - We'd better get home before it gets too dark.　I'll take you to the station.
+「そうだな。暗くなったら、いつおまえに襲われるかわからん」=Yeah, sure. I don't know when I'll be attacked by you after dark.
+「えぇっ、もしそんな事したって、[H名]には余裕で迎撃されそうだけど……」=Yeah, even if I did, I'm pretty sure [H名] would intercept me...
+「わからないぞ？　私だって常に気を張っているわけじゃない。不意を突かれる事くらいあるだろう」=You never know.　I'm not always on my toes. You can be taken by surprise at times.
+「それって……遠回しに誘ってる？」=Is that a ... distant invitation?
+「さぁな。ほら、もう帰るんだろう？　手くらい繋いでいくか？」=I don't know. You're going home, aren't you?　Can we at least hold hands?
+「うぅ、何か色々チャンスを逃した気がするけど……うん、駅まで手は繋いで帰ろう」=Ugh, I feel like I'm missing out on a lot of opportunities, but ... yeah, let's hold hands all the way to the station.
+CHOICE:『まだ一緒にいたい』="I still want to be with you.
+CHOICE:『そろそろ帰ろうか』="Shall we go home now?

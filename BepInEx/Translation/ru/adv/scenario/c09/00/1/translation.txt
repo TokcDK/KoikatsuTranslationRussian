@@ -1,0 +1,5 @@
+「ねえ、ちょっといいかな？」=Hey, can I talk to you for a second?
+「え！？　べ、別に構わないけど……何か用？」=What?　I don't mind, but ... what do you want?
+「いや、話し相手がなかなか見つからなくて困ってて……」=No, I'm having trouble finding someone to talk to...
+「ああ、そうなの。だったら、一緒に話してもいいわよ」=Oh, really? Well, you can talk to me if you want.
+「ほんとに！？　嬉しいなあ。俺、[P名前]。よろしくね」=Really?　I'm glad to hear that. I'm [P name]. Nice to meet you.

@@ -1,0 +1,11 @@
+「すみませーん！　少しお時間よろしいでしょうか？」=Excuse me!　Can I have a moment of your time?
+「あっ、はい。何ですか？」=Oh, yes. What is it?
+「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you very much!　My name is Tamaki, I'm a wedding planner working at a wedding hall near here!
+「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=A wedding planner?　Why would someone like that contact us at ...?
+「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=We're currently holding a bridal fair at our wedding hall, and we were looking for someone to model for our mock wedding...
+「……もしかして、そのモデルの役を私たちに？」=... Are you offering us the role of the model?
+「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=Yes!　You're a very nice couple and you look great together, so I thought I'd give you a call.　What do you think?
+「どうする？　俺はやってもいいと思うけど」=What do you think?　I think I can do it.
+「興味は、あるかも。滅多に体験できないことだと思うし……」=I might be interested. I think it's a rare experience...
+「えっと、じゃあ……俺たちでよければ、モデルをやらせてください」=Well... if it's okay with you, we'd be happy to model for you.
+「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much!　Then, I'll show you to the wedding hall right away!

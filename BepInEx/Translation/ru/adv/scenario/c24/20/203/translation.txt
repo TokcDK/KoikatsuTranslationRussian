@@ -1,0 +1,12 @@
+「色々ありましたけど、遊園地ってとっても楽しいですね♡」=I've been through a lot, but amusement parks are really fun.
+（本当に楽しんでそうだけど、色々って言葉が引っ掛かるな。たしかに、だいぶ気を遣ったみたいだからな……）=(She seems to be really enjoying it, but the word "a lot" is a bit of a turn-off. (You seem to be really enjoying it, but I'm not sure about the word "a lot." It sounds like you've taken a lot of care...)
+「[H名]、よかったら観覧車に乗らない？　もう少ししたら、綺麗な夜景が見える時間になりそうだし」=I'd like to take a ride on the Ferris wheel, if you don't mind.　It's going to be a beautiful night view in a little while.
+「はい♡　あなたと二人っきりになれる場所なら、どこだって行きます♡　観覧車で素敵な二人旅行をしましょう♡」=Yes, I'll go anywhere where I can be alone with you ♡ Let's have a wonderful trip together on the Ferris wheel ♡
+「二人旅行、いいね。じゃあ、行こうか」=A trip for two sounds great. Let's go.
+「ゆっくりと流れる時間を二人で楽しみましょう♡」=Let's enjoy the time that passes slowly together.
+「うん、とっても楽しかったね。でも、ちょっと遊びすぎて疲れちゃったから、今日は早めに帰ろうか」=Yes, we had a lot of fun. But we've had too much fun and we're tired, so let's go home early.
+「あ……すみません、私のせいで疲れさせてしまいましたか？」=Oh... I'm sorry, did I make you tired?
+「[H名]のせいというか、[H名]のおかげで疲れるまで遊ぶことが出来たんだよ。ありがとう」=I'm sorry, did I make you tired?" "No, it's more like [H名]'s fault. Thank you.
+（やっぱり、[H名]疲れてたんだな。早く帰って、明日また元気な[H名]を見せてもらおう）=(I knew it, [H名] was tired. (I knew it, [H名] was tired. Let's go home early and see a healthy [H名] again tomorrow.
+CHOICE:『観覧車に誘う』="I'll take you on the Ferris wheel.
+CHOICE:『早めに帰る』="I'll be home early.

@@ -1,0 +1,14 @@
+「あ……いつの間にかもう空が赤くなっとる……学園におると時間が長く感じるんに……デートやったらすぐ過ぎるんやね……」=(He actually likes sweets, but ... he's a girl, so he's careful about calories.) "Oh ... the sky is already red before I know it... time seems longer when I'm at school, but ... it passes quickly when I'm on a date...
+「あのさ、まだ時間って大丈夫かな？　もし良かったら、もう少しここで[H名]と話したいんだけど……」=You know, I was wondering if time is still good?　If you don't mind, I'd like to stay here and talk to [H名] some more...
+「えへへ、私は大丈夫よ。最初から遅くなるつもりで来たっちゃもん。やけど……君は大丈夫なん？」=Yeah, I'm fine. I came here planning to be late from the start. I'm fine. I came here planning to be late from the start. But are you okay with ...?
+「あはは、一人暮らしなんだから、俺こそ全然平気だよ。でも良かった……この公園ってさ、夜景が綺麗だから……[H名]と見たいと思って」=Haha, I live alone, so I'm totally fine. But I'm glad... This park has a beautiful night view, and I wanted to see it with ...[H名].
+「えへへ……そう言ってもらえるの、すごい嬉しいよ。うぅ～、にやけがとまらんくなる～」=I'm so glad you said that. I can't stop smiling.
+「本当に時間が過ぎるの早いよね……」=Time really flies, doesn't it ...?
+「うん……一日がもっと長かったらいいんに……」=Yeah, I wish ... the days were longer...
+「[H名]……今日はもうこんな時間だけど、デートならまた出来るし……それにほら、まだまだ駅に着くまでは一緒にいられるよ」=[H名]... It's late today, but we can have another date ... and we can still be together until we get to the station.
+「あ……ふふっ、なんかその言い方嬉しいん。ちょっと……大人っぽい」=I'm glad you said that. It's a little ... mature.
+「え、あっ、そ、そうかな？　えっと……ごめん、格好付けすぎた？」=Oh, yeah, is that so?　I'm sorry... did I come off as too cool?
+「ううん、そういう意味やなくて……なんかね、君が引っ張ってくれとる感じがして……えへへ、駅に着くまで、まだまだデートを堪能するんっ！」=No, that's not what I meant... I feel like you're pulling me along... Hehe, I'm still going to enjoy our date until we get to the station!
+「あはは、うん、色んな話しながら歩こう」=I'm sure you'll be happy with the results.
+CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『あっと言う間だね』="It goes by so fast.

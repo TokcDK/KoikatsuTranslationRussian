@@ -1,0 +1,14 @@
+「ん？　もうすぐ時間か～。なんだかんだで盛り上がったね～」=Hmm?　It's almost time! We've had a lot of fun, haven't we?
+「せっかくだし延長しない？　俺、また[H名]と歌ってたいな」=I'm sure you'll be happy to hear that.　I want to sing with [H名] again.
+「別にいいっすよ。私も、キミともうちょっと一緒にいたかったし～」=I don't mind. I wanted to spend some more time with you too.
+「ふふっ、ありがとう。じゃあ、延長するね」=Mmm, thanks. I'll extend it.
+「だね。それじゃあ、帰る仕度をしよっか」=Okay. Then let's get ready to go home.
+「うい～。カラオケもいいものっすね～」=Okay. Karaoke is good, isn't it?
+「満足したならよかったよ」=I'm glad you're happy.
+「だね。最後に一曲歌ったら帰る仕度をしよっか」=Okay. Let's sing one last song and then get ready to go home.
+「せっかくだし[H名]が入れていいよ、はい」=Since we're here, [H名] can join us. Yes.
+「入れていいと言われてもねぇ……考えるのも面倒だし、この曲でいっか～」=Even if you say I can, it's too much trouble to think of ... so I'll just use this song.
+（履歴から適当にいれたな……）=I'll just go with this one." (It was randomly added from the history at ...)
+『もしも今背中に羽が生えて大空自由に飛び回れたら～♪』=If I could grow wings on my back and fly around freely in the sky...
+CHOICE:『このまま延長して歌おうよ！』="Let's extend this song!
+CHOICE:『帰る仕度をしようか』="Shall we get ready to leave?

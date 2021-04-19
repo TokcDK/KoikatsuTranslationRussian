@@ -1,0 +1,5 @@
+「夜は少し冷えてくるね。[H名]、大丈夫？」=It's getting a little chilly at night. [H名], are you okay?
+「……寒いと言ったら、もう一度温めあおうと言い出すのですか？」=... If I say I'm cold, are you going to ask me to warm you up again?
+「いや、さすがにそんなことは言わないって」=No, I'm not going to say that.
+「ふふっ、冗談です。心配せずとも私は大丈夫ですよ」=I'm just kidding. Don't worry, I'll be fine.
+「そ、そっか……まあ今が大丈夫でも冷えるといけないし、そろそろ帰ろうか」=I'm sure you'll be fine... Well, even if I'm fine now, I don't want to get cold, so let's go home.

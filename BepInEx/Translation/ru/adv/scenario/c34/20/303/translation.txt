@@ -1,0 +1,16 @@
+プルルル……=Purululu...
+「Ｏｈ，電話鳴ってるネ！　モシモーシ……ハイ……店員さん、アト１０分デ終わりダッテ」=Oh, the phone's ringing!　Oh, the phone's ringing! ... Hi ... clerk, I'll be back in 10 minutes.
+「[H名]さえよかったら、延長したいなーって」=I'd like to extend it, if you don't mind.
+「Ｗｏｗ♪　ワタシも同じ気持ちダヨ♡　モシモーシ！　延長お願いシマース♪」=Wow. I feel the same way.　I'd like an extension.
+（余所行きの喋り方もまた乙なんだよなぁ……）=(It's also nice to talk in a different way...)
+「キリがいいし、そろそろ出ようか……と思ったけど、[H名]はまだ歌いたい？」=I was thinking of leaving ... but do you still want to sing?
+「ワタシもソロソロ思ってたヨ♪　モシモーシ！　延長大丈夫デース、アリガトウゴザイマース！」=I was thinking about it too.　I'm fine with the extension, thank you very much!
+（[H名]とは時間感覚も気が合うから、一緒にいて苦にならないところがいいな）=I like that you and I have a good sense of time, so we don't have to spend too much time together.
+「んー……それじゃ、あと一曲だけ歌って出ようか」=(I like the fact that [H名] and I have a good sense of time, so it's not hard to be with her.
+「ＯＫネー！　店員サーン、延長大丈夫デース！」=Okay!　"OK, waitress, you can stay longer!
+「よし、せっかくだから最後はデュエットで歌おうよ。曲は[H名]が決めて」=Okay, since we're here, let's sing a duet at the end. You decide the song.
+「Ｎｉｃｅ　ｉｄｅａダヨー！　それじゃあ、この歌にするネ！」=Nice idea!　Then we'll sing this song!
+『小さな手の平 掴める物は きっと 限られているけど～♪　胸の中 溢れ出す言葉にも 希望乗せて そっと 海にこぎ出す～んだ～♪』=The things I can hold in my small palm are probably limited, but I'll carry hope in the words that overflow in my chest and gently sail out to sea...
+（二人で歌うのもいいもんだなぁ……）=(It's nice to sing together...)
+CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『キリがいいし、そろそろ出ようか』=It's time to get out of here.

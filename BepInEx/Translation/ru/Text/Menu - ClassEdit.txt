@@ -1,0 +1,103 @@
+#set EXE Koikatu
+#set level 7,13 // 13 is the default class menu, 7 gets additively loaded when you transfer students in/out
+
+//
+// Classroom Edit Menu
+//
+
+// Top Right Menu
+ランダムキャラの検索方法=Найти случ. персонажа
+ネットワークから=Онлайн
+キャラフォルダから=Папка персонажей
+情報確認=Показать инфо.
+なし=Нет
+// These both need label overrides... badly. Abbreviating is okay I guess, but bleh.
+愛称=Ник
+性格=Перс.
+最大登校人数=Макс. студентов
+クラスの登録人数を最大にする=Макс. набор в класс
+
+// Default School Names, etc.
+コイカツ女学園=Академия девочек Койкацу
+コイカツ女学園 学園長=Академия девочек Койкацу, директриса
+学園長=Директриса
+コイカツ部=Клуб Койкацу // For the Player
+
+// Amount of Attending Students
+r:"^([0-9]+)人$"=r:"$1"
+
+// Right Side Buttons
+転入=Зарегистр.
+転校=Перевод
+ランダム=Случайно
+//Nickname
+キャラ編集=Ред. Перс.
+対象=Формиров. классов:
+全体=Кажд. класс
+クラス=Этот класс
+空席全ランダム=Заполн. пустые // Older Versions
+空席ランダム=Заполн. пустые // Newer Versions
+全て空席にする=Распуст. класс
+転校させますか？=Перевести в другую школу?
+全キャラを転校させますか？=Перевести всех в другую школу?
+クラス内のキャラを転校させますか？=Перевести этот класс в другую школу?
+
+// Traits
+頻尿=Часто мочится
+チョロイ=Легкомысленная
+読書好き=Любит читать
+受け身=Пассивная
+怠惰=Ленивая
+運動好き=Любит спорт
+はらぺこ=Обжора
+ビッチ=Сука
+音楽好き=Любит музыку
+フレンドリー=Дружелюбная
+神出鬼没=Фантом
+真面目=Серьезная
+鈍感=Бесчувственная
+むっつり=Угрюмая
+活発=Активная
+綺麗好き=Опрятная
+一人好き=Одиночка
+// Character Design Addon Pack Vol. 4 (add10)
+女の子好き=Лесбиянка
+全選択=Все // Button to enable all traits
+全解除=Ничего // Button to disable all traits
+
+// Ai's seat
+この席には既に女の子が座っています=Это место уже занято какой-то девушкой.
+
+// Character Selection
+キャラ一覧=Список персонажей
+部活と性格=Клуб/Перс.
+名前=Имя
+日付=Дата
+部活=Клуб
+//Pers.
+
+// Blood Types
+r:"^([Ａ-Ｚ]+)型$"=r:"Тип $1"
+
+// Date Conversion
+r:"^([0-9]+)月([0-9]+)日$"="$1/$2"
+
+//
+// Story Characters Section
+//
+
+// Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
+// Sorry, guys.
+
+リナ ロベール=:　Lina Robert
+橋本 麗奈=Hashimoto Reina
+櫻井 野乃花=Sakurai Nonoka
+姫川 舞=Himekawa Mai
+柊 このみ=Hiiragi Konomi
+結城 桜=Yuuki Sakura
+水瀬 亜依=Minase Ai
+
+// Teacher "Clubs"
+養護教諭=Школьная медсестра
+数学教師=Учитель математики
+語学教師(担任)=Классный руководитель
