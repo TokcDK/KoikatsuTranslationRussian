@@ -111,7 +111,7 @@ NO=Нет
 r:"^タイプ([０-９0-9]+)$"=Тип $1 // Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
 
 // Emotion Creators Preorder Bonus added the ability to stop hair/accessory physics, which is shared, so this label goes in the generics
-揺れないようにする=Не трясти
+揺れないようにする=Без физики
 
 //
 // Clothing Selection Stuff
@@ -841,8 +841,8 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 // Patch 0727 (add13/14)
 サイドカール=Боковой завиток
 //Wavy Long
-スパイキー前=До Spikey
-中分けミディアム=Средняя разделительная среда
+スパイキー前=Косая челка
+中分けミディアム=Средняя, разделена в центре
 // Emotion Creators Preorder Bonus
 ストレートカール前=Straight, Curled Bangs
 撫でつけ(右)=Smoothed Down (Right)

@@ -376,7 +376,7 @@
 先生=Sensei
 お兄ちゃん=Oniichan
 先輩=Senpai
-ダーリン=Любимица
+ダーリン=Дорогой
 おう=Ou
 おさむ=Osamu
 おーじ=Ouji

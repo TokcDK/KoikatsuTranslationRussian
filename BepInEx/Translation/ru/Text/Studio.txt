@@ -155,7 +155,7 @@ r:"^ポイント([0-9]+)$"=Point $1
 のじゃっ子=Старомодная
 素直クール=Откровенная
 // Patch 0727
-気さく=Дружелюбный
+気さく=Дружелюбная
 // Personality DLC, also includes Friendly above
 勝気=Willful // Illusion just HAS to be different here compared to the main game!
 勝ち気=Решительная // And then Illusion has to double-derp by using both versions!
@@ -178,8 +178,8 @@ Sッ気=Sadistic // ...Then they fixed it.
 ピッカー=палитра
 スライダー=ползунок
 プリセット=образцы
-サンプル=Образец
-見本=Образец
+サンプル=образец
+見本=результат
 色合い=оттенок
 鮮やかさ=насыщение
 明るさ=яркость
@@ -237,10 +237,10 @@ r:"^柄の色([０-９])$"=Pattern Color $1
 r:"^チェック([A-Z])$"=Клетчатый $1
 市松チェック=Шахматная доска
 ハーリキンチェック=Арлекин клетчатый
-千鳥格子=Сетчатая сетка
+千鳥格子=Зубы гончей
 ハート=Сердце
 水玉=В горошек
-花柄=Цветочный дизайн
+花柄=Цветы
 r:"^星([A-Z])$"=Звезды $1
 イチゴ=Клубника
 ドクロ=Череп
@@ -1213,16 +1213,16 @@ r:"^メカアンテナ([0-9])$"=Mecha Antenna $1
 メカシールドⅡ=Mecha Shield Ⅱ
 メカブースター=Mecha Booster
 メカブースターⅡ=Mecha Booster Ⅱ
-メカサークル=Королевская корона
+メカサークル=Меха обруч
 メカボックス=Mecha Box
-メカポッド=Механический козырек
+メカポッド=Меха козырек
 メカデルタ=Mecha Delta
 メカチューブ=Mecha Tube
 メカポール=Mecha Pole
-メカビームポール=Механический круг
+メカビームポール=Меха круг
 メカシザー=Mecha Scissors
 メカドリル=Mecha Drill
-メカバイザー=Механический полюс
+メカバイザー=Меха визор
 メカバイザーⅡ=Mecha Visor Ⅱ
 メカゴーグル=Mecha Goggles
 メカボール=Mecha Ball
@@ -1243,7 +1243,7 @@ r:"^メカアンテナ([0-9])$"=Mecha Antenna $1
 タングルショルダー=Tangle Shoulderpad
 羽の髪飾り左用=Left Hair Feather
 羽の髪飾り右用=Right Hair Feather
-ロイヤルクラウン=Меховая прическа сторона вверх taleR
+ロイヤルクラウン=Корона
 ロイヤルリボン=Royal Ribbon
 毛玉=Furball
 
@@ -1275,8 +1275,8 @@ r:"^メカアンテナ([0-9])$"=Mecha Antenna $1
 くまで=Rake
 サーフボード=Surfboard
 カニ=Crab
-貝殻=ракушка
-ヒトデ=морская звезда
+貝殻=Ракушка
+ヒトデ=Морская звезда
 水鉄砲=Water Gun
 //Patch 0831 (studio11)
 サイドドレープ=Side Drapes
@@ -1455,7 +1455,7 @@ r:"^回転([0-9]+)_Bタイプ（obj無し）$"=$1° Rotator Type B (Without Obje
 // Add -> Items -> 3D SFX
 //
 
-環境音=Фоновый звук
+環境音=Окружение
 
 // Add -> Items -> 3D SFX -> Environment
 回転音=Rotation
@@ -1702,7 +1702,7 @@ r:"^教室([0-9])-([0-9])$"=Classroom $1-$2
 
 状態=Состояние
 キネマ=Kinematics
-アニメ=Аниме
+アニメ=Анимации
 ボイス=Voice
 衣装=Clothing
 関節補正=Joint Adjustment
@@ -1712,7 +1712,7 @@ r:"^教室([0-9])-([0-9])$"=Classroom $1-$2
 //
 
 服装=Одежда
-タイプ=Часть тела
+タイプ=Тип
 一括=Set All
 
 // Animation Menu -> Current State -> Clothing Settings
@@ -1767,14 +1767,14 @@ IK=IK
 髪=Волосы
 首=Шея
 胸=Грудь
-体=тело
+体=Тело
 右手=Правая рука
 左手=Левая рука
 スカート=Skirt
 
 // Animation Menu -> Kinematics -> Inverse Kinematics
 一括=Set All
-体=тело
+体=Тело
 右手=Правая рука
 左手=Левая рука
 右足=Правая стопа
@@ -2244,13 +2244,13 @@ orz=orz
 // Animation Menu -> Character Animation -> Special H
 //
 
-角オナニー=Угол стола
-椅子オナニー=Сидя
-立ちオナニー=Стоя
-トイレ覗き=Подглядывать в душе
-シャワー覗き=Подглядывание
+角オナニー=Мастурбация об угол стола
+椅子オナニー=Мастурбация на стуле
+立ちオナニー=Мастурбация стоя
+トイレ覗き=Подглядывать в туалете
+シャワー覗き=Подглядывание в душе
 // Patch 0629
-ハードルオナニー=Барьер
+ハードルオナニー=Мастурбация с препятствиями
 
 // Animation Menu -> Character Animation -> Special H -> Poses
 //Slow Loop
@@ -2416,8 +2416,8 @@ r:"^着替え([0-9])$"=Changing $1
 // Animation Menu -> Character Animation -> Joint Adjustment
 //
 
-右腕=Ниже локтя правой руки
-左腕=Ниже локтя левой руки
+右腕=Правая кисть
+左腕=Левая кисть
 //Right Foot
 //Left Foot
 左前腕部=Left Forearm Group
