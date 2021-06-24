@@ -1,4 +1,4 @@
-（それにしても、ちょっと暑いな。なんだか喉が渇いてきた……）=(It's a bit hot, by the way. I'm getting thirsty...)
+﻿（それにしても、ちょっと暑いな。なんだか喉が渇いてきた……）=(It's a bit hot, by the way. I'm getting thirsty...)
 「ねぇ[H名]、そろそろここで水分補給を……って、ええ！？」=Hey, [H名], it's time to rehydrate here at ... huh?
 「はぁ……はぁ……ふら、ふらぁ……」=Huh ... huh ... wobbly, wobbly ...
 「だ、大丈夫！？　まっすぐ歩けてないよ！？」=I'm not walking straight!　I'm not walking straight!
@@ -7,7 +7,7 @@
 「あ！　あそこの移動カフェで飲み物を買ってくるよ！　ちょっと待ってて」=Oh!　I'll get you a drink at that mobile café over there!　I'll be right back.
 「はぁ……う、うむ……はぁ……はぁ……」=Huh ... hmm ... huh ... huh ...
 （大変だ！　一刻も早く飲み物を飲ませないと！）=(Oh my God!　We need to get him a drink as soon as possible!
-………………=...
+………………=.........
 「お待たせ！　はい、これ飲んで」=Here you go!　Here, drink this.
 「んっ……ごくっごくっごくっ……っぷはぁ！」=Mmm... gobble... gobble... gobble!
 「おぉ、一気に飲み干した……だ、大丈夫？」=Oh, you drank all of that ... in one go. Are you okay?

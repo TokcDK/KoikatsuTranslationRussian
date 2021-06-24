@@ -1,4 +1,4 @@
-「おー、すごいなー！　期待してたよりずっと美味しそうだぞ！」=Oh, my God!　That looks much better than I was expecting!
+﻿「おー、すごいなー！　期待してたよりずっと美味しそうだぞ！」=Oh, my God!　That looks much better than I was expecting!
 「そうだね！　他の喫茶店と比べても、随分力が入ってるし」=Yes, it is!　Compared to other coffee shops, they put a lot of effort into it.
 「なんだか[H名]のを見てたら、俺も食べたくなってきちゃった……もしよかったら、一口もらえない？」=Looking at [H名]'s makes me want to eat it too... Can I have a bite if you don't mind?
 「うーん……仕方ないなー。分けてあげるぞ」=Hmmm ... I don't blame you. I'll share it with you.
@@ -9,9 +9,9 @@
 「うぅ……ほ、ほら、切り分けたから、自分で食べていいぞー」=Ugh... Hey, look, I cut it up so you can eat it yourself.
 「え～、せっかく[H名]に食べさせてもらえると思ったのに……」=Oh, I thought [H名] was going to feed me...
 「……食べさせてほしいのかー？」=You want me to eat ...?
-「うん、もちろんだよ」=Yeah, I will.
+「うん、もちろんだよ」=「Да, конечно」 
 「そ、そうなのかー。それじゃあ、その……あーん」=Oh, really? Well, I'll tell you what...
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「うん、クリームが滑らかで、パンケーキと良く合ってるね！　[H名]に食べさせてもらったから、すごく甘く感じだよ。ありがとう！」=Yeah, the cream is smooth and goes well with the pancakes!　The cream is so smooth and goes well with the pancakes. [H名] fed them to me, so they seem really sweet. Thank you!
 「うぅー……どういたしましてっ」=Ugh... You're welcome.
 「まぁ、キミが食べたいのなら、分けてあげるかー」=Well, if you want one, I'll share.

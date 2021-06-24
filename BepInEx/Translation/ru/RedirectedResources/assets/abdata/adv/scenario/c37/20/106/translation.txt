@@ -1,4 +1,4 @@
-「やっぱり綺麗ですね」=It really is beautiful, isn't it?
+﻿「やっぱり綺麗ですね」=It really is beautiful, isn't it?
 「うん。いつ来てもいい場所だよね」=Yeah. It's a good place, no matter the time.
 「こんなに綺麗な夜景を[H名]と一緒に見られるなんて、ホント幸せだよ」=Being able to see such a pretty nightscape with you, [H名], I really feel blessed.
 「さすがにそれは言い過ぎな気がしますが」=I feel like you're exaggerating a bit too much.
@@ -14,7 +14,7 @@
 「ここでエッチしちゃったくらいにね」=So much so that we've had sex in this place.
 「そうですね、私も盛り上がってしまいました」=Indeed, I've gotten quite fired up too.
 「それで……さ。今日もシちゃわない？」=And... So. Wanna do it today too?
-「ええ、構いませんよ」=Yes, I don't mind at all.
+「ええ、構いませんよ」=Yes, I don't mind.
 「それに私は、この夜景を見る頃には以前シたエッチの事を思い出していましたから」=Besides, by the time we came to look at the night sky here, I'd started thinking about how we had sex here last time.
 「既に……準備は出来ています」=I'm already... ready to go.
 「[H名]……」=[H名]...
@@ -28,6 +28,6 @@
 「ダメでしたか？」=Is it really no good?
 「ううん。むしろ喜んで」=No, If anything, I'm really happy.
 「――っと。これでＯＫだね。行こうか」=----and, there, we're good to go. Shall we?
-「はい」=Yes.
+「はい」= 「Да」
 CHOICE:『ここでエッチしちゃうくらいにね』=『So much so that we could have sex in here』
 CHOICE:『また一緒に夜景を見に来ようね』=『Let's come again to look at the night sky』

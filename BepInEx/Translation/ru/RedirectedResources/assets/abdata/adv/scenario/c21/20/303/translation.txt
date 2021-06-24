@@ -1,4 +1,4 @@
-プルルルル……=...
+﻿プルルルル……=...
 「電話鳴ってる！　私出るね。はいもしもし……あ、黝子ちゃんだ、やっほ～バイト順調？　うん、うん……あ、１０分前？　うん、ちょっと聞いてみるね」=The phone's ringing!　I'll get it. I'll get it... Hello, it's Kuroko-chan. Yoo-hoo!　Yeah, yeah... Oh, ten minutes ago?　Yeah, I'll check it out.
 （ようこ？　あ、[H名]の友達か。というか、もうそんな時間なんだ……延長するか、否か。うーん……）=(Yoko?　Oh, you're a friend of [H名]. So, it's already that time... Should I extend it or not? (Hmmm ...)
 「[H名]がいいなら、もっと[H名]と歌いたいな」=If it's okay with [H名], I'd like to sing with [H名] more.
@@ -12,7 +12,7 @@
 「二人で歌おうよ！　友達と来たときも、最後はみんなで歌うんだ～♪」=We'll sing together!　When I come here with my friends, we always sing together at the end.
 「いいね！　じゃあ、この曲を入れてっと……」=I like that.　Okay, let's put this song on ...
 「よし……思いっきり歌うぞ！」=Okay... we'll sing it as hard as we can!
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 『胸の中溢れだす言葉にも♪』=And the words overflowing in my heart.
 （やっぱ[H名]と一緒にいるのって、楽しいな）=It's really fun to be with [H名].
 CHOICE:『もっと[H名]と歌いたい』="I want to sing more with [H名]

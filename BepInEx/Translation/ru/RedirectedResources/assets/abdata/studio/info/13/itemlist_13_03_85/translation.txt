@@ -1,4 +1,4 @@
-パイプソファ=Pipe Sofa
+﻿パイプソファ=Pipe Sofa
 丸いガラステーブル=Round Glass Table
 丸いベッド=Round Bed
 丸い棚=Round Nightstand
@@ -38,7 +38,7 @@
 音楽機器１=Karaoke Machine 1
 音楽機器２=Karaoke Machine 2
 マイクスタンド=Microphone Stand
-マイク=Microphone
+マイク=Микрофон
 充電器１=Charging Dock 1
 充電器２=Charging Dock 2
 監視カメラ=Surveillance Camera

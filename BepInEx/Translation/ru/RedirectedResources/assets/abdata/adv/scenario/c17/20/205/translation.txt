@@ -1,4 +1,4 @@
-「ふぁ～」=Huh.
+﻿「ふぁ～」=Huh.
 「あれ？　眠いの？」=Huh?　Are you sleepy?
 「大丈夫よ、眠くなんて、ないわ」=I'm fine. I'm not sleepy.
 「そう？　……あ、少しずつ高くなってきたね」=Really?　... Oh, it's getting a little higher.
@@ -21,7 +21,7 @@
 「ちょ、え？　ど、どうしたの？　寝ぼけてる？」=Wait, what?　What's wrong with you?　Are you sleepwalking?
 「え、えーと……おはよー、朝だよー、起きてー」=Uh, well... good morning, it's morning, wake up.
 「お願いだから、少しだけ黙って、このままでいさせて」=Please, just shut up for a second and let me stay like this.
-「え？」=What?
+「え？」=... Что ты такое говоришь?
 「……こういう時にしか、思いっきり甘えられないんだから」=... It's the only time I can be as sweet as I want to be.
 「[H名]さん……寝ぼけてるわけじゃ、ないんだね？」=[H名]... you're not sleepwalking, are you?
 「寝ぼけていても、普段ならこんなことしないわよ」=You're not sleepwalking, are you? - Even if I was sleepwalking, I wouldn't normally do this.
@@ -34,7 +34,7 @@
 「……でもね、こんな面倒くさい私を好きでいてくれる人ができたの」=... But I've found someone who likes me for being such a pain in the ass.
 「その人にはすごく感謝している。いつもいつも、いじわるでわかりにくい、こんな私を本気で好きだって言ってくれて、本当に嬉しかったの」=I'm very grateful for that person. I'm really happy that he always said that he really likes me.
 「[P名]くん、本当にありがとう。私、あなたが大好き」=[P name], thank you so much. I love you.
-「[H名]さん……」=[H名]...
+「[H名]さん……」=[H名]-san...
 「んぅ、ん……」=Mm-hmm...
 「……さっきも言ったけど、本当に、大好きよ」=... Like I said, I really, really love you.
 「俺も、[H名]さんのことが大好きだよ」=I love you, too, [name].

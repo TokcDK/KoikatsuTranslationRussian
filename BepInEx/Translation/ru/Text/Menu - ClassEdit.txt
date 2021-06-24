@@ -1,4 +1,4 @@
-#set EXE Koikatu
+﻿#set EXE Koikatu
 #set level 7,13 // 13 is the default class menu, 7 gets additively loaded when you transfer students in/out
 
 //
@@ -24,7 +24,7 @@
 コイカツ部=Клуб Койкацу // For the Player
 
 // Amount of Attending Students
-r:"^([0-9]+)人$"=r:"$1"
+r:"^([0-9]+)人$"=$1
 
 // Right Side Buttons
 転入=Зарегистр.
@@ -77,7 +77,7 @@ r:"^([0-9]+)人$"=r:"$1"
 //Pers.
 
 // Blood Types
-r:"^([Ａ-Ｚ]+)型$"=r:"Тип $1"
+r:"^([Ａ-Ｚ]+)型$"=Тип $1
 
 // Date Conversion
 r:"^([0-9]+)月([0-9]+)日$"="$1/$2"
@@ -89,13 +89,13 @@ r:"^([0-9]+)月([0-9]+)日$"="$1/$2"
 // Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
 // Sorry, guys.
 
-リナ ロベール=:　Lina Robert
-橋本 麗奈=Hashimoto Reina
-櫻井 野乃花=Sakurai Nonoka
-姫川 舞=Himekawa Mai
-柊 このみ=Hiiragi Konomi
-結城 桜=Yuuki Sakura
-水瀬 亜依=Minase Ai
+リナ ロベール=Лина Ловелл
+橋本 麗奈=Хашимото Рена
+櫻井 野乃花=Сакураи Нонока
+姫川 舞=Химекава Май
+柊 このみ=Хиираги Кономи
+結城 桜=Юки Сакура
+水瀬 亜依=Минасе Ай
 
 // Teacher "Clubs"
 養護教諭=Школьная медсестра

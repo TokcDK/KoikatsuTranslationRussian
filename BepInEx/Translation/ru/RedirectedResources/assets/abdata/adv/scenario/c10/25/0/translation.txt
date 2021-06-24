@@ -1,8 +1,8 @@
-「あ、初めまして！　よろしく」=Oh, nice to meet you!　Nice to meet you.
+﻿「あ、初めまして！　よろしく」=Oh, nice to meet you!　Nice to meet you.
 「きゃっ……お、男の子……えっと……よ、よろしく」=Nice to meet you. - Hi, I'm ... a boy... uh...
 「ごめん、驚かせて。ちょっと話がしたくて声をかけたんだけど……あっ、俺は[P名前]って言うんだ」=I'm sorry, I didn't mean to scare you. I just wanted to talk to you... Oh, my name is [P name].
 「わ、我は驚いてなどいない！　断じてだ！　そ、それで……我に何の用だ？」=Wow, I'm not surprised!　Not at all!　I'm not surprised!
 「我……？　えっと、さっきも言った通り、君と話したくて声をかけたんだけど、迷惑だったかな？」=I'm ...?　Well, like I said, I wanted to talk to you. I hope I didn't bother you.
 「め、迷惑ではない。その、話しぐらいなら付き合ってやろう……ぞ！」=No, it's not a problem. I mean, if you want to talk, I'll go with you...!
-「ありがとう」=Thank you.
+「ありがとう」=「Спасибо」
 （ちょっと変わってるけど、悪い子ではなさそうだな。何を話してみようかな……？）=(She's a little strange, but she doesn't seem to be a bad girl. What should we talk about ...?

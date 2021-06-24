@@ -1,4 +1,4 @@
-「遊園地到着！　今日はいっぱい楽しもう！」=We've arrived at the amusement park!　Let's have a lot of fun today!
+﻿「遊園地到着！　今日はいっぱい楽しもう！」=We've arrived at the amusement park!　Let's have a lot of fun today!
 「オー♪　ドノａｔｔｒａｃｔｉｏｎにｒｉｄｅスル？　ワクワクが止まらないヨ～♡」=We're going to have so much fun today!　I can't stop the excitement!
 「[H名]が行きたいところに行こう！　ほら、ちょうど案内板があるよ」=Let's go where [H名] wants to go!　Look, there's a sign.
 「Ｗｏｗ，ｌａｄｙ　ｆｉｒｓｔ♡　ｇｅｎｔｌｅｍａｎダネ♡　ジャア～……ムームムム……アッ♪　ワタシ、Ｍｅｒｒｙ－ｇｏ－ｒｏｕｎｄ乗りたいナ♡」= I want to ride round.
@@ -18,7 +18,7 @@
 「ワーイ♪　動いたヨ、動いたヨ♪　オオッ、ｕｐ　ａｎｄ　ｄｏｗｎ♪　アハハッ、楽しイ～♪」=It's moving, it's moving, up and down, up and down, up and down, up and down, up and down, up and down, up and down, up and down, up and down.
 「どんどんスピードがあがっていくね」=It's getting faster and faster.
 「チョット怖いカラ、お腹ギュッとシテ♡」=I'm a little scared, but I'll hold on to your stomach.
-「え、いいの？」=Oh, you don't mind?
+「え、いいの？」=「Хо-ро-шо?」
 「Ｓｕｒｅ♡　アナタはワタシの王子様ダカラネ♡」=Sure, you're my prince.
 「よーし。ぎゅっ」=Okay. Squeeze.
 「ギャ～ッ！？　そのギュッ違うヨ！　お腹掴むじゃなくて、腕を回してほしかったノ～！」=What?　You're not squeezing me like that!　I didn't want you to grab my stomach, I wanted you to put your arms around me!

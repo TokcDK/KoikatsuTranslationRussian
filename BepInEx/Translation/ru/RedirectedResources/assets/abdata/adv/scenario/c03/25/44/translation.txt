@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「わぁ、あの着ぐるみのクマ可愛いですー！　見に行ってもいーですか？」=Wow, that stuffed bear is so cute!　Can I go see it?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「えへへぇ、可愛くてもふもふしちゃったです！　風船ももらっちゃったですよー！」=Can I go see it? - Yeah, it's so cute I fondled it!　I even got a balloon!
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

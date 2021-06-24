@@ -1,4 +1,4 @@
-「あらあらあら、我慢できなくて入ってきちゃったの？　どうしましょ～」=Oh my god, you couldn't resist coming in?　What should I do?
+﻿「あらあらあら、我慢できなくて入ってきちゃったの？　どうしましょ～」=Oh my god, you couldn't resist coming in?　What should I do?
 「あらあら、ひとりが寂しくてついてきちゃった？　困ったわねぇ……」=「Айай, тебе так одиноко, что ты решил пойти за мной? У тебя могут быть неприятности……」
 「ごめんね、ちょっと冷静になる時間をもらえるかしら」=I'm sorry, can you give me some time to cool down?
 「も～っ、ぷんぷん！　だからねっ」=You're so full of it!　I'll tell you what.
@@ -143,7 +143,7 @@
 「残念だけど、そろそろ行くわね」=「Извини, мне нужно идти」
 「あら、そう……わかったわ。バイバイ」=Oh, well ... okay. Bye-bye.
 「はーい、それじゃあ、またね」=「До встречи, снова」
-「よかったら一緒に帰らない？」=Do you want to come home with me?
+「よかったら一緒に帰らない？」=“If you like, want to walk home together?”
 「おしゃべりしながらの下校、いいわよね～、青春よね～」=It's nice to get off to school while chatting, isn't it? It's youthful.
 「ごめんね、今日は他の子に誘われちゃってるの」=I'm sorry, but I've been invited by another girl.
 「よかったら一緒に勉強しない？」=Хочешь позаниматься со мной?
@@ -152,7 +152,7 @@
 「一緒に運動しない？」=Do you want to exercise with me?
 「たまには子供の頃を思い出してみるのもいいかしらね」=Sometimes it's nice to be a kid again.
 「見てるだけでいいならお付き合いするんだけど……ごめんね」=「Будет лучше если я просто посмотрю…… Прости」
-「ちょっと付いてきてもらっていい？」=Can I ask you to follow me?
+「ちょっと付いてきてもらっていい？」=“Can I ask for you to come with me for a moment?”
 「はいはい、わかってるわよ～」=I know, I know.
 「ごめんね、今はひとりで遊んできてくれる？」=「Извини, можешь пойти поиграть один?」
 「ひとりでできないの？　それじゃ、ここで待っててあげるわね」=Can't you do it by yourself?　I'll wait here for you then.
@@ -286,7 +286,7 @@
 「あらあら、もうこんな時間……寂しくなるわ。それじゃ、またね……」=「Ай-яй, уже столько времени…… Мне будет одиноко без тебя. До встречи……」
 「時間なら仕方がないわ……続きはまた今度ね」=I don't blame you if it's time... I'll see you later.
 「あら、もういいの？　ええ、またね」=Oh, my God, are you done?　Yeah, I'll see you later.
-「きみのことが好きなんだ」=I like you a lot.
+「きみのことが好きなんだ」=“I like you.”
 「気持ちは嬉しいわ、ありがとう……でもごめんねぇ」=I appreciate the sentiment. Thank you... but I'm sorry.
 「あなたの勇気に応えてあげなくっちゃね。……ええ、いいわよ。お付き合いしましょ」=I have to reciprocate your bravery... Yeah, sure. I'll go out with you.
 「あなたのことはいい子だと思うのよ……でもやっぱりごめんね……」=I think you're a good girl... but I'm still sorry...
@@ -309,19 +309,19 @@
 「ねーえ、私、あなたと赤ちゃん作る練習がしたいわ……」=Hey, I want to practice making babies with you...
 「うふふ、気持ちよくぴゅっぴゅさせてあげるわね」=I want to practice making babies with you.
 「無理強いは良くないわよね……嫌われちゃうもの」=You don't want to force me... I don't want you to like me.
-「よかったらいっしょにお昼食べない？」=Would you like to have lunch with me?
+「よかったらいっしょにお昼食べない？」=“If you'd like, want to eat lunch together?”
 「ええ、ご飯食べながらいっぱいおしゃべりしましょ」=「Да, а пока будем есть, можем о чем-нибудь поговорить」
 「ごめんね、今日は他の子と約束しちゃったの……また今度ね」=I'm sorry, but I have plans with another girl today... Maybe some other time.
 「今日はひとりでご飯？　それじゃ私と一緒に食べましょう」=「Хочешь поесть вместе со мной? Ну же, давай」
 「誰かと一緒に食べる方がだんぜん美味しいわよね」=「Да, еда вкуснее, когда ты ешь ее с кем-то」
 「そう、静かに食べたいのなら仕方ないわね」=「Ну, если ты хочешь поесть в одиночестве, то все в порядке」
-「一緒にコイカツしよう」=Let's do kowtow together.
+「一緒にコイカツしよう」=“Let's go to Koikatsu club together.”
 「まぁ、楽しそうね！　喜んでお手伝いするわ」=Well, that sounds like fun!　I'd be happy to help.
 「ええと、あれもやって、これもやって……ごめんね、ちょっと今は無理みたいなの」=Well, I have to do this and that... Sorry, I can't help you right now.
 「今日はひとりで部活動？　こんな時こそ私の出番かしら～」=I'm sorry I can't help you right now.　I guess this is where I come in.
 「うふふ、あなたの役に立てて嬉しいわ」=Хи-хи, я рада, что смогла помочь тебе
 「そう……人手が必要になったらいつでも言ってね」=Well... if you ever need a hand, just let me know.
-「一緒に帰らない？」=Do you want to come home with me?
+「一緒に帰らない？」=“Want to go home together?”
 「ええ、いいわよ。たまには寄り道を楽しむのもいいかしらね」=Yeah, sure. It's nice to take a detour once in a while, isn't it?
 「クラスの子が何か悩んでるみたいなの……だからごめんね、今日はそっちへ行かせて」=There's a girl in my class who's having some trouble ... so I'm sorry, but I have to go over there today.
 「誰とも約束してないなら、私と一緒に帰りましょ」=If you don't have an appointment with anyone, come home with me.
@@ -335,7 +335,7 @@
 「あなた、次のお休みはひとり？　私と一緒にお出掛けなんてどうかしら」=Are you going to be alone on your next day off?　How about going out with me?
 「楽しいこと、いっぱい教えてあげますからね～。ふふっ、楽しみにしててね」=I'll show you lots of fun things to do. I'll show you lots of fun things to do. Look forward to it.
 「あら、そう……あなたがお休みの時も寂しくなければ、それでいいの」=Oh, well... is fine as long as you're not lonely on your days off.
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「もうすぐテストだものね、教え合いっこしましょうか」=「Верно, скоро ведь тест, давай будем учить друг друга」
 「残念だわ……ちょっと他の子に頼まれちゃって。また今度ね」=That's a shame... I've been asked to do something by another girl. Maybe some other time.
 「ねーえ、お勉強、見てあげましょうか？」=Hey, do you want me to help you study?
@@ -350,7 +350,7 @@
 「コイカツ部に入って、活動を手伝って欲しいんだけど……どうかな」=「Я бы хотел, чтобы ты присоединилась к клубу Коикацу и помогла мне……」
 「あなたの努力はちゃんと見てるわ。だからもう少しひとりで頑張ってみない？」=「Я и так слежу за твоими стараниями. Так почему бы тебе не сделать все одному?」
 「あぁん、見ててハラハラしちゃう！　私もあなたの部活のお手伝い、させて」=「Ээм, пожалуйста, прими меня в клуб! Я хотела бы помочь тебе」
-「ちょっと付いてきて」=Come with me.
+「ちょっと付いてきて」=“Come with me for a moment.”
 「今日はどんな探検をするのかしら～？」=What are we going to explore today?
 「あら……えっと……ひとりでも大丈夫？　寂しくても泣かないで」=Oh... well... are you okay by yourself?　Don't cry if you're lonely.
 「一緒にしーしーする？　うふふ、冗談よ～♪　……あら、冗談じゃない？」=Do you want to play shimmy with me?　I'm just kidding... Oh, you're kidding, right?

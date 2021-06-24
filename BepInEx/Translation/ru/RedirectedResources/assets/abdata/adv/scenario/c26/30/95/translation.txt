@@ -1,7 +1,7 @@
-「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
-（んぅ……すごく気持ちいいような……いったい、何が……？）="(Nnn... It feels so good... what's going on?)"
-「…………」="..."
-「へっ！　ど、どうして俺の上に……？」="Hey! How is it in there?"
+﻿「すぅ……すぅ…………ん、んん……」=“Zzz... Zzz... N-nnn...”
+（んぅ……すごく気持ちいいような……いったい、何が……？）=(... Какое-то приятное чувство... Что же тут происходит?)
+「…………」=...............
+「へっ！　ど、どうして俺の上に……？」=“Huh! W-why are you on top of me...?”
 「フフッ……エッチ、したかったの……」="Fuhuhu... You pervert... I wanted to..."
 「……？　どうしたの」="...Huh? What's wrong?"
 「いや、ちょっと驚いてただけだよ。えっと、続きをお願いしていいかな？」="It's nothing, I was just surprised.... ...Do you want me to keep going?"

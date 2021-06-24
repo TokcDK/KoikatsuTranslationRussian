@@ -1,4 +1,4 @@
-「ここの景色は本当に綺麗だね」=The view here is really beautiful.
+﻿「ここの景色は本当に綺麗だね」=The view here is really beautiful.
 「ああ、そうだね」=Yes, it is.
 「えへへ、すっかりお気に入りになっちゃったよ」=Heh, it's become a favorite of mine.
 「俺もだよ。この場所は[H名]との大切な思い出の場所だからね」=Me too. I love this place. It's one of my favorite places with [H名].
@@ -21,7 +21,7 @@
 「だから……あなたが誘ってきてくれて嬉しかった♪」=That's why I'm so glad you asked me out.
 「もう！　[P名]君のイジワル～」=Oh, my God!　You're such a tease.
 「そんな、イジワルしないで……私は早く[P名]君とくっつきたいなぁ」=Don't be such a tease... I can't wait to get together with [P name].
-「うん、約束だ」=Yes, I promise.
+「うん、約束だ」=「Да, обещаю」
 「うれしい♪　絶対だからね！」=I'm so happy." "I promise!
 「ふふん～♪　今度来る時は、あなたともっとラブラブになってるといいなぁ」=I hope the next time I come back, you and I will be even more in love.
 「おっ！　じゃあ、今度くる時はペアルックでも着てくるか？」=Whoa!　So, next time you come over, will you wear a pair?

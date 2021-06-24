@@ -1,4 +1,4 @@
-「あ、もうこんな時間……ただ二人でいるだけで、あっと言う間に時間が過ぎちゃったですよ……」=Oh, it's so late ... just the two of us, time has flown by so fast ...
+﻿「あ、もうこんな時間……ただ二人でいるだけで、あっと言う間に時間が過ぎちゃったですよ……」=Oh, it's so late ... just the two of us, time has flown by so fast ...
 「そうだね。さっきまで青空だったのに、もう夕方だ……あのさ、[H名]さえ良かったら、もう少しだけ一緒にいない？」=That's right. The sky was blue just a moment ago, but now it's evening... Hey, if it's okay with [H名], would you like to stay with me for a little while longer?
 「ふぇ？　はいです！　私なら全然大丈夫ですよ！　遅くなるって伝えてきてるです！」=Huh?　Yes, sir!　I'm totally fine with that!　I told her I'd be late!
 「だったら良かった。[H名]と一緒に見たいものがあるんだ」=I wish I had. There's something I want to see with [H名].
@@ -8,5 +8,5 @@
 「あ……はいですっ！　そうですよね！　私、今日のことばかり考えちゃってたです！」=Oh ... yes!　That's right!　I've been thinking a lot about today!
 「これからもたくさん、あなたとの時間を楽しんでいきたいですよ」=I hope to enjoy many more hours with you.
 「うん、俺もだよ」=Yeah, me too.
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『そろそろ戻ろっか』="Let's get back to it.

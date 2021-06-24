@@ -1,4 +1,4 @@
-「もう真っ暗だ。今日も一日いっぱい遊んだね」=It's dark. You've had a lot of fun today, haven't you?
+﻿「もう真っ暗だ。今日も一日いっぱい遊んだね」=It's dark. You've had a lot of fun today, haven't you?
 「ええ、しっかり遊園地デートを楽しんだわね。疲れたんじゃない？」=Yes, we had a great day at the amusement park. You must be tired.
 「そう言われれば、少し疲れたかな……？」=If you say so, I'm a little tired...?
 「実は私も疲れちゃった。ふふふ、明日に差し障らないといいけど……」=Actually, I'm tired too. I'm actually tired too. Hmm, I hope it doesn't bother you tomorrow...
@@ -8,7 +8,7 @@
 「夜景を見ると、あなた眠たくなっちゃうの？　ふふふ、不思議な子ね」=Do you get sleepy when you see the night view?　Hmmm, you're a strange one.
 「あ、ほら、街の光が綺麗だよ…………ふわぁぁ」=Oh, look, the city lights are beautiful...
 「うふふ、やっぱりおねむみたいね。そうだ、膝枕してあげましょうか？」=Mmmm, you look like a sleepyhead after all. Would you like me to put you on my lap?
-「え？　いいの？」=What?　You sure?
+「え？　いいの？」=「М? Правда?」
 「もちろんいいわよ。さあ、私の太ももに頭を…………ふわぁぁぁぁ……」=Of course you can. Come on, put your head on my thighs... Fluffy...
 「あはははは、[H名]も眠たいんじゃん」=Ha-ha-ha. [H名] wants to sleep too.
 「私も疲れちゃってるみたい。でも、あなたを残して居眠りするわけにはいかないわ」=I think I'm tired too. I'm tired too, but I'm not going to leave you here to doze off.

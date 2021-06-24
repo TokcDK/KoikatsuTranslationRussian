@@ -1,4 +1,4 @@
-「おー、来た来た。メニューの通り、美味しそうだね」=Oh, here it comes. It looks delicious, just like the menu.
+﻿「おー、来た来た。メニューの通り、美味しそうだね」=Oh, here it comes. It looks delicious, just like the menu.
 「うんっ！　思ってたよりも大きくて……何かお得な気分なん」=Yes!　It's bigger than I thought it would be... I feel like I'm getting a bargain.
 「早速一口……頂きます。あむっ……んーっ！　ふふーっ、味も想像以上に美味しいー！」=I'll take a bite ... of it right away. Mmm...!　It tastes even better than I imagined!
 「あはは、お口に合って良かった。[H名]、本当に美味しそうな顔してる」=I'm glad it suited your taste buds. Haha, I'm glad it suits your taste buds. [H名], you really look delicious.
@@ -10,7 +10,7 @@
 「いいの？　ぜひぜひ！」=Can I?　I'd love to!
 「うん、ちょっと待っとってね……こうして……クリームもたくさん乗せて……っと」=Yeah, just wait a minute... and put a lot of cream on it... like this.
 「はい、あーん、なん」=Yes, yes, yes.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「んっ、本当だ！　ふわふわでしっとりで甘いのに後味が軽い！」=Mmm, yes!　It's fluffy, moist and sweet with a light aftertaste.
 「あはは、もーっ、それ今、私が言ったままの感想やん！」=Hahaha, that's exactly what I just said!
 「あはは、ごめん。あーんしてもらえたのが嬉しくて、つい……」=Haha, sorry. I'm sorry. I was so happy that you gave me that ...

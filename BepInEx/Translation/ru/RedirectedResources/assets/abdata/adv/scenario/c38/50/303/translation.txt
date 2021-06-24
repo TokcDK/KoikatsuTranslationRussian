@@ -1,4 +1,4 @@
-「はぁ……たくさん歌いましたね。もうすぐ時間のようですが、この後はどういたしますか？」=Haha... you sang a lot. It looks like it's almost time.
+﻿「はぁ……たくさん歌いましたね。もうすぐ時間のようですが、この後はどういたしますか？」=Haha... you sang a lot. It looks like it's almost time.
 「[H名]がよければ、延長したいな。今日はとことん歌いたい気分」=If it's okay with [H名], I'd like to extend it. I'm in the mood for a lot of singing today.
 「ふふ、それでは延長の電話を入れておきますね。あ、もちろん私もお付き合いしますよ」=Hmm, I'll call for an extension then. Of course, I'll stay with you.
 「ありがと。それじゃ、延長戦もはりきってこー！」=Thank you. I'll call for an extension.
@@ -9,7 +9,7 @@
 「というわけでリクエスト！　初めてカラオケに来た時、歌ってもらったあの曲を聞きたいな」=So here's my request.　I want to hear the song you sang to me when I first came to karaoke.
 「え、最後が私ですか？　うぅぅ、仕方ないですね、貴方のリクエストであれば……」=Oh, I'm the last one?　Ugh, I can't help it, if it's your request...
 「やった！　合いの手とか考えてきたから、盛り上げはまかせて！」=Yes!　I've got some moves and stuff to get you going.
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 「[H名]、[H名]、カワイイ！　超絶・ラブリー！」=[H名], [H名], you're so cute!　Super lovely!
 CHOICE:『延長して、もうちょっと歌いたいな』="I want to extend the song and sing some more.
-CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

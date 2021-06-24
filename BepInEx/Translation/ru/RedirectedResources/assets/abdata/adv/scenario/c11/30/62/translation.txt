@@ -1,7 +1,7 @@
-「あらあら、あなたのお家が見えてきちゃったわ」=Oh, my God, I can see your house now.
-CHOICE:「よかったら、ウチに寄ってく？」="Would you like to come by my place?
+﻿「あらあら、あなたのお家が見えてきちゃったわ」=「Ай-яй, я уже вижу твой дом」
+CHOICE:「よかったら、ウチに寄ってく？」=「Если хочешь, пойдем ко мне в гости?」
 CHOICE:「それじゃ、また」="See you later.
-「よかったら、ウチに寄ってく？　お茶ぐらいは出すよ」=You can come by my house if you want.　I'll make you some tea.
-「まぁ、あなたのお部屋に招待してくれるの？　嬉しいわ」=Oh, you're inviting me to your place?　That would be great.
+「よかったら、ウチに寄ってく？　お茶ぐらいは出すよ」=「Если хочешь, пойдем ко мне в гости? Я заварю тебе чаю」
+「まぁ、あなたのお部屋に招待してくれるの？　嬉しいわ」=「М-а-а, ты приглашаешь меня к себе домой? Я счастлива」
 「それじゃ、また」=I'll see you later.
-「もう……帰っちゃうの？　そうね……色々やることがあるものね……」=Are you leaving ... already?　Well... we have a lot of work to do...
+「もう……帰っちゃうの？　そうね……色々やることがあるものね……」=「Мо-о…… Ты идешь домой? Хорошо…… У тебя наверное много дел……」

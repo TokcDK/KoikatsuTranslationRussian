@@ -1,4 +1,4 @@
-「っと、もうここまで戻ってきちゃったか」=Oh, I'm already back here.
+﻿「っと、もうここまで戻ってきちゃったか」=Oh, I'm already back here.
 「それじゃあ、改めて。今日は一日ありがとうね。本当に楽しかったよ」=See you later. Thanks for the day. I really enjoyed it.
 「ん……私の方こそ、ありがとう」=... Thank you, too.
 「……はは、この瞬間はいつも名残惜しくなっちゃうな」=... Haha, I always miss this moment.
@@ -15,12 +15,12 @@
 「どこ、行くの……？」=Where are you going...?
 「今の俺たちに、ぴったりな場所だよ」=It's the perfect place for us to be right now.
 「最後にキスしていい？」=Can I have one last kiss?
-「……うん」=... Yeah.
-「ん……」=It's ...
+「……うん」="...Sure."
+「ん……」=Mm...
 「っ……なんで、ほっぺなの？」=What ... are you doing on my cheek?
 「唇にしたら、本当に離れたくなくなっちゃうから」=Because if I kiss you on the lips, you won't really want to leave.
-「それじゃあ、またね」=See you later.
+「それじゃあ、またね」=Тогда, увидимся позже, 'кей?
 「うん……また、学園でね」=Yeah... See you at school.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

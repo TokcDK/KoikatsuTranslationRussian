@@ -1,4 +1,4 @@
-「さて、そろそろ時間か？　もうかなり歌った気がするが」=Well, is it time yet?　I think we've sung enough.
+﻿「さて、そろそろ時間か？　もうかなり歌った気がするが」=Well, is it time yet?　I think we've sung enough.
 「俺はもうちょっと歌いたいかな。延長しても大丈夫？」=I think I want to sing a little more. Can we go longer?
 「ほう、タフな奴だな。いいぞ、そこまで言うなら、とことん付き合ってやる」=Oh, you're a tough guy. Well, you're a tough guy. If you say so, I'll go all the way.
 「いよっし！　じゃあ、延長の電話を入れておくね」=Yes!　I'll call you for an extension.
@@ -11,7 +11,7 @@
 「じゃあ、青――」=Well, blue...
 「歌ったから入れん。よし、この曲にしよう」=I've already sung it. All right, let's do this one.
 「ちぇっ」=Oh, shit.
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
 CHOICE:『延長して、もっと歌おうよ』="Let's extend it and sing more.
 CHOICE:『この辺で帰ろうか』="Let's go home.

@@ -1,2 +1,2 @@
-「じゃあ、またね」=I'll see you later.
+﻿「じゃあ、またね」="I'll see you around."
 「はい、また学園で」=Yes, see you at school.

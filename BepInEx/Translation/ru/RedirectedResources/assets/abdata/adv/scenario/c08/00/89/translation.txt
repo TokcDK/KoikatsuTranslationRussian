@@ -1,5 +1,5 @@
-「ちょっとお願いがあるんだけど……いいかな？」=I'd like to ask you a favor, if you don't mind.
-「うん、どうしたの？」=Yeah, what's wrong?
+﻿「ちょっとお願いがあるんだけど……いいかな？」=I'd like to ask you a favor, if you don't mind.
+「うん、どうしたの？」=「Да, что такое?」
 「突然だけど、俺のことを愛称で呼んでほしいんだ！」=I know it's sudden, but I want you to call me by my nickname!
 「なぁんだ、そんなことか！　いいよー！　そうだ、せっかくだし、愛称、付け合いっこしようよー！」=Oh, no, you don't!　All right!　Yeah, let's call each other by our nicknames!
 「ありがとう。でも二人の愛称はもう考えてるんだ。俺のは[Pあだ名]っていうんだけど」=Thank you. Thanks, but I've already thought of nicknames for both of us. I'm going to call mine [Pあだ名].

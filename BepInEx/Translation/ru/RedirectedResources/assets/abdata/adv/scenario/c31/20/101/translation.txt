@@ -1,11 +1,11 @@
-「は～、こうやってのんびり座ってるだけで、癒されるね～」=It's so relaxing just to sit here like this.
+﻿「は～、こうやってのんびり座ってるだけで、癒されるね～」=It's so relaxing just to sit here like this.
 「おいおい、年寄りみたいな事を言うな。二人でベンチに座ってるだけなんて、退屈じゃないのか？」=Oh, come on, you sound like an old man. Aren't you bored sitting on a bench with me?
 「ぜんっぜん退屈じゃないよ。そりゃ一人で座ってたらつまらないけど、隣に[H名]がいるしね」=It's not boring at all. It would be boring to sit alone, but I have [H名] next to me.
 「そうか、ならいい。私もこういうのんびりした時間は好きだ。いや、好きになったと言うべきか」=Well, that's good. I also like this kind of relaxing time. Or should I say, I've grown to like it.
 「[H名]はどっちかと言うと活発なイメージがあるし、俺に合わせてもらってるみたいで悪いね」=You have a more active image, and I feel bad that you're trying to fit me in.
 「フッ、いらん気遣いばかりして。ならそうだな、少し腹が減った。あそこでホットドッグを売っていただろう？」=I'm sorry you have to deal with me. Well, I'm a little hungry. Didn't you see those hot dogs over there?
 「あっ、わかった。あそこのワゴンだよね？　俺、行って買ってくるよ！」=Oh, I see. That's the wagon over there, right?　I'll go there and get one!
-………………=...
+………………=.........
 「はい、どうぞ。ケチャップとマスタード、俺と同じくらいにしておいたけど、大丈夫だった？」=Here you go. I put the same amount of ketchup and mustard as I did, is that okay?
 「あぁ、おまえと同じなら問題ない。うん、美味そうだ。ありがたくいただくとしよう」=Yeah, it's fine as long as it's the same as yours. Yeah, it looks good. Yeah, it looks good. I'll take it with a grain of salt.
 「ふぁっ、美味いけど、出来立てだからちょっと熱いね」=Phew, it's good, but it's a little hot.

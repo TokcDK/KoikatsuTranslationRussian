@@ -1,4 +1,4 @@
-「ふぅ、これでデートも終わりだね。今日は、一日すごく楽しかったよ」=Well, I guess this is the end of our date. I had a great time today.
+﻿「ふぅ、これでデートも終わりだね。今日は、一日すごく楽しかったよ」=Well, I guess this is the end of our date. I had a great time today.
 「はいっ、私も同じ意見……というか、少し名残惜しいような気がします」=Yes, I agree with ... I think I'm going to miss it.
 「そうなの？　はは、そう思ってもらえて嬉しいよ」=Really?　Haha, I'm glad you think so.
 「私もです。こういう気持ちは、きっとあなたのことを大切に感じているからなのだと思います」=I'm glad you feel that way. I'm glad you feel that way. - Me too. I'm sure these feelings come from the fact that I care about you.
@@ -18,6 +18,6 @@
 「もちろんです。必ずまた二人の思い出を作りに行きましょう」=Of course. Let's go make some more memories together.
 「うん、絶対に！　それじゃあ、またね」=Yes, definitely!　I'll see you later.
 「はい、また。……次のデートが今から待ち遠しいですね」=See you later... I can't wait for our next date.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

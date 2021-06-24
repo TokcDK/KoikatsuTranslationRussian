@@ -1,4 +1,4 @@
-「なーんか、あっという間に暗くなってきたな」=Well, it's getting dark pretty fast.
+﻿「なーんか、あっという間に暗くなってきたな」=Well, it's getting dark pretty fast.
 「そうだねぇ……あの、まだ時間あるかな？」=Well... do you think there's still time?
 「ああ、あるにはあるけど……夜遊びでもするのか？」=Yeah, we do, but ... are you going to have a night out?
 「いやいや、実は、見せたいものがあるんだ。ちょっと来てもらってもいいかな？」=No, no, actually, I want to show you something. Do you mind if I come over for a minute?
@@ -9,5 +9,5 @@
 「はは、そう言われると照れるな～」=Haha, I'm embarrassed to hear you say that.
 「そうだ、せっかくなら手を繋ぎながら帰る？」=Well, since we're here, why don't we hold hands on the way home?
 「調子にノッてんじゃねーよっ」=Don't get carried away.
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『そろそろ帰ろっか』="Let's go home.

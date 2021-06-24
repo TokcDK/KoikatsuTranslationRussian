@@ -1,4 +1,4 @@
-テントウムシ=Ladybug
-リボン=Ribbon
+﻿テントウムシ=Ladybug
+リボン=Бант
 桔梗の髪飾り=Chinese Bellflower Ornaments
 ワッペン=Badge

@@ -1,9 +1,9 @@
-「はぁ～、やっと座れた～」=Huh, I'm finally sitting down.
+﻿「はぁ～、やっと座れた～」=Huh, I'm finally sitting down.
 「なんかすごい混んでるよね」=It's so crowded.
 「ね～、一人だったら絶対来なかったすよ～」=I wouldn't have come if I was alone.
 「うん、俺も待つの嫌いな方だから、一人だと別のところいくかな」=Yeah, I don't like to wait either, so I'd go somewhere else if I were alone.
 「並ぶの面倒くさいもんね～、あと時間ももったいないしさ～」=I don't like waiting in line, and it's a waste of time.
-「そうだね」=Yes, we did.
+「そうだね」=「Угу」
 「じゃあ、注文をしようか……店員さんはっと、あちゃー、遠くに行っちゃった」=Well, let's place our order... The waitress has gone too far away.
 「あっ、あの制服オシャレっすね～」=Oh, that uniform is so stylish!
 「そうだね。そういえば[H名]は……」=That's right. Speaking of which, [H名] is ...

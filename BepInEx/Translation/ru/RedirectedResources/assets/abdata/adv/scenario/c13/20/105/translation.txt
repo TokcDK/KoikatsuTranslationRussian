@@ -1,4 +1,4 @@
-「わぁ～っ！　マジ綺麗じゃん！」=Wow!　That's really beautiful!
+﻿「わぁ～っ！　マジ綺麗じゃん！」=Wow!　That's really beautiful!
 「どうかな、気に入ってもらえた？」=I don't know. Do you like it?
 「うんうん！　マジでさいっこー！」=Yeah, yeah!　It's really cool!
 （ふぅ、楽しんでもらえたようで良かった……）=(Phew, I'm glad you enjoyed it...)
@@ -10,7 +10,7 @@
 「おかげで、一日がすごく早く感じちゃった」=Thanks to you, the day went by really fast.
 「そんなに喜んで貰えたなら良かったよ……ありがとう」=I'm glad you're so happy... Thank you.
 「あはは、なんで[P名]くんがお礼を言ってんの？　お礼を言うのはアタシの方だよ。ほんとにありがとー♪」=Haha, why are you thanking me, [P name]?　It's the one who should be thanking me. Thank you so much!
-「…………」=...
+「…………」=...............
 「[H名]ってさ、この綺麗な夜景みたいだなって思うんだ」=I think [H名] is like this beautiful night view.
 「ん～？　どーゆー意味？」=Hmm?　What do you mean?
 「何より明るくて、元気で、一緒にいてとても居心地が良くて、その綺麗な髪、瞳、でも、明るいだけじゃなくて……」=Above all, you're cheerful, energetic, very comfortable to be with, your beautiful hair and eyes, but you're not just cheerful, you're also ...
@@ -24,7 +24,7 @@
 「そっか。正直まだまだ……全然言い足りないんだけど、……好きだよ、[H名]」=I see. To be honest, I haven't said enough about ... yet, but I like ... [H名].
 「マジずるい……アタシも、大好きだよっ！」=It's not fair... I love you too!
 「んんっ……んぅ……」=Mmm ... mmm ...
-「んっ……」=Mmm...
+「んっ……」=「М……」
 「……っぱっ……はぁ、はぁ……」=I love you, too." "I love you, too." "I love you, too...
 「もう、我慢できない……キスだけじゃ足りないや」=I can't take it anymore... Kissing is not enough.
 「えっ、キスだけじゃ足りないって……シたいってこと？」=What, kissing isn't enough for you? You want to ... cum?

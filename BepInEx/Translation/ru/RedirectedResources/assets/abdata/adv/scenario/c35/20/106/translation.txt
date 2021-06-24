@@ -1,4 +1,4 @@
-「はぁぁ……やっぱりここは綺麗なん……キラキラしてて吸い込まれそうになるん……」=Haa... this place is beautiful... it's so sparkly I feel like I'm being sucked in.
+﻿「はぁぁ……やっぱりここは綺麗なん……キラキラしてて吸い込まれそうになるん……」=Haa... this place is beautiful... it's so sparkly I feel like I'm being sucked in.
 「この辺り一番の夜景スポットだもんね。俺も好きだなぁ……なんだか落ち着くよね」=It's the best night view spot around here. I like it too... It makes me feel relaxed.
 「うんっ！　前に言った通り、君と一緒っていうのもあるんやけど……やっぱり素敵なん……」=Yeah!　As I said before, it's partly because I'm with you, but it's also ... really nice.
 「私……こっちに引っ越してきた時、都会ってどんなところなんやろうって不安やったっちゃけど……やっぱり都会には都会のいいところがたくさんあるっちゃんね」=When I ... moved here, I was worried about what the city would be like, but ... there are so many good things about the city.
@@ -13,7 +13,7 @@
 （どうしよう……こんな表情をされたら……）=(What should I do ... if you give me this look ...?
 （またここで、したくなる……）=(I want to do it again here: ...)
 「あ、あのさ、[H名]……実は……」=Oh, you know, [H名]... is actually ...
-「はぅっ！？」=What?
+「はぅっ！？」=「Ха-а-а!?」
 「あっ……え、えっと……どうかした？」=Oh... uh... what's wrong?
 「うぅぅ……き、君がそういう風に切り出す時って……そ、その……つまり……そ、そういう時……やもん……」=Ugh ... when you start out like that, it's ... well, you know... I mean.....That's when you ... do it...
 「嘘っ！？　俺、そんなに分かりやすい！？」=No way!　I'm that easy to understand!

@@ -1,5 +1,5 @@
-「おぉ！　ここの景色はやっぱり綺麗じゃのう」=Oh!　The view here is beautiful.
-「そうだね」=Yes, we did.
+﻿「おぉ！　ここの景色はやっぱり綺麗じゃのう」=Oh!　The view here is beautiful.
+「そうだね」=「Угу」
 「この観覧車で見る夜景がわしは大好きじゃ」=I love the night view from this Ferris wheel.
 「まるで二人だけで夜景を独占してる気分になるからのう」=I love the view from this Ferris wheel because it makes me feel like we have the whole view to ourselves.
 「それ、わかる気がする」=I think I know what you mean.
@@ -30,8 +30,8 @@
 「わしは……ますますドキドキしてきてしまったのじゃ…………」=I'm ... getting more and more nervous...
 「俺もだよ…………」=Me too...
 「ねえ、[H名]……」=Hey, [email protected] ...
-「ん？」=Hmm?
-「ん…………」=...
-「んんっ…………」=Mmm...
+「ん？」=「М?」
+「ん…………」=「М…………」
+「んんっ…………」="Nn........"
 「二人でこうしていつまでもドキドキできる関係でいよう」=We're going to be able to do this forever.
 「うむ……わしは本当に幸せなのじゃ」=Mmm... I'm so happy.

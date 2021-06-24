@@ -1,4 +1,4 @@
-「はぁ、嘘みたいに綺麗ね。有名な夜景スポットと言われるのも、頷けるわ」="It's so beautiful, I can't believe it. No wonder it's called the famous night view spot.
+﻿「はぁ、嘘みたいに綺麗ね。有名な夜景スポットと言われるのも、頷けるわ」="It's so beautiful, I can't believe it. No wonder it's called the famous night view spot.
 「だね。たぶん俺、これ以上に綺麗な夜景はそうそう見れないと思ってるよ」="Yeah. I don't think I'll ever see a more beautiful night view.
 「ええ、学生という人生の中でも多感な時期に、アナタと二人で夜景を見た。これは一生の思い出になるでしょうね」=Yes, you and I saw the night view together at a sensitive time in our lives as students. I'm sure it will be a memory that will last a lifetime.
 「そこまで難しく考えてなかったけど。[H名]の言う通りだと思う」=I didn't think it would be that difficult. I think [H名] is right.
@@ -25,7 +25,7 @@
 「うん、お願い。あとは俺がするから……」=Yes, please. I'll do the rest...
 「そう、じゃあ任せたわ。きっとこの夜景以上に、素敵な事をしてくれるんでしょう？」=Well, I'll leave it to you then. I'm sure you're going to do something even better than this night scene, aren't you?
 「そう、だね……そう思ってくれたら、俺は嬉しいかな……」=Yeah, I think so... I'd be happy if you did...
-「ん……」=It's ...
+「ん……」=Mm...
 「……っちゅ、んっ……凄く素敵だったわ……目を閉じてても、夜景と同じくらい綺麗な景色が見えた気がする」=I'm sure you'll do something even more beautiful than this night view.
 「同じくらいか……俺はそれ以上だったから、次はもっと頑張らないと」=I'll have to try harder next time, because it was just as good or ... better.
 「フフッ、期待しているわ」=I'm looking forward to it.

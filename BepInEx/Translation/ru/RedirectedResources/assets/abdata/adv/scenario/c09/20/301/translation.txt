@@ -1,4 +1,4 @@
-「[H名]は、よくカラオケ行ったりするの？」=Do you go to karaoke a lot?
+﻿「[H名]は、よくカラオケ行ったりするの？」=Do you go to karaoke a lot?
 「あたし、カラオケはあんまり……ゲームセンターには良く行くんだけど」=I'm not really into karaoke... I go to the arcade a lot.
 「そうなんだ。……ひょっとして、歌うの苦手だった？」=Oh, yeah. I'm not really a karaoke person... Are you not good at singing by any chance?
 「苦手という程でもないんだけどね。得意ではないかな」=It's not that I'm not good at it. I'm not bad at it, but I'm not good at it.
@@ -18,5 +18,5 @@
 「俺も同じって言ったじゃん。そうだ、俺に勝てたらジュース奢ってもいいよ」=You said the same thing. Well, if you beat me, I'll buy you a juice.
 「ジュース！！　ホント！？　だったらやる！　あたし先攻ね！」=Juice!　Really?　I'll do it!　I'll go first.
 「あ、あぁ……いいけど……急に積極的だな……」=Oh... that's fine, but ... you're suddenly very aggressive...
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 （どうやら楽しんでくれてる。やっぱり連れてきてよかった……）=(Apparently she's having fun. I'm glad I brought him along...

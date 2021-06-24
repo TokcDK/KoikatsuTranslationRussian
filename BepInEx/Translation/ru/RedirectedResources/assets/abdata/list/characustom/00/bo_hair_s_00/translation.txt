@@ -1,7 +1,7 @@
-なし=Нет
+﻿なし=Нет
 ほそロング=Fine And Long
 おさげ=Twintails
-太い=Thick
+太い=толстый
 ふとロング=Thick And Long
 はねロング=Feathered Long
-ウェーブロング=Wavy Long
+ウェーブロング=Волна длинная

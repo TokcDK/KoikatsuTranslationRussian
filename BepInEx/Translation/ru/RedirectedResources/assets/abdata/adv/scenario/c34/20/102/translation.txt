@@ -1,7 +1,7 @@
-「う～ん、気持ちいいなぁ……せっかく晴れてるし、アスレチックで思い切り遊ぼうか」=Mmmm, it's so nice... Since it's sunny, let's play in the athletic field as much as we can.
+﻿「う～ん、気持ちいいなぁ……せっかく晴れてるし、アスレチックで思い切り遊ぼうか」=Mmmm, it's so nice... Since it's sunny, let's play in the athletic field as much as we can.
 「Ｕｈ－ｈｕｈ♪　Ａｔｈｌｅｔｉｃ、楽しみダヨ～♡　ン……？」=Uh-huh♪ I'm looking forward to the Athletic~♡ ...?
 「Ｗｈａｔ！？　あそこ、見て！　ネコチャンが木の上でブルブル、鳴いてるヨ！」=What?　Look over there!　Look over there! There's a cat up in the tree, purring!
-にゃー……=Meow ...
+にゃー……=Мя-у……
 （……あらら、枝にしがみつきながら、不安そうにこっちを見てるな）=... Oh, it's clinging to a branch and looking at me anxiously.
 「ネコチャン！　チョット待ってて！　イマ、助けるカラネ！」=Cat!　Wait a minute!　I'm coming to get you!
 「[H名]！？　まさか木に登るつもり？　危ないから俺がいくよ」=[H名]?　Are you trying to climb a tree?　It's not safe, I'll go.
@@ -10,7 +10,7 @@
 「捕まえたヨ～♪」=I got it!
 「よかった！　降りる時、気を付けてね！」=Good!　Be careful when you get down!
 「Ｈｉ♪　ネコチャン、もう安心ダヨ♪」=Hi, cat, you're safe now.
-にゃー=Meow.
+にゃー=Nyaaa
 「Ｙｏｕ’ｒｅ　ｗｅｌｃｏｍｅ♪　もう大丈夫ダカラ、イッパイ遊んで来てネ♪」=You're welcome. You're safe now. Go play with your friends.
 「[H名]、すごいね。俺だったらあんな簡単に木に登れなかったよ」=It's amazing. I wouldn't have been able to climb that tree so easily.
 「ワタシが育った国の木は高くて大きいカラ、よく登って遊んでたノ♡　Ｔｒｅｅ　ｈｏｕｓｅもタクサンあったカラ、その経験、役立ってよかったヨ♡」=The trees in the country where I grew up were tall and big, and I used to climb them all the time. We had many tree houses, so I'm glad I had that experience.

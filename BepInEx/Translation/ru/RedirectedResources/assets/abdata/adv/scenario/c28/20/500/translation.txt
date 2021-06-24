@@ -1,4 +1,4 @@
-「あっ……もう着いちゃったね」=Oh... we're here already.
+﻿「あっ……もう着いちゃったね」=Oh... we're here already.
 「そうじゃな……今日は楽しかったのじゃ」=Well... I had a good time today.
 「俺もすっごく楽しかったよ」=I had a great time, too.
 「良かったのじゃ！　わし、ばかり楽しんでしまってるのではないかと少し気になっておったからのう」=That's good!　I was a little worried that I was having too much fun.
@@ -25,6 +25,6 @@
 「……っ！？」=...?
 「……さらばじゃ！」=... Farewell!
 （自分からキスしといて、真っ赤になってる……やっぱりカワイイな）=(... is still cute when she kisses herself and then turns red.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

@@ -1,11 +1,11 @@
-「……いかん、緊張してきたぞ」=... Oh no, I'm getting nervous.
+﻿「……いかん、緊張してきたぞ」=... Oh no, I'm getting nervous.
 （……[H名]は大丈夫かな？　きっと緊張してるよな）=(I wonder if ...[H名] is okay?　I'm sure he's nervous.
 （無理やり連れてきちゃった感じだし、なんだか申し訳ないな……）=(I feel like I'm forcing her here, and I'm kind of sorry about that...)
-（いよいよ出番か……）=(Finally, it's time to go ...)
+（いよいよ出番か……）=（Вот и пора……）
 （こ、これは……のまれたら終わりだ……）=(This is the ... end of the world if I get swallowed...)
 （しっかりしないと……！）=I have to be strong...
 （緊張したけど、不恰好にはなってなかったはず……たぶん）=(I was nervous, but I didn't look awkward... Maybe.)
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
 （あ……[H名]……）=(Oh ...[H名]...)
 視線を向けて、そのまま純白のドレスをまとった[H名]に、心を奪われてしまった。=I looked at her and was captivated by the pure white dress she was wearing.
 普段元気いっぱい、という感じの[H名]が、俺のためにウェディングドレスを着て、貞淑に佇んでいる。=I'm not sure what to make of it.

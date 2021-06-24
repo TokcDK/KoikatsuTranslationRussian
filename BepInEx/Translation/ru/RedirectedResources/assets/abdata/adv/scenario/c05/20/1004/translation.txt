@@ -1,7 +1,7 @@
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Thank you for your time. It was a beautiful ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=I hope you'll have your real wedding at one of our venues!
-「えっと、前向きに考えさせてもらいます」=Well, I'll think positively about it.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Please do!　Thank you very much for agreeing to do this today.
+﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=「Спасибо за ваш тяжелый труд. Фу-фу-фу, это была чудесная церемония」
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=「Пожалуйста, проведите вашу настоящую свадьбу у нас!」
+「えっと、前向きに考えさせてもらいます」=「Эм, я подумаю」
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=「Спасибо! И за то что согласились на иммитацию тоже спасибо」
 「ふぅ……いきなりでびっくりしたけど、楽しかったね」=Wow... That was a surprise, but it was fun.
 「うん。まだ、幸せな余韻が続いてるよ……」=Yeah. I'm still feeling the afterglow of happiness...
 「結婚式みんなのところに戻ってからしたい、って思ってたけど……ハネムーンで宇宙に行って、そのまま救われるのもいいよね」=I was thinking I'd like to have a wedding when I get back to my folks, but it would be nice to go to space for the ... honeymoon and be saved.

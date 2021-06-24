@@ -1,4 +1,4 @@
-ヘアピン=Hairpin
+﻿ヘアピン=Hairpin
 クロスヘアピン=Cross Hairpin
 髪留め=Barette
 安全ピン=Safety Pin
@@ -11,7 +11,7 @@
 細リボンA=Fine Ribbon A
 細リボンB=Fine Ribbon B
 大きなリボン=Large Ribbon
-花=Flower
+花=Цветок
 ハイビスカス=Hibiscus
 花の髪飾り（揺れ）=Flower Ornament (Moves)
 牡丹の髪飾り=Tree Peony Ornament

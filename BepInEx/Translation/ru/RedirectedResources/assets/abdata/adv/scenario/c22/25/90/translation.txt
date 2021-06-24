@@ -1,9 +1,9 @@
-「あのね、私、実は君にお願いしたいことがあるのです！」=You know, I have a favor to ask you.
+﻿「あのね、私、実は君にお願いしたいことがあるのです！」=You know, I have a favor to ask you.
 「ん？　改まってどうしたの？」=Hmm?　What's going on?
 「うん、あのね……君のこと、愛称で呼んでみたいなーって……恋人同士でそういうことするの、前から憧れだったから……」=Well, I'd like to call you by your nickname ... because I've always wanted to do that between lovers ...
 「あ……うん、もちろんいいよ。確かに愛称っていいよね」=I've always wanted to do that with a lover..." "Oh... yes, of course. I've always wanted to call you by your nickname.
 「うんっ！　ありがとう、それじゃえっと……呼んでみるね」=Yes!　Thank you. I'll call you ... then.
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「うわぁ、結構照れるかも……でも……うん、新鮮でいいね。俺も呼んでいい？」=Wow, that's pretty embarrassing... But ... yeah, it's nice and fresh. Can I call you that?
 「うんっ！　えっと……お願いします」=Yes!　I'll call you ...
 「それじゃ……[Hあだ名]」=Well...[Hあだ名].

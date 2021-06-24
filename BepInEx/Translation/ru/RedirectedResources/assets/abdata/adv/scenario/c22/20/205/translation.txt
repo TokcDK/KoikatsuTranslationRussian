@@ -1,4 +1,4 @@
-「わぁぁ……観覧車からの眺めってこんなに綺麗だったんだ……すっかり忘れてたかも……」=Wow... I didn't know the view from the Ferris wheel was so beautiful... I think I forgot all about it.
+﻿「わぁぁ……観覧車からの眺めってこんなに綺麗だったんだ……すっかり忘れてたかも……」=Wow... I didn't know the view from the Ferris wheel was so beautiful... I think I forgot all about it.
 「そんなに乗ってないの？」=You haven't been on it that much?
 「うん……小さな頃はよく乗ってた気がするんだけど……もう何年も乗ってないよ。それに、記憶だと外の景色のことはあまり覚えてなくて……」=Yeah ... I think I used to ride it a lot when I was little, but I haven't ridden it in ... years. And from memory, I don't remember much about the scenery outside...
 「そっか。確かに籠の中のことばかり覚えてるかも……改めて景色を見ると新鮮だよね」=I see. It's true that I only remember the inside of the cage... It's refreshing to see the scenery again, isn't it?
@@ -17,7 +17,7 @@
 「全部全部、しっかり記憶の宝箱にしまっちゃうよ。こんなに素敵な時間……一瞬でも忘れたくないもん」=I'm going to put them all in my memory box. I don't want to forget even a single moment of such a wonderful time ...
 「[H名]……うん、俺も。一瞬でも忘れないようにする」=I don't want to forget even a single moment. I'll try not to forget even for a second.
 「あはは、ありがとう。約束だよー。今日の思い出は……二人でいつまでも大切にしたいな」=Haha, thank you. That's a promise. Today's memories will be ... cherished by both of us forever.
-「うん、約束だ」=Yes, I promise.
+「うん、約束だ」=「Да, обещаю」
 「ふふっ、でも……観覧車って本当に不思議……こうやって好きな人と乗っていると、まるでそのためだけに作られたみたいな気がしてくるよ」=Hmm, but ... Ferris wheels are really strange ... and when I ride them with someone I love, I feel as if they were made just for that purpose.
 「二人だけのため？」=Just for the two of us?
 「うん。好きな人と二人きりで景色を見るため。ほら、わざわざこんな個室だし……自然とくっつけるし……」=Yes. To see the scenery alone with the person I love. You see, we're in a private room like this ... and we're naturally attached to each other...
@@ -29,11 +29,11 @@
 「私……君のこと……大好き……すごく……すごく好きだよ……」=I ... love ... you ... so ... much...
 「[H名]……うん、俺も好きだ」=[H名]... Yeah, I like you too.
 「あっ……んっ……んん……ちゅっ……」=[H名]... Yeah, I like you, too." "Oh....... chuckle.
-「ん……」=It's ...
+「ん……」=Mm...
 「え、えへへ……特別な空間で……自分からキス……おねだりしちゃった……」=[H名] ... I like you." "Oh ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm ... mmm .....
 「[H名]から誘ってくれなかったら、俺の方からしてたよ」=If you hadn't asked me, I would've done it myself.
 「本当？　だったら……もう一回……して……？」=Really?　If that's the case, can you ... me ... again?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「んっ……あ……はぁ、ちゅっ……んっ……」=Mmm... ah... hmm, chuckle... mmm...
 「ダメ……足りなくなっちゃう……もっともっと……キス……してもいい？」=No... I'm running out of ... more and more ... kisses ... can I? Can I kiss you?
 「何回でもしよう」=Can I kiss you  as many times as I want?

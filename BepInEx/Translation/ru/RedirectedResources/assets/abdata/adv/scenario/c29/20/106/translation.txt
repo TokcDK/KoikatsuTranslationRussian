@@ -1,4 +1,4 @@
-「ここは、何度訪れても素敵な場所ですね」=This is always a nice place to visit.
+﻿「ここは、何度訪れても素敵な場所ですね」=This is always a nice place to visit.
 「はははっ。すっかりお気に入りの場所になったみたいだね」=Hahaha. It seems to have become your favorite place.
 「ええ。ここに来ると心が落ち着きます」=Yes. I feel at home here.
 「同時に、夜に溶け込んでしまいそうで……少し切ないと言いますか、寂しくもなるのですけれど」=At the same time, I feel a little sad or lonely because I feel like I'm melting into the night.
@@ -26,6 +26,6 @@
 「何度でも何度でも見に来ましょう。私たち二人で」=We'll come back again and again and again. Just the two of us.
 「うんっ。じゃあ今日はそろそろ帰ろうか」=Yeah. Let's go home for the day.
 「しっかりと手を繋いで、ですね」=Just hold hands, okay?
-「そうだね」=Yes, we did.
+「そうだね」=「Угу」
 CHOICE:『エッチしちゃったなぁって』="We've had sex.
 CHOICE:『また一緒に見に来ようね』="Let's come back together to see it again.

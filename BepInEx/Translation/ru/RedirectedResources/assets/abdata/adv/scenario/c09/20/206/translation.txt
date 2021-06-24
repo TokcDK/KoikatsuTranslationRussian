@@ -1,4 +1,4 @@
-「ふぅ……なんか、やっと座った気がする」=Hmm... I feel like I'm finally sitting down.
+﻿「ふぅ……なんか、やっと座った気がする」=Hmm... I feel like I'm finally sitting down.
 「ふふふ、そうね。いっぱい歩いたし」=Hmmm, yeah. I've been walking a lot.
 「今日はかなり遊んだから、もう足がぱんぱんだよ」=I've had so much fun today, my feet are killing me.
 「あたしは全然そんなことないけど。あんた、運動不足なんじゃない？」=I don't think so at all. You don't get enough exercise, do you?
@@ -41,4 +41,4 @@
 「どうぞ。遠慮しなくていいよ」=Sure. Don't be shy.
 「うん……お願い」=Yeah... please.
 「……今日は、ありがとう……」=...Thanks for today...
-「うん」=Yes.
+「うん」=「Да」

@@ -1,4 +1,4 @@
-「そろそろお昼だけど、何か食べたいものある？」=It's almost lunchtime, do you want something to eat?
+﻿「そろそろお昼だけど、何か食べたいものある？」=It's almost lunchtime, do you want something to eat?
 「公園の中にお店ってたくさんあったっけ？」=Are there a lot of stores in the park?
 「たまに何か売りに来てたりはするけど、そんなにはなかったかな」=Sometimes they sell something, but not that many.
 「じゃあお昼にするなら、いったん外に出て――」=So, if you want to have lunch, let's go outside and...
@@ -11,7 +11,7 @@
 「ん？　ああ、あそこにあるやつ？　……なんか、移動販売のお店っぽいね」=Hmm?　Oh, you mean the one over there?　... It looks like a mobile store.
 「カフェ、かな？　近くに座るスペースあるし、あそこでお昼にしない？」=A cafe, maybe?　There's a place to sit nearby. Do you want to have lunch there?
 「いいわよ。あの雰囲気はちょっと期待できそうな感じがするわ」=I don't mind. I like it. The atmosphere is a bit promising.
-………………=...
+………………=.........
 「色々メニューがあるなぁ……ランチも充実してる」=There's a lot of stuff on the menu... They have a good lunch menu.
 「どう？　[H名]、何頼むか決めた？」=What do you think?　[H名], have you decided what you want?
 「ちょっと待ってよ。今、大事な選択してる最中なんだから」=Wait a minute. I'm in the middle of a very important choice.

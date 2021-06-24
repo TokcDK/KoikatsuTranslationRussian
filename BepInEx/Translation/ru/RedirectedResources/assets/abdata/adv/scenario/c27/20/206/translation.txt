@@ -1,4 +1,4 @@
-「ふぅ、今日もいっぱい遊んだね。すっかり足が棒になっちゃったよ」=Phew, we had a lot of fun today. I've had a lot of fun today, and my legs are all bent out of shape.
+﻿「ふぅ、今日もいっぱい遊んだね。すっかり足が棒になっちゃったよ」=Phew, we had a lot of fun today. I've had a lot of fun today, and my legs are all bent out of shape.
 「[H名]は疲れてない？」=Are you tired?
 「ん……大丈夫、平気よ……」=... I'm fine. I'm fine...
 「はは、眠たそうな声で言われても説得力ないよ。俺の肩か膝を貸そうか？」=I'm fine. " "Haha, you don't sound very convincing when you say that in a sleepy voice. Do you want me to give you my shoulder or my knee?
@@ -10,7 +10,7 @@
 「別に俺は気にしないよ。それにここは遊園地なんだから、童心に返って子どもっぽいことしちゃってもいいんじゃない？」=I don't mind. I don't mind. Besides, this is an amusement park, it's okay to be childish and do childish things.
 「…………変な理屈考えるのが上手いんだから」=I don't mind. - Besides, this is an amusement park.
 「それじゃあ……ちょっと肩、貸して」=Well... give me your shoulder.
-「はい、どうぞ」=Here you go.
+「はい、どうぞ」=「Да, пожалуйста」
 「ん、ありがと」=Hmm. Thanks.
 「着く前にはちゃんと起こすから、気にせず寝ていいからね」=I'll wake you up before we get there. Don't worry about sleeping.
 「うん……」=Yeah...

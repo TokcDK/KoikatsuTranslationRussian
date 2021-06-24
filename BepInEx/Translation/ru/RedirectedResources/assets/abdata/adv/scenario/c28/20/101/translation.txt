@@ -1,8 +1,8 @@
-「とりあえず手を繋いで散歩しようか？」=Why don't we just hold hands and go for a walk?
+﻿「とりあえず手を繋いで散歩しようか？」=Why don't we just hold hands and go for a walk?
 「人に見られたら少し恥ずかしいのじゃが……」=I'd be a little embarrassed if people saw us...
 「ほら、手を貸して」=Come on, give me your hand.
 「……わかったのじゃ」=... All right.
-………………=...
+………………=.........
 「ここの広場は広いね！」=It's a big square here!
 「花壇も綺麗じゃのう」=The flowerbeds are beautiful.
 「おぉ、あそこにあるのはなんじゃっ？」=Oh, what's that over there?
@@ -15,7 +15,7 @@
 「そうじゃのう」=Sure.
 「あ～、本当に良い天気だなぁ」=Oh, it's really a beautiful day.
 「ふう……」=...
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「こうして目をつぶって自然の音を聞くと落ち着くのじゃ」=It's soothing to close your eyes and listen to the sounds of nature.
 「それ、わかる気がする」=I think I know what you mean.
 「それに……お主が隣にいてくれると、わしはもっと落ち着くのじゃ」=And I'm even more relaxed when you're next to me at ...

@@ -1,4 +1,4 @@
-[ymd] 大道具=[ymd] Large Props
+﻿[ymd] 大道具=[ymd] Large Props
 [ymd] 小道具=[ymd] Small Props
 [ymd] 演出=[ymd] Effects
 
@@ -26,30 +26,30 @@ CLO 壁=CLO Wall
 マップ HM ハーレム部屋=Map HM Harlem Room
 マップ HM ベンチ=Map HM Bench
 マップ HM 公園=Map HM Park
-r:"^ロケーション([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Location $1"
+r:"^ロケーション([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Location $1
 
 // [ymd] Props / CLO Base
-r:"^CLベース アスファルト床([０-９0-9]+) *$"=r:"CL Base Asphalt Floor $1"
-r:"^CLベース タイル床([０-９0-9]+)$"=r:"CL Base Tile Floor $1"
-r:"^CLベース レンガ床([０-９0-9]+)$"=r:"CL Base Brick Floor $1"
+r:"^CLベース アスファルト床([０-９0-9]+) *$"=CL Base Asphalt Floor $1
+r:"^CLベース タイル床([０-９0-9]+)$"=CL Base Tile Floor $1
+r:"^CLベース レンガ床([０-９0-9]+)$"=CL Base Brick Floor $1
 CLベース 体育館床=CL Base Gymnasium Floor
 CLベース 地面(土)=CL Base Ground (Sat)
 CLベース 校内床=CL Base School Floor
 CLベース 浜辺=CL Base Beach
 CLベース 浜辺(砂)=CL Base Beach (Sand)
-r:"^CLベース 石床([０-９0-9]+)$"=r:"CL Base Stone Floor $1"
-r:"^CLベース 石畳([０-９0-9]+)$"=r:"CL Base Cobblestone $1"
-r:"^CLベース 砂地([０-９0-9]+)$"=r:"CL Base Sand $1"
+r:"^CLベース 石床([０-９0-9]+)$"=CL Base Stone Floor $1
+r:"^CLベース 石畳([０-９0-9]+)$"=CL Base Cobblestone $1
+r:"^CLベース 砂地([０-９0-9]+)$"=CL Base Sand $1
 CLベース 草原=CL Base Meadow
 CLベース 野原=CL Base Field
 
 // [ymd] Props / CLO Wall
 CL壁 スクリーン=CL Wall Screen
-r:"^CL壁 ブロック壁([０-９0-9]+)$"=r:"CL Wall Block Wall $1"
+r:"^CL壁 ブロック壁([０-９0-9]+)$"=CL Wall Block Wall $1
 CL壁 体育館壁=CL Wall Gymnasium Wall
 CL壁 木柱=CL Wall Wood Post
 CL壁 木製壁=CL Wall Wooden Wall
-r:"^CL壁 石壁([０-９0-9]+)$"=r:"CL Wall Stone Wall $1"
+r:"^CL壁 石壁([０-９0-9]+)$"=CL Wall Stone Wall $1
 CL壁 石柱=CL Wall
 CL壁 窓=CL Wall Window
 CL壁 黒板=CL Wall Blackboard
@@ -75,7 +75,7 @@ CL壁 黒板=CL Wall Blackboard
 マップ PC 路地裏=Map PC Alley Back
 
 // [ymd] Props / Location PH
-r:"^マップ PH 公園 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Map PH Park $1"
+r:"^マップ PH 公園 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Map PH Park $1
 
 // [ymd] Props / Location PPD
 マップ PPD オフィス=Map PPD Office
@@ -90,11 +90,11 @@ r:"^マップ PH 公園 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Map PH Park $1"
 
 // [ymd] Props / Plants
 低木=Shrub
-r:"^木([０-９0-9]+) 幹$"=r:"Tree $1 Trunk"
-r:"木([０-９0-9]+) 枝葉([０-９0-9]*)$"=r:"Tree $1 Branches And Leaves $2"
+r:"^木([０-９0-9]+) 幹$"=Tree $1 Trunk
+r:"木([０-９0-9]+) 枝葉([０-９0-9]*)$"=Tree $1 Branches And Leaves $2
 芝=Shiba
 草 少量=Grass Small Amount
-r:"^草([０-９0-9]+)$"=r:"Grass $1"
+r:"^草([０-９0-9]+)$"=Grass $1
 草原=Grass
 草原 減量=Grass Reduction
 
@@ -106,12 +106,12 @@ r:"^草([０-９0-9]+)$"=r:"Grass $1"
 食べ物関係=Food Related
 
 // [ymd] Props / Mob
-r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)女([０-９0-9]*)"=r:"Mob $1 Woman $2"
-r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)男([０-９0-9]*)"=r:"Mob $1 Man $2"
+r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)女([０-９0-9]*)"=Mob $1 Woman $2
+r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)男([０-９0-9]*)"=Mob $1 Man $2
 モブ PPD イカ=Mob PPD Squid
 モブ PPD クモ=Mob PPD Spider
 モブ PPD ブタ=Mob PPD Pig
-r:"^モブ PPD([０-９0-9]+)$"=r:"Mob PPD$1"
+r:"^モブ PPD([０-９0-9]+)$"=Mob PPD$1
 猫のおもちゃ FK=Cat Toy FK
 猫のおもちゃ 単色 FK=Cat Toy Single Color FK
 舌 FK=Tongue FK
@@ -123,14 +123,14 @@ r:"^モブ PPD([０-９0-9]+)$"=r:"Mob PPD$1"
 ギターピック=Guitar Pick
 ダンボール=Cardboard
 ダンボール FK=Cardboard FK
-r:"^ドラム ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Drum $1"
+r:"^ドラム ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Drum $1
 ドラム スティック=Drum Stick
 ドラム 椅子=Drum Chair
-r:"^ハンガー ([０-９0-9]+)$"=r:"Hanger $1"
+r:"^ハンガー ([０-９0-9]+)$"=Hanger $1
 ハンガー ラック=Hanger Rack
 ピアノ=Piano
 ピアノ 椅子=Piano Chair
-マイク=Microphone
+マイク=Микрофон
 マイクスタンド=Microphone Stand
 リコーダー=Recorder
 身長計 ヒット部分=Height Gauge Hit Part
@@ -141,7 +141,7 @@ r:"^ハンガー ([０-９0-9]+)$"=r:"Hanger $1"
 ほうき[FK]=Broom [FK]
 アサルトライフル=Assault Rifle
 ウォーターガン=Water Gun
-r:"^ガンブレード ([０-９0-9]+)$"=r:"Gun Blade $1"
+r:"^ガンブレード ([０-９0-9]+)$"=Gun Blade $1
 クナイ=Kunai
 スタンガン=Stun Gun
 タオル[FK]=Towel [FK]
@@ -166,10 +166,10 @@ r:"^ガンブレード ([０-９0-9]+)$"=r:"Gun Blade $1"
 戦槌=Battle
 曲剣=Curved Sword
 本=Book
-r:"^杖 ([０-９0-9]+)$"=r:"Cane $1"
-r:"^槍 ([０-９0-9]+)$"=r:"槍 $1"
+r:"^杖 ([０-９0-9]+)$"=Cane $1
+r:"^槍 ([０-９0-9]+)$"=槍 $1
 煙管=Smoke Pipe
-r:"^盾 ([０-９0-9]+)$"=r:"Shield $1"
+r:"^盾 ([０-９0-9]+)$"=Shield $1
 花束=Bouquet
 薬莢=Pharmaceutical Capsule
 警棒=Batons
@@ -177,29 +177,29 @@ r:"^盾 ([０-９0-9]+)$"=r:"Shield $1"
 重火器 展開=Heavy Weapons Deployment
 鉤爪=Claw
 錆びた剣=Rusted Sword
-r:"^鎌([０-９0-9]+)$"=r:"鎌 $1"
+r:"^鎌([０-９0-9]+)$"=鎌 $1
 魔法の杖[FK]=Magic Wand [FK]
 
 // [ymd] Props / Clothes FK
-r:"^ショーツ ([０-９0-9]+)$"=r:"Shorts $1"
+r:"^ショーツ ([０-９0-9]+)$"=Shorts $1
 スクール水着=School Swimsuit
-r:"^ストッキング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Stocking $1"
+r:"^ストッキング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Stocking $1
 トップス キャミソール=Tops Camisole
-r:"^トップス シャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Shirt $1"
+r:"^トップス シャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Tops Shirt $1
 トップス ジャージ=Tops Jersey
 トップス セーラー=Tops Sailor
 トップス セーラースカーフ=Tops Sailor Scarf
 トップス パジャマ=Tops Pajamas
 トップス パーカー=Tops Parker
-r:"^トップス ブレザー上着 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Blazer Outerwear $1"
-r:"^トップス ランニングウェア ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Running Wear $1"
-r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Long Shirt $1"
-r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Long Shirts $1"
+r:"^トップス ブレザー上着 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Tops Blazer Outerwear $1
+r:"^トップス ランニングウェア ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Tops Running Wear $1
+r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Tops Long Shirt $1
+r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Tops Long Shirt $1
 トップス ワンピース=Tops One Piece
 バスタオル=Bath Towel
 ビキニ水着 上=Bikini Swimwear On
 ビキニ水着 下=Bikini Swimwear Below
-r:"^ブラ ([０-９0-9]+)$"=r:"Bra $1"
+r:"^ブラ ([０-９0-9]+)$"=Bra $1
 ボトムス ショートジャージ=Bottoms Short Jersey
 ボトムス ハーフジャージ=Bottoms Half Jersey
 ボトムス パジャマ=Bottoms Pajamas
@@ -210,19 +210,19 @@ r:"^ブラ ([０-９0-9]+)$"=r:"Bra $1"
 ボトムス ボトムス キュートパンツ=Bottoms Bottoms Shorts
 ボトムス ミニタイトスカート=Bottom Slim Skirt
 ボトムス ロングパンツ=Bottoms Pants
-r:"^手袋([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Gloves $1"
-r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Gloves Long $1"
-r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Glove Long $1"
+r:"^手袋([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Gloves $1
+r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Gloves Long $1
+r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Gloves Long $1
 競技水着=Competition Swimwear
-r:"靴下 ([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Socks $1 $2"
+r:"靴下 ([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Socks $1 $2
 鏡=Mirror
 
 // [ymd] Props / Mirror
 鏡 円=Mirror Circle
-r:"^鏡 円 アルファ ([０-９0-9]+)$"=r:"Mirror Circle Alpha $1"
+r:"^鏡 円 アルファ ([０-９0-9]+)$"=Mirror Circle Alpha $1
 鏡 円 境界ぼかし=Mirror Circle Border Blur
 鏡 四角=Mirror Square
-r:"^鏡 四角 アルファ ([０-９0-9]+)$"=r:"Mirror Square Alpha $1"
+r:"^鏡 四角 アルファ ([０-９0-9]+)$"=Mirror Square Alpha $1
 鏡 四角 境界ぼかし=Mirror Square Border Blur
 
 // [ymd] Props / Food Relations
@@ -241,32 +241,32 @@ r:"^鏡 四角 アルファ ([０-９0-9]+)$"=r:"Mirror Square Alpha $1"
 ショートケーキ=Shortcake
 スイカ=Watermelon
 スプーン=Spoon
-r:"^ネギ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Green Onion $1"
+r:"^ネギ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Green Onion $1
 バスケット=Basket
 バスケット 空 FK=Basket Empty FK
-r:"^パン ([０-９0-9]+)$"=r:"Bread $1"
+r:"^パン ([０-９0-9]+)$"=Bread $1
 ビール グラスジョッキ=Beer Glass Mug
 ビール 樽ジョッキ=Beer Barrel Mug
 ビール 瓶=Beer Bottle
 ビール缶=Beer Can
-r:"^ピザ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Pizza $1"
-r:"^ピーマン ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Bell Pepper $1"
-r:"^フォーク ([０-９0-9]+)$"=r:"Fork $1"
+r:"^ピザ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Pizza $1
+r:"^ピーマン ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Bell Pepper $1
+r:"^フォーク ([０-９0-9]+)$"=Fork $1
 フライパン=Frying Pan
 ヘラ=Hera
 ボウル=Bowl
-r:"^ポテチ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Potech $1"
+r:"^ポテチ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Potech $1
 マグカップ=Mug
 ランチョンマット=Place Mat
 レシピ本=Recipe Book
 ワイン グラス=Wine Glass
 ワイン ボトル=Wine Bottle
 包丁=Kitchen Knife
-r:"^卵 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Egg $1"
+r:"^卵 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Egg $1
 寸胴鍋=Scale Pot
 小麦粉袋=Flour Bag
 恵方巻=Ehime Winding
-r:"料理鍋([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Cooking Pot $1 $2"
+r:"料理鍋([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=Cooking Pot $1 $2
 本命チョコ=My Favorite Chocolate
 本命チョコ カラーマスク=My Favorite Chocolate Color Mask
 泡だて器=Foamer
@@ -294,9 +294,9 @@ r:"料理鍋([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Cooking Pot $1 $2"
 照明=Illumination
 記号=Symbol
 
-r:"^文字 ([ぁ-ゟ])$"=r:"Hiragana $1"
-r:"^文字 ([゠-ヿ])$"=r:"Katakana $1"
-r:"^文字 ([a-zA-Zａ-ｚＡ-Ｚ])$"=r:"Letter $1"
+r:"^文字 ([ぁ-ゟ])$"=Hiragana $1
+r:"^文字 ([゠-ヿ])$"=Katakana $1
+r:"^文字 ([a-zA-Zａ-ｚＡ-Ｚ])$"=Letter $1
 
 // [ymd] Production / Effect
 三角影[減算]=Triangular Shadow [Subtract]
@@ -308,7 +308,7 @@ r:"^文字 ([a-zA-Zａ-ｚＡ-Ｚ])$"=r:"Letter $1"
 集中線 影なし=Concentrated Line Without Shadow
 
 // [ymd] Production / Number
-r:"^数字 ([０-９0-9]+)$"=r:"Number $1"
+r:"^数字 ([０-９0-9]+)$"=Number $1
 
 // [ymd] Production / Illumination
 スポットレーザー 虹=Spot Laser Rainbow
@@ -318,7 +318,7 @@ r:"^数字 ([０-９0-9]+)$"=r:"Number $1"
 パーライト 黄=Perlite Yellow
 
 // [ymd] Production / Symbol
-r:"^記号 (.)$"=r:"Symbol $1"
+r:"^記号 (.)$"=Symbol $1
 
 記号 ぐるぐる=Symbol Round
 記号 キャッキャ=Symbol Cashier
@@ -328,7 +328,7 @@ r:"^記号 (.)$"=r:"Symbol $1"
 記号 卵=Symbol Egg
 記号 句点=Symbol Period
 記号 怒=Symbol Angry
-r:"^記号 汗([０-９0-9]+)$"=r:"Symbol Sweat $1"
+r:"^記号 汗([０-９0-9]+)$"=Symbol Sweat $1
 記号 羽右=Symbol Feather Right
 記号 羽左=Symbol Feather Left
 記号 肉球=Symbol Meatball
@@ -354,7 +354,7 @@ M1ヘルメット(MMD)=M1 Helmet (MMD)
 ゴスロリハット(HS)=Gothic Lolita Hat (HS)
 サンタ帽子(HS)=Santa Hat (HS)
 セキュリティーキャップ(HS)=Security Cap (HS)
-r:"セキュリティーキャップ([０-９0-9]+).HS.$"=r:"Security Cap $1 (HS)"
+r:"セキュリティーキャップ([０-９0-9]+).HS.$"=Security Cap $1 (HS)
 ニット帽(MMD)=Knit Cap (MMD)
 ハンチング帽(MMD)=Hunting Cap (MMD)
 ヘルメット(MMD)=Helmet (MMD)

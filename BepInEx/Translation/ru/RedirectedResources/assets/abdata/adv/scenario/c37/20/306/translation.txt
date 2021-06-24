@@ -1,4 +1,4 @@
-「曲、随分歌いましたね」=We sure sang a lot, didn't we?
+﻿「曲、随分歌いましたね」=We sure sang a lot, didn't we?
 「二人だと順番が回りやすいからね。疲れたりしてない？」=With just the two of us, the turns pass quite quickly, afterall. Are you tired?
 「私は平気です。あなたはどうですか？」=I'm fine. What about you?
 「俺も大丈夫だけど、歌いたい歌がなくなってきたかな」=I'm good too, but I've run out of songs I want to sing to be honest.
@@ -19,4 +19,4 @@
 「……？　ほら、出るよ？」=.........? Come on, aren't you coming?
 「……はい、只今準備します」=...Yes, give me a moment to get my things.
 CHOICE:『最後までいよう』=『Stay until the end』
-CHOICE:『今日はもう帰ろうか』=『Let's go home for today』
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

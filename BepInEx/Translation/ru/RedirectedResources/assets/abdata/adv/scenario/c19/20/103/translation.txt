@@ -1,4 +1,4 @@
-「暗くなるのはあっという間だね……これから、どうするの？」=It gets dark so fast... What are you going to do now?
+﻿「暗くなるのはあっという間だね……これから、どうするの？」=It gets dark so fast... What are you going to do now?
 「できれば……まだ帰りたくないな」=I don't want to leave ... yet if I can help it.
 「うん……私ももう少しだけ、[P名]君と一緒に居たい……」=Yeah... I want to stay with [P name] for a little while longer...
 「それなら、もう少しだけ付き合って。見せたいものがあるから」=Then stay with me a little longer. I want to show you something.
@@ -7,5 +7,5 @@
 「それじゃあ……駅に着くまで、手を繋いでていい……？」=Can I hold your hand until we get to the ... station, then?
 「もちろんだよ。……はい」=Of course... Yes.
 「ありがとう。……あなたの手、温かいね」=Thank you... Your hands are so warm.
-CHOICE:『まだ時間ある？』="Do you still have time?
-CHOICE:『俺も楽しかった』="I had fun too.
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
+CHOICE:『俺も楽しかった』="I had fun too."

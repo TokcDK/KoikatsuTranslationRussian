@@ -1,4 +1,4 @@
-「ひえ～、ここからだと、遊園地を丸ごと見下ろせるぜ？」=Wow, you can see the whole park from here, can't you?
+﻿「ひえ～、ここからだと、遊園地を丸ごと見下ろせるぜ？」=Wow, you can see the whole park from here, can't you?
 「私たちが乗ったのは……あれと、あれと……あれもだな！」=We rode ... that one, that one and ... that one too!
 「あっ、あの絶叫アトラクション、分かるか！？　お前、ひでぇ顔してビビってたよな！」=We rode  that, that and  that!　You looked like you were freaking out!
 「そ、それを言うなら[H名]だって……」=Yeah, well, so was [H名] at ...
@@ -25,8 +25,8 @@
 「いいんじゃねえか？　なかなか……ロマンチックだしよ」=It's okay.　It's quite ... romantic.
 「……ほら、記憶に残るようなキスってやつを、してみろよ」=... Come on, give me a kiss I'll remember.
 「うん。じゃあ[H名]、そこでじっとしてて……」=Yeah. Okay, [H名], hold still there...
-「ん……」=It's ...
-「んんっ……」=Mmm...
+「ん……」=Mm...
+「んんっ……」=「М-н……」
 「……ど、どうだった？」=...Did you like it?
 「う～ん……、まだ記憶に残るっていうには足りねえな～」=Hmmm ... not memorable enough yet.
 （う……。ちょっと自分でハードル上げすぎたかな……？）=(... (... Did I raise the bar a little too high for myself? ...?)

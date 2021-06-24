@@ -1,11 +1,11 @@
-（……なんか、緊張してきた）=(...) I'm starting to get nervous.
+﻿（……なんか、緊張してきた）=(...) I'm starting to get nervous.
 （きっと[H名]も緊張してるんだろうな……なんてたって、ドレスだし）=(I'm sure [H名] is nervous too... After all, it's a dress.)
-（いよいよ出番か……）=(Finally, it's time to go ...)
+（いよいよ出番か……）=（Вот и пора……）
 （おぉ、内装も立派だ……）=(Oh, the interior is also magnificent ...)
 （……よし、[H名]の新郎役をしっかり努めないと）=(...Okay, I'm going to have to play the groom to [H名].)
 （……ふぅ、一応モデルらしくできたかな？　少なくとも失敗はしてないはず）=(...) Hmm, did I look like a model?　At least I didn't fail.
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 視線の先に、純白のウェディングドレスに身を包んだ[H名]が佇んでいた。=I'm not sure if I'm going to be able to do this, but I'm sure I'll be able to.
 普段の気だるそうな雰囲気はなく、おしとやかで貞淑にしていて、少し別人のように映って見える。=She does not have the usual languid atmosphere, she is ladylike and chaste, and looks a bit like a different person.
 ……本気で『結婚して』とプロポーズしてしまいそうなくらいに、ドレス姿の[H名]は美しかった。=This is the first time I've ever seen a woman in a dress look so beautiful that I could seriously ... propose to her to marry me.

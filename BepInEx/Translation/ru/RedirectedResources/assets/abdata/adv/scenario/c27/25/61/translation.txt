@@ -1,4 +1,4 @@
-「今日のデート、私のためにここを選んでくれたんだ……？」=Did you pick this place for my date today...?
+﻿「今日のデート、私のためにここを選んでくれたんだ……？」=Did you pick this place for my date today...?
 「うん。好きなもの頼んでいいよ」=Yeah. You can order whatever you want.
 「いいの？　……ありがと。ふふっ♪」=Can I?　Thanks for the ... Mmm-hmm.
 「じーっ……」=Oh...
@@ -8,9 +8,9 @@
 （見てると変化が面白いな……）=(It's funny how things change when you look at them...)
 「そんなにじっと見つめられてると、恥ずかしいから……」=I'm embarrassed that you're staring at me so intently...
 「今日……ずっとあんたと一緒にいられて、楽しかったわ……」=It's been fun ... hanging out with you all day...
-「まだもう少し一緒にいない？」=Do you want to hang out some more?
+「まだもう少し一緒にいない？」=“Want to be together for a little longer?”
 「……うん！　私もそう思ってたところなの」=... Yeah!　I was just thinking the same thing.
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「ありがとね……じゃ、また……」=Thanks... See you soon...
-CHOICE:「まだもう少し一緒にいない？」="Do you want to stay with me a little longer?
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「まだもう少し一緒にいない？」=“Want to be together for a little longer?”
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”

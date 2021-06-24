@@ -1,7 +1,7 @@
-「さてと、ここまでで結構ですわ。それではごきげんよう」=Well, that's enough of that. Have a good day.
+﻿「さてと、ここまでで結構ですわ。それではごきげんよう」=Well, that's enough of that. Have a good day.
 「……この後、家にこれないかな？　もっとご機嫌な気分になれるかもよ？」="Well, that's all for now.　It might put you in a better mood, you know?
 「まあ、品のない誘い方ですわね！　ですが……興味はありますわ！　参りましょう」=Well, that's not very polite!　But I'm interested in ...!　Let's go.
 「そうだね。それじゃあまたね！　ばいばい」=Let's do it. See you later!　Bye.
 「ええ、ごきげんよう。おやすみなさいませ」=Yes, have a good day. Have a good night.
 CHOICE:「……この後、家にこれないかな？」="... Can you come to my house after this?
-CHOICE:「そうだね、ばいばい」="Sure, bye.
+CHOICE:「そうだね、ばいばい」=Suppose so, byebye~

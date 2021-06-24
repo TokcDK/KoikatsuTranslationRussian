@@ -1,4 +1,4 @@
-「[H名]ってどんな歌が好きなの？　やっぱりロックとか？」=What kind of songs does [H名] like?　Rock music?
+﻿「[H名]ってどんな歌が好きなの？　やっぱりロックとか？」=What kind of songs does [H名] like?　Rock music?
 「ロックというか、テンポの速い曲が好きだな。音楽には詳しくないから、正確な名前はわからん」=I like fast-paced music. I don't know exactly what it's called because I don't know much about music.
 「あー、わかるかも。音楽って色々あり過ぎて、そもそもジャンルの分け方が分からない感じでしょ？」=I don't know the exact name. There are so many different kinds of music that it's hard to know how to classify them, right?
 「その通りだ。特にロックなんて色々あるだろ？　メタルとかパンクとか、数え出したらキリがない」=That's right. Especially rock music, there are so many genres.　Metal, punk, the list goes on and on.
@@ -16,5 +16,5 @@
 「うるさい、茶化すなっ。言っておくが、あまり期待はするなよ？」=Shut up and stop messing around. Just don't get your hopes up, okay?
 「あっ、これ！　ロックじゃなくてアイドルソングだよ？　俺も知ってる！」=Oh, my God!　It's not a rock song, it's an idol song.　I know it!
 「い、いいだろう？　最近はこの曲がお気に入りなんだ。ンッ、黙って聞いていろっ」=I know it!　It's my favorite song these days. Shut up and listen.
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 「おお！　歌い方はやっぱり少しロックっぽいかも！　いい感じだよー！　[H名]ー！」=Oh!　The way she sings it, it's a little bit like rock!　It's good!　[H名]!

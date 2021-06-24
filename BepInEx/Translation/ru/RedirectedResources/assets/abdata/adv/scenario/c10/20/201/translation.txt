@@ -1,4 +1,4 @@
-「ふあぁ～……！」=Huh...!
+﻿「ふあぁ～……！」=Huh...!
 「何か珍しいものでもあった？」=Anything unusual?
 「あぁ、いや……単純に興奮しただけだ……」=Oh, no... I'm just excited...
 「はは、そっか」=Ha, I see.
@@ -11,7 +11,7 @@
 「揺れてるのっていうと……ああ、バイキングのことね」=By "swinging," you mean ... Oh, you mean the buffet.
 「そうだ！　ほら、早くいくぞ！」=Yeah!　Come on, let's go!
 「ちょ、そんなに急がなくても」=Come on, let's go! - No, not so fast.
-………………=...
+………………=.........
 「むふぅ、我は満足だ！」=Mmm, I'm satisfied!
 「はは、次は何に乗る？」=What's the next ride?
 「アトラクションに乗っているとき、気になる建物を見つけたのだ。そっちに行きたい！」=While riding an attraction, I saw a building that caught my attention. I want to go there!

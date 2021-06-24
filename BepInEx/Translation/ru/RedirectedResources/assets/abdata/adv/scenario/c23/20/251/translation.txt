@@ -1,4 +1,4 @@
-（ふぅ……そろそろ降りる準備しとかないと）=I'm going to have to get ready to go down to ...
-（……今日のデートも良い思い出が作れたな）=I've got to get ready to get off the Ferris wheel... We made some good memories on our date today.
+﻿（ふぅ……そろそろ降りる準備しとかないと）=（Фу-х…… Нужно подготовиться, скоро наша остановка）
+（……今日のデートも良い思い出が作れたな）=（……Сегодняшнее свидание прошло отлично, о нем остались только хорошие воспоминания）
 （特に最後の観覧車……二人きりになれて、いい雰囲気だったよなぁ）=I don't know what you mean. - Especially the last one, the Ferris wheel... It was nice to be alone with someone.
-（……この次も絶対[H名]を楽しませるデートにしよう！）=(...We'll definitely make the next date a fun one for [H名]!
+（……この次も絶対[H名]を楽しませるデートにしよう！）=(... Gotta do my best to make the next date one that [H名] will find fun again)

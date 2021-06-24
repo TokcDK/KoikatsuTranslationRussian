@@ -1,4 +1,4 @@
-「今回もしっかりとわたくしをリードなさいね。よろしくて？」=You'll have to lead me this time. Will you?
+﻿「今回もしっかりとわたくしをリードなさいね。よろしくて？」=You'll have to lead me this time. Will you?
 「ああ、任せてくれ。高笑いをし疲れさせてあげるよ」=Yes, I will. I'll make you laugh so hard you'll be exhausted.
 「あら、楽しみだわ！　おーっほっほっほ！！」=Oh, I'm so excited!　I can't wait!
 「ふう……注目を浴びるのも慣れてきたな……」=You're getting used to all the attention...
@@ -8,9 +8,9 @@
 「……うん、そうだな。俺、きみのこと大好きだからな」=... Yes, you're right. I love you, you know.
 「お、おほほほ……ちょ、い、いきなりそういうことを言うのは……反則ですわ……」=Oh-ho-ho ... Hey, that's not ... appropriate to say out of the blue.
 「おーっほっほっほ！　今日も楽しかったですわ！」=Oh, ho ho ho!　I had a great time today!
-CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「もう少し一緒にいたいな」=I want to be together for just a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「もう少し一緒にいたい……で、もう少し、その高笑い、聞いていたいな」=I want to spend a little more time with you ... and listen to you laugh a little more.
 「もう！　もっとロマンチックな誘い方、ございますでしょう？　でも構いませんわ！　おーっほっほっほ」=Oh, my God!　I'd like to spend a little more time with you at .　But I don't mind!　Oh-ho-ho-ho.
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「ええ、ではまた。ごきげんよう！」=Yes, I'll see you later. Have a good day!

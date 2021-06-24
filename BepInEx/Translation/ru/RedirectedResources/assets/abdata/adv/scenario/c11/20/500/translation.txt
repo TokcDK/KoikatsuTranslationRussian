@@ -1,4 +1,4 @@
-「ふふ、無事にここまで戻ってきたわね」=Well, I'm glad you made it back here.
+﻿「ふふ、無事にここまで戻ってきたわね」=Well, I'm glad you made it back here.
 「もうお別れだけど……気をつけて帰るのよ？」=I'm going to say goodbye now... Have a safe trip home, okay?
 「ははは、大丈夫だよ。俺は立派な男だからね、何も心配ないさ」=Hahaha, I'm fine. I'm a great guy. I have nothing to worry about.
 「そうね……でも最近は男の子でも安心できない世の中よ。何があるかわからないもの」=Yes... but these days even boys can't feel safe. You never know what might happen.
@@ -21,6 +21,6 @@
 「ははは、じゃあ、またね！」=Well, I'll see you later!
 「ええ、また学園でね！　ちゃんと宿題するのよ！　お風呂は肩までつかるのよ！　お布団かぶってネンネするのよー！」=Yeah, see you at school!　Make sure you do your homework!　Take a bath up to your shoulders!　Take a bath up to your shoulders, cover yourself with a futon and sleep!
 （流石にここまで言われるのは、ちょっと恥ずかしい……）=(It's a little embarrassing to be told this much ...)
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
 CHOICE:『心配いらないと念押しする』="I'll remind her not to worry.

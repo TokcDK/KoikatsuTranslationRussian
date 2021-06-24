@@ -1,4 +1,4 @@
-「けっこう混んできたな……ごめん、そっち詰めるね」=It's getting pretty crowded... Sorry, I'm going to have to squeeze in there.
+﻿「けっこう混んできたな……ごめん、そっち詰めるね」=It's getting pretty crowded... Sorry, I'm going to have to squeeze in there.
 「はい……でも、その……少し近くない、ですか……？」=Yes ... but isn't that ... a bit close, isn't it ...?
 「はは……どんどん人に押されちゃって……おわっ！」=I'm not sure what to do.
 （っ……まず、股間が[H名]にあたって……）=The first thing that happened was that my crotch hit [H名],...
@@ -12,4 +12,4 @@
 （……それにしても、何で女の子ってこんなに柔らかくて、いい匂いがするんだろう）=(...Why do girls have to be so soft and smell so good?
 （いつもは嬉しいことだけど、今この瞬間だけはちょっと恨めしいというか……俺の理性、もつかなぁ）=I'm usually happy, but at this moment, I'm a little resentful... I wonder if my reason will hold out.
 CHOICE:『このまま気持ちよさを味わう』="Let's just enjoy the feeling.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『必死に我慢する』=『Быть терпеливее』

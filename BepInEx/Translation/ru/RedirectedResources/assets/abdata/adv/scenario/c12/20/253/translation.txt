@@ -1,4 +1,4 @@
-「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=Wow, it's getting crowded. Are you okay?　We can still come this way.
+﻿「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=Wow, it's getting crowded. Are you okay?　We can still come this way.
 「ありがとう。少しだけ寄らせてもらうね……って、うわっ！？」=Thank you. I'll stop by in a bit...?
 「あっはは……押されちゃったか？　仕方ないな、少しの間はこのままでいよう」=Did you get pushed to ...?　Oh, well, I guess I'll just stay here for a while.
 「ぅ、うん、そうしてくれると助かる……」=Oh, yeah, that'd be great...
@@ -11,5 +11,5 @@
 （いやいや、ダメだダメだ、こんな所で勃起させちゃ！　[H名]に幻滅されちゃうぞ！）=No, no, no, no, no, no, no, no, no, no.　(No, no, no, no, you can't have a boner here, you'll disillusion [H名]!
 （そしたら、折角のデートが台無しだ！　ここはひたすらに我慢……）=I'm not going to let that happen.　I'll just have to be patient here...)
 （……しかし、いつまで我慢すれば……？　うぅ……最後まで堪えられるか不安だ）=(...But how much longer can I hold out ...?　(...But how long can I hold out ...? I'm not sure I can hold out until the end.
-CHOICE:『欲望に少し抵抗する』="A little resistance to desire
-CHOICE:『鉄の自制心を持って抵抗する』="Resist with iron self-control.
+CHOICE:『欲望に少し抵抗する』="Resist your desires a little."
+CHOICE:『鉄の自制心を持って抵抗する』="Resist with your self-control of steel."

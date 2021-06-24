@@ -1,11 +1,11 @@
-「遊園地、到着！　[H名]、何か行きたいところとか、乗りたいアトラクションある？」=Amusement park, here we come!　[H名], is there any place you want to go or attraction you want to ride?
+﻿「遊園地、到着！　[H名]、何か行きたいところとか、乗りたいアトラクションある？」=Amusement park, here we come!　[H名], is there any place you want to go or attraction you want to ride?
 「あの、実は私、この遊園地について下調べをしておりまして」=Actually, I've been doing some preliminary research on this park.
 「え、下調べ！？」=What, preliminary research?
 「はい、混んでいた観覧車以外はほぼ全て体験いたしました。貴方とお付き合いさせていただくまで、このような場所にあまり縁がなかったので、失礼のないようにと」=Yes, I've been to almost all of them except for the Ferris wheel, which was crowded. I didn't have much experience with this kind of place before I started going out with you, so I didn't want to be rude.
 「そんなの気にしなくていいのに……ん？　それってつまり、友達と一緒に来たってこと？」=You don't have to worry about that...?　Does that mean you're here with your friends?
 「いえ、時には同じ場所を何度も回ることになると思ったので、一人で済ませました。お陰様でこの遊園地の楽しみ方などは大体理解できているかと存じます」=No. I knew that sometimes I would have to go to the same places over and over again, so I just did it alone. Thanks to you, I think I have a pretty good understanding of how to enjoy this amusement park.
 「も、もったいない！」=What a waste!
-「え……？」=What ...?
+「え……？」=「Ее……？」
 「いや、もったいないよ。慣れない遊園地で戸惑う[H名]、見たかったなぁ。俺が手取り足取り教えてあげたかった……」=No, it's a waste. No, it's a waste. I would have liked to see [H名] confused in an amusement park that he was not used to. I wish I could have taught you how to do it...
 「そ、それは……失礼いたしました。そのような私は煩わしいかと……」=I'm sorry about that ... I thought I was annoying like that...
 「そんなことないよ、初々しくて可愛いじゃないか。次から、初めてのプレイスポットに行くときは俺と一緒についてきてもらうからね」=The next time you're at your first playground, you're going to want to take it easy. Next time you go to a playground for the first time, you'll have to come with me.

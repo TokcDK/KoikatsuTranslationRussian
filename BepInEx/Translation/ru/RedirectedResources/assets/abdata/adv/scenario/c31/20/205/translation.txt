@@ -1,4 +1,4 @@
-「はぁ、溜息が出る程綺麗というのは、こういう事を言うのだろうな」="I guess that's what they call a sigh of relief.
+﻿「はぁ、溜息が出る程綺麗というのは、こういう事を言うのだろうな」="I guess that's what they call a sigh of relief.
 「よかった。気に入ってもらえたみたいで一安心だよ」=Good. I'm relieved that you liked it.
 「流石にこの夜景を気に入らないという奴はいないんじゃないか？　もしいたら、ひねくれ過ぎだ」=I'm glad you like it.　If they did, they'd be too cynical.
 「はは、そこまで言って貰えると。色々調べた甲斐があったかな」=I'm glad to hear you say that. I guess it was worth all the research.
@@ -42,7 +42,7 @@
 「別に何をすると決めなくてもいいさ。一緒に居るだけで幸せ、それが恋人同士なんだろう？」=We don't have to decide what we're going to do. We don't have to decide what to do, we just have to be happy together.
 「そうだった……じゃあ、ゆっくり夜景を見てようか」=Oh, yeah... Let's take some time to look at the night view, shall we?
 「うん、それがいいな。最高に贅沢な時間の使い方だ」=Yes, I would like that. That's the most luxurious way to spend your time.
-………………=...
+………………=.........
 「……夜景、綺麗だね」=... The night view is beautiful.
 「あぁ……綺麗だ……」=Oh... it's beautiful...
 「また……来ようね？」=We'll come back to ...?

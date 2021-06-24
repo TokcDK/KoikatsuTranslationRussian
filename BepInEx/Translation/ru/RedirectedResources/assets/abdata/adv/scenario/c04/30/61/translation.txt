@@ -1,4 +1,4 @@
-「さて、今回はどんなデートプランを立ててくれたのかしら？　ふふっ」=Now, what kind of date plan did you have for me this time?　What did you plan this time?
+﻿「さて、今回はどんなデートプランを立ててくれたのかしら？　ふふっ」=Now, what kind of date plan did you have for me this time?　What did you plan this time?
 「そ、そんなにハードル上げないでよ……ただでさえまだ緊張するんだから」=Don't set the bar so high... I'm still nervous.
 「ふふっ……じゃあ、今日もエスコートお願いね？」=... So, will you escort me again today?
 「何か行きたい所はある？　デートプランがなくもないけど[H]の意見をまだ聞いてないから……」=Is there anywhere you want to go?　I don't have a date plan, but I haven't asked [H]'s opinion yet...
@@ -8,8 +8,8 @@
 「ええ。とても面白そう……早速行きましょうか」=Yes. It sounds very interesting... Let's get going.
 「あなたの色んな表情が見れて楽しかったわ、それじゃ……」=It's been fun to see all your different expressions, so ...
 CHOICE:「……今日はずっと一緒にいたいな」="... I want to spend the rest of the day with you.
-CHOICE:「うん、またね……」="Yeah, I'll see you at ...
+CHOICE:「うん、またね……」="Yeah, see you..."
 「……今日はずっと一緒にいたいな」=... I want to spend the rest of the day with you.
 「……もう、甘えん坊さん。……でも、私も同じ気持ちよ。……お家、お邪魔してもいい？」=... You're such a spoiled brat... But I feel the same way. Can I come over to your house...?
-「うん、またね……」=Yeah, see you at ...
+「うん、またね……」="Yeah, see you..."
 「ええ、おやすみなさい……よい夢を」=Yeah, good night... Have a good dream.

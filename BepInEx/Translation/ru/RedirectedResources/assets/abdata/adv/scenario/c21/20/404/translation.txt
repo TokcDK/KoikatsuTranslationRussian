@@ -1,4 +1,4 @@
-「おぉ、おいしそう！」=Oh, that looks good!
+﻿「おぉ、おいしそう！」=Oh, that looks good!
 「だよねー♪　これ、雑誌で特集されてたスイーツなんだよ。前から食べたかったんだ～、いっただっきまーす、ぱくっ♪　……んん～、ほっぺたが落ちる～♡」=This is a sweet that was featured in a magazine. This is a sweet featured in a magazine. I've been wanting to try it for a long time... Mmm~ my cheeks are falling down~♡
 （美味しそうに食べるなぁ、こっちまでヨダレが出てくるよ）=I've been wanting to try it for a while.
 「俺のケーキはどうかな、いただきます。ぱく……おおっ、こっちも美味しい！」=How about my cake, let's eat it. "How about my cake, let's eat it... Ooh, this one's good too!
@@ -11,7 +11,7 @@
 「モテないって……キミ、コイカツ部の部長でしょ」=You're not popular... You're the head of the Koikatsu club.
 「甘いよ[H名]。コイカツ部の部長という肩書きがハーレム状態を作ってるだけで、俺自身は平々凡々な存在なんだよ。そんな俺にお慈悲を与えてほしいんだよ！」=It's sweet, [H名]. I'm not sure what to do with it, but I'm sure it'll be fine. I want you to have mercy on me like that!
 「えっと、よくわからないけど、私も学園の平凡代表だから何かわかるかも♪　お似合い同士、食べさせあげるね♪」=I don't know, but I'm also the representative of mediocrity at the school, so I might know something.
-「はい、あーん」=Yes, yes.
+「はい、あーん」=Here. Aaahn.
 （おぉ、思いもよらないところで共感を得て、あーんが解禁されたぞ）=I don't know, but I'm also a representative of the school's mediocrity.
 「あーん……ぱくっ」=Ahhh...
 「どう？　美味しいでしょ、私のいちごパフェ」=How is it?　Isn't it delicious, my strawberry parfait?

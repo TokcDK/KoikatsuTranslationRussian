@@ -1,4 +1,4 @@
-「混んできましたね」=It's getting crowded.
+﻿「混んできましたね」=It's getting crowded.
 「大丈夫？　もっとこっちに来ていいよ」=Are you okay?　You can come closer.
 「おわっ……」=Oh...
 （わ……こんな体勢になったら……性欲が抑えられなくなる……！？）=(Wow ... if I get into this position, I'm going to ... lose control of my sex drive...?
@@ -13,4 +13,4 @@
 （[H名]の信頼を裏切らないためにも、ここは絶対我慢しないと！）=(I have to be absolutely patient here so as not to betray [H名]'s trust!
 （と、とりあえず別のこと考えて気を紛らわせておこう……）=(And for now, I'll just think of something else to distract myself: ...)
 CHOICE:『欲望に流される』="Driven by Desire
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『必死に我慢する』=『Быть терпеливее』

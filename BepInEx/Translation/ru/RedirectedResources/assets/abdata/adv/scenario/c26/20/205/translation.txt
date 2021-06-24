@@ -1,4 +1,4 @@
-「どんどん人が小さくなっていくな～」=The crowd is getting smaller and smaller.
+﻿「どんどん人が小さくなっていくな～」=The crowd is getting smaller and smaller.
 「お、あそこ最初に行ったアトラクションが見えるよ！」=Oh, I can see the first attraction over there!
 「……そう、だね」=... Yeah, I see it.
 （ん～、もっといい感じのムードになるかなって思ったけど、盛り上がりがイマイチだな）=Hmm, I thought the mood would be better, but it's not that exciting.
@@ -10,7 +10,7 @@
 「……本当に綺麗。早く一番上に、ついてほしい」=It's ... really beautiful. I can't wait to get to the top.
 （このままだと、外を眺めてるだけで一周するんじゃないか……？　それは、嫌だな）=(If we keep going like this, we're going to go around just looking out ...?　I don't like that.
 「……[H名]、ちょっと話があるんだ」=...[H名], I need to talk to you.
-「……どうしたの？」=... What's wrong?
+「……どうしたの？」=「……Что-то не так?」
 「その……今この瞬間は俺だけを見てほしいんだ。せっかく二人だけなんだし」=That ... I want you to look only at me at this moment. It's just the two of us.
 「……私、あなた以外の男性、見てた？」=Have I been looking at any other men besides you at ...?
 「あー、いや、そういう意味じゃなくて。外だけじゃなくて、もっと俺の方を見ててくれないかな」=Oh, no, that's not what I meant. I want you to look at me more than just out there.
@@ -35,7 +35,7 @@
 「……ねぇ……どうしたの？」=... Hey ... what's up?
 「あ、いや――」=Oh, no--
 ガタガタ=Rumble.
-「きゃっ……」=Yikes...
+「きゃっ……」=Aah...!
 「うわっ、！？　風か！」=Whoa!　Wind!
 「ふぅ……びっくりしたな。[H名]、大丈夫か？」=Huh... you scared me. [H名], are you okay?
 「……うん。大丈夫。怖かったけど、あなたが傍にいてくれた、から……あ……ありがとう」=... Yeah. I'm fine. I was scared, but you were there for me... Oh... thank you.
@@ -44,7 +44,7 @@
 「え？　あ……」=What?　Oh...
 （[H名]が目を閉じて……）=([H名] closes her eyes and says, "...")
 「……[H名]」=...[H名]
-「んっ……ん……」=Mmm... mmm...
+「んっ……ん……」=「М-а…… М……」
 「んん……どうだった？　ロマンチック……じゃないね」=Mmm... How was it?　Not very romantic ...
 「ううん……ちょっとだけ、ちょっとだけロマンチックだった」=No, it was ... a little bit, just a little bit romantic.
 「あはは、ちょっとだけ……か」=Ha-ha-ha. A little ...

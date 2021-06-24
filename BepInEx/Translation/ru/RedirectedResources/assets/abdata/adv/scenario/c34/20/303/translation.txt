@@ -1,4 +1,4 @@
-プルルル……=Purululu...
+﻿プルルル……=Па-па-ра па……
 「Ｏｈ，電話鳴ってるネ！　モシモーシ……ハイ……店員さん、アト１０分デ終わりダッテ」=Oh, the phone's ringing!　Oh, the phone's ringing! ... Hi ... clerk, I'll be back in 10 minutes.
 「[H名]さえよかったら、延長したいなーって」=I'd like to extend it, if you don't mind.
 「Ｗｏｗ♪　ワタシも同じ気持ちダヨ♡　モシモーシ！　延長お願いシマース♪」=Wow. I feel the same way.　I'd like an extension.
@@ -12,5 +12,5 @@
 「Ｎｉｃｅ　ｉｄｅａダヨー！　それじゃあ、この歌にするネ！」=Nice idea!　Then we'll sing this song!
 『小さな手の平 掴める物は きっと 限られているけど～♪　胸の中 溢れ出す言葉にも 希望乗せて そっと 海にこぎ出す～んだ～♪』=The things I can hold in my small palm are probably limited, but I'll carry hope in the words that overflow in my chest and gently sail out to sea...
 （二人で歌うのもいいもんだなぁ……）=(It's nice to sing together...)
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
 CHOICE:『キリがいいし、そろそろ出ようか』=It's time to get out of here.

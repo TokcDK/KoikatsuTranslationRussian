@@ -1,4 +1,4 @@
-「わわっ、電車の中、結構混んできたですっ！」=Wow, it's getting pretty crowded on the train!
+﻿「わわっ、電車の中、結構混んできたですっ！」=Wow, it's getting pretty crowded on the train!
 「止まる度に人が増えてるっ……[H名]、大丈夫？」=Every time it stops, there are more people...[H名], are you okay?
 「は、はいっ……私は大丈夫ですけどっ……あなたが……」=Yes, yes... I'm fine, but ... you ...
 （うぅ……[H名]の身体、当たってる……いい匂いもして……）=(Ugh ...[H名]'s body is hitting me ... and it smells so good ...)
@@ -10,5 +10,5 @@
 「えへへ……だったら……責任取って私がしてあげるです……私の身体で大きくしてくれたこと、嬉しいですよ」=I'm glad you didn't find out ... that I'm responsible for making you ... bigger with my body.
 （っ……さすがにここで勃起させるのは、マズイ……！）=(... indeed, it's not a good idea to get an erection here ...!
 （今日のデートと、[H名]のために……絶対我慢しなきゃ）=(For today's date and for [H名]'s sake, I have to hold back ...
-CHOICE:『我慢できない』="I can't stand it.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『我慢できない』=『Не терпеть』 (секс)
+CHOICE:『必死に我慢する』=『Быть терпеливее』

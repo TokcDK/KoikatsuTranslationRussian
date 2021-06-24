@@ -1,4 +1,4 @@
-「うぅ、なんか、ちょっと緊張するな～」=Ugh, I'm a little nervous.
+﻿「うぅ、なんか、ちょっと緊張するな～」=Ugh, I'm a little nervous.
 「なんで？　[H名]って、よくカラオケに来てそうなイメージあるけど」=Why?　You seem like the kind of guy who hangs out at karaoke bars a lot.
 「うん……友達とはよく行くけど……」=Yeah, I go to ... a lot with my friends, but ...
 「男の子と二人っきりは、その……初めて、だから……」=It's my first time alone with a boy, so I'm ...
@@ -14,5 +14,5 @@
 「じゃあ、この曲知ってる？」=So, do you know this song?
 「知ってる、知ってる！　よーし、さっそく入れちゃおう！」=I know it! I know it!　All right, let's do it!
 「おー！」=Oh!
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 （[H名]、楽しそうに歌うな～。俺も負けてられないぞっ！）=You look like you're having fun singing. I can't lose too!

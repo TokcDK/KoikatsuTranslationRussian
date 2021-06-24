@@ -1,4 +1,4 @@
-「すっごく美味しそう～……ふふ、お腹がなっちゃいそうだわ」=It looks so good... I think I'm going to get sick to my stomach.
+﻿「すっごく美味しそう～……ふふ、お腹がなっちゃいそうだわ」=It looks so good... I think I'm going to get sick to my stomach.
 「ん～、いい匂いだねー」=Mmm, it smells so good.
 「あらあら、よだれが出てるわよ……ほら、そこ……口の横」=Oh, my God, you're drooling... Look, right there ... next to your mouth.
 「あはは、我慢できなくなっちゃった。じゃ、さっそくいただきま──」=I can't take it anymore. I can't take it anymore. Let's eat it.
@@ -25,7 +25,7 @@
 「うん、美味しそうだね」=Yes, it looks delicious.
 「んー、この大人っぽいほろ苦さ……最高ね。あ、よかったら一口食べてみる？」=Mmm, this mature bittersweet ... is great. Would you like to try a bite?
 「はい、あ～ん……」=Yes, yes...
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「もぐもぐ……んー、ほろ苦い……」=Mmm... Mmm, bitter...
 「どう？　大人っぽい味でしょう？」=How's that?　Doesn't it taste mature?
 「うん！　美味しいよ」=Yes!　It's delicious.

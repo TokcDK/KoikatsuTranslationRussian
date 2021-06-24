@@ -1,4 +1,4 @@
-「……ふぅ」=... Hmm.
+﻿「……ふぅ」=「……Эх」
 「どうかした？」=What's wrong?
 「ん、いや……眼下に広がる夜景を見てふとな、まるで、光の海を飛んでいるようだと思ったのだ」=Hmm, I was looking at the ... night scene below me, and I suddenly felt as if I were flying through a sea of light.
 「相変わらず不思議な表現をするね」=That's still a strange expression.
@@ -7,7 +7,7 @@
 「ん？　どういうことだ？」=What do you mean?　What do you mean?
 「むしろ、[H名]のそういうロマンティックな言い方が、たまにしっくりくる時があってさ。すごいなって……」=It's just that your romantic way of saying things sometimes feels right to me. It's amazing...
 「……汝は、笑わないんだな」=... Thou shalt not laugh.
-「え？」=What?
+「え？」=... Что ты такое говоришь?
 「……たまにな、その……我の言うことをバカにする者がいるのだ」=... Sometimes, there are people who make fun of what ... I say.
 「しかも、その者たちは、我に聞こえるようで聞こえないぐらいの小声で話すから文句も言えない」=And they talk so quietly that I can't hear them, so I can't complain.
 「別に我が何を好きだって……その者たちに迷惑かけてないし……私の自由にさせてくれって思うの」=I don't care what I like, I'm not ... bothering them and I think they should ... let me be free.

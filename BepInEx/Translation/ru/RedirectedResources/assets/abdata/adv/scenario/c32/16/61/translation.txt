@@ -1,4 +1,4 @@
-「あのさ。今日は手を繋ぎながらデートしない？」=You know what? Would you like to go on a hand-holding date with me today?
+﻿「あのさ。今日は手を繋ぎながらデートしない？」=You know what? Would you like to go on a hand-holding date with me today?
 「手を……ですか。あなたがそうしたいのでしたら……」=Hand in hand ...? If that's what you want...
 「あの……少し待って頂いてもよろしいですか」=Um... could you wait a minute?
 「あ、ごめん。歩くの速かった？」=Oh, I'm sorry. Was I walking too fast?
@@ -8,7 +8,7 @@
 「だいぶドキドキもしましたが、今日はずっと幸せな気持ちで過ごせました。この手のおかげですね」=I was very nervous, but I was happy the whole time today. It's thanks to this hand.
 「もう少し君と一緒にいたいな」=I want to be with you a little longer.
 「……仰せのままに。私も同じ気持ちですから……」=I want to be with you a little longer... Do as you wish. I feel the same way...
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「では、手を離しますね……。それでは、お気をつけて」=I'm going to let go of your hand... Have a safe trip.
-CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「もう少し一緒にいたいな」=I want to be together for just a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”

@@ -1,4 +1,4 @@
-「わぁ、すっごく綺麗……」=Wow, you're so beautiful...
+﻿「わぁ、すっごく綺麗……」=Wow, you're so beautiful...
 「よかった。喜んでくれたみたいだね」=Good. I'm glad you liked it.
 「もちろんよ。公園にこんな所があったなんて」=Of course. I didn't know there was such a place in the park.
 「カップルに評判だったから、[H名]と一緒に見に来たかったんだ」=I wanted to come see it with [H名] because it's so popular with couples.
@@ -16,11 +16,11 @@
 「[H名]……」=[H名]...
 「だけど……あんまりひと気が無いのもちょっと怖いかな……」=But I'm a little afraid of ... being so empty.
 「大丈夫だよ。俺が君をちゃんと守るから」=Don't worry. I'll protect you.
-「……うん」=... Yeah.
+「……うん」="...Sure."
 「[H名]……好きだよ」=[H名]... I love you.
 「わ、私も……好き」=I like ... too.
-「ん……」=It's ...
-「んっ……んんっ……」=I'm sure you're aware of that.
+「ん……」=Mm...
+「んっ……んんっ……」=「М-а…… М-н-а……」
 「……なんか我慢できなくなってきた」=... is starting to get unbearable.
 「え？　な、なにが？」=What?　What?
 「ごめんね、どんどん、気持ちが抑えられなくなってきちゃって……」=I'm sorry, but I'm starting to lose control of my feelings...
@@ -29,7 +29,7 @@
 「どうしたのよ？」=What's going on?
 「その……いいかな？　君が、欲しいんだけど」=What's up with the ...?　I'd like to have you.
 「それって……エッチな意味で言ってる？」=Is that what you mean when you say ... sexually?
-「うん」=Yes.
+「うん」=「Да」
 「こんな所でしちゃうの？」=You're gonna do that in here?
 「いやここでは……そうだな……あっちの方なら大丈夫だと思うよ」=No, not here... Well... I'm sure you'll be fine over there.
 「……いい、かな？」=Is that ... okay?
@@ -43,6 +43,6 @@
 「そんな風に言われたら……」=If you say it like that, it's ...
 「いいかな……？」=Would you ... like that?
 「……あんたがそう望むんなら……」=... if that's what you want...
-「ありがとう」=Thank you.
+「ありがとう」=「Спасибо」
 「あ、でも！　……優しくしてよね」=Oh, but!　... be nice to me, okay?
-「うん、もちろんだよ」=Yeah, I will.
+「うん、もちろんだよ」=「Да, конечно」 

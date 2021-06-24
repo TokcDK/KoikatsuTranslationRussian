@@ -1,4 +1,4 @@
-「いえーい！　[H名]サイコー！」=Yeah!　[H名] Great!
+﻿「いえーい！　[H名]サイコー！」=Yeah!　[H名] Great!
 「おまえ……妙に場慣れしているな。合いの手とかもバッチリ入れてくるし、まぁ悪い気はしないが……」=You ... look strangely familiar with the scene. You're strangely familiar with the ... scene, and you've got some great moves...
 「[H名]が歌った曲で知らないのは、後で原曲を聞くようにしてるからね。研究はバッチリだよ！」=If I don't know a song that [H名] sang, I try to listen to the original later. I've done a lot of research!
 「そこまでしていたのか……なんというか、嬉しいような、やり過ぎなような、複雑な気分だ」=I'm not sure if I'm happy or if I'm overdoing it, but I have mixed feelings.
@@ -15,6 +15,6 @@
 「なっ、おまえっ！　勝手に私の曲を入れるなっ！　あぁもう、今回だけだからなっ！」=Hey, you!　Don't take the liberty of including my song!　This is the only time!
 「よっしゃー！　[H名]バンザーイ！」=Yes!　[H名] Banzai!
 「このお調子者め、後で覚えていろよ……ンッ、ンンッ」=Remember me later, you smartass... Nnngh, nnngh.
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 「ヒュー！　やっぱいいねー！　[H名]サイコー！」=Whoo!　I love it!　[H名] awesome!
 「そこで同意を求められても私は困るからな？　それに……キャピキャピとはなんだ、キャピキャピとは……」=I'm not sure if you're asking me to agree with you there.　And what is ... capy-capy, capy-capy is ...

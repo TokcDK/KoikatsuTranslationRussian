@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=“Oh, there's a lot isn't there?”
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「種類も豊富ね……。あ、あのキーホルダーのお店見にいきましょう」=“There's a lot of different kinds. Ah, let's go to that keychain store over there.”
-「うん、いいよ」=“Sounds like a good idea.”
+「うん、いいよ」=「Да, хорошо」
 「その……買ってくれて、ありがとう……」=“Um...Thanks for buying it for me.”
-（よかった、喜んでもらえたみたいだ）=（Thank goodness. Seems like she liked it.）
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

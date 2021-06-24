@@ -1,4 +1,4 @@
-「……ここまで、戻って来ちゃったネ」=... I've come so far back.
+﻿「……ここまで、戻って来ちゃったネ」=... I've come so far back.
 「エット……今日ハ、ｓｐｅｃｉａｌな時間をイッパイｐｒｅｓｅｎｔしてクレテ、Ｔｈａｎｋｓダヨ♡」=Et ... thank you for giving me such a special time today.
 「どういたしまして。俺も楽しかったよ」=You're welcome. You're welcome. I had fun, too.
 （なんだか[H名]が名残惜しそうだな……もしかして、誘ったらまだ一緒にいてくれたりして……）=(It seems that [H名] is somewhat regretful... Maybe if I ask him out, he'll still stay with me...)
@@ -18,6 +18,6 @@
 「[H名]さえよければ、また行こうね」=As long as you're okay, we'll go again.
 「予定がナイ時ナラ、ズットアナタといたいぐらいダヨ……♡」=When I don't have plans, I just want to be with you for as long as possible...♡
 「駅マデ送ってクレテ、アリガト♡　またｓｃｈｏｏｌでオハヨーしようネ♡　Ｂｙｅ－ｂｙｅ♡」=Thank you for dropping me off at the station. I'll see you at school.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

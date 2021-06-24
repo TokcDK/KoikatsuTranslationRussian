@@ -1,7 +1,7 @@
-「あっ……名残惜しいですが、ここでお別れですね」=... I'm sorry to leave you here, but I'm afraid this is where we must part.
+﻿「あっ……名残惜しいですが、ここでお別れですね」=... I'm sorry to leave you here, but I'm afraid this is where we must part.
 「もしよかったら、俺の家に来ない？　もう少しだけ一緒にいたいんだ」=If you want, you can come to my house.　I'd like to spend a little more time with you.
 「あ……えっと……そ、そうですね。私も……本当はあなたと離れたくないと……思っていましたので」=Oh... well... yes, I do. I ... really didn't want to leave you either.
 「そうだね。また学園で会えるし、今日はこのへんで、かな。ばいばい」=You're right. I'll see you again at school, so I guess that's it for today. Bye bye.
 「はい。さようなら」=Okay. Goodbye.
-CHOICE:「もしよかったら、俺の家に来ない？」="If you want, you can come to my house.
-CHOICE:「そうだね。じゃあ、ばいばい」="Sure. Okay, bye.
+CHOICE:「もしよかったら、俺の家に来ない？」=[ If you like, wanna come to my place? ]
+CHOICE:「そうだね。じゃあ、ばいばい」=[ Suppose so. Then, bye-bye ]

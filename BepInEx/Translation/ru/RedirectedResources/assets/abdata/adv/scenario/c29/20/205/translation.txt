@@ -1,4 +1,4 @@
-「どんどん昇っていきますね。いつの間にか、地面があんなに遠くなっています」=It's going up and up. Before you know it, the ground is so far away.
+﻿「どんどん昇っていきますね。いつの間にか、地面があんなに遠くなっています」=It's going up and up. Before you know it, the ground is so far away.
 「動きがゆっくりな分、気付いたら結構上の方まで来てるんだよね」=It's moving so slowly that we find ourselves at the top.
 「ええ。小さい頃はその眺めにはしゃいでいましたけれど、今はなんだか落ち着きます」=Yes. When I was little I used to be excited by the view, but now I feel more relaxed.
 「わかるかも。見てる景色は同じはずなのに……これが大人になったってことなのかなぁ」=I understand. The view is the same, but ... I wonder if this is what it means to be an adult.
@@ -21,10 +21,10 @@
 「やった。じゃあカウントダウンね。３」=Okay. Let's count down to three.
 「……２」=Three...2
 「１……」=One ...
-「んっ……」=Mmm...
+「んっ……」=「М……」
 「……っはぁ」=... Huh.
 「ん、んんんっ……」=Mmm-hmm...
-「…………」=...
+「…………」=...............
 「…………に、二回するとは聞いていません」=You didn't tell me you were going to ... twice.
 「いや、一回離した時まだ頂上だったから、もうちょっとしてないと勿体無いと思って」=No, I was still at the top when I let go once, so I thought it would be a shame not to do it again.
 「なんですかその理屈は……」=What's your logic...?

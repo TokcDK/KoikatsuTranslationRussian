@@ -1,6 +1,6 @@
-なし=Нет
-線ハイライト=Line Highlight
+﻿なし=Нет
+線ハイライト=Выделение линии
 丸ハイライト=Circle Highlight
-雷ハイライト=Lightning Bolt Highlight
+雷ハイライト=Гром подсветка
 帯ハイライト=Band Highlight
 四角ハイライト=Square Highlight

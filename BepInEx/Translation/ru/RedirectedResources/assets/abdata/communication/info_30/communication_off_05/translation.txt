@@ -1,4 +1,4 @@
-「どうしたの？　早く出ていったら？」=What's the matter?　Why don't you get out of here?
+﻿「どうしたの？　早く出ていったら？」=What's the matter?　Why don't you get out of here?
 「きゃっ！　びっくりしたぁ。どうなっても知らないよ？」=「Кья-я! Я удивлена. Ты знаешь где находишься?」
 「見て分かるよね？　忙しいの」=You know what?　I'm busy.
 「なに？　用がないなら話しかけないで？」=「Что? Мы обязательно должны разговаривать?」
@@ -214,7 +214,7 @@
 「エッチって特別なものだと思う？」=Do you think sex is special?
 「うん！　心を解放いて、宇宙に繋がる方法だから」=Yes!　It's a way to free your mind and connect with the universe.
 「うーん。あなたたちにとったら、ただの行為かもね」=Hmmm. For you guys, it's just an act.
-「エッチな本とか読んだことある？」=Have you read any sex books?
+「エッチな本とか読んだことある？」=Have you read any porn magazines or the like?
 「そういう行為が載ってる本なら、よく読んでるけど？」=I read a lot of books with sex in them.
 「あなたが思ってるような本は、読んだことないかな」=I don't think I've ever read what you think I've read.
 「その、宇宙のかれらってどういう風にエッチするの？」=「Каково это, заниматься сексом в космосе?」
@@ -321,7 +321,7 @@
 「ねぇ、今日ってコイカツしないの？」=Hey, don't you want to do some coitus today?
 「じゃあ、さっそくしよ！　時間は限られてるから」=Well, let's get started!　We have a limited time.
 「しないの？　そっか、じゃあひとりでできることするかなぁ」=You don't?　Okay, I'll do something I can do by myself.
-「よかったら一緒に帰らない？」=Do you want to come home with me?
+「よかったら一緒に帰らない？」=“If you like, want to walk home together?”
 「いいよ、一緒に帰ろう」=Okay, I'll come home with you.
 「今日はここですることがあるの。また今度ね」=I have things to do here today. See you later.
 「ねぇ、今日は一緒に帰って？」=Hey, will you come home with me today?
@@ -335,7 +335,7 @@
 「あのね、デートしよ？」=Hey, do you want to go on a date?
 「よかった……ありがとう。……ふふっ、デート」=Great... Thanks... Hmm, date.
 「だめなの？　今度誘うときはおっけーしてくれると嬉しいな」=No?　Next time I ask you out, I'd appreciate it if you'd say yes.
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「いいよ。なにの勉強するの？　用意しなきゃ」=Okay. What are you going to study?　I have to get ready.
 「ごめん、そういう気分じゃないの」=I'm sorry, I'm not in the mood.
 「ねぇ、一緒に勉強してくれる？」=Hey, do you want to study with me?
@@ -405,7 +405,7 @@
 「俺のこと、すき？」=「Ты меня любишь?」
 「あたりまえだよ！　だから、わたしがあなたをここから連れ出してあげるの」=「Конечно! Поэтому, я собираюсь вытащить тебя отсюда」
 「そんな分かり切ったこと、言ってあげないよー」=I'm not going to tell you something so obvious.
-「結婚願望はある？」=Do you want to get married?
+「結婚願望はある？」=Do you have a desire for marriage?
 「あなたとだったら……いつでもいいんだよ……？」=I'd be happy to marry you ... anytime...?
 「するんだったらここなんかじゃなくて、みんなのところで結婚したい」=If I'm going to get married, I don't want to get married here. I want to get married at your place.
 「そういう話はもう聞き飽きましたー」=I'm tired of hearing about it.
@@ -443,7 +443,7 @@
 「これは？　お守り……かな？」=「Что это? Аму…… лет?」
 「うん！　かれらとわたしの力が込められてるの！　だから、大事にしてね」=「Да! В нем заложена моя сила! Так что береги его」
 「わたしがあなたを導いてあげる！」=「Я буду направлять тебя!」
-「ありがとう」=Thank you.
+「ありがとう」=「Спасибо」
 「お礼はいいの！　一緒にがんばろうね」=「Не благодари меня!　Мы сделаем это вместе」
 「この前夜にね、空を見てたら……」=The other night, I was looking at the sky and I saw ...
 「そうなんだ、それはすごい……」=Oh, yeah, that's great...
@@ -543,7 +543,7 @@
 「えへへ」「わーい！」「ふふ～ん♪」「ふふっ」=Heh, heh, heh, heh. "Mmm-hmm." "Mmm-hmm.
 「ちょ、ちょっと……」「だ、だめ……！」「恥ずかしいよぉ」「あっ……やめてっ」=Hey, hey..." "No, no...! I'm so embarrassed... Stop it!
 「ねぇねぇ！」「あのね！」「あっ、聞いて聞いて！」「ちょっと、いい？」=Hey, hey! Hey, hey! Listen, listen, listen! Can I talk to you for a second?
-「ねえ、[Hあだ名]」=Hey, [Hあだ名]
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ん？　ネームを忘れてないか確認したいの？　それじゃあ……[Pあだ名]」=Hmm?　You want to make sure I didn't forget your name?　Okay...[Pあだ名]
 「……何も言うことはないよ」=... I got nothing to say.
 「ねえ……[Pあだ名]」=Hey...[Pあだ名].
@@ -557,5 +557,5 @@
 「きゃっ！　えっと、すぐ出て行った方がいいよ？」=Ouch!　Well, you better get out of here.
 「会いにきてくれたの？　……今は誰もいないし、少し話しでもする？」=「Ты пришел ко мне?…… Хорошо что здесь никого нет, ты хотел поговорить?」
 「わたしは話したいけど……他の子がいるから、出て行ってね」=I'd love to, but there's another girl at ... so you'll have to leave.
-「入部してくれるの？　歓迎するよ！」=OPTION[17]:Are you going to join us?　You're welcome!
+「入部してくれるの？　歓迎するよ！」=“You'll join us? Welcome!”
 「えへへ、やったぁ」=Oh, yeah!

@@ -1,4 +1,4 @@
-「わぁ、おいしそう！　ねぇねぇ、食べてもいい？」=Wow, that looks good!　Hey, hey, can I have some?
+﻿「わぁ、おいしそう！　ねぇねぇ、食べてもいい？」=Wow, that looks good!　Hey, hey, can I have some?
 「……ふふ、お先にどうぞ。目が輝いてるね」=... After you. Your eyes are shining.
 「だって、見た目もすごく豪華じゃない。それに、イチゴはスイーツの定番だし」=It's so gorgeous. Besides, strawberries are one of the most popular sweets.
 「でも、どうしてパフェにしたの？　イチゴが使われてるメニューって他にもあったでしょ？」=But why did you choose the parfait?　Aren't there other things on the menu that use strawberries?
@@ -18,7 +18,7 @@
 「うるさいわね。そんなに言うならあんたも食べてみなさいよ」=Shut up. If you're going to be so picky, why don't you try it yourself?
 「それじゃあ、あーんして食べさせてくれる？」=Will you let me try some?
 「……仕方ないわね。はい、どうぞ」=... I don't blame you. Here you go.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「ん、確かに意外と甘くない……」=Hmm, it's definitely not as sweet as I thought...
 「でしょ？」=Right?
 （間接キスになったことには……全く気づいてなさそうだな）=(You don't seem to notice ... that it's an indirect kiss at all.

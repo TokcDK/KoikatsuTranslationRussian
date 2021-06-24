@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Hoh, there's quite the variety.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「あのお店、入ってもいいですか」=That shop over there, can we go take a look at it?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「楽しかったです」=I had fun.
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

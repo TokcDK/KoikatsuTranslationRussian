@@ -1,7 +1,7 @@
-「[H名]の青空アドベンチャーは何度聞いても癒されるなぁ……あ、飲み物なくなってるね。俺、取って来るよ」=I've been listening to [H名]'s Blue Sky Adventure for a while now, and it's always soothing... Oh, you're out of drinks. I'll go get it.
+﻿「[H名]の青空アドベンチャーは何度聞いても癒されるなぁ……あ、飲み物なくなってるね。俺、取って来るよ」=I've been listening to [H名]'s Blue Sky Adventure for a while now, and it's always soothing... Oh, you're out of drinks. I'll go get it.
 「歌い終わりましたし、私が取ってきましょうか？」=I'll get it." "I'm done singing.
 「大丈夫、俺に任せて。ちょっと休憩にしようよ」=Don't worry, I'll take care of it. Let's take a break.
-………………=...
+………………=.........
 「ただいまー……ん？」=I'm home...?
 （[H名]が食い入るように画面を見てるぞ……？）=I'm home... Hmm? - [H名] is staring at the screen like a maniac...?
 「なに見てるの？　……ってあれ、また身長の高いアイドルと低いアイドルがユニットを組んだんだ。多いね、最近」=What are you looking at?　(What are you looking at?) ... is another unit of tall and short idols. A lot of them lately.

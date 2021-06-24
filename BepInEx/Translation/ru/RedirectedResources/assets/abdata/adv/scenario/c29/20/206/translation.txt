@@ -1,4 +1,4 @@
-「んーっ。今日も目一杯遊んだなぁ。[H名]と一緒だと、時間が過ぎるのが早いよ」=Hmmm. I've had a lot of fun today. Time flies when you're with [H名].
+﻿「んーっ。今日も目一杯遊んだなぁ。[H名]と一緒だと、時間が過ぎるのが早いよ」=Hmmm. I've had a lot of fun today. Time flies when you're with [H名].
 「時計を気にする暇すらなかったですね」=I didn't even have time to pay attention to the clock.
 「あなたと言えば、次から次へと私の手を引っ張って……ふふっ」=Speaking of you, you're always pulling my hand one after the other...
 「え？　どうかした？」=What?　What's wrong?
@@ -7,7 +7,7 @@
 「決して悪い意味で言っているのではありませんよ？」=I don't mean that in a bad way, okay?
 「うん。それはわかってる。でも、どっちかって言うと、カッコいいとかの方がいいなぁって」=No. I know that. I know that, but I'd rather have a guy who's cool.
 「…………ええと、今隣りに座っているあなたは……か、カッコいいと思います」=... Well, you're sitting next to me right now, and I think you're ... cool.
-「えっ？」=What?
+「えっ？」=「Мм?」
 「シチュエーションのせいもあるのかもしれませんが、それを抜きにしても……」=Maybe it's the situation, but even without that...
 「今日一日、私をしっかりエスコートしてくださいましたし、可愛らしいのと同じくらい格好いい彼氏だと思っています」=You've escorted me well all day and I think you're as cool as you are cute.
 「[H名]……」=[H名]...

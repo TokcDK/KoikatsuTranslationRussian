@@ -1,4 +1,4 @@
-「いい天気だね。ほら、見て。空が真っ青だよ」=It's a beautiful day. Look at the sky. The sky is so blue.
+﻿「いい天気だね。ほら、見て。空が真っ青だよ」=It's a beautiful day. Look at the sky. The sky is so blue.
 「本当だ～。まさにお昼寝日和って感じだね～」=It's true. It's a perfect day for a nap.
 「お、お昼寝か……まぁ、とりあえずのんびりと散歩でもしようか？」=Oh, a nap... Well, let's just take a leisurely walk, shall we?
 「ん～、なんかそれって普通じゃない～？」=Hmmm, isn't that kind of normal?
@@ -9,7 +9,7 @@
 「あのさ、[H名]は辛いもの好き？」=Hey, do you like spicy food?
 「ん～？　好きだよ～。七味とか食べ物にバンバンかけちゃうからね～」=Hmm?　I like it! I put shichimi (seven spices) all over my food.
 「そっか。なら、ちょっと待ってて」=I see. Then wait a minute.
-………………=...
+………………=.........
 「はい、これ。激辛ホットドッグ。そこのお店で買って来たんだ」=Here you go. Here, this is a super spicy hot dog. I got it at the store there.
 「わぁ～、ありがとう。気が利くっすね。さっそく、いただきま～す」=Wow, thank you. That's very thoughtful. Let's eat it right away.
 「……う～ん、美味しい～。ほっぺが落ちちゃいそう～」=... "Mmm, it's delicious! My cheeks are going to fall off!

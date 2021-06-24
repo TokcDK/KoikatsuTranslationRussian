@@ -1,9 +1,9 @@
-「えへへ、これからどうしよっか？」=So, what do we do now?
+﻿「えへへ、これからどうしよっか？」=So, what do we do now?
 「そうだな……小腹も空いたし売店で何か買って食べるか」=Well... I'm hungry, so I'm going to get something to eat at the concession stand.
 「[H名]は何が欲しい？」=What do you want, [H名]?
 「何でもいいよぉ。[P名]君に任せる」=I don't care what. I'll leave it to you.
 「それじゃ、適当に選んで買ってくるよ」=All right, I'll just pick something up.
-………………=...
+………………=.........
 「おまたせ。けっこう空いてたからすぐ買えたよ」=Sorry for the delay. It was pretty empty, so I got it pretty quick.
 「ありがとう。何を買ってきてくれたの？」=Thank you. What did you get me?
 「フライドポテトにした」=I got French fries.

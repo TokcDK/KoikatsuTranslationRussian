@@ -1,4 +1,4 @@
-「やっぱこの夜景はいつ見ても綺麗だね～。乗って正解だった～」=This night view is always beautiful. It was the right decision to take this train.
+﻿「やっぱこの夜景はいつ見ても綺麗だね～。乗って正解だった～」=This night view is always beautiful. It was the right decision to take this train.
 「でも、こっちの窓から見える夜景のほうが綺麗だよ？」=But the night view from this window is even more beautiful.
 「え～、本当？　ん～、どれどれ～？」=Oh, really?　Hmm, which one?
 「ちょっと身体当たっちゃうけど、ごめんね～」=I'm sorry if I hit you a little.
@@ -12,8 +12,8 @@
 「すごく幸せ～……」=I'm so happy...
 「うん、幸せだ……」=Yeah, I'm happy...
 「……ねぇ、キスして？」=... Hey, can I have a kiss?
-「んっ……んんっ……」=I'm sure you're aware of that.
-「ん……」=It's ...
+「んっ……んんっ……」=「М-а…… М-н-а……」
+「ん……」=Mm...
 「……[H名]の唇って、すごくふんわりしてるから……キスをするたび好きになっちゃうよ」=...[H名]'s lips are so soft and fluffy that ...I fall in love with her every time I kiss her.
 「んふふ～、本当にそう思ってくれてるっすか～？」=Mmmm... Do you really think so?
 「本心から思ってるよ！」=I really mean it!

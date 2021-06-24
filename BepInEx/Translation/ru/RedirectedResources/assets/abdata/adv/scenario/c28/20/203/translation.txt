@@ -1,4 +1,4 @@
-「あー、楽しかったのじゃ！　遊園地を堪能したのう」=Oh, that was fun!　We had a great time at the amusement park.
+﻿「あー、楽しかったのじゃ！　遊園地を堪能したのう」=Oh, that was fun!　We had a great time at the amusement park.
 「ねえ、最後に観覧車に乗ってかない？」=Hey, do you want to go on the Ferris wheel one last time?
 「もう少ししたら、綺麗な夜景が見れると思うんだ」=I'm sure we'll have a beautiful night view in a few minutes.
 「おお、それはよい提案じゃな！　最後の締めに乗っていくとするか！」=Oh, that's a good idea!　Let's go for one last ride!
@@ -7,5 +7,5 @@
 「うん、また来よう。約束だ」=Yes, we'll come back. I promise.
 「最後に今日の思い出として、お互いに何かお土産を買うなんてどうじゃ？」=How about we buy each other a souvenir to remember the day?
 「いいね！　おみやげ屋さんに寄ってから帰ろう」=Sounds good!　Let's stop at a souvenir shop and then go home.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
 CHOICE:『もうそろそろ帰ろうか』="Let's go home soon.

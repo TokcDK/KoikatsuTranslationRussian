@@ -1,2 +1,2 @@
-CHOICE:「せっかくだから俺の家にこない？」="Since you're here, why don't you come over to my place?
-CHOICE:「寂しいほど……次、会うのが楽しみになるよ」="The more I miss you ... the more I look forward to seeing you next time.
+﻿CHOICE:「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
+CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”

@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「おお。あそこにアニメグッズの店が。入ってもいいかなぁ？」=Oh. There's an anime goods store over there. Do you mind if I go in?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「ふふ、ふ。吾輩は大満足である」=Mmm-hmm. I'm very happy.
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

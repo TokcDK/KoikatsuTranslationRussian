@@ -1,4 +1,4 @@
-「無事到着♪　今日は楽しかったね」=Arrived safely." "Had a good time today.
+﻿「無事到着♪　今日は楽しかったね」=Arrived safely." "Had a good time today.
 「うん、俺もだよ」=Yeah, me too.
 「えへへ、キミに夢中だったから、時間がす～ぐ過ぎちゃった。でも、これ以上はママが心配するし、今日はもう帰るね」=We arrived safely. I was so engrossed in you that the time passed very quickly, but my mom will worry about me if I go any further, so I'm going home now.
 「[H名]……ちょっと待って！」=[H名]... Wait a minute!
@@ -22,6 +22,6 @@
 「……はぁ……うう、やっぱり恥ずかしいね、大丈夫じゃなかった。えっと、えっと……じゃ、じゃあね！　また学園で！」=... Haha ... Ugh, I'm still embarrassed, it wasn't okay. Well, well, well ... see you later!　See you at school!
 「あ、うん、またね！」=I'll see you at school!
 （トマトみたいに真っ赤になって行っちゃった……[H名]のああいうところ、可愛いよな……）=(...[H名] turned red like a tomato and went away, that kind of thing is cute...)
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

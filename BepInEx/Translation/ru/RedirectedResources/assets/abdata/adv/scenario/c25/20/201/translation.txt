@@ -1,11 +1,11 @@
-「まずはどこへ行こうか？」=Where should we go first?
+﻿「まずはどこへ行こうか？」=Where should we go first?
 「う～ん、アトラクションがいっぱいあるから迷っちゃうな～」=Hmmm, there are so many attractions, I'm lost.
 「おっ、あそこにゲームセンターがあるよ。ゲームは好き？」=Oh, there's a game center over there. Do you like games?
 「好きだよ～。ゲーセンはたまに行くっす」=Yes, I do. I go to the arcade sometimes.
 「よし、じゃあ最初はクレーンゲームで遊んでみよう」=All right, let's try the crane game first.
 「でも、ただ遊ぶだけじゃつまらないから……どっちが先に、あのぬいぐるみを取れるか勝負してみない？」=But just playing is boring, so why don't we play ... and see who can get the stuffed animal first?
 「それ面白そう～。よ～し、負けないからね～」=That sounds fun! Okay, I'm not going to lose!
-………………=...
+………………=.........
 「……くっ！　結構、難しいなこれ……」=... Damn!　That's pretty hard...
 「おっ、キャッチした～。そうそう、そのまま穴へ……」=Oh, you caught it! Oh, yeah, go straight to the hole...
 「やった～！　ぬいぐるみゲットしたよ～」=I got it!　I got the stuffed animal!

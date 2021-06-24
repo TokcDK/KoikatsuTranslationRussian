@@ -1,4 +1,4 @@
-「あれ？　集合時間まだなのに……」=What?　It's not even time for the meeting yet...
+﻿「あれ？　集合時間まだなのに……」=What?　It's not even time for the meeting yet...
 「あはは、[H]こそ」=Ha-ha. You too.
 「えへへ、お互いにすご～く楽しみだったんだね。それじゃ、一秒も無駄にできないね♡」=I'm so glad you asked me out again. Then we won't waste a second of our time.
 「だね、じゃあ行こうか」=Okay, let's go.
@@ -8,9 +8,9 @@
 「あ、この服も[H]に似合いそう」=Oh, this dress looks good on you too.
 「えぇっ、こんな大胆なの……でも、キミが言うなら、着てみよっかな…えへへ」=Oh, it's so bold ... but if you say so, I'll try it on... hehehe.
 「ごめんね、荷物持ちさせちゃって。でも、キミのお陰で今日はすごく楽しかったよ」=I'm sorry for making you carry my luggage. I'm sorry I made you carry my luggage, but I had a lot of fun today thanks to you.
-「もう少し一緒にいたいな」=I want to spend more time with you.
+「もう少し一緒にいたいな」=I want to be together for just a bit longer.
 「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=Actually, I told my mom I'd be late today. I told my mom I'd be late today, so it's okay.
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「うん、またこんなデートしようね♪　それじゃ、また学園でね！　ばいばい♪」=Yeah, let's have another date like this... See you at school!　Bye!
-CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「もう少し一緒にいたいな」=I want to be together for just a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”

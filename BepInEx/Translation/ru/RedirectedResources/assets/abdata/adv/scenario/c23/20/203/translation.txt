@@ -1,4 +1,4 @@
-「もう夕方だね……この後はどうする？」=It's getting late... What do you want to do after this?
+﻿「もう夕方だね……この後はどうする？」=It's getting late... What do you want to do after this?
 「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=If we still have time, why don't we go on the Ferris wheel one last time?
 「遊園地デートで観覧車！　ゲームならイベントスチルが解放されますな」=Ferris wheel on an amusement park date!　If it's a game, it'll release the event stills.
 「もちろん、乗らせていただきますとも！」=Of course I'll go on it!
@@ -6,5 +6,5 @@
 「そうだね……最後に売店に寄ってもいいかい？」=Yes... Can we stop by the store at the end?
 「グッズを確認してみたいんだ。もしかしたらアニメのコラボ商品が出てるかも……」=I'd like to check out the merchandise. I'd like to check out the merchandise. Maybe they have some anime collaboration products...
 「いいよ。俺も興味あるし、行こうか」=No problem. I'm interested too. Let's go.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

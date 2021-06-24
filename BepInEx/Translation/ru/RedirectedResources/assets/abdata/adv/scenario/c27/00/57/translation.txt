@@ -1,6 +1,6 @@
-「君の好きなお店から回ろうか。まずはどこへ行きたい？」=Let's start with your favorite restaurant. Where do you want to go first?
+﻿「君の好きなお店から回ろうか。まずはどこへ行きたい？」=Let's start with your favorite restaurant. Where do you want to go first?
 「あう……あう……えっと……」=A ... a ... a ... uh ...
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「あんた……緊張しないの！？　これっ……初めてのデートなのに……！」=Aren't you ... nervous?　This is ... my first date and I'm ... nervous!
 「ちょっとは緊張してるよ。でも、気張らずにいこう」=I'm a little nervous. I'm a little nervous, but let's not get carried away.
 「う……うんっ……頑張る……」=...Yeah, I'll do my best ...

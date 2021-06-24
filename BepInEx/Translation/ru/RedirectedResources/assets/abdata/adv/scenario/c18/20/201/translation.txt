@@ -1,4 +1,4 @@
-「うーん、やっぱりデートといったら遊園地だ！」=Hmmm, a date at an amusement park is always a date at an amusement park.
+﻿「うーん、やっぱりデートといったら遊園地だ！」=Hmmm, a date at an amusement park is always a date at an amusement park.
 「確かに遊園地デートというと、定番かもしれませんが……」=It's true that an amusement park date is a classic...
 「あれ、もしかしてダメだった？」=Is that a bad idea?
 「いえ、むしろ憧れではあります……でも、遊園地のメインって絶叫系、って感じじゃないですか？」=No, I've always wanted to go to an amusement park... But aren't the main attractions at an amusement park the screaming kind?
@@ -8,7 +8,7 @@
 「なるほど……絶叫系は確かに考えだしたら負の連鎖に入っちゃうかもね……じゃあ、コーヒーカップとかどう？」=I see... Screamers can certainly put you in a negative cycle if you start thinking about it... Then how about a cup of coffee?
 「……確かに危険は低そうですね。はい、コーヒーカップに乗りましょう」=... It seems to be less dangerous. Yes, let's ride the coffee cup.
 「じゃあ、さっそく行こうか」=Okay, let's get started.
-………………=...
+………………=.........
 「どう？　大丈夫そう？」=What do you think?　Does it look okay?
 「ええ、これなら大丈夫そうです」=Yeah, I think I'm okay.
 「よかった。じゃあちょっと回転を足してみようかな？」=Good. Let's add a little more rotation, shall we?

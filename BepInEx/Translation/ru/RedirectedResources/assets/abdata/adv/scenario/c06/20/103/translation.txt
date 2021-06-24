@@ -1,4 +1,4 @@
-「綺麗な夕空でございますね……」=It's a beautiful evening...
+﻿「綺麗な夕空でございますね……」=It's a beautiful evening...
 「ああ、そうだね」=Yes, it is.
 （そろそろ駅に送らないと家族が心配するかな？　まだ一緒にいたいけど……どうしよう）=(Do you think my family will be worried if I don't take them to the station soon?　I'd still like to stay with you, but ... what should I do?
 「[H名]、時間が迫ってきてるのは分かってるんだけど、もう少し一緒にいてもいいかな」=[H名], I know it's getting late, but can I stay with you a little longer?
@@ -11,5 +11,5 @@
 「これぐらい当然だよ。それじゃ、行こうか」=It's the least I can do. Shall we go then?
 「はい。今日も素敵なお時間を過ごさせていただき、誠にありがとうございました」=Yes, sir. Thank you very much for the wonderful time you gave me today.
 「こちらこそ、楽しかったよ。それに、デートは駅につくまでだからね」=I had a great time too. Besides, our date is only until we get to the station.
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『そろそろ駅まで送るよ』="I'm going to take you to the station now.

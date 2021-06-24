@@ -1,9 +1,9 @@
-「今日はこの公園でまったりしようか」=Do you wanna relax at the park today?
+﻿「今日はこの公園でまったりしようか」=Do you wanna relax at the park today?
 「まったり……何をすればいいんでしょう？」=Relax... how do I do that?
 「んー、何かをするみたいな、そういうのじゃなくてもっと気楽に過ごせばいいと思うよ」=Well, you just have to take it easy, and not worry about doing anything.
 「ほら、あそこの人なんか散歩してるだけだし、ベンチでしゃべってるだけの人もいる、のんびりするのが公園デートだから」=We could go for a walk. Some people are just sitting and chatting. It's a beautiful day to relax.
 「そうなんですね……それなら……えっと……あそこのベンチに座りませんか？」=You're right... in that case... let's go sit over there.
-………………=......
+………………=.........
 「この時間、結構子供が多いんですね……」=There's a lot of kids running around at this time, huh...
 「そうだね。ははっ、元気だなー」=You're right. Haha, they're so energetic.
 「子供たちが、楽しそうに遊んでいるのを眺めるのも……いいものですね」=Watching them happily playing, it's nice.

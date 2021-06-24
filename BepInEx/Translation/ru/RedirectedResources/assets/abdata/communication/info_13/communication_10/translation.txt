@@ -1,4 +1,4 @@
-「はうっ！　……ここ、女子トイレ……であるぞ」=What?　... This is the women's restroom...
+﻿「はうっ！　……ここ、女子トイレ……であるぞ」=What?　... This is the women's restroom...
 「ふぁっ！　見、見ないで……」=Whoa!　Look, don't look...
 「ぶつぶつぶつ……」=Mumble, mumble ...
 「何か用……です……か？」=Can I help you ...?
@@ -146,7 +146,7 @@
 「他に約束なかったら今日一緒に帰らない？」=“If you don't have any plans, what about going home together?”
 「いいぞ！　同胞よ。共に帰路につこうではないか」=Yes!　Yes, my fellow countrymen. Let's go home together.
 「無念である。今日は魔王に呼ばれておるのだ」=I'm sorry. I have been summoned by the Witchking today.
-「よかったら一緒に勉強しない？」=Would you like to study with me?
+「よかったら一緒に勉強しない？」=Хочешь позаниматься со мной?
 「呪文の勉強なら……我が教えてやるぞ！」=If you want to learn a spell... will teach you!
 「すまぬ、同胞よ。今はダメなのだ……」=I'm sorry, compatriot. This is not a good time...
 「ちょっと、身体動かしたくない？」=Would you like some exercise?
@@ -322,7 +322,7 @@
 「コイカツしないのか？　一緒にやろうぞ……」=“Don't you want to do club activities? Let's do them together...”
 「ふむ……どんな活動をしようかのう？」=“Hmm... what kind of activities will we do?”
 「そ、そうか……まあ、そのような時もあるし仕方ないな！」=Oh, well... sometimes that's just the way it is!
-「一緒に帰らない？」=Do you want to come home with me?
+「一緒に帰らない？」=“Want to go home together?”
 「おっ……我も一緒に帰ろうと汝を探しておったのだ！」=Oh ... I was looking for thee to come home with me!
 「今日は、居残りなのだ……我を居残らすとは……屈辱である」=Today I have detention ... and it would be ... humiliating to make me stay.
 「汝、今日は我と共に帰れるのか？」=Can you come home with me today?
@@ -546,7 +546,7 @@
 「むふふ……我は楽しいぞ……」「楽しいぞ……楽しいぞ……」「た、楽しすぎるぞ！」「ふんふん……」「我は楽しくてハッピーなのだ……」=I'm having fun ... I'm having fun ... I'm having fun ... I'm having fun ... It's too much fun! "Mmmm ... I'm happy and having fun ...
 「は、恥ずかしいではないか……」「て、照れるぞ……」「こ、こらぁ…恥ずかしいのだ…」「こ、これは照れるのだ……」「ふぇぇっ！　は、ハレンチな！」=It's embarrassing ..." "It's embarrassing ..." "It's embarrassing ..." "It's embarrassing..." "It's embarrassing....." "Huh!　I'm so embarrassed.
 「なあなあ……汝……」「汝、ちょっといいか？」「我の話を聞いてくれ……」「そういえばのう……」「汝にひとつ聞いていいか？」=Hey... thou ... can I have a word with thee? Listen to me... can I ask you something...?
-「ねえ、[Hあだ名]」=Hey, [Hあだ名]
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ど、どうした……[Pあだ名]。こ、この呼称にはまだ慣れんな……！」=What's wrong with ...[Pあだ名]? What's the matter ...[Pあだ名], I'm not used to this ...!
 「……今はそんな気分ではない」=I'm not in the mood for ...
 「なあ……[Pあだ名]」=Hey...[Pあだ名].
@@ -560,5 +560,5 @@
 「ふぁ……は、入ってはダメだぞ！　早く出るのだ」=You can't come in here...!　Get out of here.
 「ひゃっ！　汝……禁忌を犯してはならんぞ。我は恥ずかしい……」=Aah!　Thou shalt not violate the ... taboo. I am ashamed of ...
 「汝！？　今は入ってはダメだ……入るなら、我しかいないときに……」=Thou!　You can't come in now... If you do, come in when I'm the only one there...
-「入部してくれるの？　歓迎するよ！」=OPTION[17]:Are you going to join us?　You're welcome!
+「入部してくれるの？　歓迎するよ！」=“You'll join us? Welcome!”
 「むふ、うれしいぞ」=Mmm, I'm glad.

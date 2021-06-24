@@ -1,4 +1,4 @@
-「うっわぁ……凄い混んでるね。皆考える事は同じかぁ……」="Uwaah... What a crowd. Everyone thought the same huh..."
+﻿「うっわぁ……凄い混んでるね。皆考える事は同じかぁ……」="Uwaah... What a crowd. Everyone thought the same huh..."
 「わかりきっていた事でしょう？　貴方、どれだけ楽観的なのかしら」="It was obvious, wasn't it? How how optimistic are you?"
 「ごもっとも……でも、[H名]さん……人混みとか苦手だよね？」="You're right... But Miss [H名]... You're bad with crowds, right?"
 「えぇ、嫌いよ。だからあんな長蛇の列には、間違っても並ぼうと思わないこと」="Yeah, I hate it. That's why I never thought we'd get into that line of people."
@@ -7,7 +7,7 @@
 「うーん、ホントに？　実はジェットコースターが怖かったり？」="Y-yeah. Is that true? Or it's that because roller coaster is scary?"
 「はぁ……いいわよ。そこまで言うなら乗ってあげるわ。ただし、並んでいる間の暇潰しは貴方でするから」="*Sigh* okay. If you say it that far, I'll ride it. However, you'll have to amuse me while we're standing in line."
 「えぇっ……周りの迷惑にならない範囲で、お願いします……」="Uh, as long as it doesn't inconvenience other people..."
-………………=........
+………………=.........
 「ねぇ……これ、全然列が進まないのだけど……」="Hey... This line isn't moving at all..."
 「そ、そうだねぇ……ジェットコースターはやっぱり一番人気があるから……」="Y-yeah... As expected, roller coaster is the most popular attraction..."
 「完全に選択を間違えたわ。貴方がくだらない挑発なんかするからよっ」="That choice was a mistake. It's your fault for being a good-for-nothing."
@@ -16,10 +16,10 @@
 「フフッ、これならしばらく楽しめそうね。ほら、あんまり騒ぐと周りの迷惑になるわよ？」="Fufu, looks like I can have some fun for a while. Hey, if you make racket, you'll trouble others."
 ギュッ、ムギュ、ギチッ！=*Pinch*, *Squeeze*, *Wring*
 「イッだっ！　言ってる事とやってる事が噛み合ってないって……あぁっ、やめてぇ～！」="Yeoww! You're not making it easier for me!"
-ガタンゴトン ガタンゴトン=*Clatter* *Rumble*
+ガタンゴトン ガタンゴトン="Звуки движения американских горок"
 「さて、いよいよね……心の準備はいい？」="Finally... Are you ready?"
 「そっくりそのまま返すよ。悲鳴を上げる[H名]さんの姿、楽しみにしてる」=I'm holding my head high. I can't wait to hear Miss [H名] shrieking."
-ガタッ=*Rattle*
+ガタッ=Ты-дынь
 「あっ、ほら、一番上まできたよ、ここから一気にっ……」="Ah, look, we're in the highest point. Now, at any moment..."
 「んっ……わかってるわよ。貴方、少しの間、目を瞑ってなさい」="Nn... I know! Hey, close your eyes for a moment."
 「はは、そんなに恥ずかしがらなくても。やっぱり怖いんで……って、ぐぉぉ！？　今度は目つぶしっ！？」="Haha, I'd do even if you weren't this embarrassed. You're scared after all... Guoh!?"

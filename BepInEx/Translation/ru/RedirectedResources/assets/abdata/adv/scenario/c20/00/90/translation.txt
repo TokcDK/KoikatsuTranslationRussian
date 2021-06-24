@@ -1,9 +1,9 @@
-「あ、あの！　ちょっと、お願いしたいことがあるんです」=Oh, no!　I have a favor to ask you.
-「どうしたの？」=What's wrong?
+﻿「あ、あの！　ちょっと、お願いしたいことがあるんです」=Oh, no!　I have a favor to ask you.
+「どうしたの？」=「Что-то случилось?」
 「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」=I've been thinking of a nickname for you... I've come up with a nickname for you, and I'd like to call you something.
 「本当？　うん、どんな愛称なのか聞いてみたいな」=Really?　Yeah, I'd like to hear what you call me.
 「えっと、あまり期待はしないでくださいね？　で、では失礼して……」=Well, don't get your hopes up too high, okay?　So, if you'll excuse me, I have to go to ...
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「おお、いいね。それじゃあ、俺も。……[Hあだ名]」=Oh, great. I'll go with you then...[Hあだ名]
 「はう……も、もしかして私の愛称ですか……？」=Is ... also a nickname for me...?
 「うん、実は俺も考えてたんだ」=Yeah, I was actually thinking about it.

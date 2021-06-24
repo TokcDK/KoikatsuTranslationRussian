@@ -1,22 +1,22 @@
-//00
+﻿//00
 私に声を掛けるなんて、見る目あるぅ=Coming after me? You've got a good eye.
 ここは女の子のヒミツの花園よ♡=This garden of delights is for ladies only♡
 そこは敏感なの……=That's sensitive...
 
 //01
-その……よろしくお願いしますね=Um...It's a pleasure to meet you.
+その……よろしくお願いしますね=Um... It's a pleasure to meet you.
 お疲れ様です=Good work today
-もしよろしければこの後……い、いえ、なんでもありません！　失礼します！="If you're not busy after this, why don't we, erm—\nN-nothing! It's nothing! Goodbye!"
+もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If you're not busy after this, why don't we, erm—\nN-nothing! It's nothing! Goodbye!
 
 //02
 いいこと？　決してわたくしを退屈をさせないようになさってね=But, just so we're clear! I will not tolerate dull conversation.
-当然ですわ。だってこのわたくしなんですもの="Of course I am. I couldn't be anything but!\nI'm simply glad you noticed."
+当然ですわ。だってこのわたくしなんですもの=Of course I am. I couldn't be anything but!\nI'm simply glad you noticed.
 わたくしに釣り合う男性など滅多におりませんわ=Few men are worthy of my attention.
 
 //03
 今日はいっぱい頑張るですよ！=Yes! Let's study lots and lots today!
 恥ずかしい……です……=Um... Stuff like that gets me all frazzled.
-は、ハレンチなのです……=Th-That's so...naughty!
+は、ハレンチなのです……=Th-That's so... naughty!
 
 //04
 ……なんとなく、あなたが来る気がしたの=How strange. Something told me I'd see you here.
@@ -25,12 +25,12 @@
 
 //05
 宇宙にはわたしの仲間――“かれら”がいるの=From my brothers and sisters in the stars.
-あなたと……交信したい……=I want to...exchange transmissions.
+あなたと……交信したい……=I want to... exchange transmissions.
 一緒にメッセージ、探そっか！=Let's go search for any messages they might have sent!
 
 //06
 初めまして。お噂はかねがね伺っております=Certainly. It is nice to meet you at last. I have heard the rumors.
-その…殿方と目を合わせるのは、慣れていないもので……=I...am not accustomed to meeting a man's gaze.
+その…殿方と目を合わせるのは、慣れていないもので……=I... am not accustomed to meeting a man's gaze.
 何故か、貴方のにおいがすると、胸がドキドキして=Something about the way you smell makes my heart beat with excitement...
 
 //07
@@ -51,7 +51,7 @@
 //10
 汝に興味が湧いた……=Thou hast piqued my interest.
 きたるべき神との大戦に備えねば！=Yes, we must hone our skills for the prophesized war against the accursed Gods of Light!
-ちょ、ちょっとその話は、我には過激すぎるぞ=Th-That topic is far too titillating for one such as I. I...don't mind, however.
+ちょ、ちょっとその話は、我には過激すぎるぞ=Th-That topic is far too titillating for one such as I. I... don't mind, however.
 
 //11
 おマセさんねぇ=What a curious young man!
@@ -61,7 +61,7 @@
 //12
 はいはいよろしく。てか、なんか固くない？　緊張してる？=Sure, right back at ya. You're looking pretty high-strung, though. Nervous?
 おーい、鼻の下伸びてるぞー=*ahem* Gawking much? Best cut that out if you're smart.
-男から見てあたしの体って……どう？=Y-You're a guy, right? Would you say I'm...sexy?
+男から見てあたしの体って……どう？=Y-You're a guy, right? Would you say I'm... sexy?
 
 //13
 キミとアタシでデート？　それすっごい楽しそうじゃん！=Omg, you and me on a DATE? That'd be totally lit!!
@@ -74,7 +74,7 @@
 その……この後とかお前予定あんのか……？=So, um... Got any plans after this?
 
 //15
-クンクン、クンクン。怪しいニオイが……=*sniff sniff* ...Hmm, you smell kinda fishy.
+クンクン、クンクン。怪しいニオイが……=*sniff sniff* ... Hmm, you smell kinda fishy.
 すっごく恥ずかしいのに、なんでかいつもより興奮したぞ=I was so turned on, even though it was risky.
 ヤラしーこと考えてるにおいだぞ=You're thinking about sex! I can smell it all over you!
 
@@ -101,7 +101,7 @@
 //20
 男の人と一緒に勉強したことがないので、緊張します……=I've never studied with a boy before... This is scary...
 きゃっ！？　あ、あなたでしたか……=Eeep! O-Oh, it was just you.
-あなたのためにも私……もっと女の魅力……磨きますからね……=I'll try to, um...sexy myself up more for you...
+あなたのためにも私……もっと女の魅力……磨きますからね……=I'll try to, um... sexy myself up more for you...
 
 //21
 あ、噂の男の子だ。はじめまして=Ah, the much-rumored boy on campus. Nice to meet you.
@@ -116,12 +116,12 @@
 //23
 ゲームやアニメの話もまだ話したいことあるんだ=There're so many games and anime we have to talk about.
 ネトゲはいいですぞー=Online games are amazing!
-変わった部活動は青春の醍醐味、アニメの定番……="A peculiar school club where students end up exploring the charms of youth.\nA classic trope."
+変わった部活動は青春の醍醐味、アニメの定番……=A peculiar school club where students end up exploring the charms of youth.\nA classic trope.
 
 //24
 あなたを見守っていたら、すぐに一日が過ぎてしまいました=The day passes by so quickly when I'm following you.
 ずっと夢に見ていました♡=I've always dreamed about this moment.♡
-もしかして、他の子とするんですか……？=Oh. Are you...going to do it with another girl instead?
+もしかして、他の子とするんですか……？=Oh. Are you... going to do it with another girl instead?
 
 //25
 ……ダルいんで無理っす=I'm too tired to deal with this.

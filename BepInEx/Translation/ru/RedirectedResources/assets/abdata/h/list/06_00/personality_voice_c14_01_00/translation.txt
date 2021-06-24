@@ -1,4 +1,4 @@
-……恥ずかしいだろ=... You must be pretty embarrassed.
+﻿……恥ずかしいだろ=... You must be pretty embarrassed.
 ……まだ、恥ずかしいな=...It's still embarrassing.
 よろしく……な=Nice to meet you...
 はやく……触ってくれっ……=Come on... Touch me...
@@ -96,7 +96,7 @@
 //お、お前！　あまり激しくするなっ=
 //激しすぎるのは、やめてくれっ=
 ……そこは違うだろ？=… That's the wrong hole, isn't it?
-お前っ！　そこはまだダメっ……！=You!　N-not in there...!
+お前っ！　そこはまだダメっ……！=You! N-not in there...!
 ……気持ちよくないぞ？=... That doesn't feel good, does it?
 //ひゃっ！　そ、それはダメっ！=
 //あぁん！　刺激ぃん！　強すぎるからやめろぉ！=

@@ -1,4 +1,4 @@
-「すっかりオレンジに染まって……あっという間の一日でしたね」=The day went by so fast with all the orange...
+﻿「すっかりオレンジに染まって……あっという間の一日でしたね」=The day went by so fast with all the orange...
 「そんな一日の締めくくりに、観覧車に乗っていかない？」=Why don't we end the day with a ride on the Ferris wheel?
 「いいですね。まだ乗っていませんでしたし」=I'd love to. I haven't been on it yet.
 「今から並ぶと、ちょうど夜景が綺麗に見える時に乗れそうですね」=If we line up now, we can get on the Ferris wheel just in time to see the beautiful night view.
@@ -6,4 +6,4 @@
 「そうしましょう。次に来る時は、別のアトラクションも楽しんでみたいですね」=Let's do that. I'd like to enjoy other attractions next time I come.
 （次も来る前提で話してくれるのって、なにげに嬉しいよね）=(It's always nice to hear people talk about their next visit, isn't it?
 CHOICE:『観覧車に乗ってかない？』="Why don't we go for a ride on the Ferris wheel?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

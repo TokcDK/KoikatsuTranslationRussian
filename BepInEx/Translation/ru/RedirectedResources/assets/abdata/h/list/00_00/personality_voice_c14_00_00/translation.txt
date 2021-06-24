@@ -1,4 +1,4 @@
-お前となら……いいぞ……=You and I... Okay, well...
+﻿お前となら……いいぞ……=You and I... Okay, well...
 や、優しくっ……頼む=And... Be nice to me, please.
 お前となら、いっぱい、したいなっ=With you... I going to have allot of fun with you.
 いっぱい、いっぱい、気持ちよくなろうなっ=So much. I' m full. Make me feel good.
@@ -119,7 +119,7 @@
 こう……でいいか？=Is this... okay?
 これでいいか？=Is this good?
 こうっ……かな？=I don't... How about this?
-こんな感じでいいか？=Is this how you want me to do it?
+こんな感じでいいか？=Is this okay?
 こう……かな？=Like...?
 は、はじめてだから、緊張するな……=It's my first time... Don't be nervous...
 私でいっぱい気持ちよくなって？=Are you getting all excited about me?

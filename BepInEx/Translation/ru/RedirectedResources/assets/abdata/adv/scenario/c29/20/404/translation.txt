@@ -1,4 +1,4 @@
-「[H名]が頼んだの、美味しそうだね」=What [name] ordered looks delicious.
+﻿「[H名]が頼んだの、美味しそうだね」=What [name] ordered looks delicious.
 「メニューを見てすぐに決めました。これしかないと思ったんです」=I looked at the menu and decided right away. It was the only thing I could think of.
 「では、いただきます……あむっ」=Let's eat...
 「……んっ……ふふふふっ」=I'll have some... Mmmm... Mmmm.
@@ -24,11 +24,11 @@
 「へぇ。甘すぎないお菓子ってわけなんだ。どんな味なんだろう」=Oh, really? So it's not too sweet. I wonder what it tastes like.
 「味見してみますか？」=Would you like to taste it?
 「いいの？ありがとう。じゃあ――」=Can I? Thank you. Then--
-「あーん」=Ahn.
+「あーん」=「А-ам」
 「……普通に食べるのではダメなのですか？」=... Can't we just eat it like normal?
 「できれば[H名]に食べさせてほしいなー」=I'd like [H名] to eat it if possible.
 「そ、そうですか…………わかりました」=Oh, I see... Okay.
-「あむっ……」=Mmm...
+「あむっ……」=*Bite*...
 「もぐもぐ……うん、美味しい！　甘味と苦味がベストマッチって感じだね」=Mogu ... Yeah, it's delicious!　The sweetness and bitterness are a perfect match.
 「それは良かったです。これで気に入ってもらえなかったら、あーん損になってしまいますから」=I'm glad to hear that. If you don't like it, it will be a loss.
 （あーん損って……可愛い言い方だな）=(Ahh, loss. That's a cute way of saying ...)

@@ -1,3 +1,3 @@
-『おはよう。お寝坊さんに付き合っていたら遅刻してしまうから、先に行くわね』=Good morning. Good morning. I'm going to go first because I'm going to be late if I keep up with you sleepyheads.
-『昨日はありがとう。とっても気持ち良かったわ。あ、思い出して一人でしたりしちゃダメよ？』=Thanks for yesterday. Thank you for last night, it felt really good. Oh, and don't remember to do it alone, okay?
-『着替えと朝食は準備しておいたから、シャワーを浴びて早く来る事。遅刻は厳禁よ　[H]』=I've prepared a change of clothes and breakfast for you, so take a shower and come early. Don't be late.
+﻿『おはよう。お寝坊さんに付き合っていたら遅刻してしまうから、先に行くわね』=『Доброе утро. Если бы я осталась с тобой, то могла бы опоздать, поэтому мне пришлось уйти первой』
+『昨日はありがとう。とっても気持ち良かったわ。あ、思い出して一人でしたりしちゃダメよ？』=『Спасибо за вчера. Мне было очень хорошо. Надеюсь, это был не последний раз, когда мы проводим время вот так?』
+『着替えと朝食は準備しておいたから、シャワーを浴びて早く来る事。遅刻は厳禁よ　[H]』=『Я переоделась, а потом приготовила тебе завтрак, поэтому прими душ и постарайся прийти пораньше. Не опаздывай "[H]"』

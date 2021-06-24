@@ -1,4 +1,4 @@
-「どこも長蛇の列だね。[H名]は行列とか並んでも大丈夫？」=There's a long queue everywhere. Are you okay with standing in lines?
+﻿「どこも長蛇の列だね。[H名]は行列とか並んでも大丈夫？」=There's a long queue everywhere. Are you okay with standing in lines?
 「好き好んで並びはしないけど、こういうとこに来たら多少は仕方ないって」=I don't like to stand in line, but when you're in a place like this, you have to.
 「よかった、混んでるから帰るとか言われたらどうしようかと思ったよ」=I'm glad. I was afraid you'd say you were leaving because it was so crowded.
 「あたしの事、そんな薄情なやつだと思ってたのか？　心外だなぁ……」=Did you think I was that heartless?　I'm sorry...
@@ -15,7 +15,7 @@
 「それ賛成。ゲームセンターは逆に家族連れが少ないからね。今遊ぶには丁度いいと思う」=I agree with you. I agree with you. On the contrary, there are not many families at the game center. I think it's a good time to play.
 「おっ、クレーンゲームがあるぞ。どっちが早く取れるか、勝負するか？」=Hey, there's a crane game. Let's see who can get it faster.
 「クレーンゲームで勝負か。それも面白そうだね。じゃあ、早速やってみようか」=A game of crane? That sounds like fun. Let's try it.
-………………=...
+………………=.........
 「よしっ！　取れた！　[H名]は……って、全然景品動いてないね……」=Got it!　I got it!　[H名] is ... and the prize isn't moving at all...
 「うぅ……全然とれにゃい……なんでおまえはそんな簡単に取っちゃうんだよぉ……もう少し勝負させろよぉ」=Ugh, I can't ... get it at all... Why do you get it so easily? ... Let me play a little more.
 「ご、ごめん……なんか思ったより簡単に取れちゃって……俺がウサギのぬいぐるみ持ってても仕方ないし、これあげるよ」=I'm sorry ... it came off easier than I expected... It doesn't matter if I have a stuffed rabbit, I'll give you this.

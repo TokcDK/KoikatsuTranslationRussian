@@ -1,3 +1,3 @@
-「おはよう、[Pあだ名]」=Good morning, [Pあだ名].
+﻿「おはよう、[Pあだ名]」="Good morning, [Pあだ名]."
 「あ、おはよう。[Hあだ名]」=Good morning. [Hあだ名]
 「朝からコードネームで呼び合うのって、すごく特別な間柄みたい」=They call each other by their code names in the morning. It's like they have a very special relationship.

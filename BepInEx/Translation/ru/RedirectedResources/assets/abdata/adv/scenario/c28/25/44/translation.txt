@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「今はこういう物が流行っておるのか。この店に入ってもよいか？」=Are these things in fashion now? May I enter this store?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「おごってくれてありがとうなのじゃ。感謝しておるぞ」=Thank you for buying me this drink. I appreciate it.
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

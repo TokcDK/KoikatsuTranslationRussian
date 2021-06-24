@@ -1,4 +1,4 @@
-「お主の今の歌、すっごくよかったぞ！　カッコよかったのじゃ」=That was a really good song you just sang!　That was really cool.
+﻿「お主の今の歌、すっごくよかったぞ！　カッコよかったのじゃ」=That was a really good song you just sang!　That was really cool.
 「ははっ、ありがとう」=Ha ha, thank you.
 「もう一度歌って欲しいのじゃ！」=I want you to sing it again!
 「……っあ！　コップが！」=...!　My glass!
@@ -13,7 +13,7 @@
 「広い範囲にかかってしまっておる……すまぬ」=It's spread over a wide area... I'm sorry.
 （……近すぎてドキドキするな）=I'm sorry. - It's too ... close for my liking.
 「ん……お主、あそこがっ……！」=Oh... you've got a ...!
-「えっ？」=What?
+「えっ？」=「Мм?」
 「勃って、おるぞ……」=You've got a boner...
 「これは……[H名]がすごい近くにいるから、ドキドキしちゃって……」=It's because ...[H名] is so close, I'm nervous...
 「わっ、わしはただ、お主のためを思って……」=Oh, I'm just doing you a favor...

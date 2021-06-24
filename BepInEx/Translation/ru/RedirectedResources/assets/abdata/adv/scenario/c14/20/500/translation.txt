@@ -1,4 +1,4 @@
-「それじゃあな、また学園で会おうぜ！」=I'll see you at school!
+﻿「それじゃあな、また学園で会おうぜ！」=I'll see you at school!
 「うん！　じゃあ、また会おうね！」=Yeah!　I'll see you around!
 「……って、あれ？　どうしたの、[H名]？　さっきから全然動かないけど……」=...", huh?　What's wrong, [H名]?　It's not working at all...
 「いや……何でだろうな。どうせ、またすぐに顔つき合わすってのによ。こうやって別れる時の空気、どうも苦手でさ……」=No, I don't know why it's ... I'm sure we'll be seeing each other again soon anyway. I don't like the atmosphere when we part like this...
@@ -16,10 +16,10 @@
 「なっ、なんだよ！　やるかやらないかハッキリしろ！」=What? What?　Do it or don't do it!
 「それじゃあ、キスをさせていただきます！」=I'm going to kiss you then!
 「まったく、自分で言い出しといてビビってんじゃねえよ。こっちまで緊張してきたじゃねえか……」=I'm going to kiss you! I'm starting to get nervous too...
-「ん……」=It's ...
-「んんっ……」=Mmm...
+「ん……」=Mm...
+「んんっ……」=「М-н……」
 「また一緒に、デートしようね」=Let's go on another date together.
 「ああ……約束だ！」=Oh... I promise!
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

@@ -1,4 +1,4 @@
-「やっぱり、天気がいい日の公園は気持ちいいなー」=It's nice to be in the park on a nice day.
+﻿「やっぱり、天気がいい日の公園は気持ちいいなー」=It's nice to be in the park on a nice day.
 「そうだね。今日は晴れててよかったよ」=Yes, it is. I'm glad it's sunny today.
 「よーし、せっかく公園に来たし、さっそく運動するぞー！」=Okay, now that we're at the park, let's get some exercise!
 「おー！」=Oh!
@@ -7,7 +7,7 @@
 「走る……って、[H名]！？　いきなりどこ行くの！？」=Running ...?　Where the hell are we going?
 「とりあえず、あっちの噴水まで。あたしに追いつけたら、なにかご褒美をやるぞ！」=I'm going to the fountain over there. If you catch up with me, I'll give you a reward!
 「ご褒美？　よし、そういうことなら、俺も本気で行くよ！」=Reward"?　Okay, if that's the case, I'm really going for it!
-………………=...
+………………=.........
 「うぅ……結局、[H名]には追いつけなかった……」=Ugh... I couldn't catch up with [H名] after all...
 「あたしも本気で走ったからなー。でも、キミも思ったよりずっとねばってたぞ」=I ran like hell, too. I ran really hard, but you worked a lot harder than I thought you would.
 「何度も挑戦してくるから、気付いたら大分遠くまで来てるしなー」=You've been challenging me so many times that I've come a long way.

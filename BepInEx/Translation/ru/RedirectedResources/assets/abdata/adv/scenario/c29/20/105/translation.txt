@@ -1,4 +1,4 @@
-「綺麗です……このような場所があったとは知りませんでした」=It's beautiful... I didn't know there was a place like this.
+﻿「綺麗です……このような場所があったとは知りませんでした」=It's beautiful... I didn't know there was a place like this.
 「隠れた夜景スポットらしいんだ。一度[H名]と来たいなって思ってて」=I didn't know there was such a place. I've always wanted to come here with [name].
 「あなたに誘っていただかなければ、見られなかった景色なのですね」=I've always wanted to come here with [H名].
 「ふふふっ。ありがとうございます」=Mm-hmm. Thank you very much.
@@ -19,8 +19,8 @@
 「[H名]……」=[H名]...
 「改めて言うけど、大好きだよ[H名]」=Once again, I love you [H名].
 「はい。私も……大好きです」=Yes, I do. I love ... too.
-「んっ……」=Mmm...
-「ん……んんっ……」=Mmm...mmm...
+「んっ……」=「М……」
+「ん……んんっ……」=「М…… М-н-м……」
 「……はぁ、はぁ」=... Huh, huh.
 「……キスしたら、[H名]をもっともっと好きになったかも」=Maybe a ... kiss would make me love [H名] even more.
 「私もです……愛おしさが溢れ出して止まりません」=I love you, too... and I can't stop loving you.
@@ -31,7 +31,7 @@
 「ここでするんですか？　だ、誰かに見られてしまうかもしれませんよ？」=Are we doing this here?　I mean, who's going to see us?
 「向こうだったら人が来ないと思うし、どうかな」=I don't know. I don't think there'll be anyone over there.
 「つ、つまりエッチがしたいということですよね」=So you're saying you want to have sex.
-「うん」=Yes.
+「うん」=「Да」
 「外で、しかも誰かに見つかってしまいそうな場所でなんて……」=You don't want to do it outside, where someone might see you...
 「向こうの方なら、多分見つかることはないんじゃないかなって思うんだけど……ダメ？」=I don't think they'll be able to find us on the other side...
 「……わかりました。あなたが望むのでしたら……いい、ですよ」=... Okay. If that's what you want... is fine.

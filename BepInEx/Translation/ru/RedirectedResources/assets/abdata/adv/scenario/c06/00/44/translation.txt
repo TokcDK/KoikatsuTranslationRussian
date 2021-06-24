@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「くれえぷを一緒に食べていただいても、よろしいですか？」=May I have some of your food with me?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「くれえぷは、一緒に食べると甘酸っぱい味がするのですね……ぽっ」=If you want to know more about my body, why don't you touch me directly?
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

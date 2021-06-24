@@ -1,6 +1,6 @@
-「混んできましたね」=It's getting crowded.
+﻿「混んできましたね」=It's getting crowded.
 「大丈夫？　もっとこっちに来ていいよ」=Are you okay?　You can come closer.
-「うわっ……」=Wow...
+「うわっ……」=「Ого……」
 （っ……こんなに[H名]と密着しちゃったら、今日一日抑えてた性欲が一気に……）=(...When you're in such close contact with [your name], the sexual desire that you've been suppressing all day suddenly becomes ...
 （っあ……どんどん大きくなってしまう……）=I'm not sure what to do, but I'm going to do it.
 「え……ええ……？　あの、この、私をぐいぐい押してくる感触は……」=I'm not sure what to say.　I'm not sure what to do, but I'm going to do it.
@@ -12,5 +12,5 @@
 （っ……！　さ、流石にここで勃たせるのは……！）=...!　I'll make sure you don't get a boner here...
 （[H名]の信頼を裏切らないためにも、ここは絶対我慢しないと！）=(I have to be absolutely patient here so as not to betray [H名]'s trust!
 （と、とりあえず別のこと考えて気を紛らわせておこう……）=(And for now, I'll just think of something else to distract myself: ...)
-CHOICE:『欲望に身を任せる』="Give in to your desires
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
 CHOICE:『必死に抑える』="Desperately suppress it.

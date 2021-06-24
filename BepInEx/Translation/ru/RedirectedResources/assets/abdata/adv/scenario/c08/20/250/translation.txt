@@ -1,4 +1,4 @@
-「あっ……」=...
+﻿「あっ……」=「А эммм……」
 「どうかしたの？」=What's wrong?
 「いや、何かお土産を買っとけばよかったかなって。お揃いのキーホルダーとか」=No, I thought I should have bought you a souvenir. Maybe a key ring.
 「今日の記念になるだろ？」=You know, to commemorate the day.

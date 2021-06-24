@@ -1,8 +1,8 @@
-なし=Нет
-リボンショーツ=Ribbon Panties
+﻿なし=Нет
+リボンショーツ=Ленточное белье
 レーストップショーツ=Lace Topped Panties
 ハイレッグショーツ=Hi-Leg Panties
-ローライズショーツ=Lowrise Panties
+ローライズショーツ=Шорты низкого роста
 スポーツショーツ=Sports Panties
 スタンダードショーツ=Standard Panties
 くまパンツ=Bear Panties

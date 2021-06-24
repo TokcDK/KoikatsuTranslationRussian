@@ -1,4 +1,4 @@
-「おお、なんだかすごく美味しそう！　さすがだね！」=Oh, it looks so good!　That's what I'm talking about!
+﻿「おお、なんだかすごく美味しそう！　さすがだね！」=Oh, it looks so good!　That's what I'm talking about!
 「うんっ、写真よりいいよね！　他の人が頼んでるのを見ても美味しそうって思っちゃいそう！」=Yeah, it's better than the picture!　Yeah, it's even better than the picture! I'm sure I'll think it looks good when I see other people ordering it!
 「それじゃまずは一口……頂きます！　はむっ！　ふぁぁっ、やっぱり美味しいー！」=I'll take a bite from ...!　Mmm!　Hmmm, it's still delicious!
 「あはは、良い笑顔だね。どんな感じなの？」=Haha, you have a nice smile. What's it like?
@@ -9,8 +9,8 @@
 「そうだね。でもしつこくない甘さで……というか、もし良かったら君も食べてみる？」=I'm sure it is. Yes, but it's not too sweet... I mean, if you want, you can try it too.
 「え？　いいの？　それじゃぜひ！」=What?　Really?　I'd love to!
 「うん、いいよー。えーっと……それじゃ……」=Yeah, sure. Let's see... then...
-「はい、あーん……」=Yes, ahh ...
-「あーん……」=Mmm...
+「はい、あーん……」=Here, aahhhnn...
+「あーん……」=Ahh...
 「……んんっ！　口の中でふわっとした！」=... Mmm!　It's so fluffy in my mouth!
 「でしょでしょ？　ふわっとしたとしか言いようがないんだよー！」=Right?　That's the only way to describe it!
 「うん、本当に美味しい！　ふわっふわっで幸せだ～」=Yeah, it's really good!　It's soft and fluffy and happy!

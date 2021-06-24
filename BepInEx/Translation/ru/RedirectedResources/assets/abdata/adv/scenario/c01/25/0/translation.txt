@@ -1,8 +1,8 @@
-「ごめん、ちょっといいかな」=I'm sorry. Can I talk to you for a second?
-「えっ？　あら、あなたは確か転入生の。私になにかご用ですか？」=What?　Oh, you're the new student, I think. You wanted to see me?
+﻿「ごめん、ちょっといいかな」=「Простите, можно вас」
+「えっ？　あら、あなたは確か転入生の。私になにかご用ですか？」=「Е? А-а, вы определенно тот самый студент-переводчик. Вы что-нибудь от меня хотели?」
 「うん。[P名前]っていうんだけど、もしよかったら少し話ができればと思って」=Yeah. My name is [P name], and I was wondering if I could talk to you for a minute.
-「あなたと……ですか？　ええ、よろしいですよ」=Are you and ...?　Yes, that's fine.
-「本当？　良かったぁ、断られなくて」=Really?　I'm glad you didn't say no.
-「ふふっ。女の子ばかりの学園へ転入されて、ご苦労も多いと思います。困り事があったらぜひ相談してください」=Hmm. I'm sure you're going to have a lot of trouble moving to an all-girls school. If you have any problems, please do not hesitate to ask for help.
-「ありがとう。その時はよろしくね。それじゃあ、えーっと……」=Thank you. Thank you. Well then, let's see...
-（優しそうな子だなぁ。どんな話をしてみよう）=(She seems like a kind girl. What should I talk to her about?
+「あなたと……ですか？　ええ、よろしいですよ」=「Со…… Мной? Да, хорошо」
+「本当？　良かったぁ、断られなくて」=「Правда? Это хорошо, я думал что ты откажешься」
+「ふふっ。女の子ばかりの学園へ転入されて、ご苦労も多いと思います。困り事があったらぜひ相談してください」=「Хи-хи. Думаю при переводе в школу, где одни девушки, у тебя много трудностей. Поэтому, если есть какие-ниубдь проблемы, не стесняйся обращаться ко мне」
+「ありがとう。その時はよろしくね。それじゃあ、えーっと……」=「Спасибо. Я рад что познакомился с тобой. Тогда, эм……」
+（優しそうな子だなぁ。どんな話をしてみよう）=（Она кажется добрая. Что бы ей рассказать）

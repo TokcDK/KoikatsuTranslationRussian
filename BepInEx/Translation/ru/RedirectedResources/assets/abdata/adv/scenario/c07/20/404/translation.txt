@@ -1,4 +1,4 @@
-「お、来た来た。そんじゃ、いっただきま～す！ んむんむ……う～ん、うまいっ！」=Oh, here it comes. Then, I'll take it! Mmmm... Mmmm, yummy!
+﻿「お、来た来た。そんじゃ、いっただきま～す！ んむんむ……う～ん、うまいっ！」=Oh, here it comes. Then, I'll take it! Mmmm... Mmmm, yummy!
 「本当においしそうに食べるね」=You look really good eating it.
 「だって、見ろよこの山盛りのクリーム！　パンケーキもふわふわだ！」=I mean, look at this pile of cream!　And the pancakes are so fluffy!
 「[H名]ってすごく幸せそうに食べるなぁ……見てるこっちまで嬉しくなっちゃうよ」=You look so happy eating ... it makes me happy.
@@ -19,7 +19,7 @@
 「そうなんだ。でも甘くないプリンって、なんか不思議だね」=I see. I see. But it's strange to have a pudding that's not sweet.
 「一口、もらってもいい？」=Can I have a bite?
 「ほいよ、食え食え。あーん」=Come on, eat it, eat it. Mmm.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「んむ。ほんとだ、そんなに甘くない……けどおいしい」=Mmm. Yeah, it's not that sweet... But it's good.
 「だろ？　って……ん、あれ……？　今のって……なんかカップルっぽくなかったか……？」=Right?　It's not that sweet ... but it's delicious.　Wasn't that ... something like a couple ...?
 「あ、言われてみれば……でもいいんじゃない？　実際、カップルなんだし、気にするようなことでもないよ」=I'm sure you'll be happy to hear that.　Actually, they are a couple, so it's not something to worry about.

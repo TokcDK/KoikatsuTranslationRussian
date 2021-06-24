@@ -1,4 +1,4 @@
-「ふぅ……結構歌ったわね。そろそろ時間だけど、どうする？」=We've sung ... a lot. It's time to go, what do you say?
+﻿「ふぅ……結構歌ったわね。そろそろ時間だけど、どうする？」=We've sung ... a lot. It's time to go, what do you say?
 「[H名]は、まだ歌い足りないんじゃない？」=Maybe [H名] hasn't sung enough.
 「ふふ、バレてた？　実はもう少し歌いたかったの」=Hmm, did you know that?　Actually, I wanted to sing some more.
 「じゃあ、延長の電話をするよ」=Well, I'll call for an extension.
@@ -10,4 +10,4 @@
 「いいの？　……それじゃあ、あの曲を入れるわ」=Can I?　... Then I'll put that song on.
 （やっぱり[H名]は上手いなぁ……）=(I knew [H名] was good at this...)
 CHOICE:『まだ歌い足りないんじゃない？』="Don't you think you've sung enough?
-CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

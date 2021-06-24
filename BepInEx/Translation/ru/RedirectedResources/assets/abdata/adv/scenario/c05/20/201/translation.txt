@@ -1,4 +1,4 @@
-「うーん、さすがに遊園地は人が多いね」=Well, there are a lot of people at an amusement park.
+﻿「うーん、さすがに遊園地は人が多いね」=Well, there are a lot of people at an amusement park.
 「たしかに……人がうじゃうじゃ……でも、全然気にならないよ？」=Yeah, it's ... crowded, but it doesn't bother me at all.
 「ほんと？　混雑とか苦手なんじゃない？」=Really?　You don't like crowds, do you?
 「確かに、ひとりでだったら苦手だけど……でも、[P名]くんと一緒に来るのすっごく楽しみにしてたから♪」=Sure, I don't like it when I'm alone, but I was really looking forward to coming here with [P name].
@@ -9,7 +9,7 @@
 「メリーゴーラウンドが空中に浮いたようなアトラクションのことだよ」=It's like a merry-go-round that floats in the air.
 「ほら……あそこにある」=It's over at ...
 「ああ、あの乗り物か。ここから見た限り、あんまり並んでいないみたいだし、早速乗りに行こうか」=Oh, that ride. From what I can see, there's not much of a line, so let's go for a ride.
-………………=...
+………………=.........
 「はー、楽しかった……！　子どもに戻ったみたいだったよ♪」=That was fun...!　I felt like a kid again.
 「俺も驚いたよ。まさか、あんなに楽しんでくれるとは思っていなかったからさ」=I was surprised, too. I was surprised, too, because I didn't expect you to enjoy it so much.
 「うん。遊園地は好きだけど、気軽に一人で来れる所じゃないから、久しぶりで楽しかった」=I was surprised too. I like amusement parks, but it's been a while since I've been to one, so it was fun.

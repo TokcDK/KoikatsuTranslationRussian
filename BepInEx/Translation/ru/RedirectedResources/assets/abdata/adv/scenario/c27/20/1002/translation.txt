@@ -1,12 +1,12 @@
-「うーん、慣れない恰好してるから落ち着かない……」=Hmmm, I'm uncomfortable in this unfamiliar attire...
+﻿「うーん、慣れない恰好してるから落ち着かない……」=Hmmm, I'm uncomfortable in this unfamiliar attire...
 （……[H名]も同じ何だろうな。なんたって、ウェディングドレスだし）=(I wonder if ...[H名] is the same. After all, it's a wedding dress.
 （どんな感じになってるんだろう。似合ってるだろうけど、いまいち想像つかないや）=(I wonder what it looks like. I'm sure it will look good on you, but I can't quite picture it.
-（いよいよ出番か……）=(Finally, it's time to go ...)
+（いよいよ出番か……）=（Вот и пора……）
 （おぉ、立派な式場だ……）=(Oh, what a splendid place for a ceremony...)
 （……[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな！）=(I should be proud to play the role of ...[H名]'s groom, don't be ashamed!
 （き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=(I'm so nervous... I can't believe I'm so nervous just walking around... Ugh, I've got to pull myself together!
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 扉の向こうから純白のドレスに身を包んだ[H名]が、控えめにゆっくりと進みでてくる。=From the other side of the door, [H名], dressed in a pure white dress, slowly and modestly walks forward.
 歩みを止めてぎゅっと目を瞑り、浅い呼吸を何度か繰り返す。=She stops walking, squeezes her eyes shut, and repeats a few shallow breaths.
 そんな彼女の緊張した仕草の一つ一つが、なんだかとても愛おしく思えてくる。=I'm sure you'll be able to understand why I've been so impressed with your work.

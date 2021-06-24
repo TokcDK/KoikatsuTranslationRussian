@@ -1,4 +1,4 @@
-「おっ、来た来た、待ってました～！」=Oh, there you are. I've been waiting for you!
+﻿「おっ、来た来た、待ってました～！」=Oh, there you are. I've been waiting for you!
 「結構待ったけど、その分美味しそうに見えるね。早速食べようか」=We've waited a long time, but that's what makes it look so good. Let's eat.
 「んぅ～、いちごがジューシィーで、クリームがスゥィーティー！」=Mmm, the strawberries are juicy and the cream is sweet!
 「本当に嬉しそうだね。そんなにいちごパフェ美味しい？」=You look really happy. Are the strawberry parfaits that good?
@@ -23,7 +23,7 @@
 「ダーメ。あーんじゃなきゃあげないからな。観念して早く口を開けちゃえよ」=Dahme. If you don't, I won't give it to you. Just give up and open your mouth.
 「うぅ、わかった。あ、あ～～ん」=Oh, okay. Ahhhhhhh.
 「あはは、デザートだからよく噛まなくてもいいけど、味わって食べろよ～」=Haha, it's dessert, so you don't have to chew it well, but you have to taste it.
-「はむっ……」=Hmmm...
+「はむっ……」=*Munch*...
 「……うん、たしかに苦いけど、美味しいね」=... Yes, it's bitter, but it's delicious.
 「そうそう、その苦味がいいんだよ。おまえもビタースイーツにハマったか？」=Yes, that bitter taste is good. Are you into bitter sweets too?
 「食べ方が衝撃的だったからね……しばらくこの味は口に残ると思う」=The way you ate it was shocking... I think the taste will stay in my mouth for a while.

@@ -1,10 +1,10 @@
-「やっぱり緊張するな……慣れないタキシードなんて着てるからだろうけど」=I'm still nervous... It's probably because I'm wearing an unfamiliar tuxedo, but...
+﻿「やっぱり緊張するな……慣れないタキシードなんて着てるからだろうけど」=I'm still nervous... It's probably because I'm wearing an unfamiliar tuxedo, but...
 （[H名]はどうだろう。俺と同じくらい緊張してるのかな）=What about [H名]? I wonder if she's as nervous as I am.
 （っと。いよいよか）=(Finally.) It's time.
 （精一杯新郎役を務めよう）=I'll do my best to play the groom.
 （なんてったって、相手は[H名]なんだしな）=After all, I'm dealing with [H名].
 （……ふぅ、モデルとしてしっかり出来てはいたかな）=(...) Hmm, did I do a good job as a model?
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
 （あっ……）=(Ah...)
 美しい花嫁姿の[H名]を見て、思わず息を呑んだ。=I gasped when I saw [H名] in her beautiful bridal gown.
 いつもの凛とした雰囲気のまま、ウェディングドレスを着こなす[H名]は本当に美しかった。=I'm sure you'll agree that it's a great idea to take a look at the photos.

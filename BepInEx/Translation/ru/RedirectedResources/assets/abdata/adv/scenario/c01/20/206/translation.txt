@@ -1,10 +1,10 @@
-「やっぱり、ここからの眺めはいいね」=The view from here is really nice.
+﻿「やっぱり、ここからの眺めはいいね」=The view from here is really nice.
 「はい。一日遊びまわった場所が見下ろせるのは素敵ですね」=Yes. It's nice to be able to look down on a place you've spent the day playing around.
 「ジェットコースター、メリーゴーランド、コーヒーカップ、お化け屋敷……」=Roller coasters, merry-go-rounds, coffee cups, haunted houses.....
 「ひとつひとつ、とても楽しくて、記憶に残っています」=Each one so fun and memorable.
 「全部、キスした場所だね」=All the places we kissed.
 「！？　そ、そうでしたか……？」=What?　Oh, really? ...?
-「うん」=Yes.
+「うん」=「Да」
 「私は……その、信じてください。本当に記憶に残っている場所を羅列したのであって……」=I'm ... that, believe me. Believe me, I'm just listing the places that I really remember...
 「そんなにキスが好きなんだね」=You really like kissing that much, don't you?
 「！？　いえ、その……」=What?　No, I mean...
@@ -17,7 +17,7 @@
 「ごめんって。もう言わないし、キスもしないよ」=I'm sorry. I won't say it again and I won't kiss you.
 「えっ？　あの、そういうことでは……」=What?　That's not what ... is for.
 「んんっ！？　ん……ん……」=Hmm?　Mmm... Mmm...
-「ん……」=It's ...
+「ん……」=Mm...
 「ごめんね、またいじわるしちゃった」=I'm sorry, I'm messing with you again.
 「……私があなたのそういうところも……す、好きだって、知っていてやっていますよね？」=You know I ... like that about you, right?
 「バレちゃった？　こんなこと、本気でいやがってるならやらないよ」=Did you find out?　I wouldn't be doing this if I really didn't want to.

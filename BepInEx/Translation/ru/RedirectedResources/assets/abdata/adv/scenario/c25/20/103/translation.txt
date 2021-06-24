@@ -1,4 +1,4 @@
-「ふぅ～、キミと一緒にいると、時間が経つのが早いな～」=Time flies when I'm with you...
+﻿「ふぅ～、キミと一緒にいると、時間が経つのが早いな～」=Time flies when I'm with you...
 「えっと、まだ時間あるなら、もう少しここでデートしない？」=Well, if you still have time, why don't we date here some more?
 「別にいいよ～。でも、疲れる様なことは無しだからね～？」=I don't mind. I don't mind, but nothing too tiring, okay?
 「そういうのじゃないから大丈夫。二人で夜景を見たいんだ」=It's not like that. I just want to see the night view.
@@ -10,5 +10,5 @@
 「う～ん、男気を見せて欲しかったけど、仕方ないっすね～」=Well, I was hoping you would show some manly spirit, but it can't be helped.
 「妥協して肩車にしますか～」=Shall we compromise and make it a shoulder carry?
 「全然妥協されていない！　ってか普通に恥ずかしいんだけど！」=It's not a compromise at all!　I'm so embarrassed!
-CHOICE:『まだ時間ある？』="Do you still have time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

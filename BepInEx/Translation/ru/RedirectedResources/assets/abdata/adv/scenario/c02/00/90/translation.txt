@@ -1,9 +1,9 @@
-「少し、あなたにお願いしたいことがありますの。もちろん聞いていただけますわよね？」=I have a little favor to ask you. "I have a little favor to ask you, of course you'll do it.
+﻿「少し、あなたにお願いしたいことがありますの。もちろん聞いていただけますわよね？」=I have a little favor to ask you. "I have a little favor to ask you, of course you'll do it.
 「う、うん……相変わらず問答無用だね。で、どうしたの？」=Uh, yeah... You're still a no-questions-asked kind of guy. So, what's up?
 「お互いを愛称で呼び合うのはいかがかしら？　きっと素晴らしいことになりますわよ」=Why don't we call each other by our nicknames?　It'll be great.
 「へえ、面白そうだね。やってみようよ」=Oh, that sounds fun. Let's try it.
 「おほほほほ！　さすがはわたくしの提案ですわ。では早速呼ばせていただきますわね」=Whoa!　That is indeed my suggestion. That's my suggestion. I'll call him right away.
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「……うん、悪くないね」=... Yeah, not bad.
 「おほほほ。当然ですわ。ではあなたもわたくしを愛称で呼ぶことを許します」=Oh-ho-ho. Of course. Then you are allowed to call me by my nickname.
 「はは……ありがとう。それじゃ、えーっと……[Hあだ名]」=Haha... Thank you. Well then, let's see...[Hあだ名].

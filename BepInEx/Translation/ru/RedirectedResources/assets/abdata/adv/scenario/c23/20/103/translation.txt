@@ -1,4 +1,4 @@
-「ふぃー、空がすっかりオレンジに……楽しい時間はあっという間なんだなぁ」=Whew, the sky is all orange now... The good times fly by so fast.
+﻿「ふぃー、空がすっかりオレンジに……楽しい時間はあっという間なんだなぁ」=Whew, the sky is all orange now... The good times fly by so fast.
 「まだ時間あるかな？」=Do we still have time?
 「あるけど、どうかしたのかい？」=Yes, but what's wrong?
 「よかった。もう少し付き合って欲しいんだ」=Good. I need a little more time with you.
@@ -12,5 +12,5 @@
 「……別にアニメ限定ではないと思うけど、確かにそうだね」=... I don't think it's exclusive to anime, but it's true.
 「手を繋いで帰ろうか」=Shall we go home hand in hand?
 「えへ、へ……ラブラブで幸せ～」=Heh, heh... so lovey-dovey and happy~
-CHOICE:『まだ時間ある？』="Do you still have time?
-CHOICE:『俺も楽しかった』="I had fun too.
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
+CHOICE:『俺も楽しかった』="I had fun too."

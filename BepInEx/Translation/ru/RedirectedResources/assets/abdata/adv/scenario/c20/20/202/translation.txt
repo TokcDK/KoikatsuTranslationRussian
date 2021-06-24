@@ -1,9 +1,9 @@
-「よし、それじゃあどれに乗ろうか……えっと、絶叫系とかどう？」=Okay, so which one do you want to go to ... like the screaming one?
+﻿「よし、それじゃあどれに乗ろうか……えっと、絶叫系とかどう？」=Okay, so which one do you want to go to ... like the screaming one?
 「えっと……絶叫系は……疲れてしまうので、後でもいいですか？」=Well, the ... scream rides are too ... exhausting, so can we do them later?
 「それもそうか……じゃあ最初はゆったりしたもの……コーヒーカップとかどう？」=That's okay too... How about something relaxing first, like a ... cup of coffee?
 「あ、そ、それなら……ゆっくり出来ますし、いいかもしれません」=Oh, yeah, that would be ... nice and relaxing.
 「よし、じゃあ行こうか」=Okay, let's go.
-………………=...
+………………=.........
 「コーヒーか……」=Coffee...
 「あの、コーヒーがどうかしましたか？」=What's wrong with the coffee?
 「いや、なんかコーヒーにまつわる色々なことを思い出してさ」=No, I'm just remembering all the things I've done with coffee.

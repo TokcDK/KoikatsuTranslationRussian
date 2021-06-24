@@ -1,4 +1,4 @@
-「あらあら、もうこんな時間ですの！？　もう、楽しいと、一日なんてあっと言う間ですわね」=I'm not sure what to say.　Oh my God, it's already that time of day!
+﻿「あらあら、もうこんな時間ですの！？　もう、楽しいと、一日なんてあっと言う間ですわね」=I'm not sure what to say.　Oh my God, it's already that time of day!
 「ねえ、よかったら、最後に観覧車に乗っていかない？」=Hey, do you want to go for a last ride on the Ferris wheel?
 「よろしくてよ！　観覧車はジェットコースターの次に大好きな乗り物ですわ！」=I'd love to!　The Ferris wheel is my second favorite ride after the roller coaster!
 「それって、高いところから見下ろせるから？」=Because you can see down from up there?
@@ -9,5 +9,5 @@
 「残念ですわ……まだまだ乗りたいものはありましたのに……」=It's a shame... There was so much more to ride...
 「また来よう！　期間限定のアトラクションなんかもあるからね」」=Let's come back!　We'll be back! They have limited time attractions.
 「ええ、次の来園が待ち遠しいですわ……おーっほっほっほっほ！」=Yes, I can't wait for our next visit to ... Oh, ho, ho, ho!
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

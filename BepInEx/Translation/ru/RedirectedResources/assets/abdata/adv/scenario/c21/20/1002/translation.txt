@@ -1,12 +1,12 @@
-「バッチリ決めてもらえたな……これで自信を持って[H名]を迎えられるぞ」=(... Oh, it looks so different.) "You've decided perfectly... Now you can welcome [H名] with confidence.
+﻿「バッチリ決めてもらえたな……これで自信を持って[H名]を迎えられるぞ」=(... Oh, it looks so different.) "You've decided perfectly... Now you can welcome [H名] with confidence.
 （模擬とはいえ、女の子の夢を実現させるイベントだからな……夢を壊すようなことだけはしないようにしなきゃ）=(Even though it's a mock event, it's an event to make a girl's dream come true... I have to make sure I don't do anything to ruin the dream.
 （[H名]もバッチリ決めてもらってるだろうから、本当の新婦になった気分で来てほしいな……）=(I'm sure you've already decided on your [H名], so please come as if you were the real bride...)
 （……いよいよ出番か）=But ... I've got to get into it!" (... it's time to go!)
 （結婚って、何年後の話なんだろう……）=(I wonder how long it will be before we get married: ...)
 （きっと、[H名]はいいお嫁さんになるだろうな……そう考えると、ドキドキしてきたぞ）=(I'm sure [H名] will make a good bride... I'm getting nervous thinking about it.
 （ふぅ……本番だと意識して歩いたら、思った以上に緊張してしまった……）=(Phew ... I was more nervous than I thought I'd be when I walked in with the awareness that it was the real thing ...)
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 [H名]の花嫁姿は、まるで大人になった彼女がタイムスリップしてきたのかと思う程、綺麗だった。=I'm not sure what to make of it, but I'm sure it's a good idea.
 普段一緒にはしゃいだり、冗談を言い合ったり――=I'm not sure what to make of it.
 そんな距離感の女の子が急に遠い存在になったような気がする。=It was as if the girl who was usually so distant from me had suddenly become distant from me.

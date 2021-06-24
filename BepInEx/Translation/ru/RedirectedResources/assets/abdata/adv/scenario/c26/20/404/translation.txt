@@ -1,4 +1,4 @@
-「いただきます！」=Bon appétit!
+﻿「いただきます！」=Please!
 （……[H名]は無言で食べ始めたけど、いまいちなんだろうか？）=(...[H名] started to eat without saying a word, but I wonder if it's not good?
 「それ、おいしくないの？」=Doesn't it taste good?
 「……おいしいよ。どうして？」=... It's delicious. Why?
@@ -16,7 +16,7 @@
 「うん。[H名]にあ～んしてもらえたら、何倍にもおいしく感じるはず。だから、お願い」=Yes. Yes, it will taste many times better if [H名] gives it to you. So, please.
 「……わかった。一口だけ、だからね」=... Okay. Just one bite, okay?
 「……はい、あ～ん」=... Yes, yes, yes.
-「あ～ん」=Ahh.
+「あ～ん」=「А-м」
 「……おお！　おいしい！　とっても甘くてなめらかで、生地もふんわり！」=... Oh!　Delicious!　It's so sweet and smooth, and the dough is so fluffy!
 「……口に……クリームが……ついてる」=There's ... cream ... on my mouth.
 「うわっ！　突然でびっくりしたよ」=Wow!　I was so surprised.

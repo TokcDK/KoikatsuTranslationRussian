@@ -1,4 +1,4 @@
-（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）="(Is something wrong? She's not talking at all...)"
+﻿（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）="(Is something wrong? She's not talking at all...)"
 「もしかして、公園デートつまらない？」="Are you... finding the date boring?"
 「そんなこと、ないけど。……なんで？」="No, not at all... why?"
 「なんとなく、心ここにあらずって感じがしてさ」="Somehow, I feel like of peaceful here."
@@ -11,7 +11,7 @@
 「それでどう、かな？」="So how is it?"
 「うん、とっても綺麗だよ」="Oh, it's just stunning..."
 「……そう。ならよかった」="...Oh. That's good."
-「……」="..."
+「……」=.........
 「……なに？」="...What?"
 「いや、花も綺麗だけど……[H名]も綺麗だなと思って」="The flowers are beautiful here... just like you, [H名]."
 「……私じゃなくて……花を見てよ」="Stop it... You're making me blush..."

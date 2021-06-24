@@ -1,4 +1,4 @@
-「何から乗る？　やっぱりジェットコースター？」=Where do we start?　The roller coaster?
+﻿「何から乗る？　やっぱりジェットコースター？」=Where do we start?　The roller coaster?
 「定番じゃのう」=That's a classic.
 「苦手だったりする？」=Do you have a fear of them?
 「わしがか？　そんなわけなかろう」=Me?　I don't think so.
@@ -7,15 +7,15 @@
 「何となくのイメージで」=I have a vague idea.
 「そのイメージをすぐに払拭してやる！　ほら、列に並ぶぞ！」=I'll dispel that image in no time!　Come on, let's get in line!
 「あっ、待って！」=Oh, wait!
-ガタンゴトン ガタンゴトン=Slam, slam, slam.
+ガタンゴトン ガタンゴトン="Звуки движения американских горок"
 「……この瞬間はドキドキするのぅ」=... This is a very exciting moment.
 「だねぇ……おっ、そろそろだ」=Hey... it's about time.
-ガタッ=Rumble.
+ガタッ=Ты-дынь
 「うむ……」=Mm...
-ガガガガガガガガガ……！=Ga-ga-ga-ga-ga-ga ...!
+ガガガガガガガガガ……！=Ха-а-а-а-а-а……!
 「ぎゃぁぁーーーーー！」=Aaaaah!
 「わぁっ！！」=Whoa!
-………………=...
+………………=.........
 「ほら、全然怖がっておらんかったじゃろ？」=See? You didn't look scared at all.
 「おみそれしました……」=I'm sorry...
 「わしに怖いものなぞ、あるわけがなかろう？」=How can I be afraid of anything?

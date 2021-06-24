@@ -1,4 +1,4 @@
-「[H名]はカラオケとか、よく来たりするの？」=Does [H名] come here a lot for karaoke?
+﻿「[H名]はカラオケとか、よく来たりするの？」=Does [H名] come here a lot for karaoke?
 「ううん。来るのは久しぶり」=No. It's been a while.
 「正直、歌は苦手かも……。ちゃんと歌える自信がないよ」=To be honest, I'm not very good at singing... I'm not sure I can sing properly.
 「はは、気にしなくていいよ。上手く歌う必要なんてないんだから」=Haha, don't worry about it. You don't have to sing well.
@@ -14,5 +14,5 @@
 「安心して。俺も、“かれら”もついてるから」=Don't worry. Don't worry. I'll be there. They'll be there.
 「う、うん……ありがとう。とっても心強いよ」=Yeah, thanks for the ... Thanks for the . It's very reassuring.
 「よし。じゃあいくよ？」=Okay. Let's go, shall we?
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 （健気に歌ってるなぁ……こっちも思わず笑顔になってくるよ）=It's a healthy song... It makes me smile too.

@@ -1,6 +1,6 @@
-「ねえ、今時間あるかな？」=Hey, do you have a minute?
+﻿「ねえ、今時間あるかな？」=Hey, do you have a minute?
 「大丈夫ですよ。少し、時間を持て余していたところですから」=No problem. It's okay. I was just having a little bit of time on my hands.
 「良かった。[H姓]さんと、もっといろんな話をしてみたくて」=Good. I'd like to talk to you about more things.
 「……そう。あなたも物好きですね」=... Yes. You're a curious one, aren't you?
-「えっ？」=What?
+「えっ？」=「Мм?」
 「なんでもありません。……どんな話をしますか？」=No problem... What would you like to talk about?

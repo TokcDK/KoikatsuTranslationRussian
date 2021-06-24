@@ -1,9 +1,9 @@
-「あの……実はお願いがあるのですが、良いですか？」=I want to know more about you... Actually, I have a favor to ask you, if that's okay.
+﻿「あの……実はお願いがあるのですが、良いですか？」=I want to know more about you... Actually, I have a favor to ask you, if that's okay.
 「お願い？　うん、いいよ、なに？」=A favor?　Yeah, sure. What?
 「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=Yes, I'd like to call you by your nickname. I'd like to call you by your nickname. I think it would make me feel fresh.
 「愛称かぁ。うん、もちろんいいよ」=A nickname. Yes, of course.
 「やったぁ！　では早速失礼して……呼ぶですよ！」=Yay!　Then excuse me and call me ...!
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=I'll call you ...!" "Oh, that's definitely fresh... I'm a little nervous. Can I call you too?
 「もちろんです！　お願いするですよ！」=Of course!　Yes, please!
 「えーっと……[Hあだ名]」=Can I call you ...[Hあだ名]?

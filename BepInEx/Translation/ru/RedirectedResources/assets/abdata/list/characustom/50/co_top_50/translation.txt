@@ -1,4 +1,4 @@
-セーラーシャツ(男)=Sailor Shirt (Boys)
+﻿セーラーシャツ(男)=Сейлорская рубашка (мужчина)
 セーラーノースリーブ(男)=Sleeveless Sailor (Boys)
 ベースボールシャツ(男)=Baseball Jersey (Boys)
 和風制服=Japanese-Style Uniform
@@ -6,7 +6,7 @@
 洋風制服（ベスト）=Western-Style Uniform (Vest)
 洋風制服（ジャケット）=Western-Style Uniform (Jacket)
 ニットセーター=Knitted Sweater
-体操着=Gym Uniform
+体操着=Физ-ра
 スポーツウェア(男)=Sportswear (Boys)
 スポーツウェア(女)=Sportswear (Girls)
 サッカーシャツ(男)=Soccer Jersey (Boys)

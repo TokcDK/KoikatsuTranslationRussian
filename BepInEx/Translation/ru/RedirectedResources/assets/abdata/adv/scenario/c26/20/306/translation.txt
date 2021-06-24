@@ -1,4 +1,4 @@
-「結構歌ったね。履歴が俺たちの曲ばっかり」=We sang a lot. You've sung a lot of our songs.
+﻿「結構歌ったね。履歴が俺たちの曲ばっかり」=We sang a lot. You've sung a lot of our songs.
 「本当……延長もしたから、当然かも、ね」=Yeah, I guess that's to be expected after the ... extension.
 「今日は……いつもよりも……歌った気がする」=I think I sang ... more ... than usual today.
 「喉の調子は大丈夫？　声量は抑え気味だったけど、歌って負担かかるしさ」=How's your throat?　I tried to keep my volume down, but singing takes its toll.
@@ -14,7 +14,7 @@
 「なんか前もこんな感じなこと話をしたっけ」=Have we talked about this kind of thing before?
 「うん。した、かも」=Yes. Yeah, maybe we did.
 「そのときは……あれもしたな」=We did that ... thing then, too.
-「……うん」=... Yeah.
+「……うん」="...Sure."
 「またどう……かな？　嫌ならいいんだけどさ……」=How about ... again?　If you don't like it, that's fine...
 「あの時と同じ気持ち、なら……いい」=I don't care if you don't like it...
 「……ああ。同じ気持ちだよ」=... Yeah. I feel the same way.
@@ -22,4 +22,4 @@
 「……うん、支度するね」=... Yeah, I'll get ready.
 「うん、それじゃ忘れ物ないか確認してから出よう」=Yeah, let's just make sure we don't forget anything before we leave.
 CHOICE:『歌わずに休む』="Rest without singing.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

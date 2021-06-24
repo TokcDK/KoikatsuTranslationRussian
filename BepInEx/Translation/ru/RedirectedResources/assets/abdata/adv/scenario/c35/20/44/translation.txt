@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「珍しいお店がいっぱいやねー。あ、あのお洒落な文房具屋さん、入ってみてもいいかいな？」=There are a lot of unusual stores here. Oh, can I go into that fancy stationery shop?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「ありがとう！　最新の文房具がいっぱいあってめっちゃ楽しかったよー」=Thank you!　It's so much fun to see all the latest stationery.
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

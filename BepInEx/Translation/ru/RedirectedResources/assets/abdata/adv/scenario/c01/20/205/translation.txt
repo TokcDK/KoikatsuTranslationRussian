@@ -1,4 +1,4 @@
-「観覧車に乗るのは、久しぶりです」=It's been a long time since I've been on the Ferris wheel.
+﻿「観覧車に乗るのは、久しぶりです」=It's been a long time since I've been on the Ferris wheel.
 「前はいつ乗ったの？」=When was the last time you rode it?
 「学園の社会科見学で遊園地に行って……」=We went to an amusement park for a school field trip...
 「しゃ、社会科見学で遊園地？」=A field trip to an amusement park?
@@ -10,11 +10,11 @@
 「そう言ってくれると、転入してきた甲斐があったよ」=If you say so, it's worth it.
 「はい、あなたが転入してこなかったら、遊園地で遊ぶこともなかったと思います」=Yes, if you hadn't moved here, I wouldn't have gone to the amusement park.
 「でも、学園の友達と行ったんじゃない？」=But you went there with your friends, didn't you?
-「あ……」=...
+「あ……」=「А……」
 「[H名]？」=[H名]?
 「えっと……実は、遊園地に行くのは禁止されているんです。あまり良い影響がないということで……」=Well... actually, it's forbidden to go to amusement parks. We're not allowed to go to amusement parks because it's ... not a good influence.
 「え、家の方針で……？」=What, it's a family policy to go to ...?
-「はい……」=Yes...
+「はい……」=「Да……」
 「じゃあ、今日は……」=Well, I'm going to ... today.
 「内緒、です」=Don't tell anyone.
 「い、いいのかな？」=Is that okay? - I don't know.
@@ -36,7 +36,7 @@
 「じゃあ、俺が観覧車でキスしたことも内緒だからね」=And don't tell anyone that I kissed you on the Ferris wheel.
 「え？　あっ……」=What?　Oh...
 「ん……ん……ちゅっ……んん……」=Mmm... chuckle... mmm...
-「ん……」=It's ...
+「ん……」=Mm...
 「んっ……ちゅ……チュッ……んぅ……」=Mmm... chug... chug... mmm...
 「……はい、内緒にします。こんなドキドキするキス、ドラマや恋愛小説でも見たことがありません」=... Yes, I'll keep it to myself. I've never seen such an exciting kiss before, not even in dramas or romance novels.
 「そう？」=Really?

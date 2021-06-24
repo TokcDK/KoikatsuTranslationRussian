@@ -1,4 +1,4 @@
-「さて、次はこの曲を……って、もうすぐ時間じゃない！」=Okay, this one's on ... It's almost time!
+﻿「さて、次はこの曲を……って、もうすぐ時間じゃない！」=Okay, this one's on ... It's almost time!
 「せっかくノってきたところだし、延長してもうちょっと歌おうよ」=We're just getting into it. Let's extend the song a little bit.
 「そうこなくちゃ！　がんがんいくわよ」=That's what I'm talking about!　Let's go for it!
 「よしっ！　延長の電話入れとくよ」=All right!　I'll call for an extension.
@@ -9,7 +9,7 @@
 「歌う時間あるかしら？」=Do you think we'll have time to sing?
 「一曲なら大丈夫だと思うよ。ほら、せっかくだし入れなよ」=I think I can handle one song. I think one song will do.
 「それじゃあ……最後はこの曲にするわ！」=Okay... we'll finish with this song!
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
-CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

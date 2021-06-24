@@ -1,4 +1,4 @@
-「二人だけ使うには、この部屋は広く感じるね」="This room is only big enough for 2 people."
+﻿「二人だけ使うには、この部屋は広く感じるね」="This room is only big enough for 2 people."
 「そう……だね。少し、緊張する」="Yeah... you're right. I'm a bit nervous."
 「歌うのは好きじゃなったりする？」="Do you like to sing?"
 「……嫌いじゃない。たまに……一人で、来る」="...Not really. Come on... in here."
@@ -10,7 +10,7 @@
 「うまく言えてないけど……困らせて……ごめんなさい」="I'm not very good at it... I'm sorry."
 「いや……うん、分かるよ。でもそれなら、なおさら君の歌を聞きたいかな」="I... I understand. But now I want to hear it even more!"
 「……私が歌ったら……あなたは嬉しいの？」="...If I sang... would you be happy?"
-「もちろんだよ」="Of course!"
+「もちろんだよ」="Of course."
 「……わかった。ちゃんと聞いて、ね」="...Okay. Listen to this..."
 「初めて感じた　胸の痛みは　絆深くなる証～♪」="My bleeding heart aches～♪ for someone I call my own～♪ I'll find them someday～♪"
 （なんだか聞きぼれちゃうな～……）=(Her singing was absolutely divine～!)

@@ -1,7 +1,7 @@
-「天気がいいから俺たち以外にも歩いてる人が結構いるね。[H名]はよく散歩したりする？」=It's a nice day, so there are a lot of people walking around besides us. Do you often go for a walk?
+﻿「天気がいいから俺たち以外にも歩いてる人が結構いるね。[H名]はよく散歩したりする？」=It's a nice day, so there are a lot of people walking around besides us. Do you often go for a walk?
 「いや、我は通学する道行き以外はあまり行かぬのだ」=No, I don't really go anywhere but to school.
 「そもそも、我は漆黒満ちる魔界の者だ。魔界とは闇に溢れる静寂の世界」=In the first place, I am from the Demon World, which is full of darkness. The demon world is a world of darkness and silence.
-「そうなの？」=Is that so?
+「そうなの？」= 「Правда?」
 「うむ。そして魔族とは、闇に産まれ闇に生きる。そして我こそは魔族の支配者なり」=Hmm. And the demon race is born in darkness and lives in darkness. And I am the ruler of the demon race.
 「その我が天敵たる太陽の光に当たるなど……灼熱と聖なる気によって溶かされてもおかしくはない」=And I am the ruler of the demon race." "To be exposed to the light of the sun, my natural enemy, would be to be melted by the ... scorching heat and holy air.
 「あぁ、つまりインドア派ってことか」=Oh, you mean you're an indoor person.

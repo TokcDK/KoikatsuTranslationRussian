@@ -1,4 +1,4 @@
-丸吹き出し１左=Oval 1 Left
+﻿丸吹き出し１左=Oval 1 Left
 丸吹き出し１右=Oval 1 Right
 丸吹き出し2左=Oval 2 Left
 丸吹き出し2右=Oval 2 Right
@@ -26,9 +26,9 @@
 雷吹き出し１右=Lightning 1 Right
 雷吹き出し2左=Lightning 2 Left
 雷吹き出し2右=Lightning 2 Right
-回想吹き出し１左=Thinking 1 Left
-回想吹き出し１右=Thinking 1 Right
-楕円吹き出し１左=Ellipse 1 Left
+回想吹き出し１左=Thinking １ Left
+回想吹き出し１右=Thinking １ Right
+楕円吹き出し１左=Ellipse １ Left
 惰円吹き出し１右=Ellipse 1 Right
 惰円吹き出し2左=Ellipse 2 Left
 惰円吹き出し2左(影あり)=Ellipse 2 Left (Shadowed)

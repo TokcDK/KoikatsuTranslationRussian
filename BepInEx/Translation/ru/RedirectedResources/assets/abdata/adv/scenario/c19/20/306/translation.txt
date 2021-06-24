@@ -1,7 +1,7 @@
-「っと。さて次、[H名]は何を歌う？」=I'll be back. Now, what will [H名] sing next?
+﻿「っと。さて次、[H名]は何を歌う？」=I'll be back. Now, what will [H名] sing next?
 「私、もう知ってる歌はほとんど歌ってるの。あとはあなたがずっとマイク持っていていいよ」=I've already sung most of the songs I know. I've already sung most of the songs I know. You can hold the microphone the rest of the time.
 「あなたの歌に耳を傾けるの、好きだから」=I like to listen to you sing.
-「うーん……」=Hmm...
+「うーん……」=「Мм-м……」 
 「じゃあ、二人で歌える歌を歌おうよ」=Well, let's sing a song that we can both sing.
 「デュエット曲のこと？　私、あんまり知らないけど……」=You mean a duet?　I don't know much about that...
 「そうかな？　俺と[H名]とじゃないと歌えない歌があるじゃない」=You think so?　There's a song that only [H名] and I can sing together.

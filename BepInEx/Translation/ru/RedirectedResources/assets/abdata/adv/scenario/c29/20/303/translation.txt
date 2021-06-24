@@ -1,4 +1,4 @@
-「そろそろ終了の時間ですね」=I think it's time for us to finish.
+﻿「そろそろ終了の時間ですね」=I think it's time for us to finish.
 「もし良かったら延長しない？　もうちょっと歌ってたいなって思うんだけど」=If you want, we can extend it.　I'd like to sing some more.
 「あまり遅くならないようでしたら、構いませんよ」=If it's not too late, I don't mind.
 「そんな長くは取らないから大丈夫。それじゃあ延長するね」=I won't take too long. I'll extend it then.
@@ -10,5 +10,5 @@
 「俺は盛り上げ係りに徹するかな」=I think I'll just be a lullaby.
 『小さな手の平 掴める物は きっと限られているけど――』=There's only so much I can hold in my little palm...
 「いえぇぇぇ！」=Oh, yeah!
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
-CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

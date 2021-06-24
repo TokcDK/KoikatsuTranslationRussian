@@ -1,7 +1,7 @@
-「いい天気！　ここまで晴れてると、気持ちいいわね」=It's a beautiful day!　It's so nice when it's sunny like this.
+﻿「いい天気！　ここまで晴れてると、気持ちいいわね」=It's a beautiful day!　It's so nice when it's sunny like this.
 「本当だね、でもさすがに天気良すぎて……ねえ、ちょっと木陰で休まない？」=It's true, but it's too sunny... Hey, do you want to take a rest in the shade?
 「確かに日差しが強烈ね……ちょっとそこのベンチに避難しましょうか」=The sun is really strong... Let's take shelter on that bench.
-………………=...
+………………=.........
 （ハトがいっぱい寄ってきた……ここって、いつもハトがエサもらってる場所なのかな？）=(A lot of pigeons came by... Is this the place where pigeons always get fed?
 「……ハトは、こんなに暑いのに、倒れたりしないのかなぁ」=... I wonder if the pigeons will fall down when it's so hot.
 「あんた、変なこと気にするわね。そんなこといいから、何かこの子達にあげられるものない？」=I wonder if the pigeons won't collapse if it's so hot. Do you have anything I can give them?

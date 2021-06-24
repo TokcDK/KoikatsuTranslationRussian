@@ -1,7 +1,7 @@
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Thank you for your time. It was a beautiful ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=I hope you'll have your real wedding at one of our venues!
+﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=「Спасибо за ваш тяжелый труд. Фу-фу-фу, это была чудесная церемония」
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=「Пожалуйста, проведите вашу настоящую свадьбу у нас!」
 「ま、まだまだ先の話になりそうですけど、ここで結婚式を挙げられるように頑張ります……！」=Well, it may be a long way off, but I'll do my best to have my wedding here ...!
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Please do!　Thank you very much for agreeing to do this today.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=「Спасибо! И за то что согласились на иммитацию тоже спасибо」
 「[H名]。すごかった……俺、感動しちゃったよ」=[H名]. [H名]. That was amazing... I'm so impressed.
 「ワタシも♡　まだ胸がドキドキしてるヨ♡　結婚って、トッテモｈａｐｐｙダネ♡　ア、ン～、ｈａｐｐｙの入り口、カナ？」=I'm still pounding my heart out, too. Marriage is a very happy thing, isn't it?
 「そうだね。きっと俺たちが知らないような大変なことがいっぱいあるんだろうけど、結婚は幸せの入り口だよね」=That's right. I'm sure there are a lot of hard things that we don't know about, but marriage is the gateway to happiness, isn't it?

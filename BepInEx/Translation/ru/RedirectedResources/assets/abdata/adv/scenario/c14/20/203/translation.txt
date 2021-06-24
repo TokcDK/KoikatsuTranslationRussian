@@ -1,4 +1,4 @@
-「もうこんな時間かよ。まだ遊び足りねえ気分だぜ」=It's already this late. I feel like I haven't had enough fun yet.
+﻿「もうこんな時間かよ。まだ遊び足りねえ気分だぜ」=It's already this late. I feel like I haven't had enough fun yet.
 「そう？　結構遊びつくしたような気がするけど」=Yeah?　I feel like I've had a lot of fun.
 「いやいや、私はまだまだ満足してねえよ」=No, no, I'm not satisfied yet.
 「じゃあ、最後に観覧車に乗っていかない？」=Why don't we go on the Ferris wheel for the last time?
@@ -6,5 +6,5 @@
 「でもさ、もうそろそろ夜になるから、暗くなる前に帰ろうよ」=But it's going to be night soon, so let's get home before it gets dark.
 「ちっ、しゃーねえな。そこまで言うなら、お前の言う通りにしてやるか」=But it's getting late, so let's get home before dark. If you insist, I'll do whatever you say.
 「今日遊べなかった分は他で埋め合わせてもらうからな、そのつもりでいろよ！」=What you don't get to do today, you'll have to make up for elsewhere.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

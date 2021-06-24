@@ -1,8 +1,8 @@
-「……綺麗……ここって、夜になるとこんな夜景が見られたんだ。知らなかった……」=I didn't know ... was so beautiful ... that you could see such a beautiful night view here at night. I didn't know that...
+﻿「……綺麗……ここって、夜になるとこんな夜景が見られたんだ。知らなかった……」=I didn't know ... was so beautiful ... that you could see such a beautiful night view here at night. I didn't know that...
 「あ、やっぱり場所自体は知ってた？」=Oh, so you knew about the place?
 「うん。ここでもよく遊んだし、家族でピクニックにきたときは、いつもここでお弁当食べてたんだ。でも、夜は一回も来たことなかったから……すごくビックリ」=Yes. We used to play here a lot, and we always ate our lunch here when we came for a family picnic. But I've never been here at night, so I was ... really surprised.
 「よかった。ここからの夜景が綺麗だって知ってから、[H名]と一緒に見たかったんだ」=Good. I've been wanting to see it with [H名] since I found out how beautiful the night view is from here.
-「…………」=...
+「…………」=...............
 「[H名]？」=[H名]?
 「……あ、ごめん。なんか、すごく感動しちゃって……私、この公園も、街全体もよく知ってるつもりだったけど……」=... Oh, I'm sorry. I was really moved by it... I thought I knew this park and the whole city well, but ...
 「ここからの景色、なんだか私の住んでる街じゃないみたいで……それが、とっても不思議な感じで……ごめんね、うまく言えない」=I thought I knew this park and the whole city well, but ..." "The view from here, it's like it's not my city... It's very strange... Sorry, I can't say it well.
@@ -32,7 +32,7 @@
 「いや、だめ、考えないで。嬉しすぎてわけわからなくなっちゃった感情をそのまま俺に伝えてよ」=No, no, don't think about it. I'm not sure what to say.
 「え、えっとっ……私、キミの子供を産みたいなって、はっきり思った……んだけど……」=Well, you know... I'm pretty sure I want to have your baby...
 「ま、待って！　これね、男の子に言うと嫌われるって女の子の間では有名なの……！」=Wait a minute!　It's famous among girls that boys hate it when you tell them ...!
-「そ、そうなの？」=Is that so?
+「そ、そうなの？」=I-Is that so?
 「そうなの！　だから、本当は言いたくなかったんだけど……感情のままに言うとそうなっちゃうというか……言っていい？」=Yeah!　That's why I didn't really want to say it, but ... if I say it out of emotion, I'll end up like that... Can I say it?
 （たしかに、いきなり子供って言われても想像が……いや、それよりも、ちょっと生理的な恐怖を感じるような……そっか、男には絶対にない感情、だから？）=(It's true that I can't imagine being called a child out of the blue... No, it's more like a physiological fear... I see. It's a feeling that men never have, so?
 「い、いいよ。俺も普段から感情のままに[H名]にもの言ってるし、ここで駄目って言ったら自分勝手な男になっちゃうから、いいよ」=I don't mind. I usually say things to [H名] as I feel them, and if I say no here, I'll be a selfish man, so it's fine.

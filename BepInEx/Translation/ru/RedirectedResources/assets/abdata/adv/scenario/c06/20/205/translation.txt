@@ -1,4 +1,4 @@
-「これが観覧車……本当に高い所までのぼるのですね」=This is the Ferris wheel ... and it goes really high.
+﻿「これが観覧車……本当に高い所までのぼるのですね」=This is the Ferris wheel ... and it goes really high.
 「大丈夫？　高い所、苦手じゃない？」=Are you okay?　You're not afraid of heights?
 「はい、問題ございません。貴方はいつも私のことを気遣ってくださるのですね」=Yes, I'm fine. You always take care of me, don't you?
 「恋人だからね。まぁ、こんな高い所までのぼる機会が滅多にないっていうのもあるけど」=I'm your girlfriend. Well, it's not every day that I get the chance to climb to such heights.
@@ -25,13 +25,13 @@
 「ね。素ってそういうもので、人によって違うと思うよ。自由なだけが素じゃないっていうか……あはは、俺自身、あまりよくわかってないんだけど」=That's right. That's what it means to be real, and I think it varies from person to person. Free is not the same as plain... Haha, I don't know much about it myself.
 「いいえ、貴方の仰ることの意味は、よく伝わりました。私は、私のままで宜しいのですね。殿方の為に生きる女としての私を、愛していただけるのですね」=No, I understand exactly what you mean. I'm not sure what to do with it. You love me as a woman who lives for you, don't you?
 「そうだよ。だから……すぐには無理だと思うけど、浮世離れしてることを短所だなんて思わないで。俺はそんな[H名]を好きになったんだから」=That's right. I'm sure you can't do it right away, but don't think that being unworldly is a disadvantage. I've come to love [H名] like that.
-「はい……」=Yes...
+「はい……」=「Да……」
 「[H名]……こっち向いて」=[H名]... turn around.
-「はい」=Yes.
+「はい」= 「Да」
 「キスしていい？」=Can I kiss you?
 「はい。貴方の御心のままに」=Yes. As you wish.
 「好きだよ、[H名]……」=I like you, [H名]...
-「ん……」=It's ...
+「ん……」=Mm...
 「ん……んん……」=Mmm... Mmm...
 （……）=(...)
 「迷信みたいなものだけど、観覧車の頂上でキスしたら永遠に結ばれるらしいよ。[H名]は信じる？」=It's kind of a superstition, but they say if you kiss on top of a Ferris wheel, you'll be together forever. Do you believe it?

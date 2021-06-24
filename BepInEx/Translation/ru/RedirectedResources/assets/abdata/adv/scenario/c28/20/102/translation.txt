@@ -1,8 +1,8 @@
-「今日は本当にいい天気じゃ」=It's really a beautiful day today.
+﻿「今日は本当にいい天気じゃ」=It's really a beautiful day today.
 「そうだね。陽射しが強くて喉が乾いてくるな」=Yes, it is. The sun is shining so brightly it's making me thirsty.
 「何か飲み物でも買うかのう」=I think I'll buy something to drink.
 「あそこに移動販売の車が停まってるから見にいってみようか」=There's a mobile van parked over there. I think we'd better check it out.
-………………=...
+………………=.........
 「結構品揃えが良いんだね。お菓子とか軽食もあるよ」=They've got a pretty good selection. They have snacks and refreshments.
 「飲み物だけじゃなくて何か食べたい気もするのう」=I think I'd like something to eat as well as drink.
 「あっ、アイスクリームもある」=Oh, they have ice cream.

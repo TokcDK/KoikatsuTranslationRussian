@@ -1,4 +1,4 @@
-「ほら、ここだよ」=Here we are.
+﻿「ほら、ここだよ」=Here we are.
 「わぁ、綺麗じゃのう！」=Oh, it's beautiful!
 「この街の夜景が一望できるんだ」=You can see the whole city at night.
 「すごいのう……こんなに綺麗な夜景が見れるところがあるなんて、知らなかったのじゃ」=It's amazing... I didn't know there was a place with such a beautiful night view.
@@ -6,13 +6,13 @@
 「そんな風に思ってくれておったのか……ありがとうなのじゃ……」=Thank you ... for thinking of me that way.
 「[H名]なら絶対に喜んでくれると思ったんだ」=I thought [H名] would love it.
 「お主はロマンチストじゃな……」=You're a romantic...
-「そうかな？」=You think so?
+「そうかな？」=「Ты так думаешь?」
 「わしはお主のそんなところも好きなのじゃ」=I like that about you.
 「他には？」=What else?
 「他には……優しいところも、面白いところも…………」=I like your ... kindness. I like your funny side...
 「…………もうとにかく全部が好きなのじゃ！」=I like ... everything about you!
 「そんなカワイイ顔で嬉しいこと言われたら…………」=If you say something nice to me with such a pretty face...
-「ん？」=Hmm?
+「ん？」=「М?」
 「俺、我慢できなくなっちゃうよ」=I can't take it anymore.
 「なっ、何を言っておるのじゃ！？」=What are you talking about?
 「キス……してもいいかな？」=Can I get a ... kiss?
@@ -22,7 +22,7 @@
 「そんな風に言われたら……断れないのじゃ」=If you say it like that... I can't say no.
 「目をつぶって」=Close your eyes.
 「お主はずるいやつじゃのう……」=You're a cunning one...
-「ん……」=It's ...
+「ん……」=Mm...
 「……あっ…………んんっ……」=... Oh ... Mmm...
 「……大好きだよ」=I love ... you.
 「こんな外でキスして……」=Kissing me out here in the ...
@@ -40,7 +40,7 @@
 「……あっちの方なら人に見つからない、いい場所があるよ」=... There's a good place over there where no one will see you.
 「……うぅ……分かったのじゃ。お主が望むなら……」=I know a good place over there where people won't find you... Ugh ... I get it. If you want, you can go to ...
 「確認じゃが……お主が言っておるのは…………エッチのことなのか？」=Just to confirm... are you talking about ... sex?
-「……うん」=... Yeah.
+「……うん」="...Sure."
 「むむぅ……何度も言うが、ここは外じゃぞ……？」=Mmm ... I keep telling you, we're outside ...?
 「あっちの方なら人も来ないし、大丈夫だよ。でも、本当に無理なら言ってね」=It's okay, there's no one coming over there. But if you really can't make it, let me know.
 「無理……というか……わしも興味がないわけでないのじゃが……」=I can't... I mean, it's not that I'm not interested, but ...

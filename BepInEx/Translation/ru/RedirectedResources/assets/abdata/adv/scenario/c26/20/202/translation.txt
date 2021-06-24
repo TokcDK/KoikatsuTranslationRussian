@@ -1,7 +1,7 @@
-「人気のあるアトラクションは一通り乗ったかな」="It seems like a popular attraction."
+﻿「人気のあるアトラクションは一通り乗ったかな」="It seems like a popular attraction."
 「……うん、そう、だね。上がったり、下がったり、激しいのが多かった」="...Yeah. It was intense, with constant ups and downs..."
 「アトラクションを楽しんでこその遊園地デートだな」="The amusement park is the perfect date spot."
-「ん……？」="Huh...?"
+「ん……？」=「Мгм……？」
 「ガイドマップを見てるけど、他に乗りたいものある？」="You're looking at the park map. Was there anything you wanted to do?"
 「……なんとなく……眺めてただけ」="...Not really... I was just looking at the map."
 「なんとなくか。俺に貸してよ、それ」="Can I look at it for a second?"
@@ -13,7 +13,7 @@
 「毎日、朝食の時に飲んでる……飲まないと一日が始まらない」="Every morning, at breakfast... I almost can't function for the day without it."
 「すっごく、好きなんだね。じゃあ、まったく砂糖とかミルクとか入れないの？」="Really? You don't add milk or sugar at all?"
 「そんなことはない……気分的に入れるときもある」="Sometimes I do... but often times, I don't."
-「そうなんだ」="Is that so?"
+「そうなんだ」=「Ясненько」
 「……でも、基本入れない。ブラックが一番」="Yeah. Black coffe is the best."
 「そうだ、休憩がてらコーヒーでも飲もうか！」="Well then, let's get something to drink!"
 「そう言えば……ブラックコーヒーは飲めるんだっけ？」="Yeah, that's the stuff... So, how do you take your coffee?"

@@ -1,4 +1,4 @@
-「うわっ……こんなに人が乗ってくるなんて……人の圧力に、負けそう……」=Wow, I can't believe ... so many people are on it... I'm losing the pressure.
+﻿「うわっ……こんなに人が乗ってくるなんて……人の圧力に、負けそう……」=Wow, I can't believe ... so many people are on it... I'm losing the pressure.
 「く……も、もうムリ～」=I can't ... do this anymore.
 「ご、ごめん……くっついちゃって……」=I'm sorry ... for sticking to you...
 「ううん、平気。こんなに混んでたら、しょうがないわよ」=No, I'm fine. I can't help it if it's so crowded.
@@ -12,5 +12,5 @@
 （……って、何を考えてるんだ俺はっ！）=(What the hell was I thinking with ...? !
 （危ない、危ない……あのままお尻に意識を向けてたら絶対勃起してた……）=(Watch out, watch out ... if I had kept my attention on my ass, I would have gotten a boner ...)
 （ふぅ、間一髪……でもないな！　密着したままだもん！　え、えーと……別のこと考えて、気を紛らわせよう……）=(Hmm, not even ... in the nick of time!　We're still in contact!　Let's think of something else to distract ourselves...)
-CHOICE:『欲望に身を任せる』="Give in to your desires
-CHOICE:『鉄の自制心を持って抵抗する』="Resist with iron self-control.
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
+CHOICE:『鉄の自制心を持って抵抗する』="Resist with your self-control of steel."

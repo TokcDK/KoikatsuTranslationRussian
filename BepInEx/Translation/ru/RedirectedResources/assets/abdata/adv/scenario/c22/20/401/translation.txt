@@ -1,4 +1,4 @@
-「[H名]ってさ、いつもどんな雑誌とか読んでるの？」=What kind of magazines do you usually read?
+﻿「[H名]ってさ、いつもどんな雑誌とか読んでるの？」=What kind of magazines do you usually read?
 「え？　雑誌？　どうして？」=What kind of magazines?　Magazines?　Why?
 「あ、うん。[H名]って流行ってることに詳しいからさ。俺も参考にさせてもらおうかなって」=Oh, yeah. You know a lot about what's popular. I thought I'd use it as a reference.
 「なるほど。でも私、全然普通だよ？　読んでるのも普通に女の子が買ってる雑誌だし……」=I see. But I'm totally normal, you know.　I read magazines that normal girls buy...
@@ -20,6 +20,6 @@
 「縁結び……他にはこの辺りのこと書いてなかったの？」=Didn't you write anything else about the ... matchmaking area?
 「えーっと……あ、そうそうっ、不思議な石の話もあったよ。撫で撫ですると恋愛が成就するんだって」=There was also a story on ... about a mysterious stone. There was also a story about a mysterious stone that, if you stroke it, your love will come true.
 「他にも、恋が叶う砂があるお寺とか……好きな人に告白してもらえるお水とか……そういうのがあったかな」=There was also a temple that had sand that would make your love come true... and water that would make the person you love confess their love to you... or something like that.
-「あはは……」=Ha-ha-ha...
+「あはは……」=Ahaha...
 （ミステリー系の雑誌って言ってたのに、見事に恋愛関係ばっかりだ……）=(You said it was a mystery magazine, but it's all about romance...)
 （きっと[H名]って、自分では気付かずに、そういう情報ばっかり集めちゃってるんだろうなー）=(I'm sure [H名] collects all that information without even realizing it.

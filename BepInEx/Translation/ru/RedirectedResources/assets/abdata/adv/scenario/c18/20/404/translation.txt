@@ -1,4 +1,4 @@
-「わあ、写真よりも豪勢かもしれないですね……」=Wow, it's even better than the picture...
+﻿「わあ、写真よりも豪勢かもしれないですね……」=Wow, it's even better than the picture...
 「ラッキーだね」=You're lucky.
 「はい。今日は残念なことがなくて良かったです……」=Yes. I'm glad I didn't have any disappointments today...
 「残念って、何のこと？」=What do you mean, "no disappointments"?
@@ -22,8 +22,8 @@
 「それ、[P名]さんが食べたいだけじゃないんですか？」=Don't you think [P name] just wants to eat it?
 「はは、バレたか」=Ha, you got me.
 「もうっ。じゃあ欲張りしたバツとして、毒味をお願いします。口を開けてください」=Damn it. Then, as a punishment for being greedy, I ask you to taste the poison. Open your mouth, please.
-「はい、あーん」=Yes, yes.
-「あーん……」=Mmm...
+「はい、あーん」=Here. Aaahn.
+「あーん……」=Ahh...
 「……うん、程よい甘さで、おいしいよ」=... Yeah, it's just the right amount of sweetness, it's delicious.
 「よかったです。では、私も……おいしいですね。甘すぎなくて、ちょうどいいです」=I'm glad. Then I'll have a ... delicious one, too. It's not too sweet, it's just right.
 「うん、よかった。そういえば同じスプーンで食べたから、これで間接キスだね」=Yes, it's good. Oh, by the way, we ate with the same spoon, so now we're indirectly kissing.

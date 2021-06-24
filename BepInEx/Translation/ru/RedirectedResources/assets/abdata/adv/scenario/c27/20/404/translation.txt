@@ -1,4 +1,4 @@
-「写真より実物の方が華やかだね」=You look more gorgeous in person than in the pictures.
+﻿「写真より実物の方が華やかだね」=You look more gorgeous in person than in the pictures.
 「やっぱり料理は見た目も大切よね～。それじゃあ、いただきます」=Looks are important in cooking, aren't they? Let's eat.
 「はむっ……ん～～っ！　幸せ～♪」=Hmmm.....~!　I'm so happy!
 「あはは、頬がゆるみきってるよ」=Haha, your cheeks are all relaxed.
@@ -9,7 +9,7 @@
 「……あんたも一口食べてみる？」=... Would you like to try a bite?
 「いいの？　じゃあ、遠慮なくもらおうかな」=Are you sure?　I'll take a bite.
 「えっと……は、はい、あーん」=Um... yes, yes, yes.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「あむっ……うん、ジューシーな果肉の食感がいいアクセントになってるね。美味しかったよ。ありがと、あーんしてくれて」=Mmm ... Yeah, the texture of the juicy pulp is a nice accent. It was delicious. Thank you for giving me that.
 「あぅ、どういたしまして……」=Oh, you're welcome ...
 「でも、[H名]って甘いの苦手じゃなかったけ？　そのチョコケーキを食べて大丈夫？」=But I thought [H名] didn't like sweets.　Is it okay to eat that chocolate cake?
@@ -18,7 +18,7 @@
 「そうなんだ。甘いの苦手な男ってけっこういるから、バレンタインとかの贈り物に良さそうだね」=I see. There are a lot of guys who don't like sweets, so this would be a good gift for Valentine's Day.
 「一口、味見させてもらってもいい？」=Can I have a taste?
 「いいわよ。ちょっとお皿を貸して」=Sure. Can I borrow your plate?
-「あーん」=Ahn.
+「あーん」=「А-ам」
 「……し、しなきゃダメ？」=Do I have to go to ...?
 「ん、はあくたえさせてほいいな」=No, I want you to take a bite.
 「うっ、食べさせるまで口を開けたままにするつもりね……」=Ugh, you're gonna hold your mouth open until I feed you...

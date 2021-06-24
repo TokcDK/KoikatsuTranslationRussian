@@ -1,4 +1,4 @@
-「さあ、どうぞ。お姫様」=There you go. Come on, princess.
+﻿「さあ、どうぞ。お姫様」=There you go. Come on, princess.
 「まぁ……おほほほほ、悪くないですわ。流石はわたくしが見込んだ方ですわね。デートの締めくくりにはふさわしい光景ですわ」=Well... not bad. Not bad at all. You're the one I expected. It's a fitting end to a date.
 「でしょ？　ここなら喜んでくれるって思ってたんだよね」=You know?　I knew you'd be happy here.
 「ええ、お見事ですわ。わたくしの美貌と知性を称えるにふさわしい場所ですわね」=Yes, you're very good. It's a fitting place to celebrate my beauty and intelligence.
@@ -27,7 +27,7 @@
 「うえっ、俺、何されちゃうの～……？」=What's going to happen to me at ...?
 「…………ッ！？」=...?
 「…………ん、んん……っ」=...m, mmmm...
-「ん…………」=...
+「ん…………」=「М…………」
 「……ぷはっ……ビックリした」=... Pfft... You scared me.
 「おほほほほ！　そーやって、せいぜいわたくしの前で、無様な姿を晒すといいですわ！」=Ohohohoho!　I hope you'll be able to show your disgusting appearance in front of me like that!
 「い、いや、いきなりそんなことされたら誰だってビックリするよ！　ってか、どうしていきなりキスなんか……」=No, no, no, no, no, no, no, no!　I mean, why are you kissing me out of the blue? ...

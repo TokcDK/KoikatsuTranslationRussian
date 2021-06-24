@@ -1,4 +1,4 @@
-なし=Нет
+﻿なし=Нет
 ブレザーA=Blazer A
 ブレザーA前開き=Blazer A (Opened)
 ブレザーB=Blazer B
@@ -9,6 +9,6 @@
 カーディガン=Cardigan
 ジャージ前開き=Open Jersey
 学ラン前開き=Gakuran (Opened)
-うさ耳パーカー=Rabbit-Ears Parka
+うさ耳パーカー=Уши кролика 
 ポンチョコート=Poncho Coat
 エプロン=Apron

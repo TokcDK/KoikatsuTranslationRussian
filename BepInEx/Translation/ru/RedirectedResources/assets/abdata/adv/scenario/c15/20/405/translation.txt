@@ -1,4 +1,4 @@
-「もぐもぐ……うんっ！　ここのハンバーグは美味しいぞ！」=The hamburger is delicious!　The hamburgers here are delicious!
+﻿「もぐもぐ……うんっ！　ここのハンバーグは美味しいぞ！」=The hamburger is delicious!　The hamburgers here are delicious!
 「それならよかった。それにしてもすごいな。ハンバーグの匂いがこっちまで……匂いを嗅いでるだけで、こっちのお腹も空いてくるよ」=That's good. But still, it's amazing. I can smell the hamburgers all the way to ... and just smelling them is making me hungry too.
 「[H名]がよければ、一口もらえないかな？」=If you don't mind, could I have a bite?
 「うん、いいぞー。このハンバーグは美味しいからなー、食べたくなる気持ちは分かる」=Yes, I would. This hamburger is so good, I can see why you'd want to try it.
@@ -15,7 +15,7 @@
 「……うぅー、キミはこうなると聞かないんだからなー」=... Ugh, you never listen to me when I'm like this.
 「しょうがないなー……ふ、ふーふー」=I can't help it... Mmm-hmm.
 「ほら、あーん」=Here you go.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「もぐもぐ……」=Mmm...
 「味はどうだー？　美味しいだろー？」=How's it taste?　It's good, right?
 「うん、美味しいっ！　[H名]に食べさせてもらったから、余計美味しく感じるよ！」=Yeah, it's good!　It tastes even better now that [H名] is feeding it to me!

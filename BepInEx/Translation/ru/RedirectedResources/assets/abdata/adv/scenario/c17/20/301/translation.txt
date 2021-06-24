@@ -1,9 +1,9 @@
-「ここがカラオケルーム……案外狭く感じるわね」=This is the karaoke room ... It's a lot smaller than it seems.
+﻿「ここがカラオケルーム……案外狭く感じるわね」=This is the karaoke room ... It's a lot smaller than it seems.
 「そんな初めて来た人みたいなこと言ってどうしたのさ。友達と来たことくらいあるでしょ？」=What's the matter with you? You sound like you've never been here before. Have you ever been here with your friends?
 「ないわよ。一緒に来る友達もいないし、来る理由がないわ」=No, I haven't. I don't have any friends to go with. I don't have any friends to come with, so there's no reason to come.
 「あっ、そ、そうなんだ……ごめん、無神経なこと言ったね」=Oh, I see... Sorry, that was insensitive.
 「別に気にしなくていいわよ……裏を返せば、初めてのカラオケをあなたと体験できる、ということなのだし」=Don't worry about it... On the other hand, it'll be my first karaoke experience with you.
-「[H名]さん……」=[H名]...
+「[H名]さん……」=[H名]-san...
 「よ～し、それじゃあ今日は二人でいっぱい歌おうよ」=All right, then. Let's sing a lot together today.
 「それは遠慮するわ」=No, thank you.
 「……え？　歌わないの？」=...　You're not going to sing?

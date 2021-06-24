@@ -1,4 +1,4 @@
-あ、あはは、こういうの……結構緊張するわね=A-ahaha, this kind of thing... I'm getting pretty nervous.
+﻿あ、あはは、こういうの……結構緊張するわね=A-ahaha, this kind of thing... I'm getting pretty nervous.
 うぅ……これは恥ずかしいって言うよりも照れるって感じ……かしら？=Uu... This feels more embarrassing than just being shy... I guess?
 さてとそれじゃ始めよっか？　え？　雰囲気ない？　そんなこと言わないの！=Well then, shall we start? Eh? Not in the mood? Don't say that!
 ねぇねぇ、早くしましょ？　焦らすのなんてナシよ？=Hey, hey, let's do it quickly? Don't keep me waiting.
@@ -93,7 +93,7 @@
 もう……と、特別よ？=Geez... It's s-special, you know?
 想像しただけで恥ずかしくなっちゃう=Just thinking about it is making me embarrassed.
 キミの前なら、どんな恥ずかしいことでも喜んでやっちゃうわよ♪=If it's with you, I can do anything, no matter how embarrassing it is.
-頑張ってみるわ=I'll try my best.
+頑張ってみるわ=I'll do my best.
 どんな風にすれば気持ちいいかしら……=I wonder which way will feel the best...
 たくさん感じてね=Savour it properly, alright?
 お姉さんが、たくさん感じさせちゃう=Onee-san will make you feel lots of good stuff.

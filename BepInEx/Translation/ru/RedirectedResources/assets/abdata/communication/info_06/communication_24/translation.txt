@@ -1,4 +1,4 @@
-「きゃっ！？　もしかして、女子トイレに入ってまで、私に会いに……？」=I'm not sure what to say.　Are you sure you want to go into the women's restroom to see me ...?
+﻿「きゃっ！？　もしかして、女子トイレに入ってまで、私に会いに……？」=I'm not sure what to say.　Are you sure you want to go into the women's restroom to see me ...?
 「きゃあっ！　いくら私の着替えが見たいからってそんな、強引すぎます♡」=「Кья! Ты слишком напорист, я же хотела переодеться ❤」
 「ごめんなさい、小説を書かないといけないので……」=I'm sorry, but I have to write a novel...
 「少し混乱しているので、お話は避けていたんですけれど……」=I'm a little confused, so I've been avoiding talking about it...
@@ -335,7 +335,7 @@
 「今度、デートにいきませんか？　もちろん、私と二人きりのラブラブデートです♡」=Would you like to go on a date sometime?　Of course, it will be just the two of us on a lovey-dovey date.
 「うふふ♡　集合場所には奇麗な身体で向かいますね♡」=Уфуфу❤ Я пойду к месту встречи с чистым телом❤
 「あなたに愛想を尽かされてしまったわけではないんですよね……？」=It's not like I've run out of love for you, is it ...?
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「私も教えてほしいところがあるんです♡　あなたの得意なあの科目なんですけど♡」=I have a subject I want you to teach me too ♡ That subject you're good at ♡
 「ごめんなさい。あなたの銅像制作が佳境にきていて……でも、完成したらプレゼントしますね♡」=I'm sorry. I'm sorry, but I'm in the middle of making your statue... But I'll give it to you when it's finished.
 「テストに向けて、一緒に勉強をしませんか？」=「Не хотел бы ты поучиться со мной?」
@@ -548,7 +548,7 @@
 「何ですか？　[Pあだ名]?　うふふ、ちょっぴり変態さんっぽいですね?」=「Что такое [Pあだ名]? Уфу-фу-фу, это звучит так по извращенски?」
 「……もう♡　愛称で呼んでもいいですけど、謝ってくださいね♡」=...♡ You can call me by my nickname if you want, but please apologize.
 「ふふっ……[Pあだ名]♡」=...[Pあだ名]♡
-「どうしたの？　[Hあだ名]」=What's wrong with you?　[Hあだ名]
+「どうしたの？　[Hあだ名]」=“What's wrong, [Hあだ名]?”
 「愛称で呼び合える二人っていいなって思ったら、呼んでいました♡」=I thought it would be nice if we could call each other by our nicknames, so I did.
 「断るなんて選択肢はありません。私を淫らな女の子にしてください♡　[Pあだ名]……♡」=Saying no is not an option. Please make me a slutty girl♡ [Pあだ名]...♡
 「あの、私の身体を使ったコイカツを……エッチをしてください?　[Pあだ名]……?」=「Ты же глава клуба, мы должны тренироваться, поэтому…… Займемся сексом? [Pあだ名]…… ❤」
@@ -558,5 +558,5 @@
 「……今は邪魔が入ってしまうので、申し訳ございません」=... I'm sorry to disturb you right now.
 「このような場所で二人きりですね……♡　うふふ♡」=「Мы одни в таком месте, как это...❤ Уфуфу❤」
 「二人きりのときなら大歓迎なのですが……ごめんなさい」=When it's just the two of us, you're more than welcome... I'm sorry.
-「入部してくれるの？　歓迎するよ！」=OPTION[17]:Are you going to join us?　You're welcome!
+「入部してくれるの？　歓迎するよ！」=“You'll join us? Welcome!”
 「嬉しいです♡」=「Я счастлива❤」

@@ -1,4 +1,4 @@
-「おおっ、いい景色だなー！」=Oh, it's a nice view!
+﻿「おおっ、いい景色だなー！」=Oh, it's a nice view!
 「よかった、[H名]に喜んでもらえてなによりだよ」=Good, I'm glad you're happy.
 「いやあ、私もそこそこいい場所は知ってるけどよ、こんな景色は初めてだぜ」=Well, I know some nice places, but I've never seen a view like this.
 「へえ、良かったら他の夜景スポットも教えてほしいな」=Yeah, I'd like to know about some of the other night view spots.
@@ -18,8 +18,8 @@
 「……うん、分かった」=... Yeah, okay.
 「俺も、[H名]とキスしたかったし」=I've always wanted to kiss [H名].
 「[P名]……じっとしてろよ。私からしてやる」=[P name]... stay still. I'll do it.
-「んんっ……」=Mmm...
-「ん……」=It's ...
+「んんっ……」=「М-н……」
+「ん……」=Mm...
 「……一度でいいから、やってみたかったんだ」=I've always wanted to ... do it, just once.
 「好きな人と……こんな風に、ロマンチックにキスするのをさ」=I've always wanted to kiss someone I like ... in a romantic way like this.
 「[H名]は……これだけで満足？　もっと、愛を確かめ合ってみない？」=Is ... enough for [H名]?　Why don't we try to make love again?

@@ -1,4 +1,4 @@
-「やっぱり綺麗ね……」=You're beautiful...
+﻿「やっぱり綺麗ね……」=You're beautiful...
 「そうだね……それに、[H名]も綺麗だよ」=Yeah... and [H名] is beautiful, too.
 「な、なに言ってんの。急に……恥ずかしいじゃない」=What are you talking about? You're ... embarrassing me.
 「思っていることを、そのまま口にしているだけなんだけどな」=I'm just saying what's on my mind.
@@ -33,7 +33,7 @@
 「それくらい素敵ってことだよ。ねえ……また、この景色を二人で見に来ようね」=That's how wonderful it is. Hey ... let's come back and see this view together.
 「んー……うん……」=Hmm... Yeah...
 （あれ？　夜景をずっと見つめて……）=(Huh?　"...Yeah...
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「……目に焼き付けとこうかと思って。この夜景は今日だけだもの」=I thought I'd burn it into my ... eyes. This is the only night view we'll get.
 「……[H名]、そんなこと言って恥ずかしくない？」=...[H名], aren't you embarrassed to say that?
 （あ、真っ赤になった……今、気づいたんだ）=...[H名], aren't you embarrassed to say that?" (Oh, I just realized ... I turned red.)

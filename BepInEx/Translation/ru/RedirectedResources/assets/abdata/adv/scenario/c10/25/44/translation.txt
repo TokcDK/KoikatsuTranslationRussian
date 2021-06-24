@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「まずは餌を喰らえる店を探そうではないか！」=Let's find a place where we can get some food!
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「うむ、まずまずの味であったな！　我は満足だ」=Well, that was not so bad!　I'm satisfied.
 「（よかった、喜んでもらえたみたいだ）」=I'm glad you liked it.

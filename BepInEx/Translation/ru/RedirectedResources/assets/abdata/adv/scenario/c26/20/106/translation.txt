@@ -1,4 +1,4 @@
-「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
+﻿「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
 「……うん。ここ、好き」="...Yeah. I like it here."
 （[H名]と初めて来た時もこんな感じだったな……）="(This is just like the first time I met [H名]...)"
 「……どうしたの？　もしかして……思い出してたの？」="...What's wrong? Did you remember something again?"
@@ -13,7 +13,7 @@
 「でも……そんなに覚えて、くれてるなんて……その、ありがとう」="But... I can't believe you remembered that much... Thank you."
 「どういたしまして。ちなみに[H名]はどうなの？」="...You're welcome? By the way, how are you feeling, [H名]?
 「全部、覚えてる……あなたとの思い出を忘れるわけない」="I'll never forget about those memories with you..."
-「……ありがとう」="...Thanks again, [P]."
+「……ありがとう」="...Thank you."
 「それじゃあ……」="Well then..."
 「またエッチしない？」="Do you want to do H again?"
 「……もしかして、あなた、そういうフェチなの？」="...Maybe... you're my fetish?"

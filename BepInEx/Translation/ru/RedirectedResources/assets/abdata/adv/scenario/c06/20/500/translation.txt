@@ -1,4 +1,4 @@
-「よし、到着」=Okay, we're here.
+﻿「よし、到着」=Okay, we're here.
 「[H名]、今日はありがとう。最初から最後まで俺を立ててくれてたね」=Thank you for today, [H名]. You stood up for me from start to finish, didn't you?
 「はい。お慕い申し上げております、という言葉に偽りはございませんから……いえ、こういうことは自分で申し上げるものではありませんね」=Yes, sir. I'm sure you'll be pleased to hear that I adore you... No, I don't think I should be the one to tell you this.
 「あはは、[H名]に限っては自分で言っちゃってもいいレベルだと思うよ」=Haha, I think it's okay for [H名] to say it himself.
@@ -21,6 +21,6 @@
 「……ありがとう。それじゃあ、また学園で」=Thank you ... See you at school.
 「……は、はい。あの、本日は……あ、ありがとう存じます。それでは、失礼いたします」=... Yes, yes. Well, thank you for today's ... Thank you for your time.
 （たまらなくなって、不意打ちのキスをしちゃった。予想してなかったのか、かなり恥ずかしがってたけど、そんな[H名]も可愛いな……）=(I couldn't resist, so I kissed her unexpectedly. (I couldn't resist and kissed her unexpectedly. I guess I wasn't expecting it or she was pretty shy, but that kind of [H名] is cute too...)
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

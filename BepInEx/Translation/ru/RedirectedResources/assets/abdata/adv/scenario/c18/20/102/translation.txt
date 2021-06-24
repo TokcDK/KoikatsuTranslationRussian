@@ -1,4 +1,4 @@
-「よく晴れた散歩日和になったね」=It's a beautiful day for a walk, isn't it?
+﻿「よく晴れた散歩日和になったね」=It's a beautiful day for a walk, isn't it?
 「はい。こういうときに雨じゃないのって、珍しい気がします」=Yes. I think it's rare that it doesn't rain at times like this.
 「[H名]が散歩するときは結構雨になっちゃうんだ？」=Does it rain a lot when [name] goes for a walk?
 「楽しみな時だけ雨女なんですけど……今日晴れたのは[P名]さんが一緒だからでしょうか？」=I'm a rainy woman only when I'm having fun... Is it because [P name] is with you that it's sunny today?
@@ -6,7 +6,7 @@
 「だといいですね」=I hope so.
 「きっとそうだよ……あれ、黒猫だ。こっちおいでー」=I'm sure he did... Hey, there's a black cat. Come here.
 「猫ちゃん、こっちですよ～」=Cat, come here.
-にゃー=Meow.
+にゃー=Nyaaa
 「よーしよし、いい子いい子……フカフカだなあ」=Good, good, good, good... It's so fluffy.
 「とてもおとなしい子ですね」=He's very quiet.
 「そうだね、すこし[H名]も撫でてあげたら？」=Yeah, why don't you pet [H名] a little?

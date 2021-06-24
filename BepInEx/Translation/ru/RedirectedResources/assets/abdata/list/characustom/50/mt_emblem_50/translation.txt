@@ -1,4 +1,4 @@
-背番号00="Jersey Number $1"
+﻿背番号00="Jersey Number $1"
 背番号01="Jersey Number $1"
 背番号02="Jersey Number $1"
 背番号03="Jersey Number $1"
@@ -19,4 +19,4 @@
 背番号18="Jersey Number $1"
 背番号19="Jersey Number $1"
 背番号20="Jersey Number $1"
-一角獣=Unicorn
+一角獣=Единорог

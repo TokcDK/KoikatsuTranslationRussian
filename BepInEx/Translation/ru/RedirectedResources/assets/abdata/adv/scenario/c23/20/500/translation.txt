@@ -1,4 +1,4 @@
-「……ここまで戻ってきたね」=... You're back here.
+﻿「……ここまで戻ってきたね」=... You're back here.
 「ええ。今日の始まりの場所に……」=Yeah... is where we started today.
 「……二次元には色んなヒロインたちがいるけど……デートの別れ際には、みんな同じ気持ちになるのかな？」=There are many heroines in ... two dimensions, but do they all feel the same way when they say goodbye to their ... dates?
 「そうだと思うよ。男のほうもたぶん同じだと思う」=I think so. I think so. I think it's probably the same for men.
@@ -14,11 +14,11 @@
 「最後に抱きしめていい？」=Can I have one last hug?
 「……こういうときは、何も言わず抱きしめるものですぞ。まあ、乙女ゲーの話ですが」=... In this kind of situation, you should hug her without saying a word. Well, we're talking about an otome game.
 「そういうものか。それじゃあ……」=So that's how it is. Well then...
-「ん……」=It's ...
-「んん……」=Mmm ...
+「ん……」=Mm...
+「んん……」=「М-м……」
 「……不意打ちのキスも、定番ですな。個人的には好みの展開だったり」=The ... surprise kiss is also a classic. Personally, I like it.
 「それはよかった。……また学園でね？　ばいばい」=I'm glad to hear it... See you at school, okay?　Bye bye.
 「うん……また、学園で……」=Yeah... See you at school...
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

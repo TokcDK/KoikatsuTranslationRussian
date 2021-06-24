@@ -1,4 +1,4 @@
-机1=Desk 1
+﻿机1=Desk 1
 机2=Desk 2
 折り畳み用机=Folding Desk
 コーナー机=Corner Desk
@@ -14,5 +14,5 @@
 食堂長テーブル=Long Dining Table
 ガラステーブル(四角)=Rectangular Glass Table
 ガラステーブル(円)=Circular Glass Table
-教室机=Classroom Desk
+教室机=Парта
 教卓=Teacher's Desk

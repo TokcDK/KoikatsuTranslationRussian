@@ -1,4 +1,4 @@
-「そのオムライス、すごく美味しそうだね」=That omelet looks really good.
+﻿「そのオムライス、すごく美味しそうだね」=That omelet looks really good.
 「実際美味しいわよ」=It's actually delicious.
 「人気のランチメニューなんだってね」=I hear it's a popular lunch menu.
 「そうね。評判もいいみたい」=Yes, it is. It's got a good reputation.
@@ -12,8 +12,8 @@
 「ふ、普通じゃないわよ！　デートだから距離感が近いだけ！」=No, it's not normal!　It's just that we're on a date and we're very close!
 「ははは……まあ、ダメならいいよ。俺のお皿に一口分乗せてくれる？」=Hahaha ... Well, if not, fine. Can you put a bite on my plate?
 「……だから、ダメとは言ってないわよ。口、開けて」=... So, I didn't say no. Open your mouth.
-「あーん」=Ahn.
+「あーん」=「А-ам」
 「ん、どうぞ」=Mmm, here you go.
-「あむっ……」=Mmm...
+「あむっ……」=*Bite*...
 「もぐもぐ……美味しい、ありがとね」=Mmm... Delicious. Thank you.
 「……人前でするのは、やっぱり恥ずかしいわ」=I'm embarrassed to do this in front of ... people.

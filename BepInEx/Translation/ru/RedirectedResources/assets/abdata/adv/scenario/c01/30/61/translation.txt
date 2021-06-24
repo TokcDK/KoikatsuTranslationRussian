@@ -1,4 +1,4 @@
-「学園は関係なく、あなたとこうして一緒にすごせること、とても嬉しいです。今日は楽しみましょうね」=I'm very happy to be here with you, regardless of the school. Let's have fun today.
+﻿「学園は関係なく、あなたとこうして一緒にすごせること、とても嬉しいです。今日は楽しみましょうね」=I'm very happy to be here with you, regardless of the school. Let's have fun today.
 「うん！　いろんなことをして、学園じゃ見られない顔を見せてくれたら嬉しいな」=Yes!　I hope we can do a lot of things together, and I hope you get to see some faces that you don't get to see at school.
 「も、もう……」=It's already ...
 「同じ街並みなはずなのに、あなたと一緒だと違って見える――不思議です」=The streets are the same, but they look different when you're with me.
@@ -8,9 +8,9 @@
 「はははっ。俺たち、以心伝心なのかもね」=Hahaha. I think we're on the same page.
 「で、ですから、恥ずかしいことを言わないでと……あうぅ……」=So don't be embarrassed ... to say it.
 「はあぁ……今日も心が満たされる一日でした」=Haha... Another day of contentment.
-CHOICE:「もうちょっと一緒にすごさない？」="Do you want to spend some more time together?
-CHOICE:「俺もだよ。それじゃあまたね」="Me too. See you later.
-「もうちょっと一緒にすごさない？」=Do you want to spend some more time together?
+CHOICE:「もうちょっと一緒にすごさない？」=[Can't we stay together just a bit longer?]
+CHOICE:「俺もだよ。それじゃあまたね」=[Same here. Then, till next time]
+「もうちょっと一緒にすごさない？」=[Can't we stay together just a bit longer?]
 「あっ……はい。私も、できればそうしたいと思っていました」=Oh ... yes. I was hoping to do the same.
-「俺もだよ。それじゃあまたね」=Me too. I'll see you later.
+「俺もだよ。それじゃあまたね」=[Same here. Then, till next time]
 「はい。今日はありがとうございました。また学園で」=Okay. Thank you very much for today. See you at school.

@@ -1,12 +1,12 @@
-「……やっぱり正装だから、着てるだけで気が引き締まる感じがするなぁ」=... It's formal attire after all, so just wearing it makes me feel more relaxed.
+﻿「……やっぱり正装だから、着てるだけで気が引き締まる感じがするなぁ」=... It's formal attire after all, so just wearing it makes me feel more relaxed.
 （[H名]の方の準備はどうなってるんだろう……？　ウェディングドレスだから、時間がかかってそうだ）=I wonder how [H名]'s preparations are going ...?　(It's a wedding dress, so it seems to be taking a long time.
 （でも……その分、すごく綺麗になってるんだろうな……早く見てみたい）=(But ... that's why it's so beautiful... I can't wait to see it.)
-（いよいよ出番か……）=(Finally, it's time to go ...)
+（いよいよ出番か……）=（Вот и пора……）
 （き、緊張がマックスだ……）=(I'm so nervous...)
 （……いや、だめだめ、[H名]の新郎役としてちゃんとしないと！）=(... No, no, no, no, I have to do it right as [H名]'s groom!
 （はぁ……緊張のしすぎで不恰好になってないといいけど……）=(Huh... I hope I'm not too nervous and awkward...)
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 純白のドレスを身にまとった[H名]が、凛と佇んでいる。=I'm not sure what to make of this.
 美しく華やかなその姿を、俺はただただ見つめていた。=I just stared at the beautiful and gorgeous figure.
 呼吸をすることも忘れて、ただひたすらに……それくらい、今の[H名]は美しかった。=I forgot to breathe and just ... stared at it, that's how beautiful the [H名] was right now.

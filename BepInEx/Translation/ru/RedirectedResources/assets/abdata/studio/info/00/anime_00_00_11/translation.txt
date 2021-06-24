@@ -1,4 +1,4 @@
-恥ずかしがる1=Embarrassed 1
+﻿恥ずかしがる1=Embarrassed 1
 恥ずかしがる2=Embarrassed 2
 恥ずかしがる3=Embarrassed 3
 顔を見られ隠す=Hiding Face From View
@@ -10,4 +10,4 @@
 手を触れられ恥ずかしがる=Embarrassed From Hand Touch
 手を触れられ嫌がられる=Hating Hand Being Touched
 隠す=Covering Self Up
-隠すループ=Covering Self Up Loop
+隠すループ=Cover Self

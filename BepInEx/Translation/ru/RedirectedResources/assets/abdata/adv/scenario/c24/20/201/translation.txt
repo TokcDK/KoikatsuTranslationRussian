@@ -1,4 +1,4 @@
-「[H名]、遊園地だよ！　今日は一日、楽しもうね」=[H名], it's an amusement park!　Let's have fun all day today.
+﻿「[H名]、遊園地だよ！　今日は一日、楽しもうね」=[H名], it's an amusement park!　Let's have fun all day today.
 「はい……♡　あなたとの遊園地……♡　私を、引きずりまわしてください♡　あなたの行きたいアトラクションが私の好きなアトラクションです♡」=Yes... ♡ an amusement park with you ... ♡ drag me around ♡ the attraction you want to go to is the attraction I like ♡
 「いいの？　じゃあ、俺の好きなコースで回っちゃおう！」=Are you sure?　Then let's go around on my favorite course!
 （……そう、この時はまだ、あんなことになるとは思ってなかったんだ……）=(...Yeah, at that time, I still didn't think it would turn out like that...)
@@ -14,7 +14,7 @@
 「そんな、嫌いになるわけないです♡　むしろ、吐くところを見せてくれて嬉しいです♡　あなたが許してくれるなら、少しだけ持ち帰って……」=Oh, no, I wouldn't hate you ♡ In fact, I'm glad you let me see you throw up ♡ If you'll let me, I'll take some home with me ...
 「あ、いえ、それは、き、気持ち悪いですよね……えっと、えっと……とにかく、私はあなたがどんなことをしても嫌いになんてならないです♡」=Oh, no, that's, that's gross... Well, well, well... Anyway, I'm not going to hate you no matter what you do ♡
 「いや、嫌われて当然だから」=No, you have every right to hate me.
-「っ！？」=What?
+「っ！？」=「Е！？」
 「って、俺が譲らなかったら、[H名]困っちゃうでしょ？　こっちは好きなのに、気持ちが伝わらないのはつらいよね？」=I mean, if I didn't give in, [H名] would be in trouble, right?　I like you, but it's hard when you can't express your feelings, isn't it?
 「あ……私……吐いちゃって、デートを中断させて、ただでさえ迷惑かけてるのに、またあなたに迷惑、かけてたんですね……」=Oh... I ... threw up and interrupted our date, and even though I'm causing trouble, I was also causing trouble for you ...
 「わかってくれた？　俺は、[H名]が吐いちゃったぐらいで嫌いにならないし、女の子に吐かせちゃって、本当に悪かったと思ってるよ」=You understand?　I don't hate you just because [H名] threw up, and I'm really sorry for making you throw up.

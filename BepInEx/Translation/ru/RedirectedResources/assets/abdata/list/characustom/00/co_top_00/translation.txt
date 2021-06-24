@@ -1,6 +1,6 @@
-なし=Нет
+﻿なし=Нет
 セーラータイプ=Sailor Type
-ジャケットタイプ=Jacket Type
+ジャケットタイプ=Куртка
 Tシャツ(無地)=T-Shirt (Plain)
 Tシャツ(柄A)=T-Shirt (Design A)
 Tシャツ(柄B)=T-Shirt (Design B)
@@ -31,7 +31,7 @@ Tシャツ(柄B)=T-Shirt (Design B)
 バスタオル=Bath Towel
 バニースーツ=Bunny Suit
 Tシャツ無地(男)=Plain T-Shirt (Boys)
-ネクタイブレザー(男)=Necktie Blazer (Boys)
+ネクタイブレザー(男)=Галстук-блейзер (мужчина)
 学ラン(男)=Gakuran (Boys)
 学ランTシャツ(男)=Gakuran And T-Shirt (Boys)
 ワイシャツ(男)=Dress Shirt (Boys)

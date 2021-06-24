@@ -1,4 +1,4 @@
-「っと、もうこんな時間だ。盛り上がりすぎて、気が付かなかったよ」=It's getting late. I was so excited, I didn't even notice.
+﻿「っと、もうこんな時間だ。盛り上がりすぎて、気が付かなかったよ」=It's getting late. I was so excited, I didn't even notice.
 「そうですね。これからどうしましょう？」=Yes, it is. What should we do now?
 「延長していいかな？　俺、まだ歌い足りなくてさ」=Can we extend it?　I haven't sung enough.
 「私なら構いませんよ。まだ『今日歌うべき曲リスト』、全部消化してしませんし」=I don't mind. I haven't even finished my list of songs to sing today.
@@ -14,4 +14,4 @@
 「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=If I could grow wings on my back and fly around freely in the sky...
 （……まあ、カワイイからいっか）=...
 CHOICE:『延長していい？』="Can I have an extension?
-CHOICE:『そろそろ出ようか』="Let's get out of here.
+CHOICE:『そろそろ出ようか』=『Идем домой』

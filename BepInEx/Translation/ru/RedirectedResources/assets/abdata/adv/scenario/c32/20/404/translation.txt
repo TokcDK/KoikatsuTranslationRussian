@@ -1,4 +1,4 @@
-「う～ん、すごく美味しそうだね！」=Mmmm, that looks really good!
+﻿「う～ん、すごく美味しそうだね！」=Mmmm, that looks really good!
 「ええ、本当に美味しそうです。では、いただきます」=Yes, it looks really good. Let's eat it.
 「そんなご飯食べるときみたいに、ガチンコのいただきますを……」=Itadakimasu, like when you eat a meal like that...
 「あなたは『いただきます』しないんですか？」=Don't you say "Itadakimasu"?
@@ -15,7 +15,7 @@
 「う、うん……そうだけど、嫌だった？」=Uh, yeah... Yes, but did you not like it?
 「いえっ、全然……ただ、あまり経験がないので、上手く出来るかどうか不安なだけです……では、行きます」=No, not at all... I just don't have much experience with it, so I'm not sure if I can do it well... Here we go.
 「はい、あ～ん……」=Yes, yes...
-「あ～ん」=Ahh.
+「あ～ん」=「А-м」
 「もぐ、もぐもぐ……うん、美味しいよ！　へへへ、パンケーキ、最高！」=Mug, mug, mug...Yeah, it's good!　Heh, heh, pancakes are great!
 「はい、チョコモカブラウニーにしてみました」=Yes, I tried the chocolate mocha brownie.
 「甘いの苦手だったっけ。でも、これはこれで、すごく美味しそうだ。それに思ってたより量があるね」=I thought I didn't like sweet things. I don't know if I've ever had a sweet tooth, but this one looks really good. And it's a lot more than I expected.

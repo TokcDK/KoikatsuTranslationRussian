@@ -1,11 +1,11 @@
-「……ちょっと疲れてきたわね」=... You're getting a little tired, aren't you?
+﻿「……ちょっと疲れてきたわね」=... You're getting a little tired, aren't you?
 「確かに。時間は余ってるけど、どうする？　帰る？」=You're right. We have some extra time.　Do you want to go home?
 「あなたも疲れているなら帰ったほうがいいかもね……もう少し一緒にいたいけれど」=If you're tired too, maybe you should go home... I'd like to hang out with you some more.
 「うん？　ごめん、聞こえなかった」=Yeah?　I'm sorry, I didn't hear you.
 「な、なんでもないわ、なんでも！」=No, no, no, no, no!
 「そう？　それじゃあ……」=Yeah?　Okay...
 「……最後までいようか」=Let's finish ...
-「え？　いいの？」=What?　You sure?
+「え？　いいの？」=「М? Правда?」
 「……って、なんか悔しいわね」=... is kind of frustrating.
 「え？　嫌だった？」=What?　You don't like it?
 「そうじゃないけれど……もっと一緒にいたいって……あなたに本心を読まれた気がして、ちょっと悔しいの」=No, but I wanted to ... spend more time with you, and I'm a little frustrated because I feel like you've read my true feelings.
@@ -18,4 +18,4 @@
 「う、うん……そう、ね」=Yeah, yeah... yeah.
 「……鈍感」=... insensitive.
 CHOICE:『最後までいようか』="Shall I stay until the end?
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

@@ -1,4 +1,4 @@
-「今日は[H名]と過ごせて本当に楽しかったよ」=I had a really nice time with [H名] today.
+﻿「今日は[H名]と過ごせて本当に楽しかったよ」=I had a really nice time with [H名] today.
 「ああ、私も、[P名]といられてよかったよ」=Yeah, I had a great time with [P name], too.
 「あーあ、楽しい時間はあっという間だ」=Oh, how the good times fly by.
 「帰り際になると、いつも名残惜しくて、どうしても粘っちゃうんだよね」=Whenever I'm about to leave, I always end up sticking around because I don't want to leave.
@@ -18,12 +18,12 @@
 「寂しいけど、今日はこれで。それじゃあ、また……」=I'll miss you, but that's it for today. I'll see you at ...
 「ああ、っとその前に……」=Oh, and before you go...
 「んむ……」=Mmm...
-「ん……」=It's ...
+「ん……」=Mm...
 「はあっ……！　[H名]、急にするからびっくりしたよ」=Oh...!　[H名], you surprised me with your suddenness.
 「別れのチューってやつだ。元気でたか？」=It's called a goodbye kiss. How are you?
 「うん、また次会う時まで頑張れそうだ」=Yeah, I think I'm gonna make it till next time.
 「へへっ、そりゃよかった。んじゃ、またな！」=Heh, that's good. I'll see you later!
 「ああ、気をつけてね！」=Yeah, take care!
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

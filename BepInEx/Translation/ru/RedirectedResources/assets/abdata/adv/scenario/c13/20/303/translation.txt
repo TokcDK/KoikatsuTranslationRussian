@@ -1,4 +1,4 @@
-「ん～！　だいぶ歌ったね～」=Hmm~!　That's a lot of singing!
+﻿「ん～！　だいぶ歌ったね～」=Hmm~!　That's a lot of singing!
 「延長しない？　まだちょっと歌い足りなくてさ」=Why don't we extend it?　I still need more songs.
 「いいよっ！　今日は満足するまで歌っちゃおう♪」=Okay!　Let's sing until we're satisfied.
 「ありがとう！　じゃあ、延長の電話をするね」=Thank you.　I'll call you for an extension.
@@ -8,7 +8,7 @@
 「そうだね。っと、そろそろ時間だし、あと一曲歌ったたら帰ろうか」=That's right. Well, it's time to go home after one more song.
 「もう時間か～……じゃあ、最後はデュエットで歌おうよ！」=Is it time already? ... Then let's sing a duet at the end!
 「デュエットってことは、あの曲だね！　よーし！」=That means that song!　All right!
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 （一緒に歌うのって、やっぱ気持ちいいな）=(It's so nice to sing together, isn't it?)
 CHOICE:『延長しない？』="Do you want to extend the time?
 CHOICE:『そろそろ時間だし帰ろうか』="It's almost time to go home.

@@ -1,4 +1,4 @@
-「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=Oh, [H名], there's a wagon cafe over there. Let's get some food and drink while we walk.
+﻿「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=Oh, [H名], there's a wagon cafe over there. Let's get some food and drink while we walk.
 「うん、いいね！　私、ちょうど喉が渇いとったん」=Yeah, that sounds great!　I was just thirsty.
 「コーヒー屋さんみたいだけど、結構人気だね。ちょっとした列が出来てる」=It looks like a coffee shop, but it's pretty popular. There's a little line.
 「あ、ここにメニューがあるよ。何にしよっか？」=Oh, here's the menu. What would you like?
@@ -16,5 +16,5 @@
 「あ、分かる分かる！　他には何か甘い系のシロップとかはいらない？　いくつかあるみたいだけど……」=I like to use a straw to scoop whip.　Do you need any other sweet syrups?　I know there are several...
 「うぅぅ……本当はいっぱいかけたいけど……ここは我慢なん……そういうのを飲み慣れたら絶対に太るっちゃもん」=I really want to put a lot of ... syrup on it, but I have to be patient... If I get used to drinking that stuff, I'm sure I'll gain weight.
 「はは、確かにそうだね。お腹いっぱいになっても困るし……それじゃ、出来るだけ甘くなくて、出来るだけ苦くないのにしよっか」=Haha, that's true. I don't want to get full... Then, let's make it as sweet as possible and as bitter as possible.
-「うんっ！」=Yes!
+「うんっ！」=「Да!」
 （本当は甘いのが好きみたいだけど……やっぱり女の子だけあって、カロリーのことは気にするんだな）=(She really likes sweet, but ... she's a girl, she cares about calories, right?

@@ -1,11 +1,11 @@
-「うーん、初めて[H名]とカラオケに来たから、何を歌っていいか悩むね」=Hmm, I've never been to karaoke with [H名] before, so I'm not sure what to sing.
+﻿「うーん、初めて[H名]とカラオケに来たから、何を歌っていいか悩むね」=Hmm, I've never been to karaoke with [H名] before, so I'm not sure what to sing.
 「ん？　あたしに気を使う必要はないぞ。おまえが好きな歌を歌えばいいんだよ」=Hmm?　You don't need to worry about me. You don't have to worry about me. You can sing whatever you want.
 「そう？　でも、できるなら二人で盛り上がれた曲の方がいいし、だったらやっぱり二人が知ってる曲がいいかなって」=Really?　But if I can, I'd rather sing a song that we can both get excited about, so I thought it would be better to sing a song we both know.
 「確かにそうだけど。最初なんだし仕方ないだろ？　今日はまず、お互いの好きな歌を発表する会でいいんじゃないか？」=That's true, but... But it's the first time, so it can't be helped, right?　Why don't we start with a presentation of our favorite songs?
 「そうだね。いつまで悩んでても時間が勿体ないし。とりあえず一曲入れちゃうね」=That's right. I agree. It's a waste of time to worry about it. Let's just start with one song.
 「そうだそうだ、それでいいんだよ。変に緊張する事なんかない、バーンと一曲ぶちかませ！」=Yes, yes, that's fine. There's nothing to be nervous about, just go ahead and play a song!
 「よーし！　じゃあ、今一番お気に入りの一曲！　いくよっ！」=All right!　Okay, my favorite song right now!　Here we go!
-………………=...
+………………=.........
 「ふぅ……ど、どうだった？　結構盛り上がってくれてたみたいだけど、知ってる曲だった？」=Phew ... how was it?　How was it? You seemed pretty excited.
 「いや、実は知らなかった。でも、ノリがいい曲だったから、自然に体が動いたって感じかな」=No, I didn't know it. I didn't know the song, but it had a good groove, so my body naturally moved to it.
 「ならよかった。じゃあ、次は[H名]の番だね。期待してるよ」=I'm glad to hear that. Then, it's [H名]'s turn next. I'm looking forward to it.
@@ -18,5 +18,5 @@
 「おっ、これなら知ってるぞ。アイドルソングだから、あたしに合うかわからないけど、頑張ってみるか」=Oh, I know that one. It's an idol song, so I don't know if it's for me, but I'll give it a try.
 「おぉー、[H名]の声で好きな曲が聞けるなんて、最高だよ！」=Oh, it's so nice to hear my favorite song in [H名]'s voice!
 「だからあんまりプレッシャーをかけるなって。ンッ、よし、いくぞっ！」=So don't put too much pressure on me. So don't pressure me too much.
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 「おおぉっ！　[H名]の歌声ってこんな感じなんだ……うん、凄く可愛いよ！」=Whoa!　[H名]'s singing voice is like this: ... Yeah, it's really cute!

@@ -1,4 +1,4 @@
-「ハンバーグって、ボリュームのあるものを頼んだね」=You ordered a large hamburger, didn't you?
+﻿「ハンバーグって、ボリュームのあるものを頼んだね」=You ordered a large hamburger, didn't you?
 「まあな。やっぱ、腹が減った時はこういう肉料理に限るだろ！」=Well, yeah. Well, when you're hungry, you should only eat meat dishes like this!
 「う～ん、どうかな～。ちょっと重すぎない？　こんなのばかり食べたらぶくぶく太っちゃうよ？」=Hmm, I wonder... Isn't it a little too heavy?　If you eat this kind of food all the time, you'll get fat.
 「うっせ～な。私は今、腹ペコなんだよ。余計なお世話だ」=Shut up! I'm starving right now. It's none of your business.
@@ -20,5 +20,5 @@
 （うおっ、熱い！　口の中がやけどしそう！）=(Whoa, that's hot!　I think I'm going to burn my mouth!
 「あ、コラ、暴れるなって！　ソースが散ったじゃねえか！」=(Oh, it's so hot! My mouth is burning!) "Oh, come on, don't get upset!　You're spreading the sauce!
 「もう、じっとしてろよ。今、私が拭いてやるから……」=You've got sauce all over you! I'll wipe it off now...
-「あ……ありがとう」=Oh... thank you.
+「あ……ありがとう」=「С…… Спасибо」
 （[H名]って、結構面倒見がいいんだな……）=You're pretty good at taking care of people, aren't you...?

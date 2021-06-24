@@ -1,4 +1,4 @@
-「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」=We've seen a lot... Oh, my God, it's so late!　It's going by so fast...
+﻿「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」=We've seen a lot... Oh, my God, it's so late!　It's going by so fast...
 「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=If we still have time, why don't we go on the Ferris wheel one last time?
 「うん、大丈夫よ。そういえば、まだ乗ってなかったわね」=Yeah, I'm fine. Oh, by the way, we haven't ridden yet.
 「もう少ししたら、日が沈んで綺麗な夜景が見えると思うよ」=In a little while, the sun will set and we'll have a beautiful night view.
@@ -8,5 +8,5 @@
 「最後にお店に寄ってもいい？　家族にお土産を買っていきたいの」=Can we stop by the store at the end?　I want to buy some souvenirs for my family.
 「いいよ。俺も何か買おうかな」=Sure. I'll buy something too.
 （……よく考えたら渡す相手、叔母さんくらいしかいないな。ま、ちょっとしたお菓子くらい買っておくか）=(...) On second thought, there's only one person I can give this to, my aunt. (The only person I can buy something for is my aunt.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

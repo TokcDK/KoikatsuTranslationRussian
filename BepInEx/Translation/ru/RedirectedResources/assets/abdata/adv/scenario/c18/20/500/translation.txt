@@ -1,4 +1,4 @@
-「もう、ここまで戻ってきちゃった……楽しかったよ、今日はありがとう、[H名]」=I've come all the way back here... It was fun. Thanks for today, [H名].
+﻿「もう、ここまで戻ってきちゃった……楽しかったよ、今日はありがとう、[H名]」=I've come all the way back here... It was fun. Thanks for today, [H名].
 「私もです。ありがとうございました」=Thank you for today. Thank you very much.
 「……別れる前になると、一層名残惜しくなっちゃうな」=... I'm going to miss you even more before we part.
 「学園でも会えるんですけどねっ」=I'll see you at school, though.
@@ -15,10 +15,10 @@
 「そんなことは……ないです」=No, it's not ...
 「最後に少し、いいかな？」=Can I have one last thing?
 「はいっ……」=Okay...
-「ん……」=It's ...
+「ん……」=Mm...
 「えへへ、嬉しいです」=Yeah, I'm glad.
 「俺も……それじゃあ、またね」=I'll ... see you later.
 「はい、学園で」=See you at school.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

@@ -1,4 +1,4 @@
-「すっかり日が暮れちゃったね」=It's getting late, isn't it?
+﻿「すっかり日が暮れちゃったね」=It's getting late, isn't it?
 「ええ、御覧なさい……暗くなった空がゆっくりと近づいて参りますわ……まるで、どこか別世界につれていかれそう……」=Yes, look... the darkening sky is slowly approaching... as if to transport us to another world...
 「ははは、そうなっても[H名]さんは女王様として、その世界に君臨するんだろうね」=Haha, even if that happens, [H名] will still reign over that world as the queen.
 「おーっほっほっほ、よくわかっているではありませんの。わたくしの美貌と知性を持ってすれば、当然のことですわ！」=You know exactly what I mean, don't you? With my beauty and intelligence, it's only natural!
@@ -32,7 +32,7 @@
 「もっともわたくしは、すでに完璧なレディですけどもね……おーっほっほっほ！」=I'm already a perfect lady... Ohohohoho!
 「……じゃあ、レディ？　これからキスをさせていただきたいのですが、よろしいですか？」=... So, lady?　I'd like to kiss you now, if that's all right.
 「ええ、よろこんで。わたくしの唇、あなたにお預けいたしますわ……」=Yes, with pleasure. I'll leave my lips to you...
-「ん……」=It's ...
+「ん……」=Mm...
 「……ん、んん……んぅん……」=I want to kiss you!" "I want to kiss you!" "I want to kiss you!" "I want to kiss you!" "I want to kiss you!
 （キスってすごいな……触れている時間だけ、愛おしい気持ちが込み上げてくる）=(Kissing is amazing... I can't help but feel lovely for as long as we're touching.)
 「ん……んふぅ、ステキなキスでしたわ……。まるで夢の中にいるような気分です」=(Kissing is amazing... I feel so loved just for the time we are touching.) "Mmm ... that was a beautiful kiss... I feel as if I'm in a dream.

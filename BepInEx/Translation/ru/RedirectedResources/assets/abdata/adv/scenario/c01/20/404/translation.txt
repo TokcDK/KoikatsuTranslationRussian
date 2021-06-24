@@ -1,8 +1,8 @@
-「うわあ、美味しそうだね！」=Oh, my God, that looks so good!
+﻿「うわあ、美味しそうだね！」=Oh, my God, that looks so good!
 「そうですね。では、いただきましょうか」=Yes, it does. Shall we eat?
 「うん。いただきまーす」=Yes. Let's eat.
 「いただきます……ぱくっ……！」=Bon appétit... Bon appétit...!
-「ど、どうしたの？」=What's wrong with you?
+「ど、どうしたの？」=「Что случилось?」
 「とても……美味しいので。このようなものは初めて食べました」=It's so ... delicious. I've never had anything like this before.
 「そんなに感動してくれるなら、連れてきた甲斐があったよ」=If you're so impressed, it was worth bringing you here.
 「舌の上でとろけます……それに、とても私好みの味で……ぱくっ……ぱくっ……止まりません……」=It melts on your tongue ... and it tastes so much like me ... that I can't stop ... crunching ... crunching ...

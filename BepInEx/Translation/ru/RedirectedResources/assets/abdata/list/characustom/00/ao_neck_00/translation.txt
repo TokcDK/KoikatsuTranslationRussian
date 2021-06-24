@@ -1,4 +1,4 @@
-マフラー=Muffler
+﻿マフラー=Кашне
 ロングネクタイ=Long Necktie
 リボンチョーカー=Ribbon Choker
 小悪魔チョーカー=Devil Choker
@@ -10,5 +10,5 @@
 ハートペンダント=Heart Pendant
 リボンペンダント=Ribbon Pendant
 一粒ペンダント=Starpoint Pendant
-星のペンダント=Star Pendant
+星のペンダント=Звездный кулон
 土星のペンダント=Saturn Pendant

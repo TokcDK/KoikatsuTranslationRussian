@@ -1,4 +1,4 @@
-「この公園ね、小さい頃に友達とよく遊びに来てた公園なんだよ」=This is the park where I used to play with my friends when I was little.
+﻿「この公園ね、小さい頃に友達とよく遊びに来てた公園なんだよ」=This is the park where I used to play with my friends when I was little.
 「へ～、じゃあ思い出があったりするの？」=Oh, so you have memories of it?
 「うん、あるよ！　こっち来て！」=Yes, I do!　Come here!
 「わ、ベンチとテーブルの裏に名前がたくさん掘られてる」=Wow, there's a lot of names on the benches and behind the tables.
@@ -16,6 +16,6 @@
 「それいいね♡　じゃあ、まずはハートの傘を掘るね！」=That's a good idea ♡ Then I'll dig a heart umbrella first!
 どれぐらいの時間、二人で掘っただろう。ベンチの裏側の隅っこに『[P名前]』と『[H名前]』の名前がハートの傘の下に刻まれた。=How long did the two of us dig together? How long did we dig for?
 「上出来だね……あ、写真撮るの？」=Nice work ... Oh, are you going to take a picture?
-カシャッ=Click.
+カシャッ=Snap!
 「このテーブル木製だから、いつか消えたり、なくなっちゃったりするかもしれないから……こうやって一生残そうと思って♡　これからもよろしくね♪」=This table is made of wood, so it might disappear or disappear someday, so I thought I'd leave it like this ... for the rest of my life.
 「うん、ずっと仲良くできたら嬉しいな」=Yes, I hope we can be friends forever.

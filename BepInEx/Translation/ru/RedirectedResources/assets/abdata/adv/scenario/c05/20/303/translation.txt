@@ -1,4 +1,4 @@
-「あ～、たくさん歌ったね」=Oh, that's a lot of singing.
+﻿「あ～、たくさん歌ったね」=Oh, that's a lot of singing.
 「[H名]。俺、もうちょっと歌いたいなって思うんだけど……延長しない？」=[H名]. I think I want to sing a little more. Can we extend the ...?
 「ほんとに？　実はわたしも、延長したいって思ってたの」=Really?　Actually, I've been thinking about extending it.
 「よし、それならとことん歌おうか。延長の電話、入れるね」=Okay, then let's sing all the way. I'll call you for an extension.
@@ -11,7 +11,7 @@
 「そろそろ時間だし、最後に一曲歌ったら帰ろっか。[H名]が入れていいよ」=I think it's time to go home after one last song. [H名] can join us.
 「わたしでいいの？　それじゃあ……これにする」=Are you sure it's me?　Okay, I'll go with ...
 「よしきた！　“かれら”に届くよう、精一杯応援するよ」=Okay, here we go!　"I'll do my best to cheer them on.
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
-CHOICE:『帰る仕度をしよっか』="Let's get ready to go home.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

@@ -1,4 +1,4 @@
-「何を考えている！　ここは女子用だ！」=OPTION[18]:What the hell are you thinking!　This is for girls!
+﻿「何を考えている！　ここは女子用だ！」=What the hell are you thinking!　This is for girls!
 「おまえというやつはっ！」=What the hell is wrong with you?
 「今は時間がない。それくらい察しろ」=We don't have time for this. You know that.
 「なんだ？　用があるならさっさと言え」=What is it?　If you need me, just tell me.
@@ -52,22 +52,22 @@
 「そ、それは……私がという事か？　い、いや、教えんぞ」=Well, that's ... what I'm talking about?　No, no, I won't tell you.
 「[H名]って、お姉様とか女王様とか、呼ばれてそうだよね？」=You're like a big sister or a queen or something, aren't you?
 「ほぅ、何故そう思ったのか、聞かせて欲しいな」=Hmm, I'd like to hear why you think that.
-「積極的な男性ってどう思う？」=What do you think of aggressive men?
+「積極的な男性ってどう思う？」=Что ты думаешь об напористых парнях?
 「悪くはないな。動きがある奴の方が、見ていて楽しい」=Not bad. It's more fun to watch a guy move.
 「面倒だな。聞こえはいいが、要は考え無しだろう？」=It's a pain in the ass. It sounds good, but it's not really thinking, is it?
-「慎重な男性ってどう思う？」=What do you think of cautious men?
+「慎重な男性ってどう思う？」=“What do you think about cautious guys?”
 「いいと思うぞ。先を予測できるものは案外貴重だからな」=I like that. I think it's good. It's valuable to be able to predict the future.
 「ダメだな。考え過ぎて動けなくなっては意味があるまい」=No. There's no point in thinking too much and getting stuck.
-「勤勉な男性ってどう思う？」=What do you think of hardworking men?
+「勤勉な男性ってどう思う？」=“What do you think about diligent guys?”
 「あぁ、良いな。もし今がダメでも、将来有望というやつだ」=Oh, good. If it doesn't work now, it'll work in the future.
 「却下だな。真面目をこじらせた奴ほど面倒なものはいない」=Rejected. There's nothing more annoying than an overly serious person.
-「マイペースな男性ってどう思う？」=What do you think of men who take things at their own pace?
+「マイペースな男性ってどう思う？」=“What do you think about a guy who goes at his own pace?”
 「見所があるな。他に影響されないやつは、何かと強い」=There's something to see here. A man who can't be influenced by anything else is stronger than anything else.
 「無理だな。空気が読めない奴といると疲れる」=I can't do that. I'm tired of being around people who can't read.
-「優しい男性ってどう思う？」=What do you think of gentle men?
+「優しい男性ってどう思う？」=“What do you think about nice guys?”
 「思いやりは基本だな、それさえ無い奴なんて論外だ」=Compassion is a basic rule. Someone without it is out of the question.
 「優しさを押し付けられてもな、無さすぎるのも問題とは思うが」=You can't force kindness on people. I think there's a problem with too much of it.
-「クールな男性ってどう思う？」=What do you think of cool guys?
+「クールな男性ってどう思う？」=“What do you think about cool guys?”
 「度が過ぎなければ、無駄に喚く奴よりは付き合いやすいか」=As long as it's not too much, he's easier to get along with than someone who screams at you.
 「むぅ、からかい甲斐がないというのはつまらないな」=Mmm. It's boring not to have something to tease about.
 「女の子もエッチに興味とかあるのかな？」=Do you think girls are interested in sex?
@@ -143,7 +143,7 @@
 「もうこんな時間か……そろそろ私は行くぞ」=It's getting late... I'd better get going.
 「そうか、また話してやってもいいぞ」=All right. I'll talk to you later.
 「ん？　あぁ、またな」=Hmm?　Yeah, see you.
-「よかったら一緒に帰らない？」=Do you want to come home with me?
+「よかったら一緒に帰らない？」=“If you like, want to walk home together?”
 「いいぞ。そんなに顔色を窺わなくても、帰るくらい付き合ってやる」=All right. You don't have to look so glum. I'll go home with you.
 「むぅ、悪いな。この後少し予定があるのだ」=Mmm, sorry. I've got some plans for later.
 「一緒に勉強してみるのって、どうかな？」=I was wondering if you'd like to study with me?
@@ -152,7 +152,7 @@
 「ねぇ、一緒に身体を動かそうよ！」=Hey, let's do some exercise together!
 「悪くない提案だな。丁度私も、そういう気分だった」=That's not a bad idea. I was just in the mood.
 「いや、やめておこう。私だって、体を動かしたくない日はある」=No, let's not do that. There are days when I don't feel like working out.
-「ちょっと付いてきてくれるかな？」=Do you want to come with me for a bit?
+「ちょっと付いてきてくれるかな？」=Can you follow me for a bit?
 「別に構わないが……どこへ連れていく気だ？」=I don't mind, but ... where are you taking me?
 「私がそんな軽い女に見えるか？　見くびられたものだ」=Do I look like such a lightweight to you?　I've been underestimated.
 「……まさかおまえ、妙な趣味があるのか？」=... Do you have any strange tastes?
@@ -317,7 +317,7 @@
 「おまえ、昼は食べたか？　まだなら、一緒にどうだ？」=Have you eaten lunch yet?　If you haven't, why don't you join us?
 「よし、そうこなくてはな。どこで食いたいとかはあるか？」=Okay, that's what I thought. Where do you want to eat?
 「そうか、なら日を改めよう。時間を取らせて、すまなかったな」=All right, let's do it some other time. I'm sorry to have taken up so much of your time.
-「一緒にコイカツしよう」=Let's do kowtow together.
+「一緒にコイカツしよう」=“Let's go to Koikatsu club together.”
 「別に構わんが、その名前はどうにかならないのか？　恥ずかしいぞ」=I don't mind, but can't you do something about that name?　It's embarrassing.
 「悪いが他の予定がある。また今度な」=I'm sorry, but I have other plans. I'll see you later.
 「その、コイカツをだな……してやっても、いいぞ？」=You know, I'd be happy to ... you some Koikatsu.
@@ -337,7 +337,7 @@
 「なぁ、私とデートしてみないか？　そ、損はさせないぞ？」=Hey, would you like to go on a date with me?　I mean, what's the harm?
 「よしっ！　い、いや、気にするな。少し気合を入れただけだ」=Okay!　No, no, don't worry about it. No, no, no, no. I'm just trying to get into the swing of things.
 「そうか……これは予想以上に……いや、何でもない」=Well... this is more than I expected... No, it's nothing.
-「一緒に勉強しようよ」=We'll study together.
+「一緒に勉強しようよ」=Let's study together.
 「よし、いいだろう。私も復習したい所があってな」=Okay, that's good. I've got a few things I need to review.
 「うーん、すまん。勉強という気分ではないな」=Hmm, sorry. I'm not in the mood to study.
 「暇なら、一緒に勉強でもどうだ？」=If you're not busy, why don't you come study with me?
@@ -352,7 +352,7 @@
 「[H名]はコイカツ部に興味ない？　よかったら入ってほしいな」=Are you interested in joining the Koikatsu Club?　I'd like you to join.
 「興味がないわけではないが……うーん、少し様子見だな」=It's not that I'm not interested, but ... well, I'll have to wait and see.
 「あー、コイカツ部、だったか？　入ってやっても……いいぞ？」=Oh, the Koikatsu club, right?　You can join ... if you want.
-「ちょっと付いてきてくれる？」=Will you follow me?
+「ちょっと付いてきてくれる？」="Can you come with me for a sec?"
 「またいきなりだな。で、何処に行くんだ？」=You're not the only one. So, where are you going?
 「すまん、他に用事がある。また今度にしてくれるか？」=Sorry, I have other things to do. Can we do this some other time?
 「はぁ、私以外がいたら、どうするつもりだったんだ？　ん？」=Huh, what were you going to do if I wasn't there?　Hmm?
@@ -390,7 +390,7 @@
 「寝るときはパジャマ派？」=Do you wear pajamas to bed?
 「あぁ、パジャマだな。今度見せてやろうか？」=Yeah, pajamas. Want me to show you?
 「いや、下着だけが一番多いな……フッ、今想像しただろう？」=No, underwear is the most common... Did you just imagine that?
-「将来の夢ってある？」=What are your dreams for the future?
+「将来の夢ってある？」=“Do you have any dreams for the future?”
 「あるにはある。だが、語る程の事でもない、些細な夢だよ」=I have. But it's nothing to talk about. It's just a little dream.
 「お嫁さん、という柄でもないか……なんだ、残念そうな顔をするな」=You don't look like a wife... Oh, come on, don't look so disappointed.
 「つまらん事を聞くな。そういう所、たまに抜けているなおまえは」=Don't ask me about trivial things. You know, you're a little off in that department sometimes.
@@ -398,7 +398,7 @@
 「フフッ、それはよかったな。文字通り、おめでたい奴だよ」=That's good to know. That's great. You're literally a happy guy.
 「明日世界が滅びるって言われたら、どうする？」=What would you do if I told you the world was going to end tomorrow?
 「どうもしない。おまえと一緒に、ゆっくり過ごすよ」=I wouldn't. I'd spend the rest of my life with you.
-「俺のこと、本当に好き？」=Do you really like me?
+「俺のこと、本当に好き？」=“Do you really like me?”
 「好きだぞ。なんだ、不安にさせてしまったか？　愛しているよ」=I like you. I love you. - I'm sorry, am I making you nervous?　I love you.
 「いや、嫌いだ……って、嘘だぞ？　好きだ好き。はぁ、面倒な奴だ」=No, I don't. I don't like ... That's a lie, okay?　I love you. I like you, I like you. - Huh, you're a pain in the ass.
 「俺がデートに遅れてきたら待てる？」=If I'm late for a date, can you wait?
@@ -411,7 +411,7 @@
 「今すぐと答えれば、おまえはプロポーズしてくれるのか？　ん？」=If I say now, will you propose?　Hmm?
 「考えたことがなかったな……おまえが望むならいつでもいいぞ？」=I hadn't thought about that... Whenever you want.
 「浮かれ過ぎだ。恋人になって嬉しいのはわかるが、少しは慎め」=You're getting carried away. I know you're happy to be my girlfriend, but cut the crap.
-「[H名]、好きだよ」=I like you.
+「[H名]、好きだよ」=[H名], I like you.
 「なっ、急にどうした？　何か頼み事か？　フフッ、言ってみろ」=What's the matter with you?　What do you want me to do?　Come on, say it.
 「好きって１０回言い合った後にキスしよう？」=How about we say "I love you" ten times and then we kiss?
 「意味がわからん……だがまぁ、どうしてもと言うなら……」=I don't know what that means... but if you must...
@@ -442,7 +442,7 @@
 「むぅぅ、わかっているとは思うが、そういう性格なんだ。許してくれ」=Mmm, you know, it's just the way I am. Forgive me.
 「フッ、やせ我慢はするなよ？　嫌だと思ったら、素直に言っていいからな」=Don't be a prude, okay?　If you don't like it, just say so.
 「おい、もう少しこっちに来い」=Hey, come closer.
-「ん？　どうしたの？」=Hmm?　What's the matter?
+「ん？　どうしたの？」=「А? Что случилось?」
 「フフッ、抱き付きたくなっただけだ。どうだ、ギュっとされて嬉しいか？」=I just wanted to hug you. How do you like it when I squeeze you?
 「たまにはボーっとするのもいいな。おまえは退屈か？」=It's nice to relax once in a while. Are you bored?
 「いや、いいと思う。二人でいるだけで幸せだよ」=No, I think so. I'm happy just being with you.
@@ -549,7 +549,7 @@
 「ど、どうした？　[Pあだ名]……フフッ、お互い慣れないな」=Hey, what's up?　[Pあだ名]... Huh, we're not used to each other.
 「そんな風に気安く呼ぶな。今はそういう気分ではない」=Don't call me that. I'm not in the mood.
 「あー……[Pあだ名]」=Uh...[Pあだ名]
-「ん？　どうしたの？　[Hあだ名]」=Hmm?　What's up?　[Hあだ名]
+「ん？　どうしたの？　[Hあだ名]」=Hmm? What's up? [Hあだ名]
 「よ、呼んでみただけという奴だ……他意はないぞ」=Hey, it's just a nickname... I didn't mean it.
 「フッ、いいだろう。私を満足させろよ？　[Pあだ名]」=All right. Indulge me, will you?　[Pあだ名]
 「なぁ、私とＨしたいだろぉ？　ほら、我慢するなよ、 [Pあだ名]」=Hey, you want to have sex with me?　Come on, don't hold back, [Pあだ名].

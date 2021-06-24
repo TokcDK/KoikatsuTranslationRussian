@@ -1,4 +1,4 @@
-「ん、お肉の香ばしい匂いがする……くんくん、どこからだろう？」=Hmm, I can smell the savory meat ... smelling, where is it coming from?
+﻿「ん、お肉の香ばしい匂いがする……くんくん、どこからだろう？」=Hmm, I can smell the savory meat ... smelling, where is it coming from?
 「あそこのお店じゃない？　ほら、『ホットドッグ』ってのぼりが出てるとこ」=I think it's that store over there.　You know, the one with the 'hot dog' sign?
 「おお、大正解みたい。ちょっと覗いてみようよ」=Oh, you're right. Let's take a peek.
 「うーん、お昼には早いと思うけど。もう少し後でも――」=Hmm, I think it's too early for lunch. Maybe later.
@@ -6,7 +6,7 @@
 「[H名]のお腹は、今すぐ！　って訴えてるみたいだけど？」=I think [H名]'s stomach is begging for it.　It's like [H名]'s stomach is begging for it.
 「うくっ……お、お昼にしましょうか」=Ugh... Oh, let's have lunch.
 「ははは、了解。ちょうどお店が空いてるみたいだし、ぱぱっと買っちゃおう」=Haha, okay. It looks like the store is open, so let's buy something quickly.
-………………=...
+………………=.........
 「へー、色々種類があるね。サイドメニューも充実してるし、何にするか迷うなぁ」=Wow, there are so many different kinds. There's also a wide selection of side dishes, so I can't decide what to get.
 「[H名]は決まった？」=Have you decided on [H名]?
 「チーズにチリにたまご……どれも美味しそう」=Cheese, chili, egg... it all looks good.

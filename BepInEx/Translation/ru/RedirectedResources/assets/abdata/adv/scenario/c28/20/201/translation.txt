@@ -1,4 +1,4 @@
-「おぉ、色々な乗り物があるのう」=Oh, there are so many rides.
+﻿「おぉ、色々な乗り物があるのう」=Oh, there are so many rides.
 「あっ、あそこにあるお化け屋敷に入ってみない？」=Oh, would you like to go into the haunted house over there?
 「お化け屋敷？」=Haunted house?
 「和風のお化け屋敷だから[H名]が好きそうだと思って」=It's a Japanese-style haunted house. I thought [H名] might like it.
@@ -16,5 +16,5 @@
 「ほ、本当か！　それは心強いのじゃ♪」=Oh, really?　That's reassuring.
 「あっ、やっぱり怖いんじゃ……」=Oh, I'm still scared...
 「わ、わしは子供じゃないから、お化けなんて怖くなんてないのじゃ！」=I'm not a child. I'm not afraid of ghosts!
-「そっか……」=I see...
+「そっか……」=「Ясно……」 
 （これは、なんか悪いことしちゃったかな……）=Have I done something wrong? ...

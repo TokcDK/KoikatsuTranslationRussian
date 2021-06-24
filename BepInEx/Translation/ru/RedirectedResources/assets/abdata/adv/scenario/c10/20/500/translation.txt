@@ -1,7 +1,7 @@
-「ん～っ、今日は良き日であった。楽しかったぞ！」=Hmmm, this has been a good day. I had a great day!
+﻿「ん～っ、今日は良き日であった。楽しかったぞ！」=Hmmm, this has been a good day. I had a great day!
 「俺も楽しかったよ！　なにより、[H名]の新しい一面も見られたしね」=I had fun too!　I had a great time too! I got to see a whole new side of [H名].
 「へ、へへへ……それなら、その、もっと違う一面も、見てみたくはない、か……？」=Heh, heh, heh, heh... Then wouldn't you like to see a different side of you, too...?
-「え……？」=What ...?
+「え……？」=「Ее……？」
 （[H名]のもっと違う一面、気になるな。でも、普通に誘うのは少し照れくさい……）=(I'm curious to see a different side of [H名]. But it's a little embarrassing to ask her out in a normal way...
 「えっと……な、ならば同胞よ！　これから我が城へと案内しようではないか！」=Well... then, my fellow countrymen!　I'll take you to my castle now!
 「それって、おうちに……」=That's your home...
@@ -19,6 +19,6 @@
 （[H名]……寂しい気持ちを隠そうと、わざと明るく振る舞ってくれてるんだな）=[H名]... You're acting cheerful on purpose to hide your loneliness.
 「ごめんね、[H名]。またすぐに誘うよ、絶対」=I'm sorry, [H名]. I'll ask you out again soon, I promise.
 「……うん、絶対だよ♪」=... Yeah, definitely.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

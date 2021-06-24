@@ -1,10 +1,10 @@
-「遊園地って結構歩くよね。少し休憩しようか？」=It's quite a walk in an amusement park, isn't it? Shall we take a break?
+﻿「遊園地って結構歩くよね。少し休憩しようか？」=It's quite a walk in an amusement park, isn't it? Shall we take a break?
 「そうだな。長く遊ぶためにも適度な休憩は必要だ。まだまだ遊び足りないからな」=Yes, you're right. Yes, you need to take a break in order to play for a long time. We haven't had enough fun yet.
 「じゃあ、あの出店でポップコーンでも買って、ベンチで休憩しようか」=Well, why don't we buy some popcorn at that stall and take a break on a bench?
 「うん、いいと思うぞ。味の種類が結構あるみたいだな。定番の塩に、キャラメルとか、カレーなんていうのもあるぞ」=Yeah, I think that's a good idea. It looks like they have a variety of flavors. There's salt, caramel, curry and so on.
 「[H名]はどれにする？　俺は[H名]と違うのにするから、ちょっとずつ交換して、味比べしようよ」=Which one do you want, [H名]?　I'm going to get a different one from [H名], so we can exchange a little and compare tastes.
 「おっ、それいいな。うーん、じゃあ、あたしはっと……」=Oh, that's a good idea. Hmm, I'll go with ...
-………………=...
+………………=.........
 「キャラメル味にしてみた。ほら、サービスでたくさんキャラメルかけてくれたぞ。んへへっ」=I'm going to try the caramel flavor. I got the caramel flavor, and they put a lot of caramel on it. Mmm-hmm.
 「よかったね。俺はバニラ味にしたよ」=That's good. I got the vanilla one.
 「おぉ、ナイスぅ！　それ、最後までどっちにしようか悩んでたんだよ」=Oh, nice!　I had a hard time deciding which one I wanted.

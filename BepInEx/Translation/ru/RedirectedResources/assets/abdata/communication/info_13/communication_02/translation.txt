@@ -1,4 +1,4 @@
-「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=Oh, this is not a place for gentlemen. Can you please leave?
+﻿「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=Oh, this is not a place for gentlemen. Can you please leave?
 「ここは女性専用ですわ！　出ていってちょうだい！」=This is for women only!　Get out of here!
 「失敬。今時間がありませんの。ごめんあそばせ」=Excuse me. I don't have time for this. I'm sorry.
 「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=How dare you show your face in front of me? ... It's disgusting.
@@ -549,7 +549,7 @@
 「まったく、突然そんな呼び方……。[Pあだ名]……これで満足かしら？」=Totally, all of a sudden you're calling me that ... [Pあだ名]... Are you happy now?
 「機嫌を伺ってるおつおり？　あいにくまだ怒っておりましてよ」=Are you in a good mood?　I'm still angry, unfortunately.
 「ねえ……[Pあだ名]」=Hey...[Pあだ名].
-「どうしたの？　[Hあだ名]」=What's wrong with you?　[Hあだ名]
+「どうしたの？　[Hあだ名]」=“What's wrong, [Hあだ名]?”
 「おほほほ。愛おしい名ですから、つい呼んでしまいましたわ」=Oh, yeah. It's such a lovely name, I just had to call you that.
 「大胆ですわね。でも、よくってよ。満足させてくださいね？　[Pあだ名]」=That's bold. But it's good. Please satisfy me.　[Pあだ名]
 「その……あなたが傍にいるだけで、疼いてしまいますの。お相手してくださらない？　[Pあだ名]」=That ... makes me tingle just being around you. Would you like to play with me?　[Pあだ名]

@@ -1,4 +1,4 @@
-「えへへ、今日も歌っちゃうよぉ」=Yeah, I'm gonna sing again today.
+﻿「えへへ、今日も歌っちゃうよぉ」=Yeah, I'm gonna sing again today.
 「[H名]はいつも元気だよな。見てる方も元気になるよ」=[H名] is always cheerful, isn't she? You're always so cheerful. You make me feel cheerful.
 「そう言われると何だか照れちゃうなぁ」=I'm kind of embarrassed to hear you say that.
 「あっ！　この曲採点できるんだ！　[P名]君、採点機能付けてもいいかな？」=Oh!　I can grade this song!　[P name], do you mind if I add a grading function?
@@ -7,7 +7,7 @@
 「あっ、それは……ほら！　そもそも芸術に点数なんか付けて評価するのはどうかと思うし……」=Oh, that's ... Look!　I don't think it's a good idea to give art a score in the first place...
 「どうしたの？　難しいこと言っちゃって」=What's wrong?　What's wrong? What's so difficult about it?
 「ほら行くよ！　はいっ！　機能ＯＮ！」=Come on, let's go!　Come on!　Function ON!
-………………=...
+………………=.........
 「ろ、６３点……」=Sixty-three points...
 「あ！　でも、ほら！　全国８位だってよ！」=Oh!　But look!　I'm ranked eighth in the country!
 「ほんとだぁ！　え～と……何人中何人だったんだろ？」=That's right!　Let's see... how many did we get?

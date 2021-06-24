@@ -1,7 +1,7 @@
-「あなたって面白い人よね」=You're a funny guy.
+﻿「あなたって面白い人よね」=You're a funny guy.
 「それって褒めてるの……？」=Is that a compliment...?
 「うんうん、すごく褒めてるわ。あなたといると、楽しいもの」=Yeah, yeah, it's a big compliment. You're a lot of fun to be around.
 「だから、ほんの少し……怖かったりするのだけれど」=So I'm a little ... scared.
 「……今、なんて？」=What did you just ... say?
 「あっ……いいえ、なんでもないわ、今のは忘れて？」=Oh... no, it's nothing. Forget it, okay?
-「それじゃ、またね」=I'll see you later.
+「それじゃ、またね」=I'll see ya later.

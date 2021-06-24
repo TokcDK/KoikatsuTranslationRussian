@@ -1,4 +1,4 @@
-「……[H名]、今日はありがとうね。楽しかったよ」=...[H名], thank you for today. I had a good time.
+﻿「……[H名]、今日はありがとうね。楽しかったよ」=...[H名], thank you for today. I had a good time.
 「私も一日楽しかったです。ありがとうございます」=I had a good day, too. Thank you very much.
 「うん……」=Yeah...
 「……帰らなくてはいけませんね」=... I have to go home, don't I?
@@ -16,6 +16,6 @@
 「はい、約束です。次にお会いするのは学園でですね」=Yes, I promise. The next time we meet will be at the school, right?
 「うん。じゃあまた」=Yeah. See you.
 「はい。それでは」=Okay. Bye.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

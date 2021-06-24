@@ -1,4 +1,4 @@
-「気づいたら、もう日が暮れそうだな」=Next thing I know, it's almost sunset.
+﻿「気づいたら、もう日が暮れそうだな」=Next thing I know, it's almost sunset.
 「まだ、時間あるかな？」=Do you think there's still time?
 「あるけど……まだ遊ぶのか？　暗くなっちまうぞ」=Yes, but ... you still playing?　It's gonna get dark soon.
 「実はさ、[H名]に見せたいものがあるんだ」=Actually, there's something I want to show [H名].
@@ -11,5 +11,5 @@
 「そんなこと言われたら、本当に照れちまうだろ……」=I'd be really embarrassed if you said that...
 「つーか、待て待て！　そういう[P名]も顔真っ赤じゃないか！」=Wait, wait, wait!　That [P name] is red in the face too!
 「ははっ、二人して頬染めて、照れてるみたいだ」=It's like you're both embarrassed with your cheeks dyed.
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『そろそろ帰ろうか』="Shall we go home now?

@@ -1,4 +1,4 @@
-「見た目は美味しそうね、とても……」=It looks delicious. It's very ...
+﻿「見た目は美味しそうね、とても……」=It looks delicious. It's very ...
 「お先にどうぞ、召し上がれ」=After you. Bon appétit.
 「あら、いいの？　それじゃ遠慮なく。いただきます」=Oh, you don't mind?　Well, be my guest. Bon appétit.
 「なんて甘いの……頬がとろけるわ」=How sweet... My cheeks are melting.
@@ -6,9 +6,9 @@
 「甘いものが好きかどうかに大人も子供もないでしょう？」=Whether you like sweets or not, there's no such thing as adults or children.
 「はは、そうかも」=Haha, maybe so.
 「……それより、あなたも一口食べてみる？」=... Would you like to try a bite?
-「え？　いいの？」=What?　You sure?
+「え？　いいの？」=「М? Правда?」
 「それなら、少しもらおうかな」=I'll have a bite, then.
-「はい、あーん」=Yes, yes.
+「はい、あーん」=Here. Aaahn.
 「え？　[H名]さん？」=What?　Mr. [H名]?
 「どうしたの？　食べないのかしら？」=What's the matter?　You're not going to eat it?
 「いや、食べたいけど、あーんはちょっと恥ずかしいかな、なんて」=No, I'd love to, but I'm a little embarrassed.

@@ -1,11 +1,11 @@
-「……まずは俺から入場するんだったな」=... I'm supposed to go first, right?
+﻿「……まずは俺から入場するんだったな」=... I'm supposed to go first, right?
 （[H名]、すごく楽しみにしてたからな……格好いいところ見せないと）=I was really looking forward to it... I have to show you something cool.
 （まるで本物の新郎新婦みたいに……覚悟を決めるか）=(Are you going to prepare yourself ... like a real bride and groom?
-（いよいよ出番か……）=(Finally, it's time to go ...)
+（いよいよ出番か……）=（Вот и пора……）
 （すごい豪華だな……）=(It's gorgeous...)
 （うん……幸せ絶頂の[H名]を迎え入れよう）=Yeah, let's welcome ... [H名] at the height of his happiness.
 （ふぅ……ちょっと緊張したけど、[H名]の新郎役として堂々とできたかな）=I was a little ... nervous, but I think I did a great job as [H名]'s groom.
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
 （……[H名]？）=(...[H名]?)
 [H名]は怯えた小動物のように震えていて、俺だけでなくスタッフの人たちの息を呑ませた。=[H名] was trembling like a frightened little animal, and it took the breath away not only from me, but from the staff as well.
 純白のドレスはとても似合ってるはずなのに、縮こまってしまっているからか、ドレスに着られてしまっているようだ。=The pure white dress should have looked so good on her, but she seemed to have shrunk down, or maybe the dress was wearing her down.

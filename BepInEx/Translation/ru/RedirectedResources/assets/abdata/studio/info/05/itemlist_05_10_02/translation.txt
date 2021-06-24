@@ -1,4 +1,4 @@
-回転=Rotator
+﻿回転=Вращ.
 関節180=180° Joint
 関節60=60° Joint
 ピストン=Piston

@@ -1,4 +1,4 @@
-「ふぅ……歌のストックが尽きてしまいましたわ。わたくし、まだまだ流行歌についての学習が足りませんわね」=I'm running out of ... songs to sing. I haven't learned enough about popular songs yet.
+﻿「ふぅ……歌のストックが尽きてしまいましたわ。わたくし、まだまだ流行歌についての学習が足りませんわね」=I'm running out of ... songs to sing. I haven't learned enough about popular songs yet.
 「いやあ、でも上手だったよ！」=No, but you were good!
 「おーっほっほっほ…………ふう、高笑いするのも疲れてしまいましたわ」=Oh... I'm tired of laughing so hard.
 「そう？　まだ終了時間まで少しあるけど、疲れてるようならもう切り上げてもいいかもね」=Really?　There's still a little time before the end of the show, but if you're too tired, maybe we can cut it short.
@@ -20,4 +20,4 @@
 「お諦めなさい。さあ、そろそろ帰る用意を致しましょう」=Give it up. Now, let's get ready to go home.
 「そうだね……お会計してくるよ」=Well, I'm going to ... pay the bill.
 CHOICE:『それじゃ、最後までいようか』="Then let's stay until the end.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

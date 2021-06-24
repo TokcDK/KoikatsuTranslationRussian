@@ -1,4 +1,4 @@
-「今日は遊園地にしてみたけどどうかな？」=What do you think of the amusement park we're going to today?
+﻿「今日は遊園地にしてみたけどどうかな？」=What do you think of the amusement park we're going to today?
 「えへへ、すごく嬉しいです！　私もちょうどこういう賑やかなところへ来たかったですよ！」=I'm so happy!　I've been wanting to come to a place like this.
 「良かった。それじゃ早速、何か乗ってみる？」=Good. Now, do you want to try some rides?
 「はいです！　えーっと……どんなものでも平気ですか？　苦手なものとかあれば言ってくださいです」=Yes, sir!　Let's see... are you okay with anything?　If there's anything you don't like, let me know.
@@ -14,7 +14,7 @@
 「はいですっ！　ではでは、早速行くですよー！」=Yes, sir!　Then, let's go!
 「あっ、走ったら危ないよ！」=Oh, don't run!
 （はは、[H名]、本当に好きなんだな。こうやってはしゃぐ姿を見せてくれるなら、多少の絶叫系くらい……）=(Haha, [H名], you really like it, don't you? (Haha, [H名], you really like it. If you can show me your excitement like this, I'm sure you can handle a little screaming...)
-………………=...
+………………=.........
 「ふわぁ！　最高だったですー！　こんなに気持ち良かったの久しぶりですよ！」=Wow!　That was great!　It's been a long time since I've felt this good!
 「あ、あはは……そう……だね……」=Ah, ha ha ... yes ... right ...
 「あっ……ほ、本当に大丈夫ですか？　なんだか……打ち上がる直前から無口になってたですけど……」=Oh ... are you sure you're okay?　You've been quiet since just before the ... launch...

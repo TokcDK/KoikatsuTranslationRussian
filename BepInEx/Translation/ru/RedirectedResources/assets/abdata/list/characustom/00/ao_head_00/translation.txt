@@ -1,4 +1,4 @@
-リボン=Ribbon
+﻿リボン=Бант
 ヘアバンド=Hairband
 結びヘアバンド=Knotted Hairband
 紐リボン=String Ribbon

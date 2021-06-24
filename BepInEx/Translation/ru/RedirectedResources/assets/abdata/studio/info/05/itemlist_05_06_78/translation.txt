@@ -1,4 +1,4 @@
-艦艇の模型=War Fleet Model
+﻿艦艇の模型=War Fleet Model
 魚雷発射管の模型=Torpedo Tube Model
 2連装砲台の模型=Twin Gun Mount Model
 メカ装甲１=Mecha Armor 1
@@ -7,7 +7,7 @@
 メカ装甲４=Mecha Armor 4
 メカ装甲５=Mecha Armor 5
 メカ装甲６=Mecha Armor 6
-メカ装甲６×３=Mecha Armor 6×3
+メカ装甲６×３=Mecha Armor ６×３
 メカアンテナ1=Mecha Antenna 1
 メカアンテナ2=Mecha Antenna 2
 メカショルダー=Mecha Shoulder
@@ -17,16 +17,16 @@
 メカシールドⅡ=Mecha Shield Ⅱ
 メカブースター=Mecha Booster
 メカブースターⅡ=Mecha Booster Ⅱ
-メカサークル=Mecha Circle
+メカサークル=Королевская корона
 メカボックス=Mecha Box
-メカポッド=Mecha Pod
+メカポッド=Механический козырек
 メカデルタ=Mecha Delta
 メカチューブ=Mecha Tube
 メカポール=Mecha Pole
-メカビームポール=Mecha Beam Pole
+メカビームポール=Механический круг
 メカシザー=Mecha Scissors
 メカドリル=Mecha Drill
-メカバイザー=Mecha Visor
+メカバイザー=Механический полюс
 メカバイザーⅡ=Mecha Visor Ⅱ
 メカゴーグル=Mecha Goggles
 メカボール=Mecha Ball

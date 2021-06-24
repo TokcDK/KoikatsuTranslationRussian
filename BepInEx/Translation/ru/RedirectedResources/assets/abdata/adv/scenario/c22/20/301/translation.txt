@@ -1,4 +1,4 @@
-「カラオケ久しぶりー！　全力で歌っちゃうよー！」=It's been too long since karaoke!　I'm going to sing as hard as I can!
+﻿「カラオケ久しぶりー！　全力で歌っちゃうよー！」=It's been too long since karaoke!　I'm going to sing as hard as I can!
 「そうなんだ？　いつ以来なの？」=Oh, really?　When was the last time?
 「うんー、最後に友達と行ったのって、もう１０日位前だよー！　ずいぶん歌ってない感じ！」=Well, the last time I went with my friends was about 10 days ago!　I feel like I haven't sung in ages!
 「あ、あはは、それで久しぶりなんだ……さすが[H名]……カラオケ、よく行くんだね」=Haha, so it's been a while... As expected of [H名]... you go to karaoke a lot.
@@ -8,7 +8,7 @@
 「上手かどうかなんて関係ないよ。元気いっぱい、楽しく歌ってるのが[H名]っぽいし、今日はたくさん聞かせて？」=It doesn't matter if you're good or not. I don't care if you're good or not, it's like you're having fun singing.
 「えへへ……そう言ってもらえるなら……頑張っちゃうね。それじゃえっと……早速歌っちゃいます！」=I'll try my best ... if you say so. I'm going to sing ... right away!
 『果てしない空の下　どこかにきっとあるんだ♪　目の前に広がる航路に地図重ねて♪』=Under the endless sky, somewhere there must be a map on the route that stretches out in front of us.
-「お……おおお……」=Oh... oh...
+「お……おおお……」=「Ох…… Эмм……」
 「あははっ、どうだったかな？　君の前だから結構ドキドキしちゃったけど……」=I'm not sure how it went.　I was pretty nervous in front of you...
 「いや、本気ですごいよー！　なんていうか……まるでＣＤ聴いてるみたいだった！　[H名]、歌手になれるんじゃない？」=No, it's seriously amazing!　It was like listening to a ... CD!　[H名], you could be a singer.
 「も、もーっ、照れちゃうよーっ！　君、いくらなんでも持ち上げすぎだよ！」=I'm so embarrassed!　You're lifting me up too high!

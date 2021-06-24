@@ -1,4 +1,4 @@
-「ごめん、ちょっと遅くなりすぎちゃったから、人が一番多い時間になっちゃったね」=I'm sorry, I'm running a little late, it's the most crowded time of the day.
+﻿「ごめん、ちょっと遅くなりすぎちゃったから、人が一番多い時間になっちゃったね」=I'm sorry, I'm running a little late, it's the most crowded time of the day.
 「ウウン、全然謝るコトないヨ♡　モット、コッチ側来てイイヨ♡　ｃｏｕｐｌｅダカラ、何の問題もないデショ？」=I'm sorry I'm running a little late, I know it's the most crowded time of the day, but there's nothing to apologize for.
 「ありがと……うわっと……」=Thank you ... for that.
 （こ、この体勢はまずい……股間が……！）=(This is a bad position... My crotch is ...!
@@ -12,5 +12,5 @@
 （こ、ここで勃起するわけにはっ……！）=(I can't get a boner here...!
 （だいたい、密着したくらいですぐ反応するなんて、俺はどんだけ性欲猿なんだ……）=(How much of a sexual ape am I that I can react so quickly to close contact? ...)
 （……煩悩よ静まれっ。せめて電車の中にいる間だけでも）=(...Hush your worries. At least while I'm on the train.
-CHOICE:『欲望に身を任せる』="Give in to your desires
-CHOICE:『鉄の自制心で堪える』="Endure with iron self-control.
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
+CHOICE:『鉄の自制心で堪える』="Steel your self-control."

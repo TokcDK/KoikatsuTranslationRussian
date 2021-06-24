@@ -1,5 +1,5 @@
-「恋人っぽいこと……するんだよね？ な、なんかドキドキするね～」=You're going to do something like that ... right? I'm kind of nervous.
-「緊張してる？ 無理はしなくていいけど……」=Are you nervous? You don't have to be...
-「無理してるわけないじゃん！ あ、相手が[P]くんだとなんか照れちゃって……」=No, I'm not! I'm just embarrassed that it's with [P]-kun...
-「か、可愛い。抱きしめていいか」=You're cute. Can I hug you?
-「え？ も、もぉ～、しょ、しょうがないなぁ……おいで？」=What? Come on...
+﻿「恋人っぽいこと……するんだよね？ な、なんかドキドキするね～」=“This is like we're lovers...... isn't it? M-My heart's racing pretty fast for some reason～”
+「緊張してる？ 無理はしなくていいけど……」=“Are you nervous? You don't have to push yourself......”
+「無理してるわけないじゃん！ あ、相手が[P]くんだとなんか照れちゃって……」=“I'm not pushing myself! Ah, but if I'm partnered up with you, [P]-kun, I feel all shy...”
+「か、可愛い。抱きしめていいか」=“Y-You're so cute. Mind if I give you a hug?”
+「え？ も、もぉ～、しょ、しょうがないなぁ……おいで？」=“Eh? J-Jeez～ I-I guess it can't be helped...... come here.”

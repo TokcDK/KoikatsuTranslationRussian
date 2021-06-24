@@ -1,4 +1,4 @@
-「いくつになっても、遊園地は楽しめるものね」=You can never have too much fun at the amusement park.
+﻿「いくつになっても、遊園地は楽しめるものね」=You can never have too much fun at the amusement park.
 「うん、そうだね……っと、もうこんな時間か……」=Yeah, I guess so... Oh, my God, it's almost time...
 「ねえ、最後に観覧車に乗ってかない？　夜景を見たいと思うんだけど」=Hey, do you want to go on the Ferris wheel one last time?　I'd like to see the night view.
 「ふふっ、まだ遊び足りないの？」=Hmmm, you still haven't had enough fun?
@@ -8,5 +8,5 @@
 「私はそれでもいいけど、あなたはまだ遊び足りないのかと思っていたわ」=I'm fine with that, but I thought you weren't ready to play.
 「まぁ、そうなんだけど。でも、また二人で来たときの楽しみにとっておくから今は良いよ」=Well, I am. But I'll save it for when we come back together, so it's okay for now.
 「そ、そうね。私もあなたとまた来るのが楽しみよ」=Yes, you're right. I'm looking forward to coming back with you.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

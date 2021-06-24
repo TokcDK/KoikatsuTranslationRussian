@@ -1,4 +1,4 @@
-「……ふぅ、さすがに喉が疲れてきたわね」=... Hmm, my throat is getting tired, isn't it?
+﻿「……ふぅ、さすがに喉が疲れてきたわね」=... Hmm, my throat is getting tired, isn't it?
 「はは、俺も少しかれてきたよ。どうする？　そろそろ出る？」=Haha, I'm getting a little tired too. What do you say?　Do you want to get out of here?
 「でも、まだ時間あるわよ？」=But we still have time.
 「延長しすぎちゃったかな」=I think I've overstayed my welcome.
@@ -7,9 +7,9 @@
 「それじゃ、最後までいようか。[H名]も歌い足りないみたいだしね」=I'll leave it up to you. - Well, let's stay until the end. I think [H名] has enough to sing.
 「……歌は、充分歌ったわ。ただ、もう少し……あんたと、いたかったの」=I've sung enough ... songs. I just needed a little more ... time with you.
 「[H名]……嬉しいよ」=[H名]... is happy.
-「……」=...
+「……」=.........
 「あっ……んんっ……」=[H名]...mmm...
-「ん……」=It's ...
+「ん……」=Mm...
 「……いっそのこと、残り時間はキスしてよっか」=I'd like to spend the rest of my ... day kissing you.
 「ずっと……？」=All the time...?
 「もっと、過激なことの方がいい？」=You want something a little more extreme?
@@ -22,4 +22,4 @@
 「ちゃんとケアしなきゃダメよ？　はい、のど飴」=You have to take care of it.　Here. Throat lozenges.
 「ありがと。それじゃ、ちょっと会計済ませてくるよ」=Thank you. I'm going to pay the bill now.
 CHOICE:『それじゃ、最後までいようか』="Then let's stay until the end.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

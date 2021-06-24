@@ -1,4 +1,4 @@
-「ここのおみくじ機って大吉しかでないんだよね」=The fortune teller here only gives good luck, right?
+﻿「ここのおみくじ機って大吉しかでないんだよね」=The fortune teller here only gives good luck, right?
 「……それで、おみくじって、言っていい、の？」=... So, can I call it a fortune?
 「まぁいいんじゃないの。凶があらかじめ抜かれてる神社もあるっていうぐらいだし」=Well, it's okay. There are even shrines where the bad luck has been removed beforehand.
 「料理が来るまでの時間つぶしだから、細かなことは気にしない気にしない」=It's just a way to pass the time until the food arrives, so don't worry about the details.
@@ -7,7 +7,7 @@
 「それじゃあ回すよ。それとも[H名]が回す？」=I'll do it then. Or should I?
 「私は……いい。あなたが、回して」=I'll go to ... You turn it.
 「いいのが出ますように……あれ？　固いぞ」=I hope you get a good one... What?　It's hard.
-「どう……したの？」=What did you do to ...?
+「どう……したの？」="Did... something happen?"
 「ハンドルが回らないんだ。ぼろい機体だからさび付いてるのか」=I can't get the handle to turn. I can't turn the handle. It's rusty.
 「……入れた硬貨が、間違ってた、とか？」=Did you put the wrong coin in the ...?
 「いやぁ、確認して入れたから……ぐぐぐ、固ぇ」=No, I checked it before I put it in... Gosh, it's hard.

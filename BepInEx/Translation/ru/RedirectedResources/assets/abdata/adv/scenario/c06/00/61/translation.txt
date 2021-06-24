@@ -1,8 +1,8 @@
-「貴方と街を練り歩くのは妙妙たるお時間ですが、こうして緑に囲まれて過ごすのも格別ですね」=It's a strange time to be walking around the city with you, but it's also very special to be surrounded by greenery like this.
+﻿「貴方と街を練り歩くのは妙妙たるお時間ですが、こうして緑に囲まれて過ごすのも格別ですね」=It's a strange time to be walking around the city with you, but it's also very special to be surrounded by greenery like this.
 「気に入ってくれたみたいでよかった」=I'm glad you like it.
 「不思議ですね。貴方といるだけで、何の変哲もない緑が輝きを増しているようです」=It's strange, isn't it? Just by being with you, the ordinary greenery seems to become more brilliant.
 「俺も[H]と一緒だと、普通の公園でも楽しいよ」=It's fun to go to a normal park with you too.
-………………=...
+………………=.........
 「……あれっ？　俺、もしかして寝ちゃってた？」=... Huh?　Did I fall asleep?
 「お早う御座います。麗らかな陽気に誘われてしまいましたね」=Good morning. The sunny weather lured you in, didn't it?
 「ごめんっ！　話してる途中に寝ちゃうなんて酷いこと……」=I'm sorry!　I can't believe I fell asleep in the middle of a conversation...
@@ -15,7 +15,7 @@
 （どうしよう。家に誘ってみようかな？）=(What should I do? Maybe I should invite her to my house?
 「[H]さえ良ければ、もう少し一緒にいたいな」=If it's okay with [H], I'd like to hang out with you some more.
 「……はい。貴方がそう望むのなら、私も覚悟を決めます」=... Yes. If that's what you want, I'll be ready.
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「ええ。また学園でお会いしましょう」=Yes. I'll see you at the academy.
-CHOICE:「もう少し一緒にいたいな」="I'd like to spend a little more time with you.
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「もう少し一緒にいたいな」=I want to be together for just a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”

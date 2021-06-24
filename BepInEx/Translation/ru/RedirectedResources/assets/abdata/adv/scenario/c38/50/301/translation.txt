@@ -1,4 +1,4 @@
-「はい、こちらがマイクとリモコンです。どうぞ、お使いください」=Here's the microphone and remote control. Here's your microphone and remote. Use them.
+﻿「はい、こちらがマイクとリモコンです。どうぞ、お使いください」=Here's the microphone and remote control. Here's your microphone and remote. Use them.
 「お、手際がいいね。結構カラオケとか来てたり？」=Oh, you're good at that. Do you come here a lot for karaoke?
 「友達に誘われて、何度か……あ、友達と言っても、女友達ですよ？　男の方と一緒に来たのは、貴方が初めてです」=I've been invited by a friend to ... a few times, and when I say friend, I mean female friend.　You're the first person I've been with who's a man.
 「マジで？　それは光栄だな。[H名]はいつも、どんな曲歌ってるの？」=Seriously?　It's an honor. What kind of music does [H名] usually sing?
@@ -14,5 +14,5 @@
 「面白いかを決めるのは俺。ほら、もう予約入れちゃったし、覚悟を決めてっ」=I'll decide if it's funny. I've already booked it, so get ready.
 「あ、あぁ……なんてことを……うぅぅ、仕方ありません、１曲だけですよ？」=Oh, my God... Oh, my God... Oh, my God, it's only one song, okay?
 「オーケオーケー！　とりあえず一曲歌って、盛り上がってこー！」=Okay, okay!　Let's just sing one song and get excited!
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 「おおっ！　普通に上手いじゃん！　これは、次に歌ってもらう曲も考えておかないと……」=Oh!　You're good as usual!　I'll have to think of a song for you to sing next...

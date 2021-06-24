@@ -1,8 +1,8 @@
-ワイシャツ=Dress Shirt
+﻿ワイシャツ=Рубашка
 ワイシャツ襟開け=Dress Shirt (Opened Collar)
-ワイシャツベスト=Vest And Dress Shirt
+ワイシャツベスト=Лучшая рубашка
 ワイシャツパーカー=Parka And Dress Shirt
 肩吊りワイシャツ=Shoulder-Hung Dress Shirt
-体操着=Gym Uniform
+体操着=Физ-ра
 キャミソール=Camisole
 ノースリーブシャツ=Sleeveless Dress Shirt

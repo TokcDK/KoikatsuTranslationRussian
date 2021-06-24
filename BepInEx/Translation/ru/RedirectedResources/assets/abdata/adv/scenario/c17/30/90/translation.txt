@@ -1,4 +1,4 @@
-「……ねえ、私たちって愛称で呼び合わないけど、仲悪いのかしら？」=... Hey, we don't call each other by our nicknames, do you think we don't get along?
+﻿「……ねえ、私たちって愛称で呼び合わないけど、仲悪いのかしら？」=... Hey, we don't call each other by our nicknames, do you think we don't get along?
 「いや、そういうことはないと思うけど……どうしたの？」=No, I don't think so... What's wrong?
 「……雑誌に、恋人は愛称で呼び合うものだ、って書いてたから」=I read in ... magazine that lovers call each other by their nicknames.
 「はは、そんなこと気にしてたんだ」=Oh, so you've been paying attention to that?
@@ -13,4 +13,4 @@
 「あなただって……ああもう、柄でもないことをするものじゃないわね……」=You're not ... doing anything out of character, are you ...?
 「ちょっと照れくさかったけど、俺は嬉しかったよ」=It was a little embarrassing, but it made me happy.
 「……それじゃあ、また呼んでみてもいいかしら？」=... So, can I call you again?
-「うん、もちろんだよ」=Yeah, I will.
+「うん、もちろんだよ」=「Да, конечно」 

@@ -1,4 +1,4 @@
-「……は～、たまに公園で思いっきり遊ぶと楽しいよね」=It's fun to play in the park sometimes, isn't it ...?
+﻿「……は～、たまに公園で思いっきり遊ぶと楽しいよね」=It's fun to play in the park sometimes, isn't it ...?
 「はい♡　子供みたいにはしゃぐあなたを見て、私もはしゃいじゃいました♡」=Yes, handsome, seeing you excited like a child made me excited too.
 「じゃあ、もっと遊ぼうよ」=Let's play some more.
 「その前にお昼にしませんか？　そろそろ、鳴る頃だと思うので……♡」=Why don't we have lunch first?　I think it's about to ring... ♡
@@ -7,7 +7,7 @@
 「あなたのお腹が、です♡　お弁当を作ってきたので、そこのベンチでお昼ご飯にしませんか？」=I've made a lunch box for you, so why don't we have lunch on that bench?
 「[H名]には敵わないな。じゃあ、お言葉に甘えてお昼にしようか。[H名]の手作り弁当も楽しみだ」=You're no match for [H名]. Then, let's take your word for it and have lunch. I'm also looking forward to [H名]'s homemade bento.
 「はい♡　私の特製弁当でお腹いっぱいになってくださいね♡」=Yes, handsome, please fill your stomach with my special bento.
-………………=...
+………………=.........
 「ん～、お腹いっぱい。ごちそうさま、美味しかったよ！」=Hmmm, I'm full. Thanks for the food, it was delicious!
 「おそまつさまです♡　お茶もどうぞ」=Thank you so much for the tea.
 「いただきます……ずず……はぁ。空気も美味しいし、最高だなぁ……」=Itadakimasu... zuzu... haha. The air is delicious. It's great...

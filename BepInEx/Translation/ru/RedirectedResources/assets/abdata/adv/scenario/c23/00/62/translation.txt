@@ -1,7 +1,7 @@
-「もっと話したいけど、そろそろお別れかなぁ（哀）」=I'd love to talk more, but I think I'll have to say goodbye.
+﻿「もっと話したいけど、そろそろお別れかなぁ（哀）」=I'd love to talk more, but I think I'll have to say goodbye.
 「……この後、家にこれないかな？　まだ[H]といたいんだ」=I'm sorry, but that's all for today... Can you come home after this?　I still want to be with [H].
 「そっかぁ、ワタシもまだ一緒にいたかったんだ。ヤッタヤッタ」=I wanted to talk more, but I guess we have to say goodbye. Yeah, yeah, yeah.
 「そうだね、また今度話すことにしようか。それじゃ、ばいばい」=Well, maybe we'll talk some other time. Okay, bye.
 「えぇ、それでは、また」=Okay, I'll see you later.
 CHOICE:「……この後、家にこれないかな？」="... Can you come to my house after this?
-CHOICE:「そうだね、ばいばい」="Sure, bye.
+CHOICE:「そうだね、ばいばい」=Suppose so, byebye~

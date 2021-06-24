@@ -1,4 +1,4 @@
-タングルショルダー右用=Tangle Shoulder (Right)
+﻿タングルショルダー右用=Цветочный узор
 タングルショルダー左用=Tangle Shoulder (Left)
 騎士の肩当て右用=Knight Shoulderpad (Right)
 騎士の肩当て左用=Knight Shoulderpad (Left)

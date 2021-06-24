@@ -1,4 +1,4 @@
-「……ちょっと予想以上に混んできたね」=... It's getting a little more crowded than I expected.
+﻿「……ちょっと予想以上に混んできたね」=... It's getting a little more crowded than I expected.
 「[H名]、平気？　苦しくない？」=[H名], are you okay?　Are you in pain?
 「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=I'm fine, but ... you're pretty tight, aren't you?　If it's me, you don't have to worry about it. You can stick closer to me.
 「ありがと、そうさせてもら……っ」=Thanks, I'll do that...
@@ -13,5 +13,5 @@
 「うん、本気だよ。ちょっとだけでいいから……お願い」=Yes, I'm serious. Just a little bit of ... please.
 （い、いや……ここで反応したら……せっかくのデートが台無しになってしまう……！）=(No, no... if I react here, I'll ... ruin the date!
 （我慢、しないと……うぅ、でも本当にいい匂いがするなぁ……俺の理性、ちゃんと持ってくれるか……？）=(If I don't hold back, I'll ... have to, but it smells really good... Will my reasoning hold up?
-CHOICE:『一応我慢してみる』="I'm going to try to hold out for now.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『一応我慢してみる』=『Смириться с этим』
+CHOICE:『必死に我慢する』=『Быть терпеливее』

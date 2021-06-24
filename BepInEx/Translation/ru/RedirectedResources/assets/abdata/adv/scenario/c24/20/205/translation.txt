@@ -1,4 +1,4 @@
-「…………もし、世界があなたと私の二人きりになったら、どうしますか？」=... What would you do if the world was just you and me?
+﻿「…………もし、世界があなたと私の二人きりになったら、どうしますか？」=... What would you do if the world was just you and me?
 「うーん。まずは[H名]と協力して自給自足の環境を整えなきゃね。俺たちが大人になるために必要な栄養素を毎日とれるようにしないと、幸せになれないよ」=Hmm. First, I'd have to work with [H名] to set up a self-sufficient environment. We need to be able to get the nutrients we need every day to grow up, otherwise we'll never be happy.
 「私との幸せをそんな現実的に考えてくれてるんですね♡」=You're thinking about happiness with me in such a realistic way, aren't you, handsome?
 「そのｉｆストーリーは考えたことなかったけど、[H名]との将来のことはけっこう考えてるよ」=I hadn't thought about that if-story, but I do think about my future with [H名] a lot.
@@ -20,9 +20,9 @@
 「俺はさっきの[H名]の答えを聞いて、爽やかで女の子らしいって思ったよ」=I thought it was refreshing and girly when I heard [H名]'s answer earlier.
 「俺も遊園地のスタッフさんや観覧車を動かす電気を供給してくれてる電力会社さんに感謝したくなったもん」=I also want to thank the staff of the amusement park and the power company that provides the electricity to run the Ferris wheel.
 「……あなたは、たぶん、女の子のいいところを見るのが得意、なんですね……♡」=... You're probably good at seeing the best in girls, aren't you ...♡?
-「そうかな？」=You think so?
+「そうかな？」=「Ты так думаешь?」
 「そうです♡　だって、私なんて悪いところばっかりで……家族以外の誰かに褒められたことなんか……あ……」=Yes, I'm so handsome that I've never been praised by anyone outside of my ... family for my bad points.
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「ありました……一回だけ、褒められたこと。小学生の頃、担任の先生に言われたんです。それが……」=There was ... one time when I was praised. When I was in elementary school, my homeroom teacher told me. That was ...
 「『あなたみたいな純粋な子がいて嬉しいわ』って……あなたに言われるまで、すっかり忘れてました……」=I forgot all about it until you said, 'I'm glad there's a pure girl like you...
 「その先生は、[H名]のことが好きだったんだね。やっぱり[H名]は純粋なんだよ」=The teacher must have liked [H名]. I knew [name] was pure.
@@ -39,7 +39,7 @@
 「一番最初に私のことを好きだって言ってくれた人だから♡　いいときの私だけじゃなくて、悪いときの私のことも気遣ってくれるあなただから、好きになりました♡」=♡ Because you are the first person who told me that you like me ♡ I like you because you care about me not only when I'm good but also when I'm bad ♡
 「[H名]……」=[H名]...
 「……そういうことを本気で言ってくれるから、俺も好きなんだよ。[H名]……」='... I love you too because you really mean those things to me. [H名]...
-「ん……」=It's ...
+「ん……」=Mm...
 「……好きだよ……」=I like you.....
 「私も、好きです♡　ずっとずっと、大好きです……♡」=I like you, too. ♡ I'll always love you... ♡
 「ありがとう、[H名]……」=Thank you, [H名]...

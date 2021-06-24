@@ -1,4 +1,4 @@
-「おっと……混んできたね」=Oops... it's getting crowded.
+﻿「おっと……混んできたね」=Oops... it's getting crowded.
 「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home.
 「そうだね……うおっと」=Yes, it is... Oops.
 （うおぉ、この体勢はやばいっ、股間が[H名]に……）=(Ooh, this position is so bad, my crotch is ... in [H名].)
@@ -11,5 +11,5 @@
 「なんていうか、辛抱たまらんってやつみたいで……」=It's like, I can't take it anymore...
 （っ、気持ちいいけど、ここは我慢しないと……！）=It feels good, but I have to be patient here...
 （うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=(Ugh ... to be unable to do anything when the girl you love is right beside you, what a horrible life killer ...)
-CHOICE:『欲望に身を任せる』="Give in to your desires
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
+CHOICE:『必死に我慢する』=『Быть терпеливее』

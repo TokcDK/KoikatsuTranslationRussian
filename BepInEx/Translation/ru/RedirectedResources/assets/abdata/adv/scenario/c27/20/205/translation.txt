@@ -1,5 +1,5 @@
-「……観覧車に乗るのって、随分久しぶりな気がするわ」=... It's been a long time since I've been on a Ferris wheel.
-「そうなの？」=Is that so?
+﻿「……観覧車に乗るのって、随分久しぶりな気がするわ」=... It's been a long time since I've been on a Ferris wheel.
+「そうなの？」= 「Правда?」
 「小さい頃に１回か２回乗って、それっきりね」=I rode it once or twice when I was little, and that was it.
 「あんまり覚えてないけど、当時の私にとっては他のアトラクションの方が魅力的だったのかも」=I don't remember much about it, but I guess other attractions were more appealing to me then.
 「うーん、派手な動きがないし、ゆっくり回って地味だから好きじゃなかったのかな」=I don't know, maybe I didn't like it because it wasn't very exciting, it was slow and plain.
@@ -26,7 +26,7 @@
 「……今は景色を見てたいの」=... I just want to look at the view.
 「[H名]、こっちを向いて」=[H名], look at me.
 「なに――んんっ、ん…………」=What--nngh--nngh--...
-「…………」=...
+「…………」=...............
 「っ……い、いきなりしないでよ……心の準備、出来てないんだから……」=Don't do that... Don't do that... I'm not ready for that...
 「ごめん……でも、どうしてもこのタイミングでしたかったんだ」=I'm sorry ... but I really wanted to do this right now.
 「なんで？」=Why?

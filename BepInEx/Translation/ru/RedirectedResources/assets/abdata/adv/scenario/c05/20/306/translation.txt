@@ -1,4 +1,4 @@
-「ふぅ。今日もたくさん歌ったね」=Phew. You sang a lot today, didn't you?
+﻿「ふぅ。今日もたくさん歌ったね」=Phew. You sang a lot today, didn't you?
 「うん。あなたと一緒に歌うと、“かれら”とも調和できそうな気がする」=Yeah. When I sing with you, I feel like I'm in harmony with them.
 「もう少し時間があるし、わたしはもうちょっと歌おうかなって思うけど……どうかな？」=We have a little more time. I think I'll sing a little more... What do you think?
 「う～ん……」=Hmm...
@@ -18,4 +18,4 @@
 「あ……たしかに。ありがとう、気遣ってくれて」=... You're right. Thank you, that's very thoughtful.
 「どういたしまして。それじゃあ、会計済ませてくるね」=You're welcome. I'll go pay the bill.
 CHOICE:『それじゃ、最後までいようか』="Then let's stay until the end.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

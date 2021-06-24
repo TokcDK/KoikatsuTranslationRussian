@@ -1,4 +1,4 @@
-「いい眺めだね」=It's a nice view.
+﻿「いい眺めだね」=It's a nice view.
 「はい♡　あなたと一緒にこんな景色が見られるなんて、ここは世界一幸せな特等席です♡」=Yes, handsome, this is the happiest special seat in the world to be able to see such a view with you.
 （[H名]は絶えず俺のことを想ってくれてるんだなぁ。何か、恩返しはできないだろうか……そうだ）=(I wonder if [H名] is thinking about me constantly. Is there anything I can do to repay you? (... That's right.)
 「[H名]、目を閉じて」=[H名], close your eyes.
@@ -16,11 +16,11 @@
 「もう、何も心配しなくていいんですね♡　自分のことも、あなたのことも♡」=I don't have to worry about anything else. ♡ I don't have to worry about myself or you.
 「うん。ずっと楽しい時間が続くよ」=Yes. We're going to have so much fun together.
 「……手を、繋いでもいいですか？」=Can I hold your hand...?
-「もちろん」=Sure.
+「もちろん」=「Конечно」
 「あなたの手の温度が伝わってきます♡　このまま、あなたと二人っきりの世界に浸っていてもいいですか？」=Can I hold your hand? - I can feel the temperature of your hand. ♡ Can I immerse myself in a world where it's just you and me?
 「うん、浸ろう」=Yes, let's soak it in.
 「…………本当に、世界は私とあなたしかいなくなっちゃったんですね♡」=... Really, the world is just you and me now, isn't it ♡?
-「そうだよ」=Yes, I did.
+「そうだよ」=「Да」
 「嬉しいです。でも……」=I'm glad. But ...
 「やっぱりずっとは嫌です♡　観覧車が一周する、短い間だけの妄想で充分ですね♡　私、あなたと一緒に現実を生きていきます♡」=I don't want to be here forever. ♡ A short fantasy of a Ferris wheel going around is enough for me. ♡ I'll live in reality with you.
 「うん、これからもよろしくね」=Yes, I'll keep in touch with you.

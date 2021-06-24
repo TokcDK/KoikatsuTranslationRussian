@@ -1,4 +1,4 @@
-「あっ、おかえり。ドリンクバー混んでたの……って、顔赤いけど大丈夫？」=Oh, welcome back. The drink bar was crowded... You're red, are you okay?
+﻿「あっ、おかえり。ドリンクバー混んでたの……って、顔赤いけど大丈夫？」=Oh, welcome back. The drink bar was crowded... You're red, are you okay?
 「ととと、隣の部屋で……っち……してた……」=Oh, I was ... in the next room...
 「あー……なるほど」=Oh... I see.
 （間違えて入っちゃった部屋で、いたしてたわけか……）=Oh ... I see." - "So you were in the wrong room ...
@@ -19,4 +19,4 @@
 「俺は……シタいけど、[H名]が嫌なら無理強いはしないから」=I'd ... love to, but if you don't want to, I won't force you.
 「うぅ……仕方……ないわね。少し……ほんの少しの間だけ、だからね？」=Ugh ... there's no ... way. It's just for a little ... while, okay?
 「あと……優しくしてよ？」=And ... be nice to me, okay?
-「……うん」=... Yeah.
+「……うん」="...Sure."

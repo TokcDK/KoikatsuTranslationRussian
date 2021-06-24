@@ -1,4 +1,4 @@
-「今日はどんなデートがいいかしら？」=What would you like to do today?
+﻿「今日はどんなデートがいいかしら？」=What would you like to do today?
 「映画なんてどうかな？　オススメの映画が今ちょうど上映中なんだ。ホラーなんだけどね」=How about a movie?　There's a movie I recommend that's playing right now. It's a horror movie.
 「え……ホラー……？　……だっ、大丈夫よ！　怖くなったら私が手を繋いであげるわね」=What ... horror ...?　It's ... Don't worry!　I'll hold your hand if you get scared.
 「うぅぅ……とっても怖かったわぁ……。――きゃっ！」=I'll hold your hand if you get scared." "Ugh ... that was so scary. --Ouch!
@@ -6,9 +6,9 @@
 「なぁんだ、猫ちゃんかぁ。ふぅ、オバケかと思っちゃったわ」=Oh, you're a cat. Oh, I thought you were a ghost.
 「あら、ごめんなさい！　思わず抱きついちゃった……うふふ」=Oh, I'm sorry!　I just hugged you...
 「ちょっぴり怖かったけど、映画、楽しかったわ。またオススメの映画に連れて行ってね」=It was a little scary, but I enjoyed the movie. Please take me to a movie you recommend.
-「まだもう少し一緒にいない？」=Do you want to hang out some more?
+「まだもう少し一緒にいない？」=“Want to be together for a little longer?”
 「私も、まだあなたと離れたくないわ……」=I don't want to leave you yet, either...
-「俺も楽しかったよ、それじゃあね」=I had a good time, too. I'll see you later.
+「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「ええ、またね～」=Yeah, see you later.
-CHOICE:「まだもう少し一緒にいない？」="Do you want to stay with me a little longer?
-CHOICE:「俺も楽しかったよ、それじゃあね」="I had a good time too, see you later.
+CHOICE:「まだもう少し一緒にいない？」=“Want to be together for a little longer?”
+CHOICE:「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”

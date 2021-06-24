@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「あ、あちらのお店なんていかがでしょう？　少し興味があります」=Oh, how about that store over there?　I'm a little curious.
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「素敵なお店でしたね。またいつか、ご一緒できると嬉しいです」=It's a nice place. I hope we can meet again sometime.
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

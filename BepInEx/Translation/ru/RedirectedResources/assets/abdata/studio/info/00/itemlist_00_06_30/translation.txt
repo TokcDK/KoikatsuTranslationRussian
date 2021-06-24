@@ -1,4 +1,4 @@
-あほ毛A=Ahoge A
+﻿あほ毛A=Ahoge A
 あほ毛B=Ahoge B
 くるくるあほ毛A=Curly Ahoge A
 くるくるあほ毛B=Curly Ahoge B
@@ -19,7 +19,7 @@
 サンバイザー=Sun Visor
 三角巾=Bandanna
 水泳キャップ=Swimming Cap
-リボン=Ribbon
+リボン=Бант
 紐リボン=String Ribbon
 パーティーハット=Party Hat
 野球ヘルメット=Baseball Helmet

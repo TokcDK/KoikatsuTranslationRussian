@@ -1,4 +1,4 @@
-「わぁ、マジたか～い！」=Wow, it's really hot!
+﻿「わぁ、マジたか～い！」=Wow, it's really hot!
 「[H名]って、意外と高いのは平気なんだね」=You're surprisingly good at heights, aren't you?
 「うん！　だってほら、こんなにも綺麗な夜景が見れるんだから！」=Yes!　Because you can see such a beautiful night view!
 「はは、そう言ってもらえるなら、来た甲斐があったな」=Well, if you say so, then it was worth the trip.
@@ -12,7 +12,7 @@
 （う、うわぁ～、突然何を言ってるんだ、俺は……）=(Oh, wow, what are you talking about all of a sudden, I'm ...
 「も～！　[P名]くんってば、堂々と言いすぎ～！」=Moo~!　[P name]-kun, you say things too openly~!
 「でも……ありがとう」=But thanks for ...
-「え？」=What?
+「え？」=... Что ты такое говоришь?
 「こんなに素敵な場所に連れてきてもらって、かわいいなんて言われちゃってさ」=But thank you  for taking me to such a nice place and telling me I'm cute.
 「それで嬉しくならない女の子、いるわけないじゃん！」=I mean, what girl wouldn't be happy about that?
 「だから、本当にありがとうね♪」=So thank you so much.
@@ -21,7 +21,7 @@
 「ねえ、[H名]……」=Hey, [email protected] ...
 「なぁに？　って、ちょ、顔近いって！」=What?　You're so close to my face!
 「んんっ……！　んぅ、ちゅ……ん……」=Mmm...!　Mmm, chu.....
-「ん……」=It's ...
+「ん……」=Mm...
 「うぅ……いきなりすぎだって……」=Ugh ... that was too abrupt ...
 「[H名]への想いが溢れて、つい」=My feelings for [name] were so strong that I couldn't resist.
 「も～、そんなこと言われたら、許すに決まってるじゃん……」=Of course I'd forgive you if you said that...
@@ -31,7 +31,7 @@
 「今度は聞いてくるんだ？」=Are you going to ask me this time?
 「連続でいきなりするのは……」=I don't think it's ... right to do it all at once.
 「……たまになら、強引なのもいいよ？」=... can be a bit aggressive sometimes, can't it?
-「え……！」=Yeah...!
+「え……！」=「Е……!」
 「たまにだからね？　そこを間違えちゃダメ！」=Just once in a while, okay?　Don't make that mistake!
 「う、うん、分かってるよ」=Yeah, yeah, I know.
 「じゃあ……この観覧車に乗ってる間は、強引な[P名]くんになって……♪」=So... while you're on this Ferris wheel, you'll be [P name], the forceful one...

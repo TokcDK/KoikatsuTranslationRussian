@@ -1,4 +1,4 @@
-「ねぇ、[Pあだ名]」="Hey, [Pあだ名]"
+﻿「ねぇ、[Pあだ名]」=“Hey, [Pあだ名].”
 「へっ！？　い、いきなりどうしたの……何かのご褒美？」="Wha-!? What's that all of a sudden... A reward for something?"
 「フフッ、その間抜け面が見てみたくなってね。ちょっとした気まぐれよ」="Fufu, I wanted to see a stupid look on your face. It was slightly stupid."
 「えっと、じゃあ俺は……[Hあだ名]……って呼んでも？」="Umm, then... what if I call you [Hあだ名]?

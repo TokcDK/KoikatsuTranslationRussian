@@ -1,4 +1,4 @@
-「うう、少し喉が疲れてきました。ちょっと休憩したいですね」=Ugh, I'm getting a little thirsty. I think I need to take a break.
+﻿「うう、少し喉が疲れてきました。ちょっと休憩したいですね」=Ugh, I'm getting a little thirsty. I think I need to take a break.
 「あー、うん、結構長い時間楽しんだからね。少しダラダラしよう」=Uh, yeah, we've been having fun for quite a while. Let's linger a bit.
 「ダラダラ……あまり好きな言葉ではありませんね。無為に時間を費やしたくないのですが」=Lazy ... is not a word I like very much. I don't want to spend all my time for nothing.
 「んー……じゃあ、疲労回復のため、小休止をしよう」=Hmm... Well, let's take a short break to recover from fatigue.
@@ -17,7 +17,7 @@
 「確かにその通りですね」=That's true.
 「じゃあ、もう出ようか」=Well, let's get out of here.
 「わかりました。あ、その前に一つ」=All right. Oh, one thing before that.
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「身体のケアだけじゃなく、喉のケアもすべきです。のど飴や、何か喉の粘膜に良いものを摂取すべきです」=You should not only take care of your body, but also your throat. You should take some throat lozenges or something good for the mucous membranes of your throat.
 「そうだね。何か買ってから帰ろうか」=That's right. Let's get something before we go home.
 CHOICE:『マッサージしてあげようか？』="Do you want me to give you a massage?

@@ -1,10 +1,10 @@
-「うーん……公園は気持ちいいね」=Well... the park is nice.
+﻿「うーん……公園は気持ちいいね」=Well... the park is nice.
 「そうね。天気もいいし、日向ぼっこにはもってこいだわ」=Yes, it is. It's a beautiful day. It's perfect for sunbathing.
-にゃー=Meow.
+にゃー=Nyaaa
 「あっ、猫……」=Oh, cats...
 「気持ちいいのは猫も一緒のようね」=Looks like the cats like it too.
 「あらっ？　足にすり寄って来たわ……」=What?　It's rubbing up against my leg...
-ごろごろ……=Lolling ...
+ごろごろ……=Му-р-р……
 「あはは、気持ちよさそうにごろごろ言ってるよ」=Ha-ha-ha. He's laying there like he feels good.
 「あ……この子、首輪をしてるわね。どんなおうちで飼われているのかしら……」=Oh ... She's wearing a collar. I wonder what kind of home he's being kept in...
 「野良かと思ったら飼い猫なのか。どうりで人懐っこいわけだ」=I thought he was a stray, but he's a domesticated cat. No wonder he's so friendly.
@@ -18,7 +18,7 @@
 「ふふ、愛情の注ぎ方が間違ってたみたいね」=I guess I didn't give you enough love.
 「人がいるのに気にしないなんて、大胆な猫だね」=You're a bold cat, not caring that people are around.
 「あ……あ……」=Oh... Oh...
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「大丈夫かしら……かみついてこない……？」=Are you okay... or are you going to bite me...?
 「大丈夫だよ。よしよーし、ほら、おいで～」=I'm fine. It's okay. Come on, come on, come on.
 「来た来た！　ほ～れ、ちちちちち……お～、いい子いい子」=Here it comes!　Come on, come on, come on, come on... Oh, good boy, good boy.

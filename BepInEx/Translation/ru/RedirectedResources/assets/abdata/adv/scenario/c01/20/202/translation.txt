@@ -1,4 +1,4 @@
-（！？　なんか、着ぐるみが近づいてきたぞ……！？）=(What?　There's a stuffed animal approaching...?
+﻿（！？　なんか、着ぐるみが近づいてきたぞ……！？）=(What?　There's a stuffed animal approaching...?
 「あ、風船。私がもらってもいいんですか？」=Oh, the balloons. Can I have one?
 「──ありがとうございます、大切にしますね」=Thank you very much, I'll take good care of it.
 （ん？　俺にも？）=(Hmm?　One for me?
@@ -23,5 +23,5 @@
 （なんだか、はしゃいでるというか、童心に返ってる感じ？）=(I feel like I'm getting excited or going back to my childhood.)
 「きっと、スタンプを全部集めたらご褒美で風船ももらえると思うよ」=If you collect all the stamps, I'm sure you'll get a balloon as a reward.
 「本当ですか？　では、はりきって最後の１個を見つけましょうっ」=Really?　Then, let's find the last one with all our might.
-「だね！」=Right!
+「だね！」=「Да!」
 （いつもの控え目な[H名]もいいけど、こういう子供っぽいのもアリだな……！）=(The usual reserved [H名] is good, but this kind of childishness is also possible...!

@@ -1,4 +1,4 @@
-「すごい……すごいよ、[P名]くん。夜空に手が届きそう」=Wow... is amazing, [P name]. I can almost reach the night sky.
+﻿「すごい……すごいよ、[P名]くん。夜空に手が届きそう」=Wow... is amazing, [P name]. I can almost reach the night sky.
 「ここの夜景、評判って聞いてたから……一度、[H名]と来てみたかったんだ」="I've heard that this place has a good reputation for its night view, so ... I wanted to come here once with [H名].
 「そうだったんだ……ありがとう、こんな素敵な場所に連れてきてくれて」=I didn't know that... Thank you for bringing me to such a beautiful place.
 「ここなら、“かれら”とも交信しやすいかな？」=Do you think it will be easier to communicate with them here?
@@ -46,4 +46,4 @@
 「……わかった。あそこなら、いいよ」=... Okay. Okay, that's fine.
 「[H名]……ありがとう」=[H名]... Thank you.
 「……二人で、救われようね」=... We'll both be saved.
-「うん」=Yes.
+「うん」=「Да」

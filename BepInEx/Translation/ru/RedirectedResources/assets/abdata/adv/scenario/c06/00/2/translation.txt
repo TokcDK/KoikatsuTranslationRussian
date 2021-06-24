@@ -1,9 +1,9 @@
-「貴方の特徴についてお話がございます」=I'd like to talk to you about your features.
+﻿「貴方の特徴についてお話がございます」=I'd like to talk to you about your features.
 「特徴？　どんなところ？」=Characteristics?　What traits?
 「破廉恥なところです」=I'm an embarrassment.
 「あっ、えっと……ごめんなさい」=Oh, I'm sorry...
 「うふふ、謝る必要はございません。むしろ、私が貴方に謝らなくてはなりません」=Mmm, no need to apologize. In fact, I owe you an apology.
-「え……？」=What ...?
+「え……？」=「Ее……？」
 「昨晩、貴方の特徴について祖母に相談したのですが、それが殿方だということを教わりました」=I talked to my grandmother last night about your features, and she told me that you are a gentleman.
 「私、本当に不勉強で……今までの貴方への接し方について、反省する点がいくつもございます」=I'm really uneducated and ... have a lot of things to regret about the way I've treated you.
 「い、いや、全然大丈夫だよ。俺もやりすぎた時とかあったと思うし」=No, no, no, it's totally fine. I'm sure I've gone overboard at times.

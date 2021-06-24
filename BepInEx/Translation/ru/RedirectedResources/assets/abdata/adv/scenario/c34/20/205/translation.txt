@@ -1,4 +1,4 @@
-「Ｏｈ♡　外で見たヨリ、ズット速いネ！　地面がどんどん、遠くなるヨ！」=Oh, handsome, you're a lot faster than I saw you out there!　The ground is getting further and further away!
+﻿「Ｏｈ♡　外で見たヨリ、ズット速いネ！　地面がどんどん、遠くなるヨ！」=Oh, handsome, you're a lot faster than I saw you out there!　The ground is getting further and further away!
 「アッ……フフ♡　ハズカシイヨ～♡　アナタといるカラ、はしゃぎすぎてるネ♡　地面が遠くなるナンテ、当たり前のコトナノニ♡」=The ground is getting farther and farther away!
 「あはは、可愛いし、俺もテンションあがるし、もっとはしゃいでいいよ！」=You're so cute and I'm so excited, you can get even more excited!
 「ＯＫ♡　高いトコロ好きダカラ、イッパイはしゃいじゃうネ♡　ヒューヒュー！」=OK, I like heights, so I'm going to have a lot of fun.
@@ -16,7 +16,7 @@
 「いや、おかしくないよ、[H名]。むしろ、ニッポンの暮らしに慣れて……そういうことを考える余裕が生まれたんだよ」=No, it's not strange, [H名]. No, it's not strange, [my name]. Rather, I've gotten used to living in Nippon and have ... more time to think about such things.
 「そうカナ……ゴメンネ、デートなのに、遊園地、ナノニ、コンナ……グスッ……」=Yeah, I'm sorry, we're on a date, but we're going to an amusement park.
 （おおぉ……[H名]がセンチメンタルな感じに……！　これは、抱き寄せるタイミングだよな。よ、よーし……）=(Oh...[H名] is feeling sentimental...!　This is the right time to hug her, isn't it? Okay, okay...
-「あ……」=...
+「あ……」=「А……」
 「えっと……俺は海を越えた経験なんてないから偉そうなことは言えないけど、友達も思い出も経験も、すぐ近いところにあるから……それが遠く離れると思うとつらいよ」=I've never been across an ocean, so I can't speak highly of it, but my friends, memories, and experiences are all so close by that it's hard to think of them ... being so far away.
 「ウン……コッチの友達もタクサン出来たし、アナタが恋人になってくれたノニ……贅沢ダネ♡　フフ……」=I've made a lot of ... friends here, and you've become my girlfriend, which is ... extravagantly handsome ...
 「[H名]は、これから先、日本でずっと暮らすつもり？」=Do you plan to live in Japan for the rest of your life?
@@ -36,7 +36,7 @@
 「んん……ぷはっ……目を閉じて……」=Mmm ... pfft ... close your eyes ...
 （我ながら幼稚だけど、目を閉じさせる方法がこんなことしか思い浮かばなかった……）=(I know I'm being childish, but this is the only way I could think of to get him to close his eyes...)
 「ンン……はふ、ありがと……アナタがいてくれたら、って思うト……ンッ……チュ……平気なんダケド、ソレ言えなくて……ン……チュ、チュむっ……♡」=Nn ... haha, thank you ... for being here, I wish you were here ... nn...  ...♡
-「どうして？」=Why?
+「どうして？」=「Почему нет?」 
 「ウン……ンンッ……アナタは、ＫＯＩ－ＫＡＴＳＵ部の部長デ……あむっ……ン……他にも可愛いオンナノコ、タクサンいるカラ……チュ……♡」=I'm not sure what to say, but I'm not sure what to do. I'm sure you'll be happy to know that I'm not the only one.
 「ダカラ、慣れないとナノ……ンッ♡　……アナタがいなくなってモ、ンン……ニッポンで生活していけるヨウニ……デモ、こんなｋｉｓｓされタラ……忘れられないヨ♡」=I'm not sure if I'm going to be able to do this, but I'm sure I'm going to be able to do it... demo, I'll never forget this kiss... handsome.
 （俺は今、酷いことをしてるんだろうな……けど、そんなこと言われて、やめられるわけない）=(I'm probably doing something horrible right now ... but there's no way I'm going to stop now that you've said that.

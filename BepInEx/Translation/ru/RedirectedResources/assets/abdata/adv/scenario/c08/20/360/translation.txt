@@ -1,4 +1,4 @@
-「お部屋ちょっと汚しちゃったから、綺麗にしておかないと」=I've made a mess in my room. I need to clean it up.
+﻿「お部屋ちょっと汚しちゃったから、綺麗にしておかないと」=I've made a mess in my room. I need to clean it up.
 「そうだね。急いで片付けよう。時間迫ってるしな」="Let's get out of here. Yes, let's hurry up and clean up. We're running out of time.
 「うん！　ねえ、またすぐ連れて来てくれるよね？」=Yeah!　You'll bring me back soon, right?
-「もちろんだよ」=Sure.
+「もちろんだよ」="Of course."

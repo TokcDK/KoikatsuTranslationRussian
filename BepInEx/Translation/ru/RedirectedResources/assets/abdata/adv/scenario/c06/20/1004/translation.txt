@@ -1,7 +1,7 @@
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Thank you for your time. It was a beautiful ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=I hope you'll have your real wedding at one of our venues!
+﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=「Спасибо за ваш тяжелый труд. Фу-фу-фу, это была чудесная церемония」
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=「Пожалуйста, проведите вашу настоящую свадьбу у нас!」
 「はい、彼女の家の許可が下りたら是非……」=Yes, I'd love to see you at ... when you get permission from her house.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Please do!　Thank you very much for agreeing to do this today.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=「Спасибо! И за то что согласились на иммитацию тоже спасибо」
 「[H名]、お疲れ様。今日はどうだった？」=[H名], good work. How was your day?
 「そうですね……とても素敵なお式でしたが、貴方に私の結婚観を知られてしまい、少々恥ずかしいです」=Well... it was a very nice ceremony, but I'm a little embarrassed that you know my views on marriage.
 （さっきの[H名]の覚悟を聞いた後だと、軽々しく『そんなことないよ』とは言えないな……）=(After hearing about [H名]'s determination earlier, I can't lightly say, 'No, you don't.' ...)
@@ -13,7 +13,7 @@
 「そ、それは……そうですね。祖母は女として一番幸せな生き方と教えてくれますが、学友はもっと自由に生きていて、将来の夢はお嫁さん、なんて言う子はいません」=That's what I'm talking about. My grandmother teaches me that it is the happiest way to live as a woman, but my schoolmates live more freely and none of them say that their dream is to become a bride.
 「だから自分を古い女なんて言うんだね。[H名]は古い女なんかじゃないよ。ちゃんと現代を生きる、ピチピチの女の子だよ」=That's why you call yourself an old woman. That's why you call yourself an old woman. You're not old-fashioned, you're a modern, fresh-faced girl.
 「少なくとも、俺に合わせていれば、古い女になんかならないし……ちょっと格好つけになっちゃうけど、させない」=At least if you keep up with me, you won't be an old-fashioned girl... It's a bit pretentious, but I won't let you.
-「…………」=...
+「…………」=...............
 「俺に色々と知られることを恥ずかしいなんて思わないで。俺は流行り廃りに左右されない[H名]の生き方が好きなんだよ。それは古いって言わないんだ」=Don't be embarrassed that I know things about you. I like [H名]'s way of life that doesn't depend on fads and trends. That's not old-fashioned.
 「……古いという言葉は、物心ついた頃より私を縛ってまいりました……でも、違ったのですね……」=...The word "old" has been with me since I can remember...But it's different...
 「有難う御座います。貴方のお言葉で、私自身を呑み込むことが叶いました。私はこれからも、大和撫子として邁進いたします」=Thank you very much. Your words have helped me to swallow myself up. I will continue to push forward as a Yamato Nadeshiko.

@@ -1,4 +1,4 @@
-「ア～楽しかったネ♡　次は何にスル？　Ｒｏｌｌｅｒ　ｃｏａｓｔｅｒ……ア、ニッポン語では『ジェットコースター』だったネ♡　もう一回、乗る？」=That was fun. What's next?　What's next? Roller coaster... Oh, it's 'roller coaster' in Japanese♡ Do you want to ride it again?
+﻿「ア～楽しかったネ♡　次は何にスル？　Ｒｏｌｌｅｒ　ｃｏａｓｔｅｒ……ア、ニッポン語では『ジェットコースター』だったネ♡　もう一回、乗る？」=That was fun. What's next?　What's next? Roller coaster... Oh, it's 'roller coaster' in Japanese♡ Do you want to ride it again?
 「[H名]、そろそろ夕方だから、考えて乗らないと、すぐ帰る時間になっちゃうよ」=[Name], it's almost evening, so if you don't think about it, it'll soon be time to go home.
 「Ｏｈ……もうそんな時間……ン～、ドウスル？　思ったヨリ、遅い時間だったネ……」=Oh... it's almost that time... do you want to go?　It's later than I thought ...
 「じゃあ、最後に観覧車に乗ろうか」=Well, let's go on the Ferris wheel one last time.
@@ -9,5 +9,5 @@
 「あ、指きりげんまんだね。じゃあ、小指を出して……よし。ゆーびきーりげーんまーん……」=Oh, it's finger-cutting mania. "Oh, you're finger-cutting man, aren't you?" "Well, stick out your little finger and go to ... It's called "yubikiri genman." ...
 「嘘ついタラ、ｔｈｏｕｓａｎｄ　ｎｅｅｄｌｅ～♡」=Liar, thousand needle.
 「サウザンド・ニードルって、なんか技名みたいだね！？」=Thousand needle" sounds like a technique.
-CHOICE:『最後に観覧車に乗ってかない？』="Why don't we go on the Ferris wheel one last time?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『最後に観覧車に乗ってかない？』=『Может останемся на колесе обозрения?』
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

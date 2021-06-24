@@ -1,4 +1,4 @@
-「はいっ、暑いからアイス買ってきたよ！　ソーダバーとオレンジバー、どっちがいい？」="Here, it's hot so I bought some ice! Do you prefer soda or orange flavor?"
+﻿「はいっ、暑いからアイス買ってきたよ！　ソーダバーとオレンジバー、どっちがいい？」="Here, it's hot so I bought some ice! Do you prefer soda or orange flavor?"
 「うーん、オレンジバーね。フフッ、貴方にしては気が利くじゃない」="Thanks, I'll have an orange one. Fufu, how thoughtful of you."
 「遊園地って知らぬ間に結構歩いてるからね、適度に休憩を挟んだ方がいいかなって」="We've walked around quite a lot, so it's important to take a break from time to time."
 「それには賛成ね。とりあえずベンチにでも座って食べましょうか」="I agree. Let's sit on a bench and eat."
@@ -15,7 +15,7 @@
 「嫌よ。主人のものを欲しがるなんて、卑しい下僕ね」="Nope. What a greedy manservant, who wants his master's things."
 「うっ、わかった……じゃあ、俺のだけどうぞ……」="Ugh, I got it... Here you go."
 「ちゅっ、れろっ、うん、ソーダ味もすっきりして美味しいわね」="*Suck*, *lick*, yeah. Soda one is also refreshing and tasty."
-「そ、そう……ならよかった」="I-Is that so... Then I'm glad."
+「そ、そう……ならよかった」=“I-I see...that's fine then.”
 （……うわ、口元にソーダバーの食べカスが付いてるけど……言った方がいいのかな……）=(...Wow, she has a bit of ice on her lips, but... Would it be good to tell her?"
 「また口元を見てるわね？　遊園地に来ても、そういう事しか考えられないの？」="Are you looking at my lips again? Even though we've come to an amusement park, this is the only thing you can think about?"
 「いや、違くて……その、[H名]さんの口元にソーダバーの食べカスが……」="No, that's not it... Um, there's a bit of soda ice on Miss [H名]'s lips..."

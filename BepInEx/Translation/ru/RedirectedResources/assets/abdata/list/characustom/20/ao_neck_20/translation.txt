@@ -1,4 +1,4 @@
-ウェディングチョーカー=Wedding Choker
+﻿ウェディングチョーカー=Wedding Choker
 フォーマルリボン=Bow Tie
-スライダー=Slider
+スライダー=ползунок
 ネームプレート=Nameplate

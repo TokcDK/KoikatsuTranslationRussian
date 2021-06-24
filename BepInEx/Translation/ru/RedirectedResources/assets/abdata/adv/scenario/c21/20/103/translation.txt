@@ -1,4 +1,4 @@
-「あー、疲れた～。公園でこんなに遊ぶなんて、いつぶりかなぁ」=I'm so tired! I haven't played this much in the park since...
+﻿「あー、疲れた～。公園でこんなに遊ぶなんて、いつぶりかなぁ」=I'm so tired! I haven't played this much in the park since...
 「わかる♪　子供の頃に戻った感じで、時間を忘れちゃった……この感じ、なつかしいな～」=I feel like I'm a kid again, I've lost track of time... This feeling is so nostalgic!
 （この夕日も、子供の頃によく見た色をしてる気がする……なんだか、寂しいな）=I feel like I've lost track of time... This feeling is so nostalgic!
 （もうちょっと[H名]と一緒にいたいけど……疲れたから帰るって選択肢も……）=(I'd like to stay with [H名] a little longer, but ... I'm tired, so I have the option of leaving ...)
@@ -12,5 +12,5 @@
 「くすっ、わかってるよ。キミは本当にエッチな男の子だけど、本当に優しいし、本当に女の子のこと大切にしようとしてるって分かってるから」=I know, I know. I know you're a really naughty boy, but you're really sweet and I know you really care about girls.
 「……だから、これからもよろしくね、彼氏くん」=... so keep it up, boyfriend.
 「うん、[H名]が分かってくれてるなら、きっとずっと大丈夫だよ。これからもよろしく」=Yeah, if [H名] understands me, I'll be fine. Keep up the good work.
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『いい思い出ができたね』="You've made a great memory.

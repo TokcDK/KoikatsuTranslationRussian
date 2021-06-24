@@ -1,4 +1,4 @@
-「うわ、もう日が落ちてきちゃった……どうしよっか？　最後にこれだけは乗っておきたいとかある？」=I'm sure he knows I've been having erotic fantasies.　Is this the last thing you want to ride?
+﻿「うわ、もう日が落ちてきちゃった……どうしよっか？　最後にこれだけは乗っておきたいとかある？」=I'm sure he knows I've been having erotic fantasies.　Is this the last thing you want to ride?
 「私は……特に無いですね。もう十分、幸せ過ぎるくらいに遊園地を堪能させて頂きましたから、後は貴方にお任せいたします」=I don't have anything in particular in mind for ... I've already enjoyed the amusement park too much to be happy about it, so I'll leave the rest to you.
 「それなら、観覧車に乗っていかない？　最後にゆっくり、夜の遊園地を見下ろすって感じで」=Why don't we go for a ride on the Ferris wheel then?　Then why don't we take a ride on the Ferris wheel, so we can take our time and look down on the park at night?
 「はい、とてもいい案だと思います。観覧車、是非ご一緒させてください」=Yes, I think that's a very good idea. Yes, I think that's a great idea. I'd love to join you on the Ferris wheel.
@@ -11,4 +11,4 @@
 「うん、いいよ。俺も行っておこうかな……お互い終わったら、またここで待ち合わせってことで」=Yeah, sure. I'll go with you... When we're both done, we'll meet back here.
 （[H名]、きっと写真映りを気にして髪型とか直しに行ったのかな？　なんかいいなぁ、女の子って感じで……）=(H name), I wonder if she went to fix her hair or something to make it look better in the picture?　(It's kind of nice to be a girl...)
 CHOICE:『それなら、最後に観覧車に乗らない？』="Then, why don't we take a ride on the Ferris wheel at the end?
-CHOICE:『暗くなる前に帰ろうか』="Let's go home before it gets dark.
+CHOICE:『暗くなる前に帰ろうか』=『Идем домой пока не стемнело』

@@ -1,4 +1,4 @@
-「[H名]のウェディングドレス姿って、どんな感じなんだろう……」=I wonder what [H名] would look like in a wedding dress...
+﻿「[H名]のウェディングドレス姿って、どんな感じなんだろう……」=I wonder what [H名] would look like in a wedding dress...
 （いや、それより[H名]……俺との結婚を意識してるって言ってたな……気にするなって言われたけど、そんなの無理だよ）=(No, it's more like [H名]... said she was thinking about marrying me... She told me not to worry about it, but that's impossible.
 （俺は……まだ学生だし、[H名]との結婚なんて、あまり意識してなかった）=(I'm still a student at ... and I wasn't really thinking about marrying [H名].)
 （でも、[H名]がずっとしてたなら、知らず知らずのうちに悲しいを想いをさせてたんじゃ……）=(I was still in school and didn't really think about marrying [H名].) (But if [H名] had been doing it for a long time, then he was probably unwittingly making me feel sad...)
@@ -6,8 +6,8 @@
 （でも、考えてみれば[H名]の尽くしっぷりは、彼氏というより、夫に対するそれだもんな……）=(But when you think about it, [H名]'s devotion is more like that of a husband than a boyfriend...)
 （俺はそれに見合うことを[H名]にしてあげられてたかな……）=(I wonder if I've done enough for [H名] to deserve it...)
 （ふぅ……ひとまず形にはなってたかな。[H名]の花婿らしく、この後も頑張ろう）=(Hmmm..... I guess that's a formality at least. I'll try my best to be [H名]'s groom after this.
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 いつもは和のテイストが強い[H名]は、見事にウェディングドレスを着こなしていた。=Normally [H名] has a strong Japanese taste, but she wore her wedding dress beautifully.
 テイストが１８０度変わっても、彼女の楚々とした雰囲気は変わらず、淑女らしい気品に満ちていて、ドキドキする。=Even though her taste has changed 180 degrees, her neatness is still the same, and she is full of ladylike elegance, which makes me nervous.
 緊張した様子もなく、佇む姿に俺はただ目を奪われてしまう。=The way she stood there, without a hint of nervousness, was simply stunning.

@@ -1,4 +1,4 @@
-「んー、歌えば、歌うほどストレスが解消されていくわ」=Hmm, the more I sing, the more stressed I get.
+﻿「んー、歌えば、歌うほどストレスが解消されていくわ」=Hmm, the more I sing, the more stressed I get.
 「普段そんなにストレスためてるの？」=Are you really that stressed out?
 「まあ、人並み程度にはあるもの。それより、次の曲は入れてないの？」=Well, I'm about as stressed as anyone can be. Anyway, haven't you got another song in mind?
 「あっ、ごめん。あ～、でもどうしようかな……けっこう歌ったから、レパートリーが……」=Oh, I'm sorry. Oh, but I don't know... I've sung so many songs, my repertoire is ...
@@ -8,11 +8,11 @@
 「ええ、わかったわ」=Yeah, okay.
 「じゃあ次に入れる曲探しに……」=I'm going to ... to find the next song.
 「あ……ちょっと待って」=Oh... wait a minute.
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「歌うのは一度休憩にしましょう」=I think we should take a break from singing.
 「じゃあ、何するの？　……エッチとか？」=So, what are we gonna do?　... sex?
 「そればっかりね……」=That's all you do...
-「あはは……」=Ha-ha-ha...
+「あはは……」=Ahaha...
 「……なんて、本当は……私もそのつもりで、休憩にしようって提案したの」=... Oh, my God... I was actually going to suggest that we take a break.
 「え……そうだったの」=Oh... you did?
 「ええ……ずっと個室であなたと二人きりだったから……その気に、なっちゃって……」=Yeah, I was ... alone with you in a private room for a long time, so I was ... tempted.
@@ -25,4 +25,4 @@
 「も、もう……でも、折角だし甘えちゃおうかしら」=I'm going to ... but I think I'm going to indulge you.
 「そうしてそうして」=And so you did.
 CHOICE:『いや、せっかくだし最後までいよう』="No, let's just stay until the end.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

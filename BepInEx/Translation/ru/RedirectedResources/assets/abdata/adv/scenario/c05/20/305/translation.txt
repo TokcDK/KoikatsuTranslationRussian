@@ -1,8 +1,8 @@
-（……隣の部屋のカップル、エッチしてたなぁ）=... The couple in the next room was having sex.
+﻿（……隣の部屋のカップル、エッチしてたなぁ）=... The couple in the next room was having sex.
 （ひと休みしようとドリンクを取りに行っただけなのに、これじゃ全然休みにならないよ）=I just went to get a drink to take a break, but this is not a break at all.
 （[H名]も一緒に行ったけど……[H名]は見たのかな？）=(I went with [H名], but I wonder if ...[H名] saw it.
 「ねえ、[P名]くん……」=Hey, [P-name]...
-「なに？」=What?
+「なに？」=「Чего?」
 「カラオケでの交信方法って、一緒に歌うことだけじゃないんだね……」=I guess singing together isn't the only way to communicate at karaoke...
 「あー……見ちゃった？」=Oh, did you see ...?
 「うん……すごかった……」=Yeah, it was ... amazing...

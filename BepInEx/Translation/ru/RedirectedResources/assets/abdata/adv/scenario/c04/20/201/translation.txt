@@ -1,4 +1,4 @@
-「やっぱり遊園地は人がたくさんいるなぁ」=There are a lot of people at the amusement park.
+﻿「やっぱり遊園地は人がたくさんいるなぁ」=There are a lot of people at the amusement park.
 「カップルだけじゃなくて、家族連れも多いもの」=Not just couples, but families too.
 「どこかゆっくり出来そうなところは……おっと」=Where can we find a place to relax? ... Oops.
 「わ～い、カップルだ～！」=Wow, a couple!
@@ -19,7 +19,7 @@
 「さぁ……子供に見えたんじゃないかな？」=You know... I think I look like a kid.
 「もう、そんなわけないでしょ」=Oh, my God, no.
 「あははははは……って、え？　俺にもくれるんですか？」=Ha-ha-ha-ha ... huh?　You're giving me one of those?
-「…………」=...
+「…………」=...............
 「……ふっ！　あはははっ！　あなたももらったのね」=... Huh!　Hahahaha!　You got one too.
 「……俺も子供に見えたってこと……？」=You got one too... Does that mean I look like a kid too ...?
 「きっとカップルにも渡しているのよ」=I'm sure they give them to couples.

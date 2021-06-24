@@ -1,4 +1,4 @@
-「今日は遊園地で思いっきりはしゃごう！」=Let's go to the amusement park and have a blast!
+﻿「今日は遊園地で思いっきりはしゃごう！」=Let's go to the amusement park and have a blast!
 「うんっ、はしゃごうはしゃごう！　この遊園地、最近新しいアトラクションが出来て、また人気が出てるんだよ」=Yeah, let's go, let's go, let's go!　This amusement park has recently opened a new attraction and it's getting popular again.
 「お～、さすが詳しいね」=Oh, you really know your stuff.
 「あはは、たまたま雑誌で見ただけだよー。えーっと……あ、ほら、あれ。すっごく大きなジェットコースター」=Haha, I just happened to see it in a magazine. I just happened to see it in a magazine... Oh, look, there it is. It's a very big roller coaster.
@@ -8,7 +8,7 @@
 「あはは、お腹の辺りだよね。それで……どうしよう？　せっかくだし……やっぱり乗る？」=Haha, it's around your stomach. So ... what should I do?　Do you want to go on the ... ride?
 「そ、それはもちろん！　新アトラクションと聞いたら乗らないわけにはっ！」=Yes, of course!　If I hear about a new attraction, I have to go on it!
 「そうだよね。うぅ……ちょっと怖いけど……でも隣に君がいてくれたら平気そう！　さっそく並んでみよ！」=That's right. I'm a little ... scared, but I think I'll be okay with you next to me!　Let's get in line!
-………………=...
+………………=.........
 「ま、まま……まさか……あんなに激しいなんて……」=I'm still ... not expecting ... to be so intense.
 「や……ヤバかったよね……俺、まだ足震えてる……」=I'm still shaking ... my legs.
 「わ、私もだよーっ……だって……あのっ……ぜ、絶対に死んじゃうって思ったもん！」=Wow, me too... Because ... I thought I was going to die!

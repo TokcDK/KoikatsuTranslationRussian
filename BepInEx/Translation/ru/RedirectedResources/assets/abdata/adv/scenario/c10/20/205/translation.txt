@@ -1,4 +1,4 @@
-「ほほ～！　おぉ～！」=Ho-ho!　Ooh!
+﻿「ほほ～！　おぉ～！」=Ho-ho!　Ooh!
 （ふふ、こんなに無邪気な[H名]が見れるなんて、誘って正解だったな）=It was a good decision to invite her, seeing her so innocent.
 「何か見える？」=What do you see?
 「うんっ！　街が全部見下ろせる！」=Yes!　I can see the whole city!
@@ -17,7 +17,7 @@
 「当然だ！　ただ、敵襲かと思って驚いてしまっただけで私は別に怖くなんて……ごにょごにょ」=Of course not!　It's just that I was startled by what I thought was an enemy attack, and I wasn't afraid...
 「ふふ、そっか。じゃあ、俺は怖くなったから手を握ってくれると嬉しいな」=I'm not scared. Well, I'm scared now, so I hope you'll hold my hand.
 「本当か？　そ、そういうことなら手を握って汝の恐怖心を和らげてやる」=Really?　Really? Well, in that case, I'll hold your hand and allay your fears.
-「ありがとう」=Thank you.
+「ありがとう」=「Спасибо」
 「ふぅ～、これでお互い安心だな」=Hmm. Now we're both safe.
 「あれ？　『お互い』にってことはやっぱり[H名]も……」=Huh?　If it's for both of us, then it's also for ...
 「ち、違う！？　それはつい言葉に出ちゃっただけで……」=No, no!　That's just a word that came out of my mouth...
@@ -31,15 +31,15 @@
 「ん……調子に乗るっていうのはこういうこというんだよ」=... That's what I mean when I say you're getting carried away.
 「あぅ……近い近い、顔が近いぞ！？」=Oh... close, close, close to my face!
 「んっ、んんちゅ……」=Mmm, mmm ...
-「ん……」=It's ...
+「ん……」=Mm...
 「ぷはっ……どう、だった？」=Pfft... How was it?
 「うぅ～、どうもこうもあるか……」=Ugh, not so good...
 「わ、我の心の準備も無しに、汝は……」=Wow, I'm not prepared for this. You're ...
 「ごめんごめん。それじゃあ、心の準備はできた？」=I'm sorry, I'm sorry. So, are you ready?
-「ふぇっ！？」=Huh?
+「ふぇっ！？」=「А-ах!?」
 「もう一度、キスしたいんだけどいい？」=Can I kiss you again?
 「汝と言う奴は！？　はぁ～……もう一度してもいいが、次はその……優しくするんだぞ」=Who the hell art thou?　Huh... You can do it again, but next time be that ... gentle.
 「ホント、ありがとう！」=Really, thank you!
 「……あ、あと」=... Oh, and...
-「ん？」=Hmm?
+「ん？」=「М?」
 「た、たまにだったら……いきなりでも、いいよ」=You know, sometimes it's ... okay to be a little abrupt.

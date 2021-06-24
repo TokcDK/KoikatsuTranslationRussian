@@ -1,4 +1,4 @@
-プルルル……=Purululu...
+﻿プルルル……=Па-па-ра па……
 「あ、私がとります……はい、もしもし……あ、延長……えっと、ちょっと待ってください……１０分前、みたいです♡　延長しますか？　あなたに任せます♡」=Oh, I'll take it ...Yes, hello ...Ah, extension ...Well, wait a minute.....10 minutes ago, it looks like.　I'll leave it to you ♡
 「どうしようかな……」=What should I do? ...
 「延長しようよ。俺、まだ[H名]の歌が聞きたい」=Let's extend it. I still want to hear [H名] sing.
@@ -13,7 +13,7 @@
 「うん。最後だからこそ[H名]の歌声を聴きたいんだ」=Yes. Yes, I want to hear [H名] sing for the last time.
 「そういうことでしたら、誠心誠意、一生懸命歌わせていただきますね♡」=If that's the case, I'll do my best to sing with all my heart and soul.
 「お願いするよ」=Please do.
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=If I could grow wings on my back and fly free in the sky...
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『Если крылья вырастут, у меня за спиной, то летать я буду, над большою земле-ей♪』   (Извините, срифмовал как смог XD)
 （[H名]の歌って、なんか不思議の魅力があるんだよな～。俺のためだけに歌ってくれてるからかな？）=(There's something magical about [H名]'s singing, isn't there? Is it because you're singing just for me?
 CHOICE:『延長しようか』="Shall we extend?
-CHOICE:『延長はいいかな』="Is an extension okay?
+CHOICE:『延長はいいかな』=『Не продлевать』

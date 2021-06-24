@@ -1,4 +1,4 @@
-「登ってきたな。これで完全に二人っきりだ」=You've climbed. Now it's just you and me.
+﻿「登ってきたな。これで完全に二人っきりだ」=You've climbed. Now it's just you and me.
 「やっぱり綺麗……」=It's beautiful...
 「……あれにも乗った……あっちのにも乗った」=I've been on ... that one, and I've been on ... that one.
 「意外と乗ってるんだね。それだけ乗ったら、時間があっという間なのも頷けるか」=You've been on more than you think, haven't you? No wonder the time flew by so fast.
@@ -20,7 +20,7 @@
 （んん？　どういうことだろ？）=(Hmm?　What do you mean?
 「……ねぇ……キスして」=... Hey... give me a kiss.
 「えっ！？　う、うん……」=What?　Yeah...
-「んんっ……」=Mmm...
+「んんっ……」=「М-н……」
 （あっ……これは……）=(Oh... this is ...)
 「ふふっ……どうだった？」=Hmm... How was it?
 「……すごく甘い！　でも、どうして」=... So sweet!　But why?
@@ -33,7 +33,7 @@
 「うぅ……恥ずかしい……」=Ugh ... embarrassing ...
 「ふ、ふふ……気に入って貰えたみたいで……嬉しい……ふふっ」=Hmmm..... glad ... you like it... Hmmm...
 「もう、笑い過ぎだよ……そんなに笑うなら、こっちもこうさせてもらうからな」=You're laughing too much... If you laugh that much, I'm going to have to do the same.
-「えっ……」=What ...?
+「えっ……」=「Е……」
 「えいっ……」=Hey...
 「んんっ……ぷはっ……ま、待って」=Mmmm ... pfft ... wait.
 「ダメ、[H名]のせいでお腹空いちゃったから、そのプルプルで美味しい唇を食べさせてもらうよ」=No, I'm hungry because of [H名], so I'm going to eat your plump, delicious lips.

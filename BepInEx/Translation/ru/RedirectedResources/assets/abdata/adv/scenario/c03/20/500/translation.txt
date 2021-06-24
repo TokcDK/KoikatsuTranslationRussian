@@ -1,4 +1,4 @@
-「えっと……今日は一日付き合ってくれてありがとう。すごく楽しかったよ」=Well... thanks for spending the day with me. I had a lot of fun.
+﻿「えっと……今日は一日付き合ってくれてありがとう。すごく楽しかったよ」=Well... thanks for spending the day with me. I had a lot of fun.
 「私も思い出に残る一日だったのです。今日のこと、一生忘れないですよ！」=It was a memorable day for me too. I'll never forget this day!
 「あはは、さすがにそれは大げさだよ」=Haha, you're exaggerating.
 「大げさじゃないですよ。あなたと過ごす一日は、全部、一生忘れられない日なのです」=You're not exaggerating. Every single day that I spend with you is a day that I will never forget.
@@ -20,9 +20,9 @@
 「はぅ……そうですね……ありがとうございます……」=Huh... Well... thank you...
 「寂しい思いさせてごめんね。俺も……寂しいけど……」=I'm sorry for making you feel lonely. I'm sorry you're lonely. I'm ... lonely, too...
 「えへへ、そんなお顔しないでください。寂しいのは本当ですけど……その分、嬉しくもあるですよ」=Heh, don't look at me like that. It's true that I'm lonely, but I'm also ... happy for that.
-「嬉しい？」=Happy?
+「嬉しい？」=Ты рада?
 「はいです！　すごく大切にされてる気がして……えへへ。私……あなたのこと、大好き……また学園で会えるのを楽しみにしてるです」=Yes!　I feel like I'm very important to you... Hehe. I ... love you ... and I look forward to seeing you again at school.
 「[H名]……うん、俺も楽しみにしてるよ」=[H名]... Yeah, I'm looking forward to it too.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

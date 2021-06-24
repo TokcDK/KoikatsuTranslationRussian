@@ -1,4 +1,4 @@
-「今日は楽しかったよ。ありがとう」=Today was fun. Thanks.
+﻿「今日は楽しかったよ。ありがとう」=Today was fun. Thanks.
 「あたしも……今日は楽しかった」=I had fun at ... today.
 「でも……もう、さよならしちゃうの？」=But ... are you going to say goodbye now?
 「[H名]……」=[H名]...
@@ -23,6 +23,6 @@
 「……充電完了」=... is fully charged.
 「え？　……なにそれ」=What?　... What is that?
 「ふふ……いいのいいの！　それじゃあ、また……学園でね」=... No, no, no!　I'll see you at ... school.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

@@ -1,4 +1,4 @@
-「カラオケ♪　カラオケ～♪　ねね、どっち先歌う？　ジャンケンで決めよっか♪」=I'm not sure what to say.　Let's decide by rock, paper, scissors.
+﻿「カラオケ♪　カラオケ～♪　ねね、どっち先歌う？　ジャンケンで決めよっか♪」=I'm not sure what to say.　Let's decide by rock, paper, scissors.
 「あはは、そんなに歌いたいなら、[H名]が先に歌っていいよ。はい、マイク」=Haha, if you want to sing so badly, [H名] can sing first. Here, microphone.
 「え、いいの？　友達と来るときはいつも取り合いになるんだよ～」=Oh, you don't mind?　Whenever I come here with my friends, we always have to fight for it.
 「そんなに？　だからいつもジャンケンで決めることになるんだね」=That much?　That's why it's always rock, paper, scissors.
@@ -12,7 +12,7 @@
 「オッケー、二人のコンビネーションが試されるね」=Okay, we're going to have to test our combination.
 「えへへ、彼氏くんと歌うのって、ちょっと憧れてたんだよね～……オッケー、曲入れたよ♪」=I've always wanted to sing with my boyfriend... Okay, I've got the song.
 「よーし、がんばるぞ」=Okay, I'll do my best.
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 『胸の中溢れだす言葉にも♪』=And the words overflowing in my heart.
 「えへへ、どうしようこれ、普通に照れちゃうね！」=I'm so embarrassed!
 （確かに照れるけど、恋人と同じ歌を代わりばんこで歌うのってドキドキして楽しいなぁ）=It's true that I'm embarrassed, but it's fun and exciting to sing the same song with my girlfriend all the time.

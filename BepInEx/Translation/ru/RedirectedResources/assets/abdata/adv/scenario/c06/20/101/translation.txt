@@ -1,4 +1,4 @@
-「いい天気。お散歩日和だねぇ」=It's a beautiful day. It's a nice day for a walk.
+﻿「いい天気。お散歩日和だねぇ」=It's a beautiful day. It's a nice day for a walk.
 「はい。貴方と肩を並べて歩き、お話をさせていただけるなんて、嬉しいです。心が安らぎます」=Yes. Yes, it's a pleasure to walk shoulder to shoulder with you and talk with you. It makes me feel at ease.
 （こういう時間の過ごし方が出来るのは、[H名]とぐらいかもなぁ）=(Maybe only [H名] and I can spend time like this.)
 「あら、ご覧ください。サツキが咲いております」=Oh, look. "Oh, look, the satsuki azalea is in bloom.
@@ -11,7 +11,7 @@
 「小さい頃かぁ。[H名]は小さい頃からあまり変わってないイメージだけど、どうなの？」=When I was little, huh? I have the impression that you haven't changed much since you were a child, but what do you think?
 「くすっ、もしかしたら、貴方より無邪気な子供だったかもしれません。事あるごとに駄々をこね、厳しいお稽古から逃げ出してお外で遊んでおりました」=I was probably a more innocent child than you. I was a child who was more innocent than you. I used to run away from the strict training and play outside.
 「えー、意外！　いつから今の[H名]みたいになったの？」=Well, that's unexpected!　When did you become like [H名]?
-「それは……」=That's ...
+「それは……」=Это...
 「あ、言いにくいことだった？」=Oh, was that hard to say?
 「いえ……少し、恥ずかしいだけでございます」=No, it's just ... a little embarrassing.
 「私が祖母や母のように淑やかな女性を目指したきっかけ。お聞きになりますか？」=How did I come to be a lady like my grandmother and mother? Would you like to hear about it?

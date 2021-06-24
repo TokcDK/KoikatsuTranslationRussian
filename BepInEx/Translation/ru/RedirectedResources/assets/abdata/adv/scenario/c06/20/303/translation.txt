@@ -1,4 +1,4 @@
-プルルル……=Purululu...
+﻿プルルル……=Па-па-ра па……
 「あら、お電話が……私がお取りいたします……もしもし……はい、はい、少々お待ちください」=Oh, you've got a call... I'll take it... Hello... Yes, yes, please hold.
 「終了のお時間十分前とのことですが……延長の有無をお尋ねされました」=It's about ten minutes before your time is up, and you asked if you could extend your ... time.
 「[H名]さえよかったら、延長してもいいかな？　もう少し歌いたくない？」=Would you mind if I extended the time, if it's okay with [H名]?　Would you like to sing some more?
@@ -16,5 +16,5 @@
 「うん、お願い」=Yes, please.
 『小さな手の平 掴める物は　きっと限られているけど～♪』=There's only so much I can hold in my little palm.
 （やっぱいい声してるな～）=(You've got a great voice.)
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
 CHOICE:『延長はしなくていい』="No need for an extension.

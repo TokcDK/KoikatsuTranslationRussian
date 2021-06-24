@@ -1,4 +1,4 @@
-「えへへ、混まずに乗れたね」=What's the last ride?
+﻿「えへへ、混まずに乗れたね」=What's the last ride?
 「運がよかったよ」=I was lucky.
 「日頃の行いが良い結果だね♪」=That's what you get for doing this all the time.
 「あはは……その理論なら、ずっと運がいいはずなんだけどな」=Hahaha... According to your theory, I should be lucky all the time.
@@ -14,16 +14,16 @@
 「ははは、[H名]の力で、俺の頭を動かせるかな？」=Haha, can you move my head with the power of [H名]?
 「景色より……[H名]のほうを見たいんだ……」=I'd rather look at ...[H名] than the scenery...
 「わ、わっ！　待って待って！」=Whoa, whoa!　Wait, wait, wait!
-「んん……」=Mmm ...
+「んん……」=「М-м……」
 「んっ……んんっ、ん……！」=Wait, wait, wait!
 「……いきなりびっくりしたぁ」=... what a surprise.
 「でも、その……今すっごく……うれしかった……」=But that ... just made me so ... happy.
 「ねぇ、も一回キスして……今度は、もっと……優しくね」=Hey, kiss me again ... and be more ... gentle this time.
 「ごめん、さっきはつい力んじゃって……」=I'm sorry, I was too ... forceful.
 「いいの、ありがとう……大好きだよ」=It's okay. Thank you... I love you.
-「ん……」=It's ...
+「ん……」=Mm...
 「んっ……はぁ、はぁ……んぅ…………」=Mmm ... mmm ... mmm ...
-（[H名]……）=([H名]...)
+（[H名]……）=（[H名]...）
 「……あのね、[P名]君に聞いて欲しいことがあるの」=...You know, there's something I want you to hear, [P-name].
 「なに、かな？」=What is it?
 「今日は[P名]君と観覧車に乗れて本当に良かった。それに……こんなにいっぱいキスもしてくれて……とってもいい思い出になっちゃったよ」=I'm really glad I got to ride the Ferris wheel with [P name] today. I'm really glad I got to ride the Ferris wheel with [P name] today, and he kissed me so ... much, it was a really good memory.

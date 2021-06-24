@@ -1,4 +1,4 @@
-……………………=...
+﻿……………………=...
 「ふう……これだけ歌えれば、私はもう満足だな」=If I can sing this ... much, I'll be happy.
 「うん、俺もだよ。でも、まだ時間あるんだよね。延長時間取り過ぎちゃったなぁ」=Yeah, me too. Yeah, me too, but we still have time. We've taken too much extra time.
 「う～ん。でもよ、私はもう歌いきりました、って気分だぜ」=Hmmm. But you know what, I feel like I'm done singing.
@@ -15,4 +15,4 @@
 「何もないって……一体どんなことがあってほしかったの？」=Nothing? ... What the hell did you want to happen?
 「うっ、うっせー！　ちょっとは自分で考えろ！」=Shut up!　Think for yourself!
 CHOICE:『それじゃ、最後までいようか』="Then let's stay until the end.
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

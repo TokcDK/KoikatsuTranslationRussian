@@ -1,7 +1,7 @@
-「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」="Thanks for waiting. CHOICE: "It's a good time.　Did you wait long?
-「いえ、敢えて言う程の時間は待ってないわよ。アナタは遅刻しなかったんだし、変な負い目も感じる必要はないわ」="No, I didn't wait as long as I should have. No, I didn't wait that long. You weren't late, so there's no need to feel guilty about it.
-（うわ、これ絶対かなり待ってたやつだ……）=(Wow, that's definitely a long wait...)
-「さ、参考までに何分前から居たのか教えてもらっていい？」=Hey, can you tell me how long ago you were there for reference?
-「時間の価値観を共有しておくのは良い事だと思うけど……恥ずかしいから言わないわ。本当に気にしなくていいから」=(Wow, this is definitely a pretty long wait...) "Well, can I tell you how long I've been here for reference?" "I think it's good to share time values, but I'm not going to tell you because it's ... embarrassing. You really don't have to worry about it.
-「そ、そう？　なら、早速デートを始めようか」=Oh, really?　Then let's start dating.
-（恥ずかしくて言えないって……予想の倍くらいは待ってそうだなぁ……）=(Too embarrassed to say it... I think I'm waiting twice as long as I expected...)
+﻿「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」=「Извини за ожидание. А, прийти на 5 минут раньше было слишком поздно? Сколько ты ждешь?」
+「いえ、敢えて言う程の時間は待ってないわよ。アナタは遅刻しなかったんだし、変な負い目も感じる必要はないわ」=「Нет, я не настолько долго жду чтобы говорить об этом. Ты не опоздал, поэтому тебе не стоит думать о себе плохо」
+（うわ、これ絶対かなり待ってたやつだ……）=（Ого, все-таки она ждет долго……）
+「さ、参考までに何分前から居たのか教えてもらっていい？」=「П, просто для справки, можешь сказать сколько ты тут стоишь?」
+「時間の価値観を共有しておくのは良い事だと思うけど……恥ずかしいから言わないわ。本当に気にしなくていいから」=「Это, конечно, хорошо делиться тем как мы проводим время но…… Мне стыдно, поэтому я тебе не скажу. Тебе правда не стоит об этом беспокоиться」
+「そ、そう？　なら、早速デートを始めようか」=「Т, точно? Ладно, тогда давай начнем свидание」
+（恥ずかしくて言えないって……予想の倍くらいは待ってそうだなぁ……）=（Смущается сказать…… Кажется она ждет вдвое дольше, чем я думал……）

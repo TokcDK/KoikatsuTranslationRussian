@@ -1,4 +1,4 @@
-「……いつ来ても、ここは素敵ね」=... It's always nice to be here.
+﻿「……いつ来ても、ここは素敵ね」=... It's always nice to be here.
 「ん……そうだね」=... Yeah, it is.
 「心地いい夜風に吹かれながら愛しい[H名]と綺麗な夜景を見る……最高のシチュエーションだなぁ」=There's nothing like a nice night breeze and a beautiful night view with your beloved ...
 「また、あんたはそういうこと言って……」=That's what you're saying...
@@ -24,7 +24,7 @@
 「っ……あ～、もう……仕方ないわね。ちょっとの間、だけよ……」=I want to hug [H名] right now... Oh... I can't help it. It's just for a little while...
 「[H名]……！」=[H名]...!
 「また、この景色を二人で見に来ようね」=Let's come back and see this view together.
-「……うん」=... Yeah.
+「……うん」="...Sure."
 「よし！　今日はそろそろ帰ろっか」=Okay!　Let's go home for the day.
 「ちょ、ちょっと待って」=Wait a minute.
 「どうかしたの？」=What's wrong?

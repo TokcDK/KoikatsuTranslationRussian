@@ -1,4 +1,4 @@
-「あのよ……そろそろ私ら、愛称で呼び合わないか？」=Hey... do you think we should start calling each other by our nicknames?
+﻿「あのよ……そろそろ私ら、愛称で呼び合わないか？」=Hey... do you think we should start calling each other by our nicknames?
 「いいけど……どうしたの？　急に」=Okay... What's up?　Suddenly.
 「いや、特に理由はねぇけどよ……新しい刺激が欲しいっていうか？」=Well, there's no particular reason... You want some new stimulation?
 「なるほどね……じゃあ、ちょっとお互いの愛称を考えてみよっか」=I see... So let's think of some nicknames for each other.
@@ -7,7 +7,7 @@
 「柄じゃねーよ！　くだらないこと言ってないで、はやく考えろって」=It's not a pattern!　Stop talking nonsense and start thinking.
 「ごめんごめん……よしっ、いいの思いついたよ。それじゃ呼び合おうか」=I'm sorry, I'm sorry... Okay, I've got an idea. Let's call each other that.
 「おう！　えっと……[Pあだ名]」=Yeah!　Let's call each other...[Pあだ名]
-「[Hあだ名]……」=[Hあだ名]...
+「[Hあだ名]……」="[Hあだ名]……"
 「な、なんだお前……顔赤くなってるぞ！」=What's up with your ... face? It's blushing!
 「たぶん、そっち程じゃないと思うけど……」=Maybe not as much as you...
 「うるせぇよ！　やっぱ愛称呼びはなしだ！」=Shut the fuck up!　I'm not calling you by your nickname!

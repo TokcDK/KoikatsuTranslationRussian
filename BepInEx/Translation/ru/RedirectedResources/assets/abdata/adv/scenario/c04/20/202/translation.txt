@@ -1,4 +1,4 @@
-「やっぱり、ジェットコースターは乗るまで時間がかかるね」=After all, it takes a long time to ride a roller coaster.
+﻿「やっぱり、ジェットコースターは乗るまで時間がかかるね」=After all, it takes a long time to ride a roller coaster.
 「人気のアトラクションだもの。どこもこんなものよ」=It's a popular attraction. It's a popular attraction.
 「立ちっぱなしだけど大丈夫？」=Are you sure you're going to be okay standing there?
 「平気よ。それに、この待っている時間、私は結構好きなのよね。アトラクションのことを想像しているとドキドキするの」=I'm fine. Besides, I like this waiting time a lot. I get excited when I think about the attraction.
@@ -18,7 +18,7 @@
 ゴーーーーーーーッ！=Goooooooood!
 「きゃあああああああああああああああああっ！！」=Aaaaahhhh!
 「おおおおおぉぉぉ！！」=Whoa, whoa, whoa, whoa!
-………………=...
+………………=.........
 「面白かったわね！」=That was fun!
 「へ？　怖がっていたんじゃないの？」=Huh?　I thought you were scared.
 「初めは怖ったけど、終わってみたらどうってことなかったわ。さぁ、次に行きましょう」=I was scared at first, but when it was over it didn't matter. Now let's move on.

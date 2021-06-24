@@ -1,4 +1,4 @@
-「わぁ、綺麗な夜景だなー」=Wow, that's a beautiful night view.
+﻿「わぁ、綺麗な夜景だなー」=Wow, that's a beautiful night view.
 「……そ、そうですね」="Wow, that's a beautiful night view... Yes, it is.
 「どうしたの？　もしかして高いのダメだった？」=What's wrong?　What's wrong? You don't like expensive things?
 「えっと、高いのは割と平気なんですが……その、いつものです」=Well, I don't mind expensive ones, but ... the usual ones.
@@ -6,9 +6,9 @@
 「ごめんなさい！　面倒くさいですよね、私」=I'm sorry!　I'm a pain in the ass, aren't I?
 「でも、私極端に不幸だから、よくない想像しちゃって……」=But I'm extremely unhappy, so it's not good for my imagination...
 「大丈夫だよ！」=It's okay!
-「で、でも……」=But it's ...
+「で、でも……」=「Но……」
 「俺の目をよく見て」=Look me in the eye.
-「は、はいっ」=Yes, yes.
+「は、はいっ」=「Да учитель」
 「そして、深呼吸をしてみて」=And try to take a deep breath.
 「すー、はー……すー、はー……」=Soo, ha... Soo, ha...
 「どう？　少しは落ち着いたかな？」=How's that?　Are you feeling more relaxed?
@@ -29,7 +29,7 @@
 「……あ、ありがとうございます。あなたが居ると、安心できます」=... Oh, thank you so much. I feel safer when you're here.
 「……ねえ、キスしていいかな？」=... Hey, can I kiss you?
 「はい……不安な気持ちを消してください」=Yes... Please make my anxiety go away.
-「わかった……」=Okay...
+「わかった……」=「Хорошо……」
 「んっ……ふぁっ……んふぅ……んあっ…………んはっ」=Mmm... hmm... hmm... hmm.....haha.
 「誰も見てなかったから、ちょっと欲張っちゃった……ダメ、だったかな？」=I got a little greedy because no one was looking... No?
 「……もうちょっと長くてもよかったですよ？」=... could have been a little longer, right?

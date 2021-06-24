@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」=Wow, that's a lot of stuff.
+﻿「へえ、色々あるんだね」=“Huh, there's a lot.”
 「あら、あそこのお店、お洒落な感じね。少し入ってみない？」=Oh, that store over there is very trendy. Why don't you come in and have a look?
-「うん、いいよ」=Yeah, sure.
+「うん、いいよ」=「Да, хорошо」
 「品揃えが良くて、価格も手ごろで。うん、悪くないお店だったわね。また来ましょ」=They have a good selection, and the prices are reasonable. It's not a bad store. Let's come back.
-（よかった、喜んでもらえたみたいだ）=Thank you for the company.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, she looks pleased.)

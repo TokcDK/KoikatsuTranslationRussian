@@ -1,4 +1,4 @@
-「また、思い出の場所に連れてきてくれてありがと」=Thanks for bringing me to this place of memories again.
+﻿「また、思い出の場所に連れてきてくれてありがと」=Thanks for bringing me to this place of memories again.
 「あの日は、ここに[H名]さんを連れてきてよかったよ」=I'm glad I brought [H名]-san to this place that day.
 「激しいセックスが出来たから？」=Is it because we had such hot sex that day?
 「もちろん、それもあるけど、[H名]さんの本音が聞けたから」=Of course, there's that as well but, It's because I got to hear your true thoughts, [H名]-san.
@@ -26,7 +26,7 @@
 「……なら、別にいいの」=......It's fine then.
 「？」=?
 「しばらく、こうしてていい？」=Can we stay like this, for a while?
-「それは、もちろん」=Of course.
+「それは、もちろん」=「Хорошо, идем」
 「あなたがどんどん女の子の心を抉る言葉を覚えてて、お姉さん将来が心配よ」=With how quickly you're learning phrases like that, that just dig out a woman's heart, Onee-san's worried for the future.
 CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』
 CHOICE:『本当に綺麗な夜景だね』=『Truly, what a beautiful nightscape.』

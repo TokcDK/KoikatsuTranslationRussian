@@ -1,4 +1,4 @@
-サスペンダーズボン=Suspender Pants
+﻿サスペンダーズボン=Подтяжки брюки
 ベースボールズボン=Baseball Pants
 ロングフレアスカート=Long Flared Skirt
 バスケットパンツ=Basketball Shorts

@@ -1,4 +1,4 @@
-「ん……気付いたらもう暗くなってきてたんだなー……」=... It's getting darker by the minute...
+﻿「ん……気付いたらもう暗くなってきてたんだなー……」=... It's getting darker by the minute...
 「[H名]、まだもう少し時間あるかな？」=[H名], do you have a little more time?
 「うん、あたしならまだ大丈夫だぞー」=Yeah, I'm good. I'm good.
 「よかった。実は、[H名]に見せたいものがあって」=Good. Actually, I wanted to show [name] something.
@@ -8,5 +8,5 @@
 「いや、[H名]。まだデートは終わりじゃないよ」=No, [H名]. The date's not over yet.
 「駅まで手を繋いでいこ！　俺達が二人でいる限り、デートは続いてるんだから」=Let's hold hands to the station!　As long as we're together, we're still dating.
 「おお、それもそうだなっ。よーし、まだまだデートを楽しむぞ！」=Oh, that's true too. Oh, that's right. We're going on a date!
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『そろそろ帰ろうか』="Shall we go home now?

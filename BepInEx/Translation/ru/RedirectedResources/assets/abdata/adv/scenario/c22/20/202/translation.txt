@@ -1,9 +1,9 @@
-「今日のデートは遊園地！　ここで一日遊んじゃおう！」=Today's date is at an amusement park!　Let's spend the whole day here!
+﻿「今日のデートは遊園地！　ここで一日遊んじゃおう！」=Today's date is at an amusement park!　Let's spend the whole day here!
 「さんせーい！　すっごく楽しそう！　さっそく色々見てまわろう！」=Hey, you!　That sounds like a lot of fun!　Let's take a look around!
 「うん、そうしよう！　えーっとまずはどこから……」=Yeah, let's do that!　Let's start with ...
 「あっ、見て見て！　あそこでピエロの格好した人がバルーンアートやってる！　ちょっと行ってみない？」=Oh, look, look!　There's a guy dressed as a clown doing balloon art there!　Would you like to go there?
 「お、本当だ。こういうのってなかなか見る機会ないし、楽しそう！　行ってみよう！」=Oh, really. I don't get a chance to see this kind of thing often, and it looks fun!　Let's go!
-………………=...
+………………=.........
 「ありがとうございます！　えへへ、カップルだからって一つもらっちゃった！」=Thank you very much!　I got one just because we're a couple!
 「良かったね。えーっと、その風船は何の形？」=That's great. Well, what do the balloons look like?
 「これは……ウサギさんだね。ここがお耳で……ここが尻尾だよ」=It's a ... rabbit. It's a ... rabbit. Here are the ears and ... here is the tail.

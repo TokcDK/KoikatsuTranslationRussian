@@ -1,4 +1,4 @@
-「ひっ！？　あ、あなた、ここは女子トイレよ！」=What?　You're in the ladies' room!
+﻿「ひっ！？　あ、あなた、ここは女子トイレよ！」=What?　You're in the ladies' room!
 「きゃっ！　みっ、見ないで！」=Oh, my God!　Don't look at me!
 「今あなたと話している暇なんてないの。どいてくれる？」=I don't have time to talk to you right now. Can you please move?
 「……私をおちょくってるのかしら？」=... Are you messing with me?
@@ -42,7 +42,7 @@
 「恋愛話とかって興味ある？」=Are you interested in talking about relationships?
 「興味ない……と言えば嘘になるわ。私も年頃だし」=I'd be lying if I said I wasn't ... interested. I'm old enough.
 「話をする相手がいないわ。……まあ、恋愛ものの映画や小説は嫌いじゃないけど」=I have no one to talk to. I don't have anyone to talk to... Well, I don't mind romantic movies and novels.
-「好きな男性のタイプってある？」=What's your favorite type of guy?
+「好きな男性のタイプってある？」=У тебя есть предпочитаемый типаж парня?
 「そうね……やっぱりお互いに高めあえるような勤勉な人、かしら」=Well... maybe someone who is hardworking, who can improve each other.
 「……考えたこともなかったわ。どんな人がタイプなんだろう……」=I've never thought about ... that. I've never thought about ... that. I wonder what kind of person he is...
 「こういう話はしたくないわ。別の話題にして」=I don't want to talk about this. Let's talk about something else.
@@ -52,22 +52,22 @@
 「関係ない私に言われても……好きなようにすれば？」=I don't have anything to do with it, so why don't you just go to ... and do what you want?
 「そういえばクラスのあの子が……」=Speaking of which, that girl in my class is ...
 「……あまり噂することではない気がするわ」=... I don't think it's something to gossip about.
-「積極的な男性ってどう思う？」=What do you think of aggressive men?
+「積極的な男性ってどう思う？」=Что ты думаешь об напористых парнях?
 「そうね、自分から何もしない人よりいいんじゃないかしら」=Yeah, it's better than someone who doesn't want to do anything.
 「積極的すぎる人は少し苦手かもしれないわ……」=I'm not a big fan of people who are too aggressive...
-「慎重な男性ってどう思う？」=What do you think of cautious men?
+「慎重な男性ってどう思う？」=“What do you think about cautious guys?”
 「何事にも慎重なのはいいんじゃないかしら。私は好きよ」=I think it's good to be cautious about everything. I like that.
 「……少しイライラしちゃうかもしれないわ」=... can be a little frustrating.
-「勤勉な男性ってどう思う？」=What do you think of hardworking men?
+「勤勉な男性ってどう思う？」=“What do you think about diligent guys?”
 「何かと学ぼうとする姿勢、私は好きよ」=I like that you're always trying to learn something.
 「常に勤勉だと、一緒にいてゆっくりした時間を過ごせなさそうね」=If you're always working hard, it's hard to spend time with you.
-「マイペースな男性ってどう思う？」=What do you think of men who take things at their own pace?
+「マイペースな男性ってどう思う？」=“What do you think about a guy who goes at his own pace?”
 「周りに流されず、自分のペースで動ける人は好きよ」=I like people who can move at their own pace and not be influenced by others.
 「時間にルーズな人は嫌いよ」=I don't like people who are punctual.
-「優しい男性ってどう思う？」=What do you think of gentle men?
+「優しい男性ってどう思う？」=“What do you think about nice guys?”
 「優しくていろんなことに寛容な人には憧れるわ」=I admire people who are kind and tolerant of all kinds of things.
 「優しすぎると自分がダメになってしまいそうで、少し苦手かも」=I don't like people who are too kind, because I think that would ruin me.
-「クールな男性ってどう思う？」=What do you think of cool guys?
+「クールな男性ってどう思う？」=“What do you think about cool guys?”
 「冷静で、落ち着いて物事の判断ができそうな人は好みね」=I like people who are calm and can make decisions calmly.
 「私とじゃ話も続かなそうだし、相性はよくなさそうね」=I don't think I'd be a good match for you.
 「エッチな本を読んだりとかする？」=Do you read sexually explicit books?
@@ -143,10 +143,10 @@
 「私、そろそろ行かなきゃ。それじゃ」=I've got to go. Bye.
 「そう。それじゃ、私も行くわ」=Okay. Okay, I'll go with you.
 「ええ、さようなら」=Yeah, bye.
-「よかったら一緒に帰らない？」=Do you want to come home with me?
+「よかったら一緒に帰らない？」=“If you like, want to walk home together?”
 「まぁ、特に予定もないし。構わないわよ」=Well, I don't have any plans. I don't mind.
 「悪いのだけれど、今日は予定があるから」=I'm sorry, but I have plans today.
-「よかったら一緒に勉強しない？」=Would you like to study with me?
+「よかったら一緒に勉強しない？」=Хочешь позаниматься со мной?
 「あなたがしたいと言うのなら、構わないけれど」=If you want to do it, that's fine.
 「……遠慮しておくわ。気分じゃないの」=... I'll pass. I'm not in the mood.
 「よかったら一緒に運動しない？」=Would you like to join me for a workout?
@@ -169,7 +169,7 @@
 「あら、こんにちは。屋上の風は心地いいわよね」=Oh, hello. It's nice to be on the roof, isn't it?
 「あ、そういえばさっき知り合いがあなたのことを話してたわ」=Oh, by the way, someone I know was just talking about you.
 「図書館のこの雰囲気……落ち着くわ……」=This atmosphere in the library is ... soothing...
-「ええ、どうしたの？」=Yeah, what's going on?
+「ええ、どうしたの？」=Alright, what is it?
 「ちょっとあなた、ここは立ち入っちゃダメよ」=Hey, honey, you can't be in here.
 「その、今度のデート……楽しみにしてるから」=Well, I'm looking forward to our next date ...
 「あら、あなたね。なんの用かしら？」=Oh, my God, it's you. What can I do for you?
@@ -229,7 +229,7 @@
 「あなたは人見知りはする方なの？」=Are you a shy person?
 「私もなのよ……。あ、でも……あなたに対してはあまりなかったわね」=I'm shy too ... I'm shy too... But not so much with you...
 「そうよね。恥ずかしがるのは相手にも失礼だわ」=That's true. It's not polite to be shy.
-「コーヒーはブラック派かしら？」=Do you like your coffee black?
+「コーヒーはブラック派かしら？」=「Тебе нравится черный кофе?」
 「さすがだわ。砂糖やミルクが入ると本来の味が楽しめないものね」=You're right. You're right, sugar and milk can ruin the real taste.
 「そうよね。ミルクや砂糖を入れた方が味の深みが増すわよね」=That's true. Yes, milk and sugar add a lot of depth of flavor.
 「辛い食べ物って平気かしら？」=Do you like spicy food?
@@ -286,7 +286,7 @@
 「ええ、そろそろ行かなきゃ。また話しましょう、それじゃ」=Yeah, I've got to go. I'll talk to you soon. Bye.
 「あら、少し話し込みすぎたかしら、また時間が合えば話しましょう」=Oh, I think we talked too much. Let's talk again when we get a chance.
 「また話しましょう。それじゃ」=We'll talk again. Bye.
-「きみのことが好きなんだ」=I like you a lot.
+「きみのことが好きなんだ」=“I like you.”
 「その、ごめんなさい。まだ早いと思うの」=Well, I'm sorry. I think it's too early.
 「……私も、その、あなたのことが好きよ」=... I, you know, I like you, too.
 「……ごめんなさい。やっぱりまだ気持ちの整理がつかないの」=... I'm sorry. I'm still trying to figure out how I feel about you.
@@ -315,7 +315,7 @@
 「お昼……よかったら、一緒にどう？」=Would you like to join me for lunch at ...?
 「ほっ……よかった。勇気を出して誘った甲斐があったわ」=I'm sorry, but I have some business to attend to. I'm glad I worked up the courage to ask you out.
 「そ、そう。それなら、また時間が合うときに誘うわ」=Oh, yeah. Well, I'll ask you again when we can.
-「一緒にコイカツしよう」=Let's do kowtow together.
+「一緒にコイカツしよう」=“Let's go to Koikatsu club together.”
 「ふふっ、いいわよ。何をするか決めているのかしら？」=Mmm, okay. Do you know what you're going to do?
 「ごめんなさい。今やらないといけないことがあって……」=I'm sorry. I'm sorry, I have to do something right now...
 「ね、ねえ……コイカツしない？」=Hey, hey... do you want to get coquettish?
@@ -334,7 +334,7 @@
 「そ、その、よかったら私と、デートしない？」=So, um, would you like to go on a date with me?
 「よかった。ふぅ、こっちから誘うのって緊張するわね」=Good. Hmm, I'm nervous about asking you out.
 「ええ、全然構わないわ。また機会があればお願い」=Yeah, that's totally fine. Maybe some other time.
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「いいわよ。私もちょうど復習したいところがあったの」=Sure. I've got some things I need to review.
 「ごめんなさい、一人で集中しようかと思ってるの」=I'm sorry, I'm trying to concentrate on my own.
 「提案があるのだけれど、よかったら一緒に勉強しない？」=I have a suggestion. Would you like to study with me?
@@ -377,7 +377,7 @@
 「お昼ね。ふふっ、いっぱい話をしましょう？」=It's lunchtime. We have a lot to talk about, don't we?
 「もうすぐ今日が終わるわね……会えない時間が来るのは寂しいわ」=It's almost the end of the day... I'm going to miss you so much.
 「きゃっ、驚いた！　なによ、あなただったのね」=Oh, my God!　Oh, my God, it's you.
-「ふふっ、どうしたの？」=What's up?
+「ふふっ、どうしたの？」=Fufu, what's up?
 「旅行とか遠出をするのって好き？」=Do you like to travel and get away?
 「ええ、新鮮な気分になれるし、非日常な感じを味わえるから好きよ」=Yes, I like it because it gives me a fresh feeling, a feeling of being out of the ordinary.
 「どちらかというとインドア派だから、あまり好きじゃないわね」=I'm more of an indoor person, so I don't really like it.
@@ -515,7 +515,7 @@
 「よかったわ。それじゃ……何をする？」=Good. So... what do you do?
 「そ、そう。残念ね。よければまた誘ってちょうだい」=Oh, yeah. That's too bad. You can ask me again if you want.
 「私も一緒に帰りたかったの。その、手、繋いでもいいかしら？」=I wanted to come home with you. Do you mind if I hold your hand?
-「よかったら、一緒に帰らない？」=Do you want to come home with me?
+「よかったら、一緒に帰らない？」=“Would you like to go home together?”
 「よかった。あなたと少しでも一緒にいたいから」=Sure. I want to spend as much time as possible with you.
 「そう……。一人で帰るのは寂しいけれど、仕方ないわね」=Yeah... I'm sad to go home alone, but I don't have a choice.
 「もちろんいいわよ。ふふっ、今から楽しみだわ」=Of course you can. I'm looking forward to it.
@@ -543,7 +543,7 @@
 「ふふっ」「楽しいわね」「ふふっ、いいわね」「それ、とても面白いわね」「ふふっ、凄く楽しいわ」=It's fun. It's good. It's very funny. It's a lot of fun.
 「恥ずかしいのだけど……」「う……」「すごく恥ずかしいわ……」「恥ずかしいじゃないのよ……」「とてつもなく恥ずかしいわ」=I'm so embarrassed... I'm so embarrassed... I'm so embarrassed... I'm not embarrassed... I'm not embarrassed.....I'm incredibly embarrassed.
 「ちょっと聞いてほしいのだけど」「ところで」「そういえば」「たとえば……」「ねえ」=I'd like to ask you something, by the way, about ... for example.
-「ねえ、[Hあだ名]」=Hey, [Hあだ名]
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「……なにかしら？　その……[Pあだ名]。……やっぱりこれ、恥ずかしいわ」=... What's that?　That ...[Pあだ名]. That ...[Pあだ名]. I'm still embarrassed about this.
 「そういう状況じゃないの、わかってないのかしら」=That's not what this is about, don't you get it?
 「ねえ……[Pあだ名]」=Hey...[Pあだ名].
@@ -557,5 +557,5 @@
 「ひゃっ！　何故男のあなたが入って来てるの、今すぐに出て行って」=Oh my God!　You're a man. Why are you coming in here? Get out now.
 「まったく……本当はダメなことなのよ？」=It's really ... not a good idea, okay?
 「はぁ……私だけならいいけど、他人に迷惑をかけてはダメよ。早く出て行って」=Huh... It's fine if it's just me, but you shouldn't bother other people. Now get out of here.
-「入部してくれるの？　歓迎するよ！」=OPTION[17]:Are you going to join us?　You're welcome!
+「入部してくれるの？　歓迎するよ！」=“You'll join us? Welcome!”
 「……うれしいわ」=... I'm so happy.

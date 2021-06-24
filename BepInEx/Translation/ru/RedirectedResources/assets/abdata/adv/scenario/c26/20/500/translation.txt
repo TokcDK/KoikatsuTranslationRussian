@@ -1,4 +1,4 @@
-「着いちゃったか……」=We're here...
+﻿「着いちゃったか……」=We're here...
 「楽しかったな。やっぱり[H名]と一緒にいると時間があっという間だよ」=It was fun. Time flies when you're with [H名].
 「そう……だね」=Yeah, that's ...
 （[H名]って口数は少ないけど、表情を見れば何となく分かる）=You don't say much, but I can tell by your expression.
@@ -16,7 +16,7 @@
 「ホテルだよ」=To a hotel.
 「……ホテル？　…………あっ……うん、いいよ」=A ... hotel?　... Oh... yeah, sure.
 「……よし、写真撮るから、すこしだけじっとしてて」=... Okay, I'll take your picture, just hold still for a second.
-「はい、チーズ」=Okay, cheese.
+「はい、チーズ」="Okay, cheese!"
 カシャ=Click.
 「よし、いい表情。へへ、そんな顔赤くしなくたっていいのに」=Okay, good expression. Heh, you don't have to blush like that.
 「……急に撮らないで。……私、変な顔でしょ」=... Don't take the picture so fast... I have a funny face, don't I?
@@ -29,6 +29,6 @@
 「ふふっ、可愛いな……ありがとう。デートの思い出に[H名]の写真を撮りたかったんだ」=It's a little embarrassing ..." "Hmm, that's cute ... thanks. I wanted to take a picture of [H名] to remember our date.
 「それじゃあ、また学園でね。ばいばい」=Well, I'll see you at school. Bye.
 「んぅ……ばいばい」=Bye. - Bye. - Bye...
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

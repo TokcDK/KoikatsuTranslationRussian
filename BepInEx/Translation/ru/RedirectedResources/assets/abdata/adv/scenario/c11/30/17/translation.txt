@@ -1,3 +1,3 @@
-『おはよう。お寝坊さんにならないように、ちゃんとひとりで起きられたかしら？』=Good morning. Good morning. I hope you were able to wake up on your own so that you won't be a late riser.
-『急いでいても、ちゃんと朝ご飯は食べてね。お弁当とハンカチも忘れずに持って出るのよ』=Even if you're in a hurry, make sure you eat your breakfast. Don't forget to bring your lunch and a handkerchief.
-『あ、宿題はやった？　あなたのことだから心配はないと思うけど……。学園で待ってます。　[H]』=Did you do your homework?　I don't think there's anything to worry about since it's you... I'll be waiting for you at the school.　[H]
+﻿『おはよう。お寝坊さんにならないように、ちゃんとひとりで起きられたかしら？』=『Доброе утро. Правда интересно, сможешь ли ты проснуться, не проспав?』
+『急いでいても、ちゃんと朝ご飯は食べてね。お弁当とハンカチも忘れずに持って出るのよ』=『В любом случае, не спеши, питайся правильно. И не забудь взять с собой бенто и платочек』
+『あ、宿題はやった？　あなたのことだから心配はないと思うけど……。学園で待ってます。　[H]』=『А, ты сделал домашнюю работу? Хотя, думаю об этом не стоит беспокоиться…… Я жду тебя в школе. [H]』

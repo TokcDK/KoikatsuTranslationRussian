@@ -1,7 +1,7 @@
-「[P]くん♪　わたしね、デートがすごく楽しみだったんだ～。いっぱい楽しも？」=I was really looking forward to our date, P-kun. Do you want to have a lot of fun?
+﻿「[P]くん♪　わたしね、デートがすごく楽しみだったんだ～。いっぱい楽しも？」=I was really looking forward to our date, P-kun. Do you want to have a lot of fun?
 「そうだね。俺も楽しみにしてたよ。それじゃあ、行こうか」=Yeah, I was looking forward to it too. I was looking forward to it too. So let's go.
 「この空の向こうに、わたしたちの仲間がいるんだよね」=You know our friends are just over the sky, right?
-「そうだね」=Yes, we did.
+「そうだね」=「Угу」
 「わたしね、あなたといると、いつもより強く言葉が聞こえる気がするの」=You know, when I'm with you, I feel like I can hear the words more strongly than usual.
 「だから、こうやってふたりでデートするの大好き！」=That's why I love these dates with you!
 （[H]が楽しそうにしているのを見ていると、こっちまで嬉しくなるな）=It makes me happy to see you so happy.

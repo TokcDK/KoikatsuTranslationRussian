@@ -1,5 +1,5 @@
-蝶の髪飾り=Butterfly Ornament
-花=Flower
+﻿蝶の髪飾り=Butterfly Ornament
+花=Цветок
 花の髪飾り（揺れ）=Flower Ornament (Moves)
 ハイビスカス=Hibiscus
 牡丹の髪飾り=Tree Peony Ornament

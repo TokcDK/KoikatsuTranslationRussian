@@ -1,9 +1,9 @@
-「ふぅ……色々乗ったけど、次は何しようか？」=Now that we've ... ridden all that, what do we do next?
+﻿「ふぅ……色々乗ったけど、次は何しようか？」=Now that we've ... ridden all that, what do we do next?
 「そうだね……あ、ゲームセンターがある……」=Well... there's a video arcade.
 「……えっと、行っちゃダメかい？」=... Oh, there's an arcade... Well, can't we just go there?
 「別にいいよ。行こうか」=No, thanks. Let's go.
 「ありがとう！　ふっふっふ、腕がなるんだなぁ！」=Thank you!　Thank you! - Mmm-hmm, I'm getting good at this!
-………………=...
+………………=.........
 「おお、クレーンゲームがたくさん……景品は遊園地限定グッズですな」=Oh, there's a lot of crane games... The prizes are limited edition amusement park merchandise.
 「何か目ぼしいものはあった？」=Did you find anything of interest?
 「うーん、あのキーホルダーは造形に惹かれるものがある……まずは、アレを狙ってみるよ」=Hmm, that key chain has a very attractive shape... I'm going to try that one first.

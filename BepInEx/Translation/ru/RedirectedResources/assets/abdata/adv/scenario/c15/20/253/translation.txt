@@ -1,4 +1,4 @@
-「うわぁ、結構人が乗ってきたな……ごめん、もう少しそっちに寄って！」=(...Yes, next date with [H名] will be a memorable one!) "Wow, there are quite a few people on board... Sorry, come a little closer!
+﻿「うわぁ、結構人が乗ってきたな……ごめん、もう少しそっちに寄って！」=(...Yes, next date with [H名] will be a memorable one!) "Wow, there are quite a few people on board... Sorry, come a little closer!
 「こ、これ以上は行けないぞ……」=I can't go any further...
 「でも、こっちも押されて……わっ！」=But I'm getting pushed too ...!
 (後ろから押されて、[H名]にくっついてしまった……)=(I was pushed from behind and attached to [H名]: ...)
@@ -11,5 +11,5 @@
 （い、いや、何を言ってるんだ俺！　柔らかい感触なんてしないし、いい匂いもしないだろう！？）=(No, no, no. What am I talking about?　It doesn't feel soft, and it doesn't smell good!
 （いい匂いしないぞ、柔らかくないぞっ。当たってるのは……えっと、ただの壁！　匂いの元は芳香剤だ！）=(It doesn't smell good, it's not soft. What you're hitting is ... uh, just a wall!　(The smell is coming from the air freshener!
 （ぅ、自分を誤魔化そうにも、限度があるな……限界がきて勃ってしまう前にこの混雑が解消してくれるよう……もう、祈るしかないっ）=(Oh, there's a limit to how much I can fool myself... I can only pray that this crowd clears up before I reach my limit and get a boner...
-CHOICE:『欲望に身を任せる』="Give in to your desires
-CHOICE:『鉄の自制心で堪える』="Endure with iron self-control.
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
+CHOICE:『鉄の自制心で堪える』="Steel your self-control."

@@ -1,4 +1,4 @@
-ウェディング雫=Wedding Earring
+﻿ウェディング雫=Wedding Earring
 婚約指輪=Engagement Ring
 結婚指輪（女）=Wedding Ring (Women)
 結婚指輪（男）=Wedding Ring (Men)
@@ -7,7 +7,7 @@
 ウェディングヴェール=Wedding Veil
 フォーマルリボン=Bow Tie
 ネームプレート=Nameplate
-スライダー=Slider
+スライダー=ползунок
 ウェディングチョーカー=Wedding Choker
 ウェディングバッスル=Wedding Bustle
 ウェディングリボン=Wedding Ribbon

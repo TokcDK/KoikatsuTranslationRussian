@@ -1,4 +1,4 @@
-「芝生広いね～。シート持ってきてるし、ここで少し休憩しよっか」=The lawn is huge. I've brought a seat. Let's take a break here.
+﻿「芝生広いね～。シート持ってきてるし、ここで少し休憩しよっか」=The lawn is huge. I've brought a seat. Let's take a break here.
 「いいですね。少し歩き疲れました。ふぅ……」=It's nice. I'm a little tired from walking. Phew...
 「今日は気持ちのいい天気だね」=It's a beautiful day today, isn't it?
 「はい。だいたいこういうときは雨が降るので、いろいろ備えてたんですが……その必要もなさそうで良かったです」=Yes, it is. It usually rains at times like this, so I've been preparing for it... I'm glad I don't have to do that.
@@ -8,7 +8,7 @@
 「まあ、少しだけ疲れますね……でも、[P名]さんといるときだけは……」=Well, I do get a little tired ... but only when I'm with [P name] ...
 「ん？　俺といるとどうなるの？」=Hmm?　What happens when you're with me?
 「そ、その……言葉にすると少し恥ずかしいのですが、そう言ったことなんか忘れて、純粋に楽しめるんです」=Well, it's ... a little embarrassing to put into words, but I can forget about all that and just enjoy myself.
-「……」=...
+「……」=.........
 「え、あっ、ごめんなさい。急にこんなこと言われても……困りますよね？」=Oh, I'm sorry. I'm sorry, but I can't ... be bothered to say this all of a sudden, can I?
 「あ、ごめん。すっごく嬉しいこと言ってくれたから、つい固まっちゃった。」=Oh, I'm sorry. I froze because you said something really nice.
 「その、なんて言うか……ありがとう」=I mean, how can I say this... thank you.

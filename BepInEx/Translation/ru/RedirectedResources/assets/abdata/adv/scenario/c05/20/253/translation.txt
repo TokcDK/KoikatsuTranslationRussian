@@ -1,4 +1,4 @@
-「混んできたな……[H名]、ちょっとそっちに詰め――うおっ！？」=It's getting crowded...[H名], let's pack it in that way for a minute--whoa!
+﻿「混んできたな……[H名]、ちょっとそっちに詰め――うおっ！？」=It's getting crowded...[H名], let's pack it in that way for a minute--whoa!
 （い、一気に乗ってきた……マズいぞ。変に密着したせいで、股間が[H名]に……）=I'm not sure what to do. It's a good idea to keep your eyes and ears open.
 「ねえ、[P名]くん……なにかかざしてない？　あなたから、とっても強力な波動を感じるんだけど……」=I'm sure you're not the only one.　I can feel some very powerful vibrations coming from you...
 「ご、ごめん……」=I'm sorry...
@@ -13,4 +13,4 @@
 （うぅ、すっかり勃ちそうになってる……今からでも別のこと考えて鎮めないと……）=(Ugh, I'm about to get a boner... I'll have to think of something else to calm it down now...)
 （……こういう所も、“かれら”は見てるんだろうか？　だとしたら嫌だなぁ）=(...Are they watching this too?　I don't like it if they do.
 CHOICE:『少し欲望に流される』="A little lustful.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『必死に我慢する』=『Быть терпеливее』

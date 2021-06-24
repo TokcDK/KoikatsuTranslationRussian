@@ -1,4 +1,4 @@
-「あ♡　ここで大丈夫ですよ♡　お見送りまでしてもらっちゃって……今日は本当に、本当に本当にありがとうございました♡　私、すごく幸せです♡」=Oh ♡ It's okay here ♡ You even saw me off ... Thank you so, so, so much for today ♡ I'm so happy ♡
+﻿「あ♡　ここで大丈夫ですよ♡　お見送りまでしてもらっちゃって……今日は本当に、本当に本当にありがとうございました♡　私、すごく幸せです♡」=Oh ♡ It's okay here ♡ You even saw me off ... Thank you so, so, so much for today ♡ I'm so happy ♡
 「うん、俺もだよ。またデートしようね」=Yeah, me too. Let's date again.
 「はい♡　……あっ、あの……もし迷惑じゃなかったら、あなたの家にお邪魔しちゃだめですか？　このままバイバイは寂しいです♡」=Yes ♡ ... Oh, um... if it's not too much trouble, can I come over to your house?　I'm so lonely to say goodbye like this.
 「[H名]……」=[H名]...
@@ -14,6 +14,6 @@
 「頭、なでなでしてください♡」=Please pat me on the head, handsome.
 「いいよ」=Okay.
 なでなで=Stroke it.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

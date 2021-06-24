@@ -1,8 +1,8 @@
-バーコード=Barcode
-ターゲット=Target
-CAUTION=CAUTION
-DANGER=DANGER
-WARNING=WARNING
+﻿バーコード=Штрих-код
+ターゲット=Мишень
+CAUTION=ВНИМАНИЕ
+DANGER=ОПАСНОСТЬ
+WARNING=ПРЕДУПРЕЖДЕНИЕ
 ００=00
 ０１=01
 ０２=02

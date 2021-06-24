@@ -1,6 +1,6 @@
-スクエア=Square Glasses
+﻿スクエア=Square Glasses
 ウェリントン=Wellington Glasses
-スポーツ=Sports
+スポーツ=Sports Glasses
 オーバル=Oval Glasses
 ラウンド=Round Glasses
 丸瓶底眼鏡=Thick Circle Glasses
@@ -19,13 +19,13 @@
 ムーン=Moon
 スター=Star
 ビッグスター=Big Star
-エンジェル=Angel
+エンジェル=Cupid
 ソードスカル=Sword And Skull
 ハートインカム=Heart Headset
 プリーツマスク=Sickness Mask
 トースト=Toast
 ピエロの鼻=Clown Nose
 ガラスの鼻=Glass Nose
-第三の目=Third Eye
+第三の目=Третий глаз
 ワンポイント=Starpoint Earring
 土星=Saturn Earring

@@ -1,4 +1,4 @@
-「[H名]、何か乗りたいものある？　何でもいいよ」=[H名], do you need a ride?　Anything.
+﻿「[H名]、何か乗りたいものある？　何でもいいよ」=[H名], do you need a ride?　Anything.
 「え？　あ、いやー、キミの乗りたいものでいいよ？　絶叫系もホラー系も私好きだよ」=What?　Oh, no, whatever you want to ride, okay?　I like scream rides, I like horror rides.
 「いや、せっかくだから、[H名]が一番楽しいのに乗りたいなって。けっこうここ来てるみたいだし、お気に入りあるんでしょ？」=No, I just want to go on the one that's the most fun. You seem to be here a lot, so you must have a favorite, right?
 「……い、言っても引かない？」=... would you mind if I told you?
@@ -16,7 +16,7 @@
 「わ、私もそう思う！　キミってやっぱり気が合うね！　じゃあ行こ！　おとぎの国ゾーン！」=I agree with you.　I agree with you! You're so kindred spirits!　Let's go!　"Let's go to the fairyland zone!
 「わーい♪　どきどきシュッポポ列車、しゅっぱつしんこ～♪」=Yay!" "The exciting train ride, the swoop train, the swoop train...
 「俺の体重で壊れないか心配になるな……」=I'm afraid my weight will break it...
-………………=...
+………………=.........
 「『まほうのどうくつ・ざ・らいど』久しぶり～！　ほら、このステッキを振ると魔法のビームが映像になって魔物に飛んでいくんだよ」=It's been a long time since I've been in a magical cave!　You see, when you wave this stick, the magic beam becomes an image and flies to the demon.
 「へー、よくできてるなぁ」=Wow, that's really cool.
 「ゴーゴー♪」=Go, go, go.

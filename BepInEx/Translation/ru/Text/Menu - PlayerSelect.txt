@@ -1,4 +1,4 @@
-#set EXE Koikatu
+﻿#set EXE Koikatu
 #set level 8,9,14 // Needs to be active on Level 8 (Main Menu) and 9 (Config Menu), or a few things wig out (namely the default school text doesn't get replaced).
 
 //
@@ -16,17 +16,17 @@
 コイカツ部=Коикацу Клуб
 
 // Blood Types
-r:"^([Ａ-Ｚ]+)型$"=r:"Тип $1"
+r:"^([Ａ-Ｚ]+)型$"=Тип $1
 
 // Date Conversion
-r:"^([0-9]+)月([0-9]+)日$"=r:"$1/$2"
+r:"^([0-9]+)月([0-9]+)日$"=$1/$2
 
 // Emblems
 なし=Нет
 赤と青=Красный и синий
 C=C
 H=H
-r:"^年数([Ⅰ-Ⅹ])$"=r:"Год $1"
+r:"^年数([Ⅰ-Ⅹ])$"=Год $1
 北=Север
 北2=Север 2
 南=Юг
@@ -40,7 +40,7 @@ r:"^年数([Ⅰ-Ⅹ])$"=r:"Год $1"
 くま=Медведь
 鉄十字学園=Академия Железного Креста
 サイコうさぎ=Психо Кролик
-r:"^番号(0[0-9])$"=r:"Номер $1"
+r:"^番号(0[0-9])$"=Номер $1
 // Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Китайский колок. (Белый)
 桔梗の紋(黒)=Китайский колок. (Черный)

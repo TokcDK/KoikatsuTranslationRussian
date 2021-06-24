@@ -1,4 +1,4 @@
-「なー、そう言えば……」=Hey, speaking of which...
+﻿「なー、そう言えば……」=Hey, speaking of which...
 「ん？　どうかしたの？」=Hmm?　What's wrong?
 「……い、いや、やっぱりなんでもないぞー」=... No, no, it's nothing.
 「えー、気になるよ～。言いたいことがあるなら、なんでも言ってほしいな」=Oh, I'm curious. If you have something to say, I'd like to hear it.
@@ -7,7 +7,7 @@
 「あー……まぁ、カラオケでそういうことをする人もいるよね」=Oh... Well, some people do that at karaoke.
 「それで、それを俺に言ったってことは、[H名]もやっぱりそういうのに興味あるの？」=So, if you told me that, does that mean you're interested in that kind of thing too?
 「ち、違うぞ！　大体、あたしはキミが言えっていうから言っただけで……」=No, I'm not!　I only told you because you told me to...
-「ふーん、そうなんだ」=Hmm, I see.
+「ふーん、そうなんだ」=「Хм-м, это верно」
 「でも、俺は[H名]の話を聞いたせいで、そういう気分になっちゃったな」=But I'm in the mood for it because of what you said.
 「なっ……本気なのかー？」=No... Are you serious?
 「もちろん。冗談でそんなこと言わないよ」=Of course. I wouldn't say that in jest.

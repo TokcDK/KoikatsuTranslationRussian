@@ -1,4 +1,4 @@
-「ふ～、歌った歌った！　喉がカラカラだ……んむ、ごくごく……ぷは～！　ジュースうまい！」=I sang and sang!　My throat is parched... Mmm, I'm so hungry... Phew!　The juice is good!
+﻿「ふ～、歌った歌った！　喉がカラカラだ……んむ、ごくごく……ぷは～！　ジュースうまい！」=I sang and sang!　My throat is parched... Mmm, I'm so hungry... Phew!　The juice is good!
 「はは、ちょっと疲れてきたね」=Haha, I'm getting a little tired.
 「でも、まだ時間はあるな。どうする？」=But there's still time. What do you want to do?
 「それじゃ、ちょっとまったりしてようか」=Well, we'll just hang out for a while.
@@ -25,4 +25,4 @@
 「ぼそぼそ歌ったって面白くないだろ！　いいんだよ、これで」=It's no fun to sing muffled!　It's okay, it's fine.
 「ははっ、[H名]らしいな……」=Haha, that's just like [H名]...
 CHOICE:『それじゃ、ちょっとまったりしてようか』="So let's just hang out for a bit, shall we?
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

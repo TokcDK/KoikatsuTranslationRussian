@@ -1,4 +1,4 @@
-「そう！　これが食べたかったの！」=Yes!　This is what I've been craving!
+﻿「そう！　これが食べたかったの！」=Yes!　This is what I've been craving!
 「はは……すごいテンション高いな。よっぽど楽しみだったのか」=Haha ... You're really excited. Were you really looking forward to it?
 「うんっ！　それじゃあ、さっそくいただきますっ」=Yes!　Well then, let's start eating!
 「もぐもぐ……」=Mmm...
@@ -10,7 +10,7 @@
 「あ、ありがとう…」=Oh, thank you...
 「じゃあ、お礼に一口あげるね！」=I'll give you a bite.
 「はい、あーんして♪」=Here you go, sweetie.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「もぐもぐ……うん、おいしいよ」=Mmm... Yeah, it's good.
 「えへへ、[P名]君も幸せな顔になったぁ♪」=Wow, [P name], you've got a happy face.
 「うーん、このなんとも言えない渋み……人気の抹茶プリンは最高だよぉ♪」=Mmm, this indescribably astringent ... popular matcha pudding is the best.

@@ -1,4 +1,4 @@
-「わぁ、すっごく美味しそうじゃのう！」=Wow, that looks really good!
+﻿「わぁ、すっごく美味しそうじゃのう！」=Wow, that looks really good!
 「すごいな。結構豪華だね」=Wow, that looks amazing! It's quite gorgeous.
 「いただきますなのじゃ！……はむっ……ぅんっ……」=Bon appétit! ... Mmmm ... Mmmm ...
 「どう？　美味しい？」=How is it?　Is it good?
@@ -13,7 +13,7 @@
 「……じゃあ、[H名]に食べさせて欲しいな」=... Well, I'd like [H名] to have a taste.
 「なっ、お主はぁ…………わかったのじゃ」=No, you're not... I get it.
 「ほれ……あーん」=Here ... are some.
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「んむっ…………うん、美味しい！」=Mmm ... it's delicious!
 （自分で頼んでおいてなんだけど、食べさせてもらうのって結構恥ずかしいもんだな）=It's quite embarrassing to ask someone to eat your food, isn't it?
 「……お主のもわしに一口食べさせてくれんかのう？」=... Will you let me have a bite of yours, too?

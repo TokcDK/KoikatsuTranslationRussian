@@ -1,4 +1,4 @@
-「ふぅ～。結構歌ったなぁ！」=() I sang a lot!
+﻿「ふぅ～。結構歌ったなぁ！」=() I sang a lot!
 「歌、上手なんですね！　なんだか……ずっと聞いていたいです」=You're a good singer, aren't you!　I kind of want to listen to ... all the time.
 「ははっ、ありがとう。でもさ……俺はそろそろ[H名]の歌も聞きたいかな」=Haha, thanks. But you know... I think it's time for me to hear [H名] sing.
 「えっと……私は、聞いてるだけでも楽しいので」=Well... I'm happy to just listen.
@@ -17,5 +17,5 @@
 「こ、こんなところで一生のお願いを使わないでください！　……わかりました、う、歌います」=No, please don't use my life's work here!　... Okay, I'll sing it.
 「やった！　それじゃさっそく入れるね！」=Yes!　Okay, I'll start singing!
 「ふふっ、恥ずかしいけど……あなたが喜んでくれるなら」=Hmm, I'm embarrassed, but ... if it makes you happy.
-『もしも今背中に羽が生えて大空自由に飛び回れたら♪』=If I could grow wings on my back and fly around freely in the sky...
+『もしも今背中に羽が生えて大空自由に飛び回れたら♪』="I'm sure that there are only some things I can grasp in my small palm but even so- ♪"
 「ちょっと緊張してるみたいだけど、やっぱり……この曲に[H名]の声はぴったりだ！」=You look a little nervous, but I think ... your voice is perfect for this song!

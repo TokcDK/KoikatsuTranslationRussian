@@ -1,5 +1,5 @@
-「うぅっん……」=Mmm...
-「大丈夫？」=Are you okay?
+﻿「うぅっん……」=Mmm...
+「大丈夫？」=「Все хорошо?」
 「歌った後にしたからか、少し疲れてしまったかのう」=I think I'm a little tired from all the singing.
 「時間だから出ないといけないけど、その前に水飲んでおいたほうがよさそうだね」=It's time to leave, but I think I'd better drink some water before I do.
 「そうじゃな」=Yes.

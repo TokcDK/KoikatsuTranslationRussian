@@ -1,11 +1,11 @@
-「なんか辛そうだけど大丈夫？」=You look like you're in pain. Are you okay?
+﻿「なんか辛そうだけど大丈夫？」=You look like you're in pain. Are you okay?
 「……オタクに直射日光を当てないで下さい。死んでしまいます」=Please don't expose the ... nerd to direct sunlight. It kills them.
 「あはは。あ！　移動販売車がある。ちょっと休憩にしようか？」=Haha. Ah!　There's a mobile vending truck. Do you want to take a break?
-「ありがとう……」=Thank you...
+「ありがとう……」=「Спасибо……」
 「何が食べたい？」=What do you want to eat?
 「クレープが食べたいかな」=I think I'd like a crepe.
 「了解。じゃあ一緒に買いに行こうか」=Okay. Okay, I'll go with you to get some.
-………………=...
+………………=.........
 「たくさんあるんだなぁ……うぅん……どっちを頼もう」=There's a lot of ... things to choose from... Which one should I get?
 「二つで悩んでるなら両方買ってシェアしようか」=If you're torn between the two, I'll buy both and we'll share.
 「いいのかい？　あなたも食べたいものがあるんじゃ」=Are you sure?　I thought you might want something to eat.
@@ -14,7 +14,7 @@
 「ホットドッグが食べたいね」=I'd like a hot dog.
 「わかった。じゃあ、あそこのベンチで休んでて」=All right. Okay. You can rest on that bench over there.
 「あむ……美味しい！　これ美味しいですぞ！」=Am ... delicious!　It's delicious!
-「そうだね」=Yes, we did.
+「そうだね」=「Угу」
 「あ、顔にケチャップがついてるよ」=Oh, you have ketchup on your face.
 「え！？　本当ですか？」=What?　Are you sure?
 「動かないで……これでよしっと」=Don't move... That's better.

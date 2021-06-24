@@ -1,8 +1,8 @@
-なし=Нет
-ハイソックス=High Socks
-色分けハイソックス=Colored Cuff High Socks
+﻿なし=Нет
+ハイソックス=Высокие носки
+色分けハイソックス=Цветные высокие носки
 ルーズソックス=Loose Socks
-ニーソックス=Kneesocks
+ニーソックス=Коленные носки
 アンクルソックス=Ankle Socks
 フットカバー=Foot Covers
 ガーターソックスA=Garter Socks A

@@ -1,4 +1,4 @@
-「なぁ、一つお願いしてもいいか？」=Hey, can I ask you a favor?
+﻿「なぁ、一つお願いしてもいいか？」=Hey, can I ask you a favor?
 「ん？　[H名]のお願いなら、一つと言わず何個でもいいよ」=Hmm?　If it's a request from [H名], you can ask for any number of things.
 「そうか、じゃあとりあえず一つ目だな……その、またキスしないか？」=Okay, well, let's start with the first one: ... So, do you want to kiss me again?
 「えっ、うん！　そういうお願いなら大歓迎だよ！　いつでもウェルカム！」=Well, yes!　You're welcome to do that!　You're always welcome!
@@ -6,8 +6,8 @@
 「あぁ、そうだった。ごめん、つい……」=Oh, that's right. I'm sorry...
 「まぁ、そうそう変われるものではないだろうし、そういうおまえが好きなのも事実だ。あまり重く受け止めるな」=Well, it's not like you can change that often, and I like you that way. Don't take it too seriously.
 「うん、じゃあキス……しよっか？」=Well, let's kiss ... shall we?
-「ん……」=It's ...
-…………=...
+「ん……」=Mm...
+…………=......
 「んっ……キスは何度してもいいな。特にこんな綺麗な夜景だと、気持ち良すぎて怖いくらいだ」=I'm not sure how many times I'll be able to kiss ... Especially with such a beautiful night view, it feels so good it's almost scary.
 「なんか、ここに来たらキスっていうのが習慣になってるね」=It's become a habit for us to kiss when we come here.
 「最初のインパクトというのは大きいからな。それで……続きはするのか？」=The first impression is a big one. So, are you going to continue with the ...?

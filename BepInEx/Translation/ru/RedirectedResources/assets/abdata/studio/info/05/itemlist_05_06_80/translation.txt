@@ -1,4 +1,4 @@
-ナイトバイザー=Knight Visor
+﻿ナイトバイザー=Knight Visor
 鎧兜=Armored Helmet
 鎧肩当て=Armored Shoulderpad
 騎士の肩当て=Knight's Shoulderpad
@@ -7,5 +7,5 @@
 タングルショルダー=Tangle Shoulderpad
 羽の髪飾り左用=Left Hair Feather
 羽の髪飾り右用=Right Hair Feather
-ロイヤルクラウン=Royal Crown
+ロイヤルクラウン=Меховая прическа сторона вверх taleR
 ロイヤルリボン=Royal Ribbon

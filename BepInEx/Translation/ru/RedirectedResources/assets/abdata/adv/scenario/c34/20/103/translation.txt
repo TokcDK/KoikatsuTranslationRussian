@@ -1,4 +1,4 @@
-（夕方の音楽が鳴った途端、[H名]が目を閉じて、耳を澄ませたけど……海外の公園では、こんな音楽は鳴らないのかな？）=(As soon as the evening music sounded, [H名] closed his eyes and listened carefully... Don't they play music like this in foreign parks?
+﻿（夕方の音楽が鳴った途端、[H名]が目を閉じて、耳を澄ませたけど……海外の公園では、こんな音楽は鳴らないのかな？）=(As soon as the evening music sounded, [H名] closed his eyes and listened carefully... Don't they play music like this in foreign parks?
 「さっきのｍｅｌｏｄｙ、寂しい感じだったネ……ナンダカ、Ｃｉｎｄｅｒｅｌｌａミタイ……」=That melody you played earlier sounded so lonely... Nandaka, Cinderella Mitai ...
 （そっか。ぼちぼち、帰るのを意識し始める時間か……あまり連れまわしすぎても疲れさせちゃうかな……どうしよう）=(I see. It's time to start thinking about going home... If I take her around too much, I might tire her out... What should I do?
 「[H名]、まだ時間ある？　もし、疲れてなかったら、見せたいものがあるんだけど……」=(What should I do?) "[H名], do you still have time?　If you're not too tired, I'd like to show you something...
@@ -13,5 +13,5 @@
 「うん、近いからいつでも来れるしね」=Yeah, we're close enough that I can come back anytime.
 「次も楽しみにしてるカラネ♡　ソレジャ、駅にｌｅｔ’ｓ　ｇｏ♪」=I'm looking forward to the next one. Let's go to the station.
 「レッツゴー♪」=Let's go!
-CHOICE:『まだ時間ある？』="Do you still have time?
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
 CHOICE:『今日が最後じゃないよ』="Today won't be the last time.

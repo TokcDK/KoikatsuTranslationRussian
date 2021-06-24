@@ -1,4 +1,4 @@
-「うっぎゃああ！？　ここ女子トイレだぞ！　男は出てけぇー！」=What the hell?　This is the ladies room!　Men, get out of here!
+﻿「うっぎゃああ！？　ここ女子トイレだぞ！　男は出てけぇー！」=What the hell?　This is the ladies room!　Men, get out of here!
 「ぎゃぁー！　覗くな変態！　出てけぇー！」=Oh, my God!　Don't peek at me, you pervert!　Get out of here!
 「いま、キミと話してるヒマないんだ。んじゃ」=I don't have time to talk to you right now. Okay.
 「……なんか用か？」=What do you want at ...?
@@ -145,7 +145,7 @@
 「うん、それじゃーなー」=Okay, bye.
 「おー、いいぞー。へへー」=Oh, yeah. Heh.
 「ごめんなー。今日はちょっと寄るとこがあって……またなー」=I'm sorry. Sorry, I had to stop by ... today.
-「よかったら、一緒に勉強しない？」=Would you like to study with me?
+「よかったら、一緒に勉強しない？」=「Если ты не против, может займемся учебой вместе?」
 「聞きたいとこがあったんだ！　よろしくー」=I've got some questions for you!　Nice to meet you.
 「ごめんなー、いまちょっと手が離せないんだ。また今度頼むなー」=I'm sorry, I'm a little busy right now. See you next time.
 「一緒に運動しない？」=Do you want to exercise with me?
@@ -269,7 +269,7 @@
 「おっとー、あたし、そろそろ行くなー。また話そうなー」=Oops, I've got to go. I'll talk to you later.
 「あ、ごめんなー。キミと話すの楽しくて。またなー」=I'm sorry. I had fun talking to you. See you later.
 「また話そうなー。んじゃ」=I'll talk to you later. Bye.
-「きみのことが好きなんだ」=I like you a lot.
+「きみのことが好きなんだ」=“I like you.”
 「あー……う、嬉しいけどなー。もっとキミのこと知ってからな？」=Oh... that's nice, but... I'd like to get to know you a little better first, though.
 「……うん！　あたしも気づいた。キミのことが好きなんだ」=... Yeah!　I realized it too. I'm in love with you.
 「ごめんなー。キミはいい男友達って感じなんだー」=I'm sorry. I'm sorry. You're just a good friend.
@@ -294,13 +294,13 @@
 「おー、ちょうどキミを誘おうとしてたんだー」=Oh, I was just about to ask you out.
 「あー、別の友達と約束しちゃったぞー。また誘ってなー」=Oh, I was just about to ask you out. - Oh, I made plans with another friend. Ask me again.
 「ありゃー、じゃ、また誘うからなー」=Yeah, well, I'll invite you back.
-「一緒にコイカツしよう」=Let's do kowtow together.
+「一緒にコイカツしよう」=“Let's go to Koikatsu club together.”
 「おー、いいぞー。今日はなにするんだー？」=Oh, good. What are you doing today?
 「ごめんなー。今日は用事があるんだ。また誘ってなー」=I'm sorry. Sorry, I have something to do today. You'll have to ask me again.
 「なーなー、コイカツしないかー？　あたし、めっちゃやる気だぞー」=Hey, do you want to play Koikatsu?　I'm really into it.
 「へへー、よーし。何しよっかー？」=Hehe, okay. What do you want to do?
 「うー、あたしと一緒じゃヤだってかー？」=Oh, you don't want to be with me?
-「一緒に帰らない？」=Do you want to come home with me?
+「一緒に帰らない？」=“Want to go home together?”
 「おー、帰ろ帰ろー」=Oh, go home, go home.
 「まだやることあってなー。またなー」=I still have things to do. See you later.
 「よっ、一緒に帰らないかー？」=Hey, you want to come home with me?
@@ -314,7 +314,7 @@
 「なーなー、デートしよーよー」=Come on, let's go on a date.
 「へへー、やったー。楽しみにしてるなー」=Hee hee, yay! I'm looking forward to it.
 「うー、どうしてもダメかー？」=Oh, can't we?
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「おー、こっちこそ頼むぞー。赤点ヤバくてなー」=Oh, I'm counting on you. I've got a bad grade.
 「ごめんなー、これから用事があってなー。また誘ってな？」=I'm sorry, I have to go do something. Ask me again.
 「なーなー、勉強見てくれないかー？」=Hey, hey, can you help me study?
@@ -465,7 +465,7 @@
 「もうガマンの限界だぞー！　エッチするぞー！　はやくはやくー！」=I can't take it anymore!　Let's have sex!　Come on, come on, come on!
 「断っても逃がさないからなー？　押し倒しちゃうぞー」=I'll have sex with you!　I'm gonna push you over the edge.
 「うぇー……生殺しはひどいぞー」=Oh... you're killing me.
-「ここで[H]とHしたい」=I want to have sex with [H] here.
+「ここで[H]とHしたい」=“I want to have sex with [H] here.”
 「キミは動物みたいだなー。あたしもガマンできないけどな♪」=You're like an animal. You're like an animal. I can't stand it either.
 「あたしもヤりたいけど……二人の時にじっくり、な？」=I'd like to fuck you too, but we'd have to do it ... alone, okay?
 「誰か来そうで興奮するなー。見せつけちゃうか？」=I'm excited to see who's coming. Do you want me to show you?
@@ -507,7 +507,7 @@
 「いいぞー。……[Pあだ名]。えへへー、ちょっとだけ照れくさいな」=Good...[Pあだ名]. I'm a little embarrassed.
 「むー、今は嫌だぞ」=Mmm, I don't want to do that right now.
 「なーなー、[Pあだ名]」=Nah, nah, nah. [Pあだ名]
-「どうしたの？　[Hあだ名]」=What's wrong with you?　[Hあだ名]
+「どうしたの？　[Hあだ名]」=“What's wrong, [Hあだ名]?”
 「ううん、呼んだだけだぞー！」=No, I'm just calling you!
 「いいぞー！　たっくさん気持ちよくしてね？　[Pあだ名]」=That's good!　Make me feel so good, okay?　[Pあだ名]
 「なーなー……あたし、我慢できないんだ。いいだろー？　[Pあだ名]」=[P-name] "Na na na ... I can't stand it. Okay?　[Pあだ名]

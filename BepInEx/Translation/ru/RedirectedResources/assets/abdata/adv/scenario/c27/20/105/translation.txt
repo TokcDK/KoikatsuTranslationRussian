@@ -1,4 +1,4 @@
-「わぁ、綺麗……」=Wow, beautiful...
+﻿「わぁ、綺麗……」=Wow, beautiful...
 「ここから見える夜景が綺麗って評判だったから、[H名]と一緒に見たかったんだ」=I heard that the night view from here is beautiful, so I wanted to see it with [H名].
 「へぇ、全然知らなかった。私よりあんたの方がこの街に詳しいんじゃない？」=Wow, you're beautiful. You're probably more familiar with this town than I am.
 「そりゃコイカツ部としてデートスポットは調べてますから」=Well, as a member of the Koikatsu club, I'm always looking for new places to go on dates.
@@ -24,7 +24,7 @@
 「ちょ、ちょっとストップ！」=Hey, stop!
 「どうしたの？　まだ途中だけど」=What's wrong?　We're still in the middle of it.
 「そ、その……答えが一気に返ってきたから、驚いて……」=Well, the ... answers came back all at once, so I was surprised...
-「……照れてる？」=... Are you embarrassed?
+「……照れてる？」=...Are you being shy?
 「っ、真正面からあんなこと言われて、照れないわけないじゃない……」=How can you not be embarrassed when someone says something like that right in front of you? ...
 「はは、そういうところも可愛いよ」=Haha, you're cute that way too.
 「ど、どうしてあんたは平気でそういうこと言えるの？　恥ずかしく、ないの？」=How can you say something like that without being embarrassed?　Aren't you embarrassed?
@@ -33,10 +33,10 @@
 「……なんて、さすがにクサ過ぎたかな」=I think ... was a bit too harsh.
 「……でも、それがあんたの本心、なんでしょ？」=... But that's what you really think, isn't it?
 「うん、そうだよ」=Yes, I am.
-「……好きだよ、[H名]」=I love ... you, [H名].
+「……好きだよ、[H名]」="I love you, [H名]."
 「私も……好きよ」=I like ... too.
-「ん……」=It's ...
-「んっ……んんっ……」=I'm sure you're aware of that.
+「ん……」=Mm...
+「んっ……んんっ……」=「М-а…… М-н-а……」
 「……今のキスで、[H名]のことがもっともっと愛おしくなった」=... kissing you just made me love you more and more.
 「思ってても口にしないでよ……あんたの顔、まともに見れないじゃない……」=If you're thinking it, don't say it... I can't even look at you properly...
 「でも、こっちを向いてくれないとキスできないよ？」=But I can't kiss you unless you look at me.
@@ -47,7 +47,7 @@
 「こ、ここでするつもり？　誰かが来ちゃうかも……」=Are you going to do it here?　Someone might come...
 「……あそこなら、人に見つからないと思うよ。ダメ、かな？」=... I don't think anyone will see us there. No?
 「そ、それってつまり……エッチ、したいってことよね……？」=Well, does that mean you want to ... have sex with me?
-「……うん」=... Yeah.
+「……うん」="...Sure."
 「こんな、誰か来そうなところで……でも、あんたが望むなら……」=I mean, you can have sex ... in a place where people might come, but if you want to...
 「えっと……たぶん、あそこなら人に見つかることは無いと思うよ」=Well... I don't think anyone will see us there, if that's what you mean.
 「……無理にとは言わない。ダメならはっきり断ってくれていいから」=... I'm not saying you have to. If you don't like it, just say no.

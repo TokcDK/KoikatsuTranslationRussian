@@ -1,4 +1,4 @@
-ビーチボール=Beach Ball
+﻿ビーチボール=Beach Ball
 提灯=Paper Lantern
 うちわ=Hand Fan
 ぶたの置物=Pig Ornament
@@ -6,4 +6,4 @@
 クワガタ=Stag Beetle
 虫かご(小)=Insect Cage (Small)
 虫かご(大)=Insect Cage (Large)
-水着=Swimsuit
+水着=Купальник

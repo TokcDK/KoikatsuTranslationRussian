@@ -1,5 +1,5 @@
-「……あ、もう分かれ道に来ちゃった……」=...Oh, I'm at the fork in the road...
-CHOICE:「よかったら、ウチに寄ってく？」="Would you like to come by my place?
+﻿「……あ、もう分かれ道に来ちゃった……」=...Oh, I'm at the fork in the road...
+CHOICE:「よかったら、ウチに寄ってく？」=「Если хочешь, пойдем ко мне в гости?」
 CHOICE:「それじゃ、また」="See you later.
 「よかったら、この後、ウチに寄ってく？　お茶ぐらいは出すよ」=Do you want to come by my place afterwards?　I'll at least offer you some tea.
 「うん……そうしようかな。あっ、えっと、お茶が飲みたい気分だし！」=Yeah... I think I will. Oh, I'm in the mood for some tea!

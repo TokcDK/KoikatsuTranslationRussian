@@ -1,4 +1,4 @@
-「大分混雑してきたな、もう少しこっちに寄っていいぞ」=It's getting pretty crowded in here. You can come a little closer.
+﻿「大分混雑してきたな、もう少しこっちに寄っていいぞ」=It's getting pretty crowded in here. You can come a little closer.
 「ありがと、じゃあちゃっとだけ……って、おわっ！？」=Thanks, I'll just take a quick look at ... Oh, no!
 「こらっ、何がちょっとだ……ほとんど密着してるじゃないか……」=Come on, what's a little ... almost close enough?
 「ごめん、わざとじゃないんだ。押されちゃって仕方なく……って、また！？」=I'm sorry, I didn't mean to. I'm sorry, I didn't mean to do that. I was pushed and I had to go to ... again.
@@ -12,5 +12,5 @@
 「ご、ごめんねっ、わざとじゃないから！」=I'm sorry, I didn't mean to!
 （うぅ、気持ちいいけど、ここで勃たせるわけにはいかない……！）=(Ugh, this feels so good, but I can't have a boner here: ...!
 （我慢我慢……混雑が解消されるまで、ひたすら我慢だ……！）=(Patience, patience, patience ... until the congestion clears up...!
-CHOICE:『欲望に身を任せる』="Give in to your desires
-CHOICE:『鉄の自制心で堪える』="Endure with iron self-control.
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
+CHOICE:『鉄の自制心で堪える』="Steel your self-control."

@@ -1,7 +1,7 @@
-なし=Нет
-リボンブラ=Ribbon Bra
+﻿なし=Нет
+リボンブラ=Ленточный бюстгальтер
 レーストップブラ=Lace Top Bra
-三角ブラ=Triangle Bra
+三角ブラ=Треугольный бюстгальтер
 ストラップレスブラ=Strapless Bra
 スポーツブラ=Sports Bra
 ハーフトップブラ=Half-Top Bra

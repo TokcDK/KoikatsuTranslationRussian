@@ -1,7 +1,7 @@
-「あ、それじゃあ私、こっちだから……」=I'll see you at school! Bye!
+﻿「あ、それじゃあ私、こっちだから……」=「А, вот мы и здесь……」
 CHOICE:「……この後、家にこれないかな？」="... Can you come to my house after this?
-CHOICE:「じゃあ、またね」="See you later.
-「あのさ、よかったら家に来ない？　まだ[H]といたいんだ」=Hey, do you want to come over to my house?　I still want to hang out with [H].
-「え、いいの？　うん、行く行く！　私もまだ一緒にいたかったから、すっごく嬉しい♪」=Oh, you don't mind?　Yeah, I'll come!　I'm really happy because I wanted to be with you too.
-「あ、そっか。じゃあまたね！」=I'm so happy. See you later!
-「キミといると本当に時間がすぐ過ぎちゃう♪　またね、バイバイ♪」=Time really flies when I'm with you. See you later, bye.
+CHOICE:「じゃあ、またね」="I'll see you around."
+「あのさ、よかったら家に来ない？　まだ[H]といたいんだ」=「Может, хочешь пойти ко мне? Я хочу еще немного побыть с тобой」
+「え、いいの？　うん、行く行く！　私もまだ一緒にいたかったから、すっごく嬉しい♪」=「Е, правда? Да, идем идем! Я так счастлива что могу дольше быть с тобой♪」
+「あ、そっか。じゃあまたね！」=「О, верно. До скорой встречи!」
+「キミといると本当に時間がすぐ過ぎちゃう♪　またね、バイバイ♪」=「Когда я с тобой, время так быстро проходит♪　 Пока-пока♪」

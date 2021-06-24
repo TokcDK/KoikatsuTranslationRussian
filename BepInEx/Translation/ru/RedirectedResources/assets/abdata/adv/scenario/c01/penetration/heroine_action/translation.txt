@@ -1,4 +1,4 @@
-「えっと……混ざりたいの？　……どうする？」=Well, do you want to ... mix it up?　... What do you want?
+﻿「えっと……混ざりたいの？　……どうする？」=You want to... get together? ...For what?
 「私は……構いませんけど……」=I'm ... fine, but ...
 「それはもう願ったり叶ったりですが……本当によろしいのですか？」=That's all very well and good, but are you sure you want to go to ...?
 「[H名]がいいなら、俺はＯＫだよ」=If it's okay with [H名], it's okay with me.

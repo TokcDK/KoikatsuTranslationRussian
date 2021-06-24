@@ -1,4 +1,4 @@
-「おっと……随分混むね。疲れてるところにこれはキツいなぁ」=Oops ... it's so crowded. I'm tired and this is hard.
+﻿「おっと……随分混むね。疲れてるところにこれはキツいなぁ」=Oops ... it's so crowded. I'm tired and this is hard.
 「そこは狭いですよね？　もっとこっちへ寄って下さい」=It's too narrow there, isn't it?　Come closer, please.
 「いいの？　って、人が増えてきて、それしかなさそうだけど……じゃあ、お言葉に甘えて……」=Are you sure?　I mean, it's getting crowded and it looks like it's the only way... Well, I'll take your word for it...
 「いいんです。気にしないで、ん、下さい……んん、ちょっと狭い、ですね」=It's okay. Don't worry about it... It's a little cramped, isn't it?
@@ -12,5 +12,5 @@
 （気持ちいいけど……我慢、しなきゃ……）=(It feels good, but ... I have to be patient...)
 （うう、でも……本当に我慢できるか？　[H名]の身体の柔らかさや、[H名]の匂いの誘惑があるのに……）=(Ugh, but ... can you really stand it?　(Ugh, but can you really resist ... the temptation of [H名]'s softness and [H名]'s smell?
 （はっ、意識したらダメだ！　別のことを考えて気を紛らわせよう……）=(Haha, not if you're conscious!　Let's think of something else to distract ourselves...)
-CHOICE:『欲望に身を任せる』="Give in to your desires
+CHOICE:『欲望に身を任せる』=『Отдаться желаниям』
 CHOICE:『我慢する』="Enjoy the softness" CHOICE: "Be patient

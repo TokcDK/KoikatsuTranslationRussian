@@ -1,8 +1,8 @@
-「[H名]、今日も『あ～ん』してもらっていい？」=[H名], can I have another 'aun' from you today?
+﻿「[H名]、今日も『あ～ん』してもらっていい？」=[H名], can I have another 'aun' from you today?
 「もちろんでございます。お料理が来てから、そう仰っていただけるのを今か今かと待ち望んでおりました」=Of course. I've been waiting for you to say that since the food arrived.
 「あはは、それなら言ってくれればいいのに」=Haha, why didn't you just say so?
 「殿方の命令を待つのも女の務めでございますから……では、参ります」=It is a woman's duty to wait for her lord's orders...
-「あ～ん」=Ahh.
+「あ～ん」=「А-м」
 「あ～ん……」=Ahn...
 「……うん。[H名]に食べさせてもらうと、やっぱり夫婦になった気分だなぁ」=... Yeah. When [H名] feeds me, we feel like a couple.
 「相変わらずお上手なんですから。もう一口、いかがですか？」=You're as good as ever. Would you like another bite?

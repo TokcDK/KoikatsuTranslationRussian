@@ -1,11 +1,11 @@
-「ふぅ……それにしても、[H名]……なんだか、すごく本気だったなぁ……」=I'll try my best to model for the groom.
+﻿「ふぅ……それにしても、[H名]……なんだか、すごく本気だったなぁ……」=I'll try my best to model for the groom.
 「ウェディングドレスを着れるからテンション上がってるのかな……？」=Are you excited because you get to wear a wedding dress ...?
 「……というか、本当に結婚にあこがれているとしたら…………」=If you're really longing for ... or even marriage, then ...
 （お、いよいよ出番か……）=(Oh, it's finally your turn ...)
 （……[H名]、ひょっとして俺との結婚を夢見てるのかな……？）=(...[H名], are you by any chance dreaming of marrying me...?
 （いや、余計なこと考えず、真剣にモデルを頑張ろう）=(No, let's not think about that. Let's get serious about modeling.)
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the rear doorway.
-（[H名]……）=([H名]...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=「Сейчас выйдет невеста. Пожалуйста, смотрите в боковую дверь」
+（[H名]……）=（[H名]...）
 目を向けると、俺は一発で魅了されてしまった。=I turned to look at her, and I was mesmerized at once.
 ただの式場のモデル──そう徹するのが難しくなってしまうほど、素敵な花嫁姿がそこにあった。=You can find a lot of people who are looking for a great deal more than just a wedding dress.
 ……冗談でもなんでもなく、俺は彼女が、本物の『俺の』花嫁に見えてしまった。=It's not a joke, it's not a joke, she looks like a real "my" bride.

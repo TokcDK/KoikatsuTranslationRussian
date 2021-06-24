@@ -1,4 +1,4 @@
-「なっ！　アナタ！　何を考えているの！　早く出てって！」=Нет! Ты идиот! О чём ты вообще думаешь! Ты должен уйти сейчас же!
+﻿「なっ！　アナタ！　何を考えているの！　早く出てって！」=Нет! Ты идиот! О чём ты вообще думаешь! Ты должен уйти сейчас же!
 「呆れるわね。男は低俗と聞いていたけれど、ここまで見境がないなんて」=「Я просто в шоке. Я слышала что мальчики бывают вульгарны но не настолько же」
 「今アナタと話す時間はないわ。さよなら」=I don't have time to talk to you right now. Goodbye.
 「何かしら？　時間は有限、用があるなら早くして」=「Что тебе нужно? У меня мало времени, так что поторопись」
@@ -152,7 +152,7 @@
 「一緒に良い汗かかない？」=「Хотела бы ты вместе позаниматься спортом?」
 「いいわよ。着替えてくるから待っていて」=Sure. I'm going to go change, so wait for me.
 「ちょっと今は……運動という気分ではないかしら……」=「Не сейчас…… У меня нет настроения для него……」
-「ちょっと付いてきてもらっていい？」=Can I ask you to follow me?
+「ちょっと付いてきてもらっていい？」=“Can I ask for you to come with me for a moment?”
 「いいわよ。変な所じゃなければね」=「Хорошо. Если ты не отведешь меня куда не следует」
 「今は難しいわ。私にも予定があるのよ」=「Сейчас это проблематично. У меня есть планы」
 「なっ！　もう……他の人に見つかる前に出て行きなさい。あとでお説教だからね」=Hey!　Go to ... and get out of here before someone else finds you. You'll get a lecture later.
@@ -286,7 +286,7 @@
 「そろそろ時間ね。有意義な時間だったわ、また今度」=It's time to go. It's been a good time. I'll see you soon.
 「そう、それじゃまた。いつでも話しかけて」=Okay, I'll see you later. You can talk to me anytime.
 「えぇ、またお話しましょ」=Yeah, I'll talk to you.
-「きみのことが好きなんだ」=I like you a lot.
+「きみのことが好きなんだ」=“I like you.”
 「ごめんなさい、私が臆病なだけなの。本当にごめんなさい……」=I'm sorry, I'm just a coward. I'm really sorry...
 「やっぱり、きみのことが好きなんだ」=I really like you.
 「ほ、本当にいいのね？　私……結構面倒な女だって……自覚あるわよ？」=Are you sure you want to do this?　I'm ... aware that I'm a pretty messy ... girl, you know?
@@ -328,7 +328,7 @@
 「一緒に帰りましょ？　何か予定はある？」=I'll come home with you.　What do you have planned?
 「良かった。それじゃ、アナタの支度ができたら帰りましょう」=Good. Then let's go home when you're ready.
 「あら、仕方ないわね。今度空いている日があったら逆に誘って」=Oh, I don't blame you. Next time you have a free day, ask me out.
-「もしよかったら、俺とデートしてくれない？」=I was wondering if you'd like to go on a date with me.
+「もしよかったら、俺とデートしてくれない？」=「Если ты не против, может сходим на свидание?」
 「そういうお誘いはもう少し勝算が出来てからする事ね」=You'll have to wait until you're a little more sure of your chances before you make that kind of offer.
 「またデートしたいんだけど、予定空いてる？」=I'd like to go out with you again. Are you free?
 「もぅ、アナタはいつも唐突ね。いいわ、特別に予定を空けてあげる」=Oh, my God, you're always so abrupt. Okay, I'll make it easy on you.
@@ -389,7 +389,7 @@
 「寝るときもブラって付けてる？」=Do you wear a bra to bed?
 「つけてるわよ。ナイトブラっていうのがあるの。フフッ、見たい？」=Yes, I do. I do, I have this thing called a night bra. Do you want to see it?
 「つけてないわね。なんだか息苦しくって」=No, I don't. It's kind of stuffy.
-「将来の夢ってある？」=What are your dreams for the future?
+「将来の夢ってある？」=“Do you have any dreams for the future?”
 「もちろんあるわ。最近一つ追加されたの。アナタにも関係ある事よ、ふふっ」=Of course I do. They've recently added one. It has something to do with you, too, you know.
 「ない……のよね。漠然としていて、これだというものが見つからないの……」=It's not ... It's so vague, I can't find anything that fits...
 「アナタ……たまに空気が読めないのよね。気を付けなさい」=You ... can be a bit of an airhead sometimes. Be careful.
@@ -546,11 +546,11 @@
 「ふふふっ」「ふーん」「あはっ」「うんうん」「へぇぇ～」=Hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm.
 「ちょ、ちょっとぉ」「だぁめ」「うぅぅっ」「いやよぉ」「恥ずかしいからぁ」=Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.
 「今いい？」「ねぇ」「少し聞いてくれる？」「それでね」「あのね」=Can I come in now? Hey... can I ask you something? So... you know...
-「ねぇ、[Hあだ名]」=Hey, [Hあだ名].
+「ねぇ、[Hあだ名]」=“Hey, [Hあだ名].”
 「な、なによ……[Pあだ名]。これ、やっぱり恥ずかしいのだけど」=What's that? ...[Pあだ名]. I'm really embarrassed about this.
 「そう呼んでいいのは私が機嫌のいい時だけよ。気を付けて」=You can only call me that when I'm in a good mood. Be careful.
 「ねぇ……[Pあだ名]」=Hey...[Pあだ名].
-「ん？　どうしたの？　[Hあだ名]」=Hmm?　What's up?　[Hあだ名]
+「ん？　どうしたの？　[Hあだ名]」=Hmm? What's up? [Hあだ名]
 「ふふっ、呼んでみただけ……ってやつよ」=I'm just calling you ...
 「うん、私もしたいって思ってたから。沢山愛してね、[Pあだ名]」=Yeah, I've always wanted to do that. Make lots of love to me, [Pあだ名].
 「あのね……私、体が火照っちゃって……ねえ、Ｈして、欲しいなぁ、[Pあだ名]」=You know... I'm burning up, and I'm thinking... hey, I want you to do me, [Pあだ名].

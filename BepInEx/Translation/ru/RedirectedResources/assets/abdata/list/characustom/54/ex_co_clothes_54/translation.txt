@@ -1,2 +1,2 @@
-なし=None
+﻿なし=Пусто
 作業着=Worker's Jacket

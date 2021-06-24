@@ -1,4 +1,4 @@
-「遊園地は夢の場所ってよく言われるけど、今日は人がいすぎて現実を忘れられないな」="They say that the amusement park is the place where dreams become reality, but there are too many people around here."
+﻿「遊園地は夢の場所ってよく言われるけど、今日は人がいすぎて現実を忘れられないな」="They say that the amusement park is the place where dreams become reality, but there are too many people around here."
 「……そう思う。どこ見ても、行列ばかり」="...You're right. Everywhere you look, there are at least a dozen people standing around."
 「しょうがないって割り切るしかないか。人気アトラクションはみんな乗りたいからさ」="I mean, it's not like we can cut in line or anything."
 「アトラクションとは違うけど、マスコットがあっちにいるし、写真撮りに行こう」="Instead of riding the rides, why don't we take some pictures? C'mon, the park's mascot is just over here!"
@@ -10,7 +10,7 @@
 カシャッ=Snap!
 「ありがとうございました。――えっ、あっちの方？　向こうに何かあるんですか？」="Okay, thanks-Huh? That way? What's over there?"
 「わかりました。行ってみます。ありがとうございます」=Got it. C'mon, let's go!
-………………=......
+………………=.........
 「親切だったね。多分ジェスチャー的にこの方角であってると思うけど……お」="I think he was pointing in... that direction."
 「このジェットコースターか？　メインのコースターと比べてすごい空いてるけど……」="This roller coaster? Compared to the biggest one in the park..."
 「……古くて、壊れそう」="It looks old and run-down."
@@ -22,10 +22,10 @@
 「[H名]は大丈夫、怖くない？」="[H名], are you... scared at all?"
 「……前が見れない……怖い」="I can't even see the rails from here..."
 「あっ、もうすぐ頂上だよ」="The peak of the coaster is coming up."
-ガタッ=Rumble...
+ガタッ=Ты-дынь
 「きゃっ……」=Aah...!
 （あっ！　こうゆうことか……！！）="(Woah! Here we goooo...!!)"
-ガガガガガガガガガ……！=Zooooooom!
+ガガガガガガガガガ……！=Ха-а-а-а-а-а……!
 「きゃぁぁぁぁぁぁぁぁ」="Aaaaaaaaaah!"
 「……怖かった……ん、どう、したの？　ぼーっとして」="...I was scared out of my mind... How did you keep calm?"
 「えっ、あぁ、ごめんごめん」="Oh, sorry, sorry."

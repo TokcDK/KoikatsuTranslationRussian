@@ -1,4 +1,4 @@
-「ちょっと……混んできたね……」=It's getting a little ... crowded, isn't it ...?
+﻿「ちょっと……混んできたね……」=It's getting a little ... crowded, isn't it ...?
 「うん……少し、苦しい……」=Yeah, it's ... a bit of a pain...
 「避けれるスペースがあればいいんだけど……うおっ！」=I wish there was room to avoid ... oops!
 「ごめん、押されて……」=Sorry, I got pushed ...
@@ -14,4 +14,4 @@
 （我慢我慢……我慢するんだ俺……）=(Patience, patience, patience, patience... me.
 （……けど、この状況で、いつまで平静を保っていられるだろうか……？）=(...But how long can I keep my composure in this situation ...?
 CHOICE:『ちょっと我慢する』="I'll be patient.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『必死に我慢する』=『Быть терпеливее』

@@ -1,4 +1,4 @@
-「ふぅ……お粗末さまでした」=Phew... That was lousy.
+﻿「ふぅ……お粗末さまでした」=Phew... That was lousy.
 「上手でしたね。ただ、少し気になることがあるんです」=I'm not sure what to say. But there's something that's bothering me.
 「え……？　お、俺の歌、何か変だった？」=What ...?　Oh, is there something wrong with my song?
 「そうではなく……歌の歌詞について、いろいろ考えさせられてしまって」=No, it's just that I've been thinking a lot about the lyrics to the ... song.
@@ -11,5 +11,5 @@
 「きっと、友達を助けたいし、いつまでも頼りたくないって思ったんだよ」=I'm sure he wanted to help his friends and not be dependent on them forever.
 「友達のために成長する……素晴らしいことですね」=Growing up for your friends ... is a wonderful thing.
 「私も、そんな人になりたいです！　頑張って、人間的な成長を心がけます！」=I want to be one of those people!　I'll work hard and try to grow as a person!
-「う、うん……」=Uh, yeah...
+「う、うん……」=「Ага……」
 （カラオケでそこまで影響受けちゃうのか……）=(Can karaoke affect you that much? ...)

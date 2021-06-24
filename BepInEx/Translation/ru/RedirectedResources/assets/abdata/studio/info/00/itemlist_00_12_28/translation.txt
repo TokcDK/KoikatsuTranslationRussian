@@ -1,10 +1,10 @@
-矢=Arrow
+﻿矢=Arrow
 弓=Bow
 弓袋=Bow Bag
 小悪魔フォーク=Devil Pitchfork
 小悪魔フォーク(小)=Devil Pitchfork (Small)
 刀=Sword
-刀の鞘=Sword Scabbard
+刀の鞘=Sword Sheath
 竹刀=Bamboo Sword
 鞘小太刀=Sheathed Short Sword
 小太刀=Short Sword

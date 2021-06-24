@@ -1,4 +1,4 @@
-「おすすめだけあって、すごく美味しそうだね」=It looks really good, just because you recommended it.
+﻿「おすすめだけあって、すごく美味しそうだね」=It looks really good, just because you recommended it.
 「だね～。見た目が華やかなのはいいことだ～」=That's right. It's good that it looks gorgeous.
 「さっそくいただきま～す……あむあむ……」=Let's eat it...amuamu...
 「ん～～、卵がふわふわで幸せ～」=Mmmm, the eggs are so fluffy and happy~
@@ -10,7 +10,7 @@
 「はぁ～……一口だけっすよ～？」=Huh? ... Just one bite, okay?
 「やった！　ありがと！」=Yes!　Thank you!
 「ほら……あーん」=Here's the ...
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「ん～、確かに美味しいね。卵とご飯の食感が絶妙だ」=It's definitely delicious. The texture of the egg and rice is perfect.
 「それに[H名]に食べさせてもらったことで、美味しさが倍増してるよ！」=And the fact that [H名] fed it to me makes it taste even better!
 「それはよかったすね～。じゃあ、次はキミが私に食べさせてよ～」=That's great. That's great. You can feed me next time.

@@ -1,4 +1,4 @@
-「混んできたね……もう少しそっち詰められる？」=It's getting crowded... Can you squeeze in a little more?
+﻿「混んできたね……もう少しそっち詰められる？」=It's getting crowded... Can you squeeze in a little more?
 「うん、こっち来て」=Yeah, come here.
 「ごめんね、苦しくない？　うわっととっ」=I'm sorry. Are you in pain?　Oh, my God.
 （っ、この体勢はマズイ……[H名]のいい匂いで、下半身が反応する……！）=This position is not good. The smell of ...[H名] is making my lower body react ...!
@@ -12,4 +12,4 @@
 (……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=(...For now, let's distract ourselves by thinking about something else...Let's see, I can think of something I like...)
 （…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=(...[H名]. Oh, I failed!　Let's think of something else.
 CHOICE:『我慢しようとする』="Trying to hold back.
-CHOICE:『必死に我慢する』="Struggling to hold back.
+CHOICE:『必死に我慢する』=『Быть терпеливее』

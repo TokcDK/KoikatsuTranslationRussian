@@ -1,6 +1,6 @@
-「じゃあ、食べようか」=Shall we eat then?
+﻿「じゃあ、食べようか」=Shall we eat then?
 「はい♡　……あ♡　あの、もしあなたが嫌じゃなかったら、やってみたいことがあるんですけど……♡」=Yes ♡ ... ah ♡, if you don't mind, there's something I'd like to try ... ♡
-「？」=What?
+「？」=?
 「一緒に『いただきます』してもいいですか？　男の人と付き合ったら、やりたいことだったんです♡　同じテーブルで向き合って、ニコニコ笑い合いながら♡」=Can I say "Itadakimasu" with you?　It's something I've always wanted to do when I go out with a guy. We'll be facing each other at the same table, smiling and laughing.
 「もちろん！　それじゃ、いただきます」=Of course!　Then, let's eat.
 「いただきます♡」=Bon appétit!
@@ -11,7 +11,7 @@
 「そっか……それは辛いね。じゃあさ、食べさせあいっこしようか。二人で食べてるって感じでよくない？」=I see... That's tough. I'm not sure what to do. It's like we're eating together.
 「た♡　た♡　食べさせあいっこ♡　すごくしたいです♡　こんな幸せ、私、今日死ぬかもしれません♡　死ぬ前に、夢が醒める前に、やりとげます♡」=I want to do it so much ♡ I might die today ♡ I'll do it before I die, before my dream wakes up ♡
 「はい、あーん♡」=Yes, ahh!
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「ぱくっ。うん、[H名]のパフェ、本当に美味しいね。俺のもお返し」=Yes. Yes, [H名]'s parfait is really delicious. I'll give you mine.
 「これって、現実なんですよね？　誰かに恨まれて殺されたりしませんよね？」=This is real, isn't it?　No one is going to hate me and kill me, right?
 「あはは、大げさだよ。大丈夫だから、もっと食べさせあいっこしよう」=Haha, you're exaggerating. It's okay. Let's feed each other more.

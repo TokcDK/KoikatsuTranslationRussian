@@ -1,4 +1,4 @@
-「今日は本当に楽しかったよ」=I had a really good time today.
+﻿「今日は本当に楽しかったよ」=I had a really good time today.
 「あたしも、キミと過ごせて楽しかったぞ！」=I had a great time with you, too!
 「でも、なんだか今日は、いつもより短かった気がするなー」=But I feel like today was shorter than usual.
 「うん、楽しい時間は早く過ぎるっていうけど、本当なんだね」=Yeah, they say time flies when you're having fun.
@@ -22,6 +22,6 @@
 「えへへ……キミの匂いを嗅ぎ溜めするんだ♪　クンクン、クンクン」=I'm gonna ... sniff you, sniff you, sniff you.
 「よし、これでキミと離れてる間も寂しくないぞー」=Okay, now I won't be lonely while I'm away from you.
 「はは、それならよかった。それじゃあ、ばいばい」=Haha, that's good. Okay, bye.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

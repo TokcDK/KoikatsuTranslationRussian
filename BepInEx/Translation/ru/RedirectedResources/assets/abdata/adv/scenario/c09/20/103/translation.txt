@@ -1,4 +1,4 @@
-「もう夕方……時間が過ぎるのはあっという間ねぇ……」=It's evening... Time flies so fast...
+﻿「もう夕方……時間が過ぎるのはあっという間ねぇ……」=It's evening... Time flies so fast...
 「あのさ、もうちょっと時間あるかな？」=Hey, do you have a little more time?
 「うん、少しくらいなら大丈夫だけど……」=Yeah, I'm good for a little while...
 「良かった。一緒に見たいと思ってたものがあるんだ」=Good. There's something I've been meaning to see with you.
@@ -10,5 +10,5 @@
 「し、してないわよ！　全然、そんな顔！」=No, I don't!　No, you don't!
 「ほら……よく見なさい！　変な顔してるでしょ！」=Look at ... me!　You're making a weird face!
 「いや、それは割りとデートの余韻が台無しというか……まあ、[H名]らしいか」=No, it's kind of ruining the whole date... Well, that's typical of [H名].
-CHOICE:『まだ時間ある？』="Do you still have time?
-CHOICE:『俺も楽しかった』="I had fun too.
+CHOICE:『まだ時間ある？』=『У тебя еще много времени?』
+CHOICE:『俺も楽しかった』="I had fun too."

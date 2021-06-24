@@ -1,4 +1,4 @@
-「ちょっと提案なんだけどさ」=I have a suggestion.
+﻿「ちょっと提案なんだけどさ」=I have a suggestion.
 「うん？　改まってどうしたの？」=Yeah?　What's going on?
 「その、一度でいいから愛称で呼び合ってみたいと思って……」=Well, I was thinking we could call each other by our nicknames for once...
 「愛称？　……いいけど、考える時間が欲しいから、待ってくれる？」=A nickname?　... is good, but I need time to think about it, so can you wait?
@@ -8,7 +8,7 @@
 「……わかった、やってみる。あっ、ところで私の愛称は……？」=... Okay, I'll try it. Oh, by the way, what's my nickname...?
 「もちろん、ちゃんと考えてるよ。それじゃあ、呼ぶからね」=Of course, I'm thinking about it. I'll call you that.
 「[Hあだ名]」=[Hあだ名]
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「……呼んじゃった。すごく胸がドキドキしたよ」=I called you ... It made my heart pound so hard.
 「はは、確かに。普段と違うからちょっと恥ずかしかったね」=Haha, that's true. It was a little embarrassing because it was different.
 「でも、何だか嬉しい気持ちになれたな。よかったら、またやってもいい？」=But it made me feel happy. Can I do it again if you want?

@@ -1,4 +1,4 @@
-「あっ、もうこんな時間か。そろそろ終了時間だぞ、どうする？」=Oh, it's almost time. It's almost the end of the night. What do you say?
+﻿「あっ、もうこんな時間か。そろそろ終了時間だぞ、どうする？」=Oh, it's almost time. It's almost the end of the night. What do you say?
 「俺は延長したいな。もっと[H名]の歌が聞きたい」=I'd like to extend it. I want to hear more of [H名]'s singing.
 「待て待て、あたしだけじゃなくて、おまえも歌うんだぞ？　じゃなきゃ延長しないからな？」=Wait, wait, wait. I'm not the only one who wants to sing, you have to sing too.　Otherwise, I'm not going to extend it, okay?
 「よーし、じゃあまだまだ二人で歌いまくろうか！　延長の電話を入れておくね」=All right, then, let's sing some more songs together!　I'll call for an extension.
@@ -9,7 +9,7 @@
 「了解。あと一曲は歌えそうだな～……あたしが入れていいか？」=Okay. I think I can sing at least one more song... Can I join you?
 「もちろん！」=Yes!
 「さんきゅ。じゃあこの曲を……っと」=Thank you. Then I'll put this song on ...
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=There's only so much I can hold in my tiny palm.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 「Ｆｕ、Ｆｕ～♪」=Fu, Fu.
 CHOICE:『延長しようよ。[H名]の歌、もっと聞きたいし』="Let's extend it. I want to hear more of [H名]'s songs.
 CHOICE:『今日は帰ろうか』="Let's go home for the day.

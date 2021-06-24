@@ -1,8 +1,8 @@
-「やっぱりここの夜景は綺麗じゃのう」=The night view here is beautiful.
+﻿「やっぱりここの夜景は綺麗じゃのう」=The night view here is beautiful.
 「うん。いい場所だよね」=Yeah. It's a nice place.
 「前にきた時気に入ってたみたいだから、また来たいと思ってたんだ」=You seemed to like it the last time you were here, so I thought I'd come back.
 「そうじゃな。以前ここで……」=Yes, he did. I've been here before at ...
-「どうしたの？」=What's wrong?
+「どうしたの？」=「Что-то случилось?」
 「いっ、いや……なんでもないのじゃ」=No, it's ... nothing.
 「もしかしてエッチのこと思い出してたり？」=Are you having sex with me or something?
 「……っまさか！　そんなわけなかろう！」=...? No way!　No, of course not!
@@ -19,8 +19,8 @@
 「[H名]はシタくないの？」=You don't have sex with [H名]?
 「それは…………シタくない……というわけじゃないが……」=It's not ... uncomfortable. It's not ... uncomfortable, but it's ...
 「素直じゃないな……」=You're not being honest...
-「んんっ……」=Mmm...
-「…………」=...
+「んんっ……」=「М-н……」
+「…………」=...............
 「エッチしよう。俺はもう我慢できそうにない」=Let's have sex. I don't think I can take it anymore.
 「わかったのじゃ……仕方ないから、シテもよいぞ」=All right... you can have sex with me if you want.
 「はは、からかいすぎたね。それじゃあ、そろそろ帰ろうか」=Haha, I teased you too much. Well, I'd better be off.

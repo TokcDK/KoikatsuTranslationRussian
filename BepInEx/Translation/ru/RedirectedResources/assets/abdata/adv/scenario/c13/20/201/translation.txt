@@ -1,4 +1,4 @@
-「デートと言えば？」=Speaking of dates...
+﻿「デートと言えば？」=Speaking of dates...
 「遊園地っしょ～！　イエーイ！」=Amusement park, right?　Yay!
 「イエ～イ！」=Yeah!
 「……さて、まず何からしようか？」=... So, what should we do first?
@@ -10,7 +10,7 @@
 「……あっ、ちょっと、先に並んでてくれない？」=... Oh, hey, can you wait in line first?
 「えっ？　[P名]くん、どこ行くの～？」=What?　[P name], where are you going?
 「大丈夫、すぐに戻ってくるから！」=Don't worry, I'll be right back!
-………………=...
+………………=.........
 「アイス買ってきたよ。食べる？」=I bought you some ice cream. Want some?
 「えっ、マジで！　ありがとー！」=Oh, really?　Thank you!
 「いえいえ～。それと、他にも退屈をしのげるものをいろいろ買ってきたんだ」=No, thank you. And I got you a few other things to keep you occupied.

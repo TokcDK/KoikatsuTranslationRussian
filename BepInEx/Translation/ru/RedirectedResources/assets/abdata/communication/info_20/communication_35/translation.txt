@@ -1,4 +1,4 @@
-「な、なんでこげんところにおると！？　ここ女子トイレよ！？」=Why are you here?　I'm in the ladies room.
+﻿「な、なんでこげんところにおると！？　ここ女子トイレよ！？」=Why are you here?　I'm in the ladies room.
 「な、なんしよーと！？　男子は入っちゃいかんってば！」=「Ч, что ты здесь делаешь!? Мальчикам нельзя сюда входить!」
 「なん？　今忙しいっちゃけど？」=What?　I'm busy.
 「……なんなん？」=What's up at ...?
@@ -143,7 +143,7 @@
 「あ、私そろそろ行くね」=「О, мне уже пора」
 「うん、それじゃまた。これからもいっぱいお話してね」=I'll see you later. Please keep talking to me.
 「はーい」=Okay.
-「よかったら一緒に帰らない？」=Do you want to come home with me?
+「よかったら一緒に帰らない？」=“If you like, want to walk home together?”
 「うん、いいよ！　君と帰るの楽しいっちゃもん」=Yeah, sure!　I'm looking forward to going home with you.
 「あっ、ごめん、今日は無理なんよ。また今度誘ってね」=Oh, sorry, I can't today. I can't make it today.
 「よかったら一緒に勉強しない？」=Хочешь позаниматься со мной?
@@ -152,7 +152,7 @@
 「一緒に身体を動かさない？」=「Займемся вместе спортом?」
 「いいよ！　賛成！　たまに汗かきたい時ってあるけんね！」=Okay!　I agree!　Sometimes you just need to work up a sweat.
 「今日はね……ちょっと体調が……だけん、また今度ね」=「Сегодня…… Мне не хорошо…… Давай в следующий раз」
-「ちょっと付いてきてもらっていい？」=Can I ask you to follow me?
+「ちょっと付いてきてもらっていい？」=“Can I ask for you to come with me for a moment?”
 「なになにどーしたと？」=What's the matter?
 「あっ、今は無理かも……友達が待っとうとよ」=「О, прости, я сейчас не могу…… Друзья ждут」
 「も、もーっ、なんで普通に入ってこれるん？　ここ、女子トイレってわかっとっちゃろ？」=「Ум-м, почему ты здесь, разве это нормально? Ты знаешь что такое туалет для девочек?」
@@ -301,7 +301,7 @@
 「[H]とHしたい」=I want to have sex with you.
 「はぅぅ……そ、そんなに押されたら断れんくなる……私だって……君のこと、嫌いやないっちゃもん……」=Huh... Well, if you push me that hard, I won't be able to say no... I don't hate you either...
 「ごめんね……そういうことは、やっぱり恋人同士ですることやけん」=I'm sorry ... but that kind of thing is for lovers.
-「ここで[H]とHしたい」=I want to have sex with [H] here.
+「ここで[H]とHしたい」=“I want to have sex with [H] here.”
 「う、うそやろ。だって人おるよ？　え、えっと……どうしても？　うぅ……どうしてもなら……いいよ？」=No, you don't. There are people here, you know.　Well, let's see... Must?　Ugh... if you must... okay?
 「ダメダメ！　だって友達もおるっちゃもん！　そげん恥ずいこと出来んってばー」=No, no, no!　I have friends there!　I can't do anything embarrassing like that.
 「だ、誰か来たら大変やない？　もしかしてそれがいいとか思っとるやろ？　うぅ、わ、私もやけど……えへへ……」=I can't be embarrassed. - What if someone comes?　You think that's a good idea, don't you?　Ugh, me too.....
@@ -309,19 +309,19 @@
 「あ、あのねっ！　恋人じゃないのは分かっとうと！　でもね、私……君とエッチしたいっちゃん……」=Oh, you know what?　I know you're not my girlfriend!　But I want to have sex with you ...
 「ありがとう。へ、変な娘って思わんでね？　それくらい……君のこと信頼しとうと」=Thank you. Don't think I'm a strange girl, okay?　That's how much I trust you...
 「わぁぁっ、い、今のは無かったことにして！？　ちょ、ちょっとそのっ……気の迷いやけんっ！」=I'm sure you'll be happy to hear that.　It was just a ... misunderstanding!
-「よかったらいっしょにお昼食べない？」=Would you like to have lunch with me?
+「よかったらいっしょにお昼食べない？」=“If you'd like, want to eat lunch together?”
 「うんっ、いいよ！　君と一緒に食べると楽しいっちゃもん」=「Да, хорошо! С тобой, еда будет вкуснее」
 「はぅ……残念……今日はもう友達に誘われとうと。また声かけてね」=I'm ... sorry ... my friend invited me over today. Call me later.
 「ね、もし良かったらでいいんやけど……お昼、一緒に食べん？」=「Если ты не занят…… Не против пообедать вместе?」
 「ふふっ、嬉しい！　私、君と過ごせるとテンション上がるっちゃん！」=「Ура, я очень счастлива! Когда я провожу время с тобой, почему-то очень волнуюсь」
 「そうなん？　それじゃまた今度誘うけん、その時はよろしくね」=「Вот как? Ясно, я приглашу тебя потом」
-「一緒にコイカツしよう」=Let's do kowtow together.
+「一緒にコイカツしよう」=“Let's go to Koikatsu club together.”
 「うん、しようしよう！　それで部長、今日はどんなことするん？」=Yeah, let's do it!　So what are you going to do today, boss?
 「あ、今日は時間がないっちゃん。また今度誘ってね。その時は私も頑張るけん！」=Oh, I don't have time today. I don't have time today, so please invite me sometime. I'll do my best then!
 「えっと……コイカツって私から誘ってもいいっちゃろ？　今からせん？」=「Эм…… Можно пригласить тебя на занятие Коикацу? Ты не занят?」
 「あはは、やったね！　それじゃ何から始めよっか？」=「А-а, ура! С чего начнем?」
 「もしかして先約があるとかいな？　うん、次を楽しみにしとるね」=Do you have a prior engagement?　Yeah, I'm looking forward to the next one.
-「一緒に帰らない？」=Do you want to come home with me?
+「一緒に帰らない？」=“Want to go home together?”
 「わわ、誘ってくれるん？　嬉しい！　うん、一緒に帰ろ！」=Oh, you're inviting me?　I'm so happy!　Yeah, come home with me!
 「あ、今日は用事があるんよ。ごめんね……私も残念……」=I'm sorry, I have something to do today. I'm sorry... I'm sorry too...
 「ねぇねぇ、もし良かったら一緒に帰ってくれんかな？」=「Э-эм, если ты не против, может, пойдем домой вместе?」
@@ -335,7 +335,7 @@
 「あ、あのっ……もし良かったら、今度……デートしてみらん？」=Oh, um... would you like to go on a ... date sometime?
 「あはは、良かったぁ……ありがとう。めっちゃドキドキしたんよー」=Haha, that's great... Thank you. I'm so excited.
 「そっかー。ううん、それじゃ次回に期待して……また誘うけんね」=I see. No, I'll look forward to it next time and ask you out again at ...
-「一緒に勉強しない？」=Do you want to study with me?
+「一緒に勉強しない？」=“Do you want to study together?”
 「うん、しよ！　お互いに分からんところとか教えあいたいけん！」=Yeah, let's do it!　We want to teach each other what we don't know!
 「あ……今忙しいとよ……ごめんね」=Oh... I'm busy right now... I'm sorry.
 「ねぇ、もしも予定なかったら、一緒に勉強せんかな？」=「Если ты не занят, займешься со мной учебой?」
@@ -350,7 +350,7 @@
 「[H]はコイカツ部に興味ない？　よかったら入ってほしいな」=「[H], тебя не интересует клуб Коикацу? Я бы хотел чтобы ты вступила в него」
 「もう少しだけ悩んでもいいん？　別に嫌なわけじゃないんやけど……まだ踏ん切りがつかんと……ごめんね」=Can I bother you for a little while?　It's not that I don't want to, but I'm not sure I'm ready yet... I'm sorry.
 「あのね、私、君と一緒にコイカツしてみたいと！　やけん、コイカツ部に入部させてもらえんかな？」=「Знаешь, я хотела бы попробовать позаниматься в Коикацу! Ты мне разрешишь вступить в твой клуб?」
-「ちょっと付いてきて」=Come with me.
+「ちょっと付いてきて」=“Come with me for a moment.”
 「あはは、突然どーしたと？」=Oh, what's the matter?
 「わぁ、今は無理！　この後ちょっと用事があるっちゃもん！」=Oh, I can't right now!　I have some business to attend to later!
 「もー、君、度胸ありすぎよ。ま、まぁ、私しかおらん時はいいけど……って、よくないよくない！　ここ女子トイレやから！」=You've got a lot of nerve, you know that? Well, it's okay if I'm the only one here, but ... no, no, no!　I'm in the women's bathroom!
@@ -518,7 +518,7 @@
 「うんっ、ぎゅーって恋人繋ぎして帰るん！　仲良しなんよ♪」=Yes, we're going home holding hands.　We're very close.
 「えへへ、誰か仲良く帰ってくれんかなー？」=「Е-е-е, будет ли кто-нибудь настолько любезен, чтобы пойти домой со мной?」
 「わぁ、一緒に帰ってくれる人おったー！　えへへ、それじゃ今日もよろしくね♪」=「Ого, пара возвращающаяся домой вместе! А, заранее спасибо тебе за сегодня♪」
-「はぅっ、ダメなん！？　な、なんか……浮かれて誘ったの恥ずいぃ……」=Huh, no?　I'm so embarrassed that I asked you to go to ...
+「はぅっ、ダメなん！？　な、なんか……浮かれて誘ったの恥ずいぃ……」=「А-ах, нет?! Но почему…… Теперь мне стыдно за себя……」
 「ありがとう！　もちろん行くよ！　行くに決まっとーやん！」=「Спасибо! Конечно же я пойду!」
 「恋人同士と言えば……やっぱりデートやんね？　…………デートやんね！？」=「Говоря о нас…… Может, пойдем на свидание?………… Пожалуйста?!」
 「あはは、伝わったー！　早速今夜から眠れんくなりそう♪」=Haha, I get it!　I'm going to have trouble sleeping tonight.

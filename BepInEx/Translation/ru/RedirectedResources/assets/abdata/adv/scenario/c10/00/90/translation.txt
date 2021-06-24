@@ -1,10 +1,10 @@
-「汝よ、喜ぶがいい！　汝に新しい名を与えてやる！」=Rejoice, O thou!　I'm giving you a new name!
+﻿「汝よ、喜ぶがいい！　汝に新しい名を与えてやる！」=Rejoice, O thou!　I'm giving you a new name!
 「新しい名？　えっと……愛称、ってこと？」=New name?　You mean ... the nickname?
 「うむ。……とはいえ代償なしで名を与える訳にはいかん、我の名も考えるがよい」=Hmm. I can't give you a name without a price, even if it's ... You may consider my name.
 （つまり、愛称で呼び合おうってことかな。……可愛い代償だなぁ）=(In other words, let's call each other by our nicknames... is a pretty price to pay.
 「全然いいよ。というか実は既に考えてたり」=I don't mind at all. I've already thought about it.
 「ククッ、用意がいいな。では契約を始めよう。新たなる汝の名を紡ぐ……」=I've already thought about it. So let's start the contract. I spin a new name for thee...
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「じゃあこっちも……[Hあだ名]」=And I'll take ...[Hあだ名].
 「……よかろう、では契約完了だ」=..." "Good, then the contract is complete.
 「……ちょっと顔が赤くなってない？」=... Are you blushing a little?

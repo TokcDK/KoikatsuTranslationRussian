@@ -1,4 +1,4 @@
-「……ふぅ。結構歌いましたね」=... Hmm. That's a lot of singing.
+﻿「……ふぅ。結構歌いましたね」=... Hmm. That's a lot of singing.
 「だね。二人だと順番も早く回ってくるから」=That's right. The two of us can take our turn quickly.
 「もしかして延長しすぎちゃったかなぁ、これは」=Maybe I've overstayed my welcome, I don't know.
 「どうしますか？　歌わずに時間まで過ごす方法もありますけれど」=What should we do?　What do you want to do? - Well, there's always the option of not singing at all.
@@ -19,4 +19,4 @@
 「あ、俺が払ってくるよ。ちょっと待ってて」=Oh, I'll pay the bill. Just wait here.
 「わかりました。ありがとうございます」=All right. Thank you very much.
 CHOICE:『このまま最後までいようか』="Shall we stay until the end?
-CHOICE:『今日はもう帰ろうか』="Shall we go home for the day?
+CHOICE:『今日はもう帰ろうか』="About time to go home for today"

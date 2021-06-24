@@ -1,4 +1,4 @@
-「あの！　お願いしたいんですけど！」=I'm sorry.　I'd like to ask you a favor!
+﻿「あの！　お願いしたいんですけど！」=I'm sorry.　I'd like to ask you a favor!
 「どうしたの？　改まって……」=What's the matter?　Nice to meet you...
 「あなたの愛称を考えてきたんです！　なので、ちょっと呼んでみたくて……」=I've been thinking of a nickname for you!　So I just wanted to call you ...
 「え、本当？　すごい偶然……俺も最近[H]の愛称を考えてたんだ」=Oh, really?　What a coincidence... I've been thinking of a nickname for [H] lately, too.
@@ -6,7 +6,7 @@
 「はは……流石にそんな心配はしなくていいよ。まあ、もし伝わったとしても俺は気にしないから」=Haha ... You don't have to worry about that. I'm not going to worry about it if it gets through.
 「それより、せっかくお互い愛称を考えてきたんだから、呼び合ってみようよ」=But since we've come up with a nickname for each other, let's call each other that.
 「は、はい！　それじゃあ、言いますね」=Yes, yes!　Okay, I'll say it.
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「[Hあだ名]」=[Hあだ名]
 「あぁ、呼んじゃいました……私、呼んじゃいました！」=Oh, I called you that... I called you that!
 「なんだか面と向かうと、少し恥ずかしいね……」=It's kind of embarrassing when you're face to face...

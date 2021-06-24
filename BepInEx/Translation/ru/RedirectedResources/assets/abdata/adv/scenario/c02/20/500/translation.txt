@@ -1,4 +1,4 @@
-「ふぅ、戻ってきちゃったね。今日は楽しかったよ。ホント、ありがと！」=Well, I'm back. I had a great time today. Thank you so much!
+﻿「ふぅ、戻ってきちゃったね。今日は楽しかったよ。ホント、ありがと！」=Well, I'm back. I had a great time today. Thank you so much!
 「ええ、あなたのエスコート、悪くなかったですわ」=Yeah, your escort wasn't bad.
 「そう、それはよかった。それじゃ、また、遊ぼう！」=Well, that's good to know. Well, let's play again!
 「ふぅ、まったく……もう少し余韻を楽しむ余裕がありませんの？　そんなことだから、いつまで経っても立派な紳士になりませんのよ」=Hmm, can't you ... afford to enjoy the aftermath a little more?　That's why you'll never be a respectable gentleman.
@@ -23,6 +23,6 @@
 「いいの？　じゃ、もう一度──」=Are you sure?　Okay, one more time...
 「はぁ……そうやってすぐ調子に乗るの、悪いクセですわ！　ではごきげんよう」=Haha... It's a bad habit to get carried away like that!　Have a nice day.
 「あ、うん、ばいばーい！」=Oh, yeah, bye!
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

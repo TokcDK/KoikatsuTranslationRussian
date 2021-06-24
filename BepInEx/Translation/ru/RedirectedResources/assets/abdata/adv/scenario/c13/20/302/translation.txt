@@ -1,4 +1,4 @@
-「あ～マジきもちいいー！　全力で歌えるってイイよね～」=It feels really good!　It's good to be able to sing with all your might!
+﻿「あ～マジきもちいいー！　全力で歌えるってイイよね～」=It feels really good!　It's good to be able to sing with all your might!
 「聞いてるこっちもノリノリになれるよ！　流石だよね」=It's so good to be able to sing with all your might!　You're the best, aren't you?
 「えへへっ、ありがと！　次はどうしようかなぁ～」=Thanks!　What should I do next?
 「……ねぇ、折角二人きりなんだし、ゆっくり何か話したいな」=... Hey, since it's just the two of us, I'd like to talk slowly about something.
@@ -17,5 +17,5 @@
 「アタシの十八番の恋愛ソングじゃん！」=That's my favorite love song!
 「おお、これは期待しちゃうな」=Oh, I'm so excited.
 「それでは……この曲、[P名]くんを思って歌います」=So... I'm going to sing this song for [P name].
-「えっ……？」=What ...?
+「えっ……？」=「Е……?」
 「ふふっ……ちゃんとワタシの想い受け取ってね♪」=Please accept my feelings with ...

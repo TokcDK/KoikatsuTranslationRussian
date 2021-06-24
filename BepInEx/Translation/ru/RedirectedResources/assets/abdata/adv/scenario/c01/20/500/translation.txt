@@ -1,4 +1,4 @@
-「もう、ここまで来てしまいましたね。お別れ……でしょうか？」=(I'm glad that you're so happy just to talk to me at the coffee shop. Is it ... time to say goodbye?
+﻿「もう、ここまで来てしまいましたね。お別れ……でしょうか？」=(I'm glad that you're so happy just to talk to me at the coffee shop. Is it ... time to say goodbye?
 「……うん。仕方ないよ、[H名]の門限があるから」=... Yes. It can't be helped. [H名] has a curfew.
 「そうですね……」=That's right...
 （う……そんな寂しそうな顔をされると、帰したくなくなっちゃうな……でも、どうしよう……）=(...When you look so sad, I don't want to leave you...But what should I do?
@@ -15,12 +15,12 @@
 「もっと一緒にいたいけど、家族に心配かけさせるわけにはいかないもんね……」=I'd love to spend more time with you, but I can't have my family worrying about me...
 「……そんなに悲しい顔をなさらないでください。帰りたくなくなってしまいます」=... Please don't look so sad. It makes me not want to go home.
 「あ、ごめん……最後に、キスしていい？」=Oh, I'm sorry... Can I have one last kiss?
-「はい……」=Yes...
+「はい……」=「Да……」
 「……ん……」=...n...
 「んん……ん……」=Mmm... Mmm...
 「はぁ……また学園で会いましょうね」=Huh... I'll see you at school.
 「うん。また学園でね」=Yeah. See you at school.
 （控え目な性格してるのに、キスには熱く応じてくれるんだよな……[H名]とまたデートに行きたいな）=I'd like to go on another date with ...[H名].
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

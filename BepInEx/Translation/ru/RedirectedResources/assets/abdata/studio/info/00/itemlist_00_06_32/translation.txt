@@ -1,4 +1,4 @@
-マフラー=Muffler
+﻿マフラー=Кашне
 小悪魔チョーカー=Devil Choker
 蝶ネクタイ=Bow Tie
 首枷=Metal Collar
@@ -8,7 +8,7 @@
 リボンペンダント=Ribbon Pendant
 ロングネクタイ=Long Necktie
 リボンチョーカー=Ribbon Choker
-星のペンダント=Star Pendant
+星のペンダント=Звездный кулон
 土星のペンダント=Saturn Pendant
 聴診器=Stethoscope
 ホイッスル=Whistle

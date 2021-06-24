@@ -1,4 +1,4 @@
-「ふぅ、ここまで戻ってきちゃったね。デートも終わりか……」=Hmm, we're back here. Your date's over...
+﻿「ふぅ、ここまで戻ってきちゃったね。デートも終わりか……」=Hmm, we're back here. Your date's over...
 「あ、あの、今日のデート、とっても楽しかったです！　あ、ありがとうございます」=Oh, I really enjoyed our date today!　Oh, thank you.
 「俺もすっごく楽しかったよ。もうほんと……終わるのが寂しいくらいに」=I had a great time too. I had a lot of fun, and I'm really sad that ... is over.
 「ふふっ、分かります、その気持ち。私もまだ……」=I had a great time too. I still feel the same way about ...
@@ -17,6 +17,6 @@
 「名残惜しいけど、帰ろうか。今日はありがとう。すごく楽しかったよ」=I'm sorry to leave, but let's go home. Thank you for today. I had a great time.
 「私もです！　……あの、また、学園でお話ししましょうね！　それでは！」=Me too!　... I'll talk to you again at school!　See you there!
 「うん、また学園で！　おやすみ」=Yeah, see you at school!　Good night.
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

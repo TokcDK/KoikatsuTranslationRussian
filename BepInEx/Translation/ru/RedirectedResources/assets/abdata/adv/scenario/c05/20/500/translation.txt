@@ -1,4 +1,4 @@
-「もう、ここまで戻って来ちゃったか……」=I can't believe I came all the way back here...
+﻿「もう、ここまで戻って来ちゃったか……」=I can't believe I came all the way back here...
 「えっと、今日はすごく楽しかったよ。[H名]と一緒にいると、時間を忘れちゃうな」=Well, I had a great time today. You know, I had a great time today. I lose track of time when I'm with [name].
 「そうだよね。あなたといるとすっごく楽しくて、あっという間に一日が終わっていく……」=That's right. I'm having so much fun with you, the day is going by so fast...
 「もう少し、ふたりで過ごせる時間が多かったらいいんだけどね」=I wish we could spend more time together.
@@ -10,7 +10,7 @@
 「ほしいって……キス、とか……？」=What do you mean, you want a ... kiss or a ...?
 「ううん……もっと、すごいこと」=No, I want ... something much, much more.
 「それって……そっか……シたいんだね」=That's ... right, you want to ... do that.
-「ダメ、かな？」=No?
+「ダメ、かな？」="Do you not want to?"
 「ううん。わたしも[P名]くんと……交信したい」=No. I want to ... communicate with [P name].
 「ありがとう。それじゃあ……一緒に行こうか」=Thank you. I'll go to ... with you then.
 「[H名]……」=[H名]...
@@ -18,6 +18,6 @@
 「ああ、ごめん。でも、ここでお別れだと思ったら、最後に抱きしめたくなっちゃってさ」=Oh, I'm sorry. I'm sorry, but I just wanted to hug you one last time before we say goodbye.
 「うん……わかるよ。あなたの思いが流れ込んでくるもの……さびしいんだよね……」=Yeah, I know ... I know... I know. Your thoughts are flowing in... I'm lonely...
 「でも、安心して。またすぐに会えるから……」=But don't worry. I'll see you soon...
-CHOICE:『自宅に誘う』=Invite her to your home
-CHOICE:『ラブホに誘う』=Invite her to a love hotel
-CHOICE:『さよならする』=Say goodbye
+CHOICE:『自宅に誘う』="Invite her to your home"
+CHOICE:『ラブホに誘う』="Invite to love hotel"
+CHOICE:『さよならする』="Say goodbye"

@@ -1,7 +1,7 @@
-「やっぱり、この観覧車からの眺めはいつ見ても綺麗だなー」=The view from this Ferris wheel is always beautiful.
+﻿「やっぱり、この観覧車からの眺めはいつ見ても綺麗だなー」=The view from this Ferris wheel is always beautiful.
 「キミももっと近くで見たらどうだー？」=Why don't you get a closer look?
 「うん、それじゃあ遠慮なく」=Yeah, feel free to do that.
-「じー……」=...
+「じー……」=「Хм……」
 「……って、違う違う！　あたしじゃなくって、外の夜景を見るんだぞ！」=... No, no, no!　You're not looking at me, you're looking at the night view outside.
 「でも、俺はこうやって[H名]と二人きりで、近くにいられることの方が嬉しいから」=But I'm more than happy to be alone with [H名] like this, close by.
 「キミはまたそうやって……」=You're doing that again with ...

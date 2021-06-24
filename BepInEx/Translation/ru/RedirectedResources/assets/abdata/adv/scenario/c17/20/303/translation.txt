@@ -1,4 +1,4 @@
-「あら、そろそろ終了の時間ね」=Oh, it's almost time to finish.
+﻿「あら、そろそろ終了の時間ね」=Oh, it's almost time to finish.
 「え？　うわ、本当だ」=What?　Oh, my God.
 「延長して、もう少し歌わない？　もっと[H名]さんの歌が聴きたいな」=Can we extend it and sing some more?　I'd like to hear [H名] sing more.
 「……仕方ないわね。さぁ！　そうと決まれば、早速次の曲を入れるわよ」=... I don't blame you. Come on!　Now that that's settled, let's get on with the next song.
@@ -13,5 +13,5 @@
 「別にいらないわ。よし、この曲を入れて……っと」=No, thank you. All right, let's put this song on ...
 『小さな手の平 掴める物は きっと限られているけど～♪』=There's only so much I can hold in my little palm...
 （うーん……思わず合いの手をいれたくなるくらい、ノリノリだな）=(... is so infectious that I can't help but want to sing along.
-CHOICE:『延長して、もうちょっと歌おうよ』="Let's extend it and sing some more.
-CHOICE:『そろそろ出ようか』="Let's get out of here.
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『そろそろ出ようか』=『Идем домой』

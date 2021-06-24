@@ -1,9 +1,9 @@
-「あー、その……私達って、付き合ってるじゃない？」=Oh, I mean... we're dating, aren't we?
+﻿「あー、その……私達って、付き合ってるじゃない？」=Oh, I mean... we're dating, aren't we?
 「そうだけど、急にどうしたの？」=Yeah, but what's going on?
 「えっとね……なんていうか、ならそれ相応の呼び方というか……愛称で呼び合うって良いと思わない？」=Let's see... I mean, don't you think it would be nice if we called each other by our appropriate ... nicknames?
 「あー、そういう事ね。うん、全然オッケーだよ！」=Oh, I see. Yeah, that's totally fine!
 「はぁ、良かった……。じゃあ、早速だけど……呼んでみるわね」=Oh, good... Okay, I'm going to start calling you ...
-「……[Pあだ名]」=...[Pあだ名]
+「……[Pあだ名]」="……[Pあだ名]."
 「っ！　こ、これは……凄いね。照れるっていうか……あ、俺も愛称で呼んでいい、んだよね？」=Ah!　This is ... amazing. I'm so embarrassed... Oh, I can call you by your nickname too, can't I?
 「え、えぇ、もちろんよ。好きなように呼んでみて」=Yes, yes, of course. You can call me whatever you want.
 「わかった。じゃあいくよ……[Hあだ名]」=All right. Okay, here we go...[Hあだ名]

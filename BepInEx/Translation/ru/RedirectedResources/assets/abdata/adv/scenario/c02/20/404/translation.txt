@@ -1,4 +1,4 @@
-「お～、これは美味そうだっ。へへへ……早速いただこうかなっ」=Oh, this looks delicious. Heh heh ... I'll have a taste right away.
+﻿「お～、これは美味そうだっ。へへへ……早速いただこうかなっ」=Oh, this looks delicious. Heh heh ... I'll have a taste right away.
 「もう、せっかちですわね。こういうものは、まず見た目で楽しむべきものですわ」=Oh, you're so impatient. You're too impatient. You should enjoy these things for their appearance first.
 「もう十分楽しんだよ。いただきまーす……もぐっ、むぐ……ふぅ、ンま～い♪」=I've already had my fill. Let's eat... Munch, munch... Mmmm, mmmm.
 「仕方のないお人ですわね。ではわたくしもいただきますわ……んー、はむ……もぐもぐ……あら、美味しいですわ」=I've had enough. Then I'll have some too... Mmmm, mmmm ... mmmm ... Oh, it's delicious.
@@ -10,7 +10,7 @@
 「ふふ、では、こちら、一口お食べになります？　家政婦のパンケーキに匹敵する逸品ですわよ」=I envy your good housekeeper.　It's as good as the housekeeper's pancakes.
 「そ、そんなに？　ゴクリ……うん、じゃ、一口もらおっかな」=Oh, really?　... Well, I'll take a bite.
 「ええ、召し上がれ。はい、お口を開けて……あ～～ん……」=Yes, please. Yes, open your mouth... Ahhhhhhh ...
-「あーん……」=Mmm...
+「あーん……」=Ahh...
 「もぐ、もぐもぐ……ん～、フッカフカの生地とクリームが最高！」=Munch, munch ... the fluffy dough and cream is amazing!
 「おーっほっほっほ……でしょう？　素晴らしい味ですわ」=Oh-ho-ho ... isn't it?　It tastes amazing.
 「もう一口！」=One more bite!

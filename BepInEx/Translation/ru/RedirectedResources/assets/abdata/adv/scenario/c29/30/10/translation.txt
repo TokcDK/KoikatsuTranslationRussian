@@ -1,7 +1,7 @@
-「ふぅ。そこまで熱心に誘われたら、首を横には振れません」=Hmm. It's hard to shake your head when someone asks you out so enthusiastically.
-「じゃあ、入ってくれるってこと？」=So you're saying you're in?
-「そういうことです。どうやら、怪しい部活ではないようですし」=That's what I mean. It doesn't seem to be a suspicious club activity.
-「あはは……やっぱり警戒されてたんだね」=Haha... So they were wary of me after all.
-「当たり前です。でも、それは以前までの話ですから」=Of course. But that was before.
-「その……よろしくお願いします」=I'm looking forward to meeting you at ...
-「うん。よろしく」=Yes. Nice to meet you.
+﻿「ふぅ。そこまで熱心に誘われたら、首を横には振れません」=「Уф. Когда так охотно приглашают, сложно отказаться」
+「じゃあ、入ってくれるってこと？」=「Так ты вступишь?」
+「そういうことです。どうやら、怪しい部活ではないようですし」=「Да. Судя по всему, твой клуб не такой уж и подозрительный」
+「あはは……やっぱり警戒されてたんだね」=「Е-хе-хе…… Ты всегда начеку」
+「当たり前です。でも、それは以前までの話ですから」=「Естественно. Но, уже все по другому」
+「その……よろしくお願いします」=「И…… Спасибо」
+「うん。よろしく」=「Да. И тебе」

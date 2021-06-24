@@ -1,9 +1,9 @@
-「[H名]って、けっこう上手だよね」="You did great out there, [H名]."
+﻿「[H名]って、けっこう上手だよね」="You did great out there, [H名]."
 「……でも、９０点どまり」="...But we only scored 90 points."
 「アベレージ９０点ならすごいことだよ。自信をもって」="But 90 points was the average. You should feel proud of yourself!"
 「……ありがとう。　今度は、あなたが歌って」="...Thank you. Why don't you go on stage?"
 「そうだな……せっかくだし、まだ歌ったことない曲にしてみようかな」="But I... I haven't really sang for people before."
-………………=......
+………………=.........
 「……ふー。ところどころあやふやだったけど、勢いでごまかせたかな」="...Hmph. You sounded a bit off, and you tried to use the backing song to cover it up."
 「そんなこと、ない。良かった。……得点が、出る」="That's not true. ...Oh, the scores are ready."
 「うーん、微妙だな。やっぱり初めて挑戦する歌はこんなもんだよな」="Well, it was the first song I tried.

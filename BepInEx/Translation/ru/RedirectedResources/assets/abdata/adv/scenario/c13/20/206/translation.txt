@@ -1,4 +1,4 @@
-「[P名]くん、今日もマジ楽しかったね！　でも、さすがに疲れたかな～」=It was really fun today, [P name]!　But I think I'm really tired.
+﻿「[P名]くん、今日もマジ楽しかったね！　でも、さすがに疲れたかな～」=It was really fun today, [P name]!　But I think I'm really tired.
 「ははは、確かに足がくたくただ」=Haha, my legs are tired for sure.
 「もっと一緒に……っふわぁ」=More with you at ...
 「ねぇ～、少しここで眠っちゃってもいい～？」=Hey, can I sleep here for a while?
@@ -24,5 +24,5 @@
 「うん、いつでも見せてあげる」=Yeah, I'll show you.
 「あはっ、ありがと！」=Haha, thanks!
 「……ねぇ、[P名]くん」=... Hey, [P-name].
-「ん？　なに？」=Hmm?　What?
+「ん？　なに？」=「М? Что?」
 「ふふっ♪　呼んでみただーけー♪」=I'm just calling you.

@@ -1,4 +1,4 @@
-（気のせいか、今日の[H名]はいつもよりテンションが高い気がするな）=I don't know if it's my imagination, but [H名] seems to be more excited than usual today.
+﻿（気のせいか、今日の[H名]はいつもよりテンションが高い気がするな）=I don't know if it's my imagination, but [H名] seems to be more excited than usual today.
 「[H名]ってカラオケ好きなの？」=Does [name] like karaoke?
 「うむ！　歌うことは好きだ。なにせ、ほら、魔術には詠唱が欠かせぬからな」=Mm!　I like to sing. I like to sing, because, you know, chanting is essential to magic.
 「ははは、そっか」=Ha-ha, I see.
@@ -6,7 +6,7 @@
 「なら、俺が色々教えてあげるから、今日は思いっきり歌おうよ！」=Well, I'll teach you everything you need to know, and we'll sing our hearts out today!
 「うむ！　楽しみである！」=Yes!　I'm looking forward to it!
 「……さっそくで悪いが、使い方を教えてくれないか？」=... can you show me how to use it, please?
-「任せて」=I got it.
+「任せて」=“Of course.”
 「えっとね……こうやって、好きな曲を入れるんだよ」=Let's see... and then you put in your favorite song.
 「おお！　汝、礼をいうぞ！　これで、操作は完璧に覚えた！」=Oh!　Thank you, my friend!　Now I know exactly how to do it!
 「あとは、我が歌うだけだな！」=Now all I have to do is sing!

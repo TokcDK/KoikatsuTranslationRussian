@@ -1,4 +1,4 @@
-「だいぶ混んできたね……」=It's getting pretty crowded in here...
+﻿「だいぶ混んできたね……」=It's getting pretty crowded in here...
 「こっちに少し余裕があるから、詰めていいわよ」=There's a little room over here, so you can squeeze in.
 「ありがと……うわっ！　とと……ご、ごめん、押されちゃって」=Thank you ...!　And ... I'm sorry, I got pushed.
 （うっ……[H名]さんがこんな近くに……こ、このままだと股間がマズいことに……）=(Ugh...[H名] is this close ... to me, my crotch is going to be in trouble ... if I keep going like this.)
@@ -13,5 +13,5 @@
 （こんな所で勃起なんて、絶対するわけにはいかないっ！）=You can't get a boner in this place!
 （無心……今の俺はなにも感じない。[H名]のぬくもりや、やわらかさ、ほのかに香る甘い匂いなんて……一切合切感じないぞ）=I'm not sure what to do, but I'm going to do it. I can't feel anything at all, not even the warmth, softness, or sweet smell of [H名]'s ... scent.
 （少しの間堪えれば……俺の自制心、壊れてくれるなよ……）=(If you can hold out for a little while... don't break my self-control...)
-CHOICE:『欲望に少し抵抗する』="A little resistance to desire
+CHOICE:『欲望に少し抵抗する』="Resist your desires a little."
 CHOICE:『鉄の自制心を持って欲望に抵抗する』="Resist your desires with iron restraint.

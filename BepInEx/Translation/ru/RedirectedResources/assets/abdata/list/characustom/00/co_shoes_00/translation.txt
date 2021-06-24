@@ -1,6 +1,6 @@
-なし=Нет
-ローファー=Loafers
-上履き=Uwabaki
+﻿なし=Нет
+ローファー=Мокасины
+上履き=Тапочки
 運動靴=Sneakers
 ランニングシューズ=Running Shoes
 チアブーツ=Cheerleader Boots

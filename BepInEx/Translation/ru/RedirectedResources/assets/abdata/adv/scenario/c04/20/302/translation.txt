@@ -1,4 +1,4 @@
-………………=...
+﻿………………=.........
 「ふう……思い切り歌うと気持ちがいいわ」=It feels good to sing ... with all my heart.
 「相変わらず歌が上手いね」=You're still a good singer.
 「ふふ、ありがと。自分の歌う曲はもう入力した？」=Mmm, thanks. Have you typed out your song yet?
@@ -14,6 +14,6 @@
 「あとは……ん？　あら？　もしかして、私のせいで選曲に集中出来ないのかしら？　顔が真っ赤よ」=The rest is ... hmm?　Oh?　Is it possible that I'm making it hard for you to concentrate on your song choice?　Your face is red.
 「じ、実は……」=Actually, it's ...
 「あ、これがいいんじゃない？」=Oh, that's a good one, isn't it?
-「へ？」=What?
+「へ？」=「Чего?」
 「この曲ならデュエット出来るから、ほら、二人で歌いましょう」=It's a duet. Come on, let's sing it together.
 「あ、うん……そうだね」=Oh, yeah... Yeah, sure.

@@ -1,4 +1,4 @@
-「はい、次は[H名]の番……ってどうしたの、そんなにメニューを眺めて？」=Okay, now it's [H名]'s turn... What's wrong with you, looking at the menu so much?
+﻿「はい、次は[H名]の番……ってどうしたの、そんなにメニューを眺めて？」=Okay, now it's [H名]'s turn... What's wrong with you, looking at the menu so much?
 「これ見てみろよ。アニメのコラボメニューだってさ」=Look at this. "Look at this. It's an anime collaboration menu.
 「へえ、期間限定のスイーツが食べられるのか……これ、知ってるアニメなの？」=Oh, so they have limited time sweets... Is this an anime you know?
 「いや、全然知らないやつ」=No, I don't know anything about it.
@@ -9,7 +9,7 @@
 「あ、いや、別にいいって……」=Oh, no, that's okay...
 「俺がお金出すからさ。一緒に食べてみようよ」=I'll pay for it. I'll pay for it. Let's try it together.
 「むむ……分かった、乗ってやるよ。まったく、こういう時だけ押しが強いんだな」=I'll pay for it. Let's try it together." "Mm ... okay, I'm in. You're so pushy when it comes to things like this.
-………………=...
+………………=.........
 「おっ、もう持ってきた。じゃあ早速、いただきまーす」=Oh, I've already brought it. Okay, let's eat.
 「う……うめぇ……この甘さ、癖になりそうだ……！」=It's ... delicious... This sweetness is going to be addictive...!
 「[H名]、とってもとろけた顔になってる……」=[H名], you're making a very melted face...
